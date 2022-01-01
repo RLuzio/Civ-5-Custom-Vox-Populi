@@ -1,0 +1,57 @@
+INSERT INTO Audio_Sounds
+	(SoundID, Filename, LoadType)
+VALUES
+	('SND_WONDER_SKARABRAE', 'SkaraBrae', 'DynamicResident'),
+	('SND_WONDER_NEWGRANGE', 'Newgrange', 'DynamicResident'),
+	('SND_WONDER_GGANTIJA', 'Ggantija', 'DynamicResident'),
+	('SND_WONDER_BARNENEZ', 'Barnenez', 'DynamicResident');
+
+INSERT INTO Audio_2DSounds
+	(ScriptID, SoundID, SoundType, MinVolume, MaxVolume, IsMusic, TaperSoundtrackVolume)
+VALUES
+	('AS2D_WONDER_SKARABRAE', 'SND_WONDER_SKARABRAE', 'GAME_MUSIC_STINGS', 120, 120, 'true', 0.0),
+	('AS2D_WONDER_NEWGRANGE', 'SND_WONDER_NEWGRANGE', 'GAME_MUSIC_STINGS', 120, 120, 'true', 0.0),
+	('AS2D_WONDER_GGANTIJA', 'SND_WONDER_GGANTIJA', 'GAME_MUSIC_STINGS', 120, 120, 'true', 0.0),
+	('AS2D_WONDER_BARNENEZ', 'SND_WONDER_BARNENEZ', 'GAME_MUSIC_STINGS', 120, 120, 'true', 0.0);
+
+UPDATE Buildings
+SET Cost = 100, EnhancedYieldTech = 'TECH_ARCHAEOLOGY', TechEnhancedTourism = 2, WonderSplashAudio = 'AS2D_WONDER_BARNENEZ', HurryCostModifier = -5
+WHERE Type = 'BUILDING_BARNENEZ' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Buildings
+SET Cost = 100, EnhancedYieldTech = 'TECH_ARCHAEOLOGY', TechEnhancedTourism = 2, WonderSplashAudio = 'AS2D_WONDER_GGANTIJA', HurryCostModifier = -5
+WHERE Type = 'BUILDING_GGANTIJA' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Buildings
+SET Cost = 100, EnhancedYieldTech = 'TECH_ARCHAEOLOGY', TechEnhancedTourism = 2, WonderSplashAudio = 'AS2D_WONDER_NEWGRANGE', HurryCostModifier = -5
+WHERE Type = 'BUILDING_NEWGRANGE' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Buildings
+SET Cost = 100, EnhancedYieldTech = 'TECH_ARCHAEOLOGY', TechEnhancedTourism = 2, WonderSplashAudio = 'AS2D_WONDER_SKARABRAE', HurryCostModifier = -5
+WHERE Type = 'BUILDING_SKARABRAE' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Building_Flavors
+SET FlavorType = 'FLAVOR_RELIGION'
+WHERE BuildingType = 'BUILDING_GGANTIJA' AND Flavor = '10' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Building_ResourceYieldChanges
+SET Yield = 0
+WHERE BuildingType = 'BUILDING_BARNENEZ' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+INSERT INTO Building_YieldChangesPerPop (BuildingType, YieldType, Yield)
+SELECT 'BUILDING_BARNENEZ', 'YIELD_PRODUCTION', 20 WHERE EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1) UNION ALL
+SELECT 'BUILDING_NEWGRANGE', 'YIELD_FAITH', 20 WHERE EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1) UNION ALL
+SELECT 'BUILDING_SKARABRAE', 'YIELD_FOOD', 20 WHERE EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Language_en_US
+SET Text = 'Provides +2 [ICON_PRODUCTION] Production and +1 [ICON_CULTURE] Culture in the city in which it is built. +1 [ICON_PRODUCTION] Production for every 5 [ICON_CITIZEN] Population.'
+WHERE Tag = 'TXT_KEY_WONDER_BARNENEZ_HELP' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Language_en_US
+SET Text = 'Provides +3 [ICON_PEACE] Faith. +1 [ICON_PEACE] Faith for every 5 [ICON_CITIZEN] Population.'
+WHERE Tag = 'TXT_KEY_WONDER_NEWGRANGE_HELP' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+
+UPDATE Language_en_US
+SET Text = 'Provides +2 [ICON_FOOD] Food in the city in which it is built. Each source of [ICON_RES_COW] Cattle and [ICON_RES_SHEEP] Sheep worked by this city produce +1 [ICON_FOOD] Food. +1 [ICON_FOOD] for every 5 [ICON_CITIZEN] Population.'
+WHERE Tag = 'TXT_KEY_WONDER_SKARABRAE_HELP' AND EXISTS (SELECT * FROM COMMUNITY WHERE Type='CBPMC_NEOLITHIC' AND Value= 1);
+

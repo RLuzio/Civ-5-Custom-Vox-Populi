@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Religions>
+		<!--Update each religion, redirecting its art assets to the mod's icon atlases.-->
+		<!--Also, using my gamer tag in the atlas names eliminates the possibility that somebody makes a mod with identically named atlases.-->
+		<Update>
+			<Where Type="RELIGION_PANTHEON"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_PANTHEON]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_BUDDHISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_BUDDHISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_CHRISTIANITY"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_CHRISTIANITY]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_CONFUCIANISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_CONFUCIANISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_HINDUISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_HINDUISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_ISLAM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_ISLAM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_JUDAISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_JUDAISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_SHINTO"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_SHINTO]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_SIKHISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_SIKHISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_TAOISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_TAOISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_TENGRIISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_TENGRIISM]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_ZOROASTRIANISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_ZOROASTRIANISM]"/>
+		</Update>
+		<!--Update the two scenario religions to use modded icon atlases.-->
+		<Update>
+			<Where Type="RELIGION_ORTHODOXY"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_ORTHODOXY]"/>
+		</Update>
+		<Update>
+			<Where Type="RELIGION_PROTESTANTISM"/>
+			<Set IconAtlas="CALYPSO_RELIGIONS_ATLAS_MOD_BASIC" IconString="[ICON_CALYPSO_RELIGION_PROTESTANTISM]"/>
+		</Update>
+	</Religions>
+</GameData>

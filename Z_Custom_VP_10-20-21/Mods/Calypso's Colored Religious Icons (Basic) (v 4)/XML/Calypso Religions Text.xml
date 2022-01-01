@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/21/2013 5:06:08 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- The following text change is not functionally necessary, but is my personal preference. -->
+		<!-- Since the naming convention for Civ V religions is 1-word naming, we change the names of "Roman Catholisism" and "Eastern Orthodoxy" to suit. -->
+		<!-- Not really sure why, but in scenario only Orthodoxy is updated. In a standard game both are correctly updated. -->
+		<Update>
+			<Where Tag="TXT_KEY_MEDIEVAL_SCENARIO_RELIGION_CHRISTIANITY"/>
+			<Set Text="Catholicism"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_RELIGION_ORTHODOXY"/>
+			<Set Text="Orthodoxy"/>
+		</Update>
+	</Language_en_US>
+</GameData>

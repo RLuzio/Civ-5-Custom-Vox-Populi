@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Religions>
+		<!--Add each religion, directing its art assets to the mod's icon atlases.-->
+		<!--Also, using my gamer tag in the atlas names eliminates the possibility that somebody makes a mod with identically named atlases.-->
+		<Row>
+			<Type>RELIGION_CALYPSO_MESOPOTAMIANPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_AKKADIANISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_AKKADIANISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_MESOPOTAMIANPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_DRUIDISM</Type>
+			<Description>TXT_KEY_RELIGION_DRUIDISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_DRUIDISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_DRUIDISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_NORSEPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_GERMANICISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_GERMANICISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>8</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_NORSEPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_GRECOROMANPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_HELLENISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_HELLENISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_GRECOROMANPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_INCANPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_INTIISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_INTIISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>7</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_INCANPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_IROQUOISANIMISM</Type>
+			<Description>TXT_KEY_RELIGION_KANOHHONIO</Description>
+			<Civilopedia>TXT_KEY_RELIGION_KANOHHONIO_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_IROQUOISANIMISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_POLYNESIANPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_KINIAKUA</Description>
+			<Civilopedia>TXT_KEY_RELIGION_KINIAKUA_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_POLYNESIANPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_EGYPTIANPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_MEMPHITISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_MEMPHITISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_EGYPTIANPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_PUNICPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_PUNICISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_PUNICISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_PUNICPOLYTHEISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_MESOAMERICANPOLYTHEISM</Type>
+			<Description>TXT_KEY_RELIGION_TEOTLISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_TEOTLISM_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_EXTENDED</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_MESOAMERICANPOLYTHEISM]</IconString>
+		</Row>
+	</Religions>
+	<Civilization_Religions>
+		<Delete CivilizationType="CIVILIZATION_AZTEC"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_AZTEC</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_MESOAMERICANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_EGYPT"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_EGYPT</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_EGYPTIANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_GREECE"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_GREECE</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_GRECOROMANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_IROQUOIS"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_IROQUOIS</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_IROQUOISANIMISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_ROME"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_ROME</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_GRECOROMANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_CARTHAGE"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_CARTHAGE</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_PUNICPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_CELTS"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_CELTS</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_DRUIDISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_MAYA"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_MAYA</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_MESOAMERICANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_INCA"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_INCA</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_INCANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_BABYLON"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_BABYLON</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_MESOPOTAMIANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_POLYNESIA"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_POLYNESIA</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_POLYNESIANPOLYTHEISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_DENMARK"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENMARK</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_NORSEPOLYTHEISM</ReligionType>
+		</Row>
+		<!--AI Civilization Preferences for Brave New World.-->
+		<Delete CivilizationType="CIVILIZATION_ASSYRIA"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_ASSYRIA</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_MESOPOTAMIANPOLYTHEISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+</GameData>
