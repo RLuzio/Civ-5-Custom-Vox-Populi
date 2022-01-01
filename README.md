@@ -7,3 +7,5 @@ This modpack contains:
 - Enhanced Naval Warfare
 - Info Addict
 - Civic and Reform
+- 3rd & 4th Unique Components
+- Calypso's Religion Icons & Colors
