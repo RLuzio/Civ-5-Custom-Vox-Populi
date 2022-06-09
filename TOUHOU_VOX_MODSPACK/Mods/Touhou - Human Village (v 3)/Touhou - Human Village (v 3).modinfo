@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9b704334-ae8e-44cd-b97a-c5cc72ac1dac" version="3">
+  <Properties>
+    <Name>Touhou - Human Village</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Ningen no Sato (Human Village) as depicted in the Touhou games as a civilization</Teaser>
+    <Description>Adds the Ningen no Sato (Human Village) as depicted in the Touhou games as a civilization</Description>
+    <Authors>BouncyMischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="86BC6E5180518E5BF9ED49A497C9FDDA" import="1">Art/HumanVillageAlphaAtlas16.dds</File>
+    <File md5="055C246D92A0C29C509A177168D30CE5" import="1">Art/HumanVillageAlphaAtlas24.dds</File>
+    <File md5="48106FDD2CD0644B7184E890BD5BFAB5" import="1">Art/HumanVillageAlphaAtlas32.dds</File>
+    <File md5="34D184C5B68E921A04C3A104BB4654C0" import="1">Art/HumanVillageAlphaAtlas48.dds</File>
+    <File md5="1CF0411CB0636BE4EE9F01E21F68C729" import="1">Art/HumanVillageAlphaAtlas64.dds</File>
+    <File md5="37AE6BF18651BE4009B53FFD21E91D1C" import="1">Art/HumanVillageIconAtlas128.dds</File>
+    <File md5="02B971171367A6C77EC68A13A6986C10" import="1">Art/HumanVillageIconAtlas256.dds</File>
+    <File md5="0EB94AE9C6C6F730A02698338F4A249F" import="1">Art/HumanVillageIconAtlas32.dds</File>
+    <File md5="F3EB24648138E82CCDC59B06FC50CDA0" import="1">Art/HumanVillageIconAtlas45.dds</File>
+    <File md5="ADCCBE6AF0C5AA6DDA3DDA59A0D10BCA" import="1">Art/HumanVillageIconAtlas64.dds</File>
+    <File md5="70F03CA8B501EEF14A922B4394E8801C" import="1">Art/HumanVillageIconAtlas80.dds</File>
+    <File md5="45E859841E2F9B011AC5D8F171A6492F" import="1">Art/HumanVillageImageCredits.rtf</File>
+    <File md5="D93EF8B88B9E8B96A3B3AA08FE0C0093" import="1">Art/HumanVillageMap.dds</File>
+    <File md5="52E4E012F520EDBDED87A7279D9BB357" import="1">Art/HVUnitIcons.dds</File>
+    <File md5="A6F0965C4F88F70943608F64763249FC" import="1">Art/KeineDiplo.dds</File>
+    <File md5="FB30A1C65FFF4D23A5266F9DBBC4DCFD" import="1">Art/KeineDOM.dds</File>
+    <File md5="442D967D3A7DD1F74C4B284CB1DE7DAC" import="1">Art/KeinePeace.mp3</File>
+    <File md5="C1681B2C485BE1A8BC50910DB31DDDAF" import="1">Art/KeineWar.mp3</File>
+    <File md5="6990EB34AE0DED8A70043A96DAFBA3AD" import="1">Art/UnitArt/Archer_Japan.blend</File>
+    <File md5="788F82CFA52C4896F0F86442362A8F8C" import="1">Art/UnitArt/Archer_Japan.dds</File>
+    <File md5="1E926B962BBC60681C97CFA81F5450AF" import="1">Art/UnitArt/Archer_Japan.fxsxml</File>
+    <File md5="97C8240AD3E92BB2B60756D641C8CC15" import="1">Art/UnitArt/Archer_Japan.gr2</File>
+    <File md5="1AD74171A40F272188D3395DA7EC8300" import="1">Art/UnitArt/Archer_Japan_gloss.dds</File>
+    <File md5="2FB0ED5461208488BD1DB61AF2891530" import="1">Art/UnitArt/Composite_Bowman_China_v2.blend</File>
+    <File md5="8225DE8E3C5F19B3AA326AD6939C2135" import="1">Art/UnitArt/Composite_Bowman_China_v2.dds</File>
+    <File md5="EB71EE2A1A039076AA1AD330D48F4019" import="1">Art/UnitArt/Composite_Bowman_China_v2.fxsxml</File>
+    <File md5="FEC6EDDF94A7C6C7E0C85B79BEBF2312" import="1">Art/UnitArt/Composite_Bowman_China_v2.gr2</File>
+    <File md5="173E74084501374898D550F60929FCCE" import="1">Art/UnitArt/Composite_Bowman_China_v2_gloss.dds</File>
+    <File md5="E6109594E5A1A7295394884914D5F8CA" import="1">Lua/Decisions Support/HVDecisions.lua</File>
+    <File md5="D42DE62671FAE97097F5D4374BFD6DC8" import="1">Lua/Events Support/HVEvents.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="A38E524BEE8D7F99FD9E5E2DD4CB693E" import="0">Lua/HumanVillageUA.lua</File>
+    <File md5="320F9545E05364FC07DED553FEF1236B" import="0">XML/Decisions Support/HVDecisionsSupport.xml</File>
+    <File md5="57AB9FF133E7988E9C91FE5B96CCD6EF" import="0">XML/Decisions Support/HVDecisionsText.xml</File>
+    <File md5="8FE94C06319A70A8D3CCC0190A0DB17E" import="0">XML/Events Support/HVEventsSupport.xml</File>
+    <File md5="D2AD4605301DF0EF7D75903547CB86E5" import="0">XML/Events Support/HVEventsText.xml</File>
+    <File md5="D2792A1844C6A8D5C832F15E52887CF7" import="0">XML/HVBuildings.xml</File>
+    <File md5="75A0F47E6CFDD7B64871967BBCD3EB7B" import="0">XML/HVBuildingsBNW.xml</File>
+    <File md5="E212FBE51964B1EECA69A6DF777836BB" import="0">XML/HVCivilization.xml</File>
+    <File md5="5B77232AAB44158C9BACDCB562254895" import="0">XML/HVColors.xml</File>
+    <File md5="ED00F21E597EBF0E3ED1E999193D89E7" import="0">XML/HVDiplomacy.xml</File>
+    <File md5="9E22F3EE29200AEFFC7F7EBB6878121D" import="0">XML/HVLeader.xml</File>
+    <File md5="7F549FD51929988E021A5150C80A0673" import="0">XML/HVMusic.xml</File>
+    <File md5="B8739237009032F2990FC4E710749860" import="0">XML/HVPolicies.xml</File>
+    <File md5="B38B29CD0A7851322F8809FB6FB76F8C" import="0">XML/HVText.xml</File>
+    <File md5="6E9605688F7BC9BF54283A4A84E769EA" import="0">XML/HVTrait.xml</File>
+    <File md5="4638C5E191BC430AF4BFC6FB11958853" import="0">XML/HVUnits.xml</File>
+    <File md5="D5060BEE8DAF38EB44FA19EE7F18BFF6" import="1">XML/KeineScene.xml</File>
+    <File md5="ECB46451A74346168E5D4AA9870B77FD" import="0">XML/Piety and Prestige Support/HVPietyFlavour.sql</File>
+    <File md5="136A8E03983E1593A1E5953164988171" import="0">XML/Unique Cultural Influence Support/HVCulturalInfluenceText.xml</File>
+    <File md5="85FAA40354AE29D126FA1A9DB3401932" import="0">XML/YoukaiHunter.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/HVBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVBuildingsBNW.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/YoukaiHunter.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HVPolicies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Decisions Support/HVDecisionsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Decisions Support/HVDecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Events Support/HVEventsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Events Support/HVEventsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Piety and Prestige Support/HVPietyFlavour.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Unique Cultural Influence Support/HVCulturalInfluenceText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/HumanVillageUA.lua">
+      <Name>Human Village UA Lua Code</Name>
+      <Description>Human Village UA Lua Code</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

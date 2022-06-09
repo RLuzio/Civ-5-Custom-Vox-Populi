@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/2/2016 4:26:49 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_TENMA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_TENMA_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TENMA">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_TENMA_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TENMA">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_TENMA_DECLAREWAR%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

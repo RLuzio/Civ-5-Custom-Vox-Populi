@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3614e4c4-12e5-400d-a018-9420f98f26c9" version="1">
+  <Properties>
+    <Name>Touhou - Keiki's Primate Spirit Garden</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Keiki Haniyasushin is a god summoned by human spirits.</Teaser>
+    <Description>Keiki Haniyasushin is a god summoned by human spirits.
+
+UA: Where Industry Meets Arts
+Units fight as though they were at full strength even when damaged and Units' Maintenance 80 percent off.
+
+UB1: Art College
+Replace University. +33% Production and Culture
+
+UB2: Haniwa Factory
+Replace Factory. not consumes coal and +3 Production, Science and Culture from Stones, Marbles and Aluminum. also, provides Maintenance promotion.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="uci" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="c4 tr8" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E9BB5D714A8215240AF5E1FE17812FA2" import="1">ART/KEIKI_Magicdustbin.dds</File>
+    <File md5="2FD8D74933C04B9FC569D1A76CC5AA5F" import="1">ART/KEIKI_Mayumi.dds</File>
+    <File md5="9B0554720793C22F88D2C2401E7CF33E" import="1">ART/KEIKI_Prettydeath.dds</File>
+    <File md5="33AD506C817251AD2735C961C3FCAAF5" import="1">ART/KEIKI_Scene.xml</File>
+    <File md5="938AD9EDC611E9979443D17173CCCAB0" import="1">ART/KEIKI_Alpha128.dds</File>
+    <File md5="A7AF797B89B930B32AC0B495EC2C822D" import="1">ART/KEIKI_Alpha16.dds</File>
+    <File md5="1A43E046589CF7745CC932EB4A7E66AC" import="1">ART/KEIKI_Alpha24.dds</File>
+    <File md5="8B6CB1B25FAA5FB1102369C0AFD57047" import="1">ART/KEIKI_Alpha32.dds</File>
+    <File md5="DF673997985C56650BC0F85B296B1AA6" import="1">ART/KEIKI_Alpha48.dds</File>
+    <File md5="93CC7ADB703F7CDC9BF362E3B8B72C6E" import="1">ART/KEIKI_Alpha64.dds</File>
+    <File md5="FE3C6495184F9DA7BEA86EDDCDFCB8CE" import="1">ART/KEIKI_Atlas128.dds</File>
+    <File md5="6303ECD42A0AD2C33081256935EC1F29" import="1">ART/KEIKI_Atlas256.dds</File>
+    <File md5="05914D231DA0BB9562EC25295BD953F2" import="1">ART/KEIKI_Atlas32.dds</File>
+    <File md5="1591CF53462C91A831BCDA0EA2AE0DCE" import="1">ART/KEIKI_Atlas45.dds</File>
+    <File md5="17C0C3D342E86E2676A89793761B52E4" import="1">ART/KEIKI_Atlas64.dds</File>
+    <File md5="270EACB00FD1B0046D26DB9759B52234" import="1">ART/KEIKI_Atlas80.dds</File>
+    <File md5="556C708D73843CA8F5D07093CCA73626" import="1">ART/KEIKI_DOM.dds</File>
+    <File md5="870F5F4B688090D77D8701167E8429CC" import="1">ART/KEIKI_Map.dds</File>
+    <File md5="1AF35911DAFBD8D23CEC97013F6FD720" import="1">ART/KEIKI_Scene.dds</File>
+    <File md5="61271ADBC46D58122DF6F72FB550521F" import="1">MUSIC/KEIKI_DOM.mp3</File>
+    <File md5="F19845BADA76B638E429A745DB690C94" import="1">MUSIC/KEIKI_Peace7.mp3</File>
+    <File md5="B901F26905E7635B912802A6DBD8B55C" import="1">MUSIC/KEIKI_Peace8.mp3</File>
+    <File md5="6E2E4AF6797296520B44D1D6D63DCDF4" import="1">MUSIC/KEIKI_Peace.mp3</File>
+    <File md5="B5DA0E03E60F41C403C5D5256BC86BA9" import="1">MUSIC/KEIKI_Peace1.mp3</File>
+    <File md5="BC9ACFA1C4E6F844C868E34EBD193836" import="1">MUSIC/KEIKI_Peace2.mp3</File>
+    <File md5="8F6901C63A6ED2D0A21808A9D5D57BB3" import="1">MUSIC/KEIKI_Peace3.mp3</File>
+    <File md5="1216117258F44E266583B4AB2D87403C" import="1">MUSIC/KEIKI_Peace4.mp3</File>
+    <File md5="20D5BAED7337935A6C66DA6B8FEDA992" import="1">MUSIC/KEIKI_Peace5.mp3</File>
+    <File md5="00DBEFEA53875F1205307EE3C6811495" import="1">MUSIC/KEIKI_Peace6.mp3</File>
+    <File md5="E47A96A8608D7950398531CA00AC30F4" import="1">MUSIC/KEIKI_War.mp3</File>
+    <File md5="20691B5068681AD6D5C261E79AE0E090" import="1">MUSIC/KEIKI_Peace9.mp3</File>
+    <File md5="93C1BD948137D3DAF0A53198910B829F" import="1">MUSIC/KEIKI_War1.mp3</File>
+    <File md5="216C8ED441BE2FE63DDF5A090143E1BB" import="1">MUSIC/KEIKI_War2.mp3</File>
+    <File md5="EF21C6A9917BA3D9E7F6910681F4062C" import="1">MUSIC/KEIKI_War3.mp3</File>
+    <File md5="C92922FF0DC9353E0CCBD8A9125F5C53" import="1">MUSIC/KEIKI_War4.mp3</File>
+    <File md5="BB1AE6398671418548DE63BE9586968C" import="1">MUSIC/KEIKI_War5.mp3</File>
+    <File md5="9C2951EA7F4F0CA1C1B4646C1AD667DF" import="1">MUSIC/KEIKI_War6.mp3</File>
+    <File md5="E913A372863DC4523647B79F0BC6FED2" import="1">MUSIC/KEIKI_War7.mp3</File>
+    <File md5="BD141DB59D023DF17202E5FDA0C86554" import="0">XML/KEIKI_Building.xml</File>
+    <File md5="CF9FC5D864F36CB854CAE8AA9E8B7FA3" import="0">XML/KEIKI_Civ4.sql</File>
+    <File md5="078ADD702EF48D90F8A46C6C4F81FE46" import="0">XML/KEIKI_Civ4.xml</File>
+    <File md5="E306FDCD08EE42DEA2419D0A3325EE27" import="0">XML/KEIKI_Civilization.xml</File>
+    <File md5="33335DFF9A782055BD6003F92043F08F" import="0">XML/KEIKI_Diplomacy.xml</File>
+    <File md5="4F9042AF8128CA02DA44278EEA8642A0" import="0">XML/KEIKI_Icon.xml</File>
+    <File md5="0D4F34C1E49C365744C9FB9842D46CDE" import="0">XML/KEIKI_Leader.xml</File>
+    <File md5="165E1546EFE6D26A04AC0810288AE2FE" import="0">XML/KEIKI_Music.xml</File>
+    <File md5="F6A8A475D47430F9A82860699203B704" import="0">XML/KEIKI_Music_SD.xml</File>
+    <File md5="141D625BF65DEA77FE3E02192131DFD0" import="0">XML/KEIKI_Trait.xml</File>
+    <File md5="1308455EE079887206904AC244DDEDB8" import="0">XML/KEIKI_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/KEIKI_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/KEIKI_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

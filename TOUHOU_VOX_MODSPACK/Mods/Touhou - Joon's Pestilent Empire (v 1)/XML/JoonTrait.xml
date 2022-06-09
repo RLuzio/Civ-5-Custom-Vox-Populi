@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/27/2019 3:09:37 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_TOUHOU_PESTILENCE</Type>
+			<Description>TXT_KEY_TRAIT_TOUHOU_PESTILENCE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_TOUHOU_PESTILENCE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

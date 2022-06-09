@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/17/2016 1:07:10 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_WORKER</Class>
+			<Type>UNIT_BIBONG_INTL_STUDENT</Type>
+			<Cost>50</Cost>
+			<Moves>3</Moves>
+			<Capture>UNITCLASS_WORKER</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_BIBONG_INTL_STUDENT_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_BIBONG_INTL_STUDENT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_BIBONG_INTL_STUDENT_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_BIBONG_INTL_STUDENT_HELP</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>150</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__WORKER</UnitArtInfo>
+			<UnitArtInfoEraVariation>false</UnitArtInfoEraVariation>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BIBONG_COLOR_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_ARCHAEOLOGIST</Class>
+			<Type>UNIT_BIBONG_JD</Type>
+			<PrereqTech>TECH_ARCHAEOLOGY</PrereqTech>
+			<Cost>143</Cost>
+			<Moves>3</Moves>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Capture>UNITCLASS_ARCHAEOLOGIST</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ARCHAEOLOGIST</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_BIBONG_JD_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_BIBONG_JD_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_BIBONG_JD_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_BIBONG_JD_HELP</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>150</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ARCHAEOLOGIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>BIBONG_COLOR_ATLAS</IconAtlas>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<UnitAIType>UNITAI_ARCHAEOLOGIST</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_RAILROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_FARM</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_MINE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_TRADING_POST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_LUMBERMILL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_PASTURE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_CAMP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_PLANTATION</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_QUARRY</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_WELL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_FORT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_REMOVE_JUNGLE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_REMOVE_MARSH</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_REMOVE_FOREST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_SCRUB_FALLOUT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_REPAIR</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<BuildType>BUILD_REMOVE_ROUTE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<BuildType>BUILD_ARCHAEOLOGY_DIG</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<BuildType>BUILD_LANDMARK</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<PromotionType>PROMOTION_RIVAL_TERRITORY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<PromotionType>PROMOTION_RIVAL_TERRITORY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_BuildingClassRequireds>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+		</Row>
+	</Unit_BuildingClassRequireds>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_BIBONG_INTL_STUDENT</UnitType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BIBONG_JD</UnitType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_DESC'>
+			<Text>International Student</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_STRATEGY'>
+			<Text>She majors in relativistive psychology and sometimes has difficulty telling the difference between dream and reality (at least, in regards to Gensokyo). She believes subjectivity to be more true than objectivity. Her clan has had the ability to see boundaries since "ancient times" and seeks to dive into another world, despite such a thing being forbidden.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_HELP'>
+			<Text>Replaces Worker. They are more inexpensive and 25% more efficent than Worker.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_PEDIA'>
+			<Text>Together with her friend, Renko Usami, she has an interest in what would be considered the paranormal. Their club, consisting of only the two of them, describes itself as a club for necromancers. However, they don't do many of the things necromancers would normally be associated with. Instead, they investigate the possibility of other worlds and such. Specifically, they're interested in Gensokyo, the Netherworld, and the Moon, and seem to be among the few, or even the only humans from the outside world who know of Gensokyo's existence.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_DESC'>
+			<Text>University Student</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_STRATEGY'>
+			<Text>Renko Usami is a student in the outside world, presumably in a college or university. She majors in physics and is very objective and logical in her approach to matters.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_HELP'>
+			<Text>Replaces Archaeologist. They are more inexpensive and 25% more efficent than Archaeologist.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_PEDIA'>
+			<Text>Together with her friend, Maribel Hearn, she has an interest in what would be considered the paranormal. Their club, consisting of only the two of them, describes itself as a club for necromancers. However they don't do many of the things necromancers would normally be associated with. Instead, they investigate spirits and such. Specifically they're interested in Gensokyo and seem to be among the few, or even the only, humans in the outside world who know of Gensokyo's existence.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_DESC'>
+			<Text>외국인 유학생</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_STRATEGY'>
+			<Text>신작 동방 프로젝트의 세계관 내에 공식적으로 등장하는 단 세명 뿐인 바깥 세계의 인간 중 하나. 본가인 탄막 슈팅 게임에는 등장하지 않고, 음반 계열 작품에 등장한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_HELP'>
+			<Text>노동자를 대체합니다. 생산 비용이 저렴하고 작업 효율이 25% 높습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_PEDIA'>
+			<Text>교토대학 정신과학부에서 상대성 정신학을 전공중으로, 정신세계에 대한 대사가 많다. 우사미 렌코와는 여러 가지로 대조되는 인물로, 두 사람은 서로의 능력을 아주 기꺼워하지는 않지만 한 편으로는 부러워하고 있다. 자신은 볼 수 없는 것을 보는 능력을 가지고 있기 때문이다. 렌코는 마에리베리 한을 '메리'라고 부른다. 메리는 이에 대해 불만을 가지고 있는 듯하다. '이 나라 사람들은 내 이름을 어려워하는 것 같다. 설마 벌써 잊어버린 것은 아니겠지' 하고 생각하는 묘사가 등장한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_DESC'>
+			<Text>여대생</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_STRATEGY'>
+			<Text>렌코와 메리가 사는 세계는 우리가 사는 세계보다 기술적·정신적으로 발달한 세계이다. 하지만 이 세계의 자연 환경은 심하게 파괴되어 죽순, 딸기 등은 인공적으로 합성한 것들만이 남아 있다. 때문에 선인장밖에 남지 않은 서방프로젝트의 세계와 관련이 있다는 가설도 존재한다. 수해(樹海)나 피안화 같은 언급이 나오는 것을 보면 아직 생태계가 남아는 있는 것으로 보인다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_HELP'>
+			<Text>고고학자를 대체합니다. 생산 비용이 저렴하고 작업 효율이 25% 높습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_PEDIA'>
+			<Text>렌코는 교토대학 물리학부에서 대통일장 이론을 전공하고 있으며, 현재는 초끈이론을 연구하고 있다고 한다. 그 때문인지 물리와 관련된 대사가 많으며, 상대성정신학 전공인 마에리베리 한이 보지 못하고 놓치는 부분을 볼 수 있다. 쉽게 말해 메리와는 정반대의 방향으로 사고하는 인물이다. 이 때문인지는 몰라도 메리와 렌코는 서로의 능력을 그다지 기꺼워하지 않지만 한편으로는 두 사람은 서로를 부러워하고 있는데, 이는 자신이 인식할 수 없는 세계를 볼 수 있기 때문이다. 물리 이외에도 잡학상식이 풍부한 것으로 그려진다. 우주에서 커피를 만드는 방법부터 일본의 옛 화가 이야기까지 모르는 게 없을 정도. </Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_DESC'>
+			<Text>外国人留学生</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_STRATEGY'>
+			<Text>地元が東京と判明している蓮子に対し、メリーの地元（出身国）は不明。日本に身寄りはいないらしい。蓮子と普通に日本語で流暢に会話しているので、日本に長く住んでいるのかもしれない。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_HELP'>
+			<Text>労働者を代替する秘封倶楽部専用ユニットです。生産コストが安く、作業速度が２５％早い。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_INTL_STUDENT_PEDIA'>
+			<Text>京都の大学に在学中の大学生であり、宇佐見蓮子とオカルトサークル「秘封倶楽部」を結成している。メリーという愛称は蓮子によって付けられた。「マエリベリー」が蓮子は上手く発音できないらしい。日本語話者には発音しづらい単語のようだ。名前の綴りは不明。海外サイトなどでは「Maribel Hearn」などと表記されていることが多いが公式ではない。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_DESC'>
+			<Text>女子大生</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_STRATEGY'>
+			<Text>京都の大学に在学中の女子大生であり、マエリベリー・ハーンとオカルトサークル「秘封倶楽部」を結成している。サークルの主導権を握っているのは彼女。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_HELP'>
+			<Text>考古学者を代替する秘封倶楽部専用ユニットです。生産コストが安く、作業速度が２５％早い。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_BIBONG_JD_PEDIA'>
+			<Text>頭脳には自信があるようで、『大空魔術』では「プランク並に頭が良いかもしれない」と自称している。メリーに言わせると「この世界の仕掛けが全て見えている」そうな。神主曰く「二人は平均的な若者より、少しだけ頭が切れる見たいです。」（『卯酉東海道』あとがき）とのこと。……少し？</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

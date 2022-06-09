@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/9/2017 7:20:25 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_HIEDA_ARCHIVE</Type>
+			<BuildingClass>BUILDINGCLASS_LIBRARY</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>75</Cost>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_HIEDA_ARCHIVE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_HIEDA_ARCHIVE_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_HIEDA_ARCHIVE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_HIEDA_ARCHIVE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_HIEDA_ARCHIVE</ArtDefineTag>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>AQ_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_HIEDA_ARCHIVE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HIEDA_ARCHIVE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_HIEDA_ARCHIVE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>66</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+</GameData>

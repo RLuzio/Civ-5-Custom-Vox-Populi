@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2019-03-16 오후 10:07:58 -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_KEIKI_ART_COLLEGE</Type>
+			<BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
+			<Cost>160</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_EDUCATION</PrereqTech>
+			<Help>TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_STRATEGY</Strategy>
+			<ArtDefineTag>WAT</ArtDefineTag>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>15</HurryCostModifier>
+			<IconAtlas>KEIKI_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_KEIKI_HANIWA_FACTORY</Type>
+			<BuildingClass>BUILDINGCLASS_FACTORY</BuildingClass>
+			<Cost>450</Cost>
+			<GoldMaintenance>4</GoldMaintenance>
+			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+			<Help>TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FACTORY</ArtDefineTag>
+			<XBuiltTriggersIdeologyChoice>3</XBuiltTriggersIdeologyChoice>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<TrainedFreePromotion>PROMOTION_KEIKI_MAINTENANCE</TrainedFreePromotion>
+			<SpecialistCount>3</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>KEIKI_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_KEIKI_MAINTENANCE</Type>
+			<Description>TXT_KEY_PROMOTION_KEIKI_MAINTENANCE</Description>
+			<Help>TXT_KEY_PROMOTION_MARCH_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>7</OrderPriority>
+			<AlwaysHeal>true</AlwaysHeal>
+			<EnemyHealChange>10</EnemyHealChange>
+			<NeutralHealChange>10</NeutralHealChange>
+			<FriendlyHealChange>10</FriendlyHealChange>
+			<PortraitIndex>36</PortraitIndex>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_HEAL</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_KEIKI_MAINTENANCE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>33</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>33</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_ART_COLLEGE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>33</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>33</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>33</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>33</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_STONE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KEIKI_HANIWA_FACTORY</BuildingType>
+			<ResourceType>RESOURCE_MARBLE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_CARRIER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_KEIKI_MAINTENANCE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+		</Row>
+		</UnitPromotions_UnitCombats>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_DESC">
+			<Text>Art school</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_HELP">
+			<Text>Replace University. +33% Production and Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_STRATEGY">
+			<Text>Hongik University, widely regarded as the best architecture and art school in South Korea, was founded by an independence activist in 1946. It is located in Mapo-gu district of central Seoul, South Korea with a second campus in Sejong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_PEDIA">
+			<Text>An art school is an educational institution with a primary focus on the visual arts, including fine art, especially illustration, painting, photography, sculpture, and graphic design. Art schools can offer elementary, secondary, post-secondary, or undergraduate programs, and can also offer a broad-based range of programs (such as the liberal arts and sciences). There have been six major periods of art school curricula,[1] and each one has had its own hand in developing modern institutions worldwide throughout all levels of education. Art schools have also created a variety of non-academic skills for many students as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_DESC">
+			<Text>Haniwa Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_HELP">
+			<Text>Replace Factory. not consumes coal and +3 Production, Science and Culture from Stones, Marbles and Aluminum. also, provides Maintenance promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_STRATEGY">
+			<Text>The Haniwa are terracotta clay figures that were made for ritual use and buried with the dead as funerary objects during the Kofun period (3rd to 6th centuries AD) of the history of Japan. Haniwa were created according to the wazumi technique, in which mounds of coiled clay were built up to shape the figure, layer by layer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_PEDIA">
+			<Text>Haniwa were made with water-based clay and dried into a coarse and absorbent material that stood the test of time. Their name means “circle of clay” referring to how they were arranged in a circle above the tomb. The protruding parts of the figures were made separately and then attached, while a few things were carved into them. They were smoothed out by a wooden paddle. Terraces were arranged to place them with a cylindrical base into the ground, where the earth would hold them in place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KEIKI_MAINTENANCE">
+			<Text>Maintenance</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_DESC">
+			<Text>미술대학</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_HELP">
+			<Text>대학을 대체합니다. 대학의 효과에 생산과 문화 33%를 추가합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_STRATEGY">
+			<Text>홍대입구역과 학교 정문을 잇는 홍대앞은 특색있는 문화를 형성하며 상권이 서울 내에서도 특히 발달되어 있다. 이 일대에 2002년 서울시가 '걷고 싶은 거리'를 선정하였고 이후 젠트리피케이션이 발생하면서 급속히 상업화가 진행되었다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_PEDIA">
+			<Text>미술학교는 시각 예술 (일러스트레이션, 회화, 사진, 조각, 그래픽 디자인 등)에 대한 전문 교육 기관이다. 초등 교육, 중등 교육, 고등 교육의 각 단계의 미술 교육 기관이 존재한다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_DESC">
+			<Text>토용 공장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_HELP">
+			<Text>공장을 대체합니다. 석탄을 소요하지 않으며 석재, 대리석, 알루미늄에서 생산, 과학, 문화를 3 제공합니다. 또한 유닛이 유지보수 승급을 얻습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_STRATEGY">
+			<Text>흙으로 빚어 만든 토기의 일종으로 갖가지 인물이나 동물·기물 등을 만들어 거대한 봉토분 주변에 둘러놓은 것으로, 일본의 고분시대에 많이 제작되었다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_PEDIA">
+			<Text>신라의 토제유물 중에는 인물·동물·기물을 본뜬 특이한 형태의 유물이 적지 않게 알려져 있다. 이들을 크게 나누면 지금까지 이형토라 불려 온 이른바 상형토기와 독립된 형태의 토용, 그리고 장식용의 작은 토우로 나눌 수 있다. 그 중에서 독립된 형태의 토우라는 말로도 쓰였던 토용은 중국의 도용과 같은 성격으로, 인물이나 동물을 본떴으나 상형토기와 같은 중공의 기형이 아니라 독립된 형식의 상들이다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KEIKI_MAINTENANCE">
+			<Text>유지보수</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_DESC">
+			<Text>美術学校</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_HELP">
+			<Text>大学を代替する袿姫のUBです。文化、科学と生産+33%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_STRATEGY">
+			<Text>視覚芸術（イラストレーション、絵画、写真、彫刻、グラフィックデザインなど）に特化した教育機関である。初等教育、中等教育、高等教育の各段階の美術教育機関が存在する。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_ART_COLLEGE_PEDIA">
+			<Text>混同されがちではあるが、音楽系学部などを含む場合もある芸術大学は、厳密には美術大学とは区別される。また、音楽学部だけを持つ単科大学は音楽大学と呼ばれ、区別される。大学の種別としての美術大学・芸術大学は「美大／芸大（げいだい）」と略され、後記する各大学については、学生・関係者や近隣住民により、その大学の省略形呼称を「〇〇美術大学／芸術大学」を「〇〇美術大／芸術大」「〇〇美大／芸大」などとする場合も多い（大学の略称については本稿の説明範疇ではないので詳細については当該項目を参照の事）。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_DESC">
+			<Text>埴輪工場</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_HELP">
+			<Text>工場を代替する袿姫のUBです。石炭を消費せず、都市文化圏内の石材、アルミニウム、大理石から[ICON_PRODUCTION]、[ICON_RESEARCH]、[ICON_CULTURE]+3。なお、昇進「メンテナンス」獲得</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_STRATEGY">
+			<Text>日本の古墳時代に特有の素焼の焼き物。古墳上に並べ立てられた。日本各地の古墳に分布している。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KEIKI_HANIWA_FACTORY_PEDIA">
+			<Text>埴輪は、3世紀後半から6世紀後半にかけて造られ、前方後円墳とともに消滅した。基本的に中空である。造り方は粘土で紐を作り、それを積み上げていきながら形を整えた。時には、別に焼いたものを組み合わせたりしている。また、いろいろな埴輪の骨格を先に作っておき、それに粘土を貼り付けるなどした。型を用いて作ったものはない。中心的な埴輪には、表面にベンガラなどの赤色顔料を塗布した。畿内では赤以外の色はほとんど用いられなかったが、関東地方では、形象埴輪にいろいろな彩色が施されている。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KEIKI_MAINTENANCE">
+			<Text>メンテナンス</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

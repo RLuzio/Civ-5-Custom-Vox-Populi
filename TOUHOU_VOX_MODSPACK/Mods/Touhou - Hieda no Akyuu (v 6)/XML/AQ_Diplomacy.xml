@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-10 오전 5:25:28 -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_AKYUU">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_AKYUU_FIRST_GREETING%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_AKYUU">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_AKYUU_POLITE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_AKYUU">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_AKYUU_NEUTRAL_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_AKYUU">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_AKYUU_HOSTILE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_AKYUU">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_AKYUU_DEFEATED%</Response>
+			<Bias>4</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_FIRST_GREETING_1">
+			<Text>Nice to meet you. I am Hieda no Akyuu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_FIRST_GREETING_2">
+			<Text>I am Hieda no Akyuu. the 9th Child of Are!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_NEUTRAL_HELLO">
+			<Text>Welcome to my Home!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_POLITE_HELLO">
+			<Text>Do you drink some tea in my house?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_HOSTILE_HELLO">
+			<Text>So all my bad luck this life was because I had to see you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_DEFEATED_1">
+			<Text>Help, help!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_DEFEATED_2">
+			<Text>Oh my heart!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HIEDA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your PMiSS and reading to your SoPM. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_FIRST_GREETING_1">
+			<Text>
+				나는 이래뵈도 히에다가의 당주로서 환상향의 서기라는 역할을 지닌 유서깊은 집안의 사람이야.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_FIRST_GREETING_2">
+			<Text>
+				책을 쓰는건 내 전문분야니깐 말이지. 여러가지 추리소설을 읽어온 나니까 할 수 있는거야.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_NEUTRAL_HELLO">
+			<Text>히에다가에 어서 와!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_POLITE_HELLO">
+			<Text>차라도 한 잔 하고 가지 그래?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_HOSTILE_HELLO">
+			<Text>이번 생은 왜 이리 재수가 없나 했더니 너를 보려고 그랬구나!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_DEFEATED_1">
+			<Text>사람 살려!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_DEFEATED_2">
+			<Text>시..심장이... 하필이면 이럴 때 지병이...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HIEDA_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 당신네 구문사기를 사읽고 당신네 구문구수를 즐기고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_FIRST_GREETING_1">
+			<Text>
+				私はこう見えても稗田家の当主として幻想郷の書記という役目を持つ人なの。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_FIRST_GREETING_2">
+			<Text>本を書くのは私の専門分野なんだから。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_NEUTRAL_HELLO">
+			<Text>稗田家へようこそ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_POLITE_HELLO">
+			<Text>お茶でも飲んでいったら？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_HOSTILE_HELLO">
+			<Text>
+				今度の生はなぜこんなにわるかったとおもったら、あんたに出会うためだったの	？
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_DEFEATED_1">
+			<Text>た、助けて！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_DEFEATED_2">
+			<Text>し、心臓が・・・こんなときに持病が・・・</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_HIEDA_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は貴国の求聞史記を買い、求聞口授を読んでいる。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+	</GameData>

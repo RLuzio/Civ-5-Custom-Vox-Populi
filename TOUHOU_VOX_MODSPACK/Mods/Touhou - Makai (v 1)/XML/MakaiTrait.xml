@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 9:53:37 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_GATEWAY_TO_MAKAI</Type>
+			<Description>TXT_KEY_TRAIT_GATEWAY_TO_MAKAI</Description>
+			<ShortDescription>TXT_KEY_TRAIT_GATEWAY_TO_MAKAI_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_MAKAI_TRAIT</FreeBuilding>
+		</Row>
+	</Traits>
+</GameData>

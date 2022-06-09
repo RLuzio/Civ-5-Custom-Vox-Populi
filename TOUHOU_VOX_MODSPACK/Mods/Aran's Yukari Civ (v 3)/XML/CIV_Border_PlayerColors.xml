@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 2:16:47 PM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_BORDER</Type>
+			<PrimaryColor>COLOR_BORDER_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_BORDER_LAND</SecondaryColor>
+			<TextColor>COLOR_BORDER_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

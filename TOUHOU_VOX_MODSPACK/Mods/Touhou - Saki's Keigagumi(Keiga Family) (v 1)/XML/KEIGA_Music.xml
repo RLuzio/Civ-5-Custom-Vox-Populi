@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/27/2013 12:52:28 PM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KUROKOMA_SAKI_PEACE</SoundID>
+			<Filename>KEIGA_Peace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KUROKOMA_SAKI_WAR</SoundID>
+			<Filename>KEIGA_War</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_DOM_SPEECH_KUROKOMA_SAKI</SoundID>
+			<Filename>KEIGA_DOM</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KUROKOMA_SAKI_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KUROKOMA_SAKI_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KUROKOMA_SAKI_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KUROKOMA_SAKI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_KUROKOMA_SAKI_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_GANDHI_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>25</MinVolume>
+			<MaxVolume>25</MaxVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_KUROKOMA_SAKI</ScriptID>
+			<SoundID>SND_DOM_SPEECH_KUROKOMA_SAKI</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>100</MinVolume>
+			<MaxVolume>100</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/13/2013 10:01:19 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_HV_ADJECTIVE">
+			<Text>Village</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_HV_DESC">
+			<Text>Ningen no Sato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_HV_SHORT_DESC">
+			<Text>Ningen no Sato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE">
+			<Text>Keine Kamashirasawa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AGRARIAN_SOCIETY">
+			<Text>A free Worker appears in a city when you build a Watermill there for the first time. Pastures produce +1 [ICON_FOOD] Food and Plantations produce +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AGRARIAN_SOCIETY_SHORT">
+			<Text>Agrarian Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_HV_TITLE">
+			<Text>Ningen no Sato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_HV_TEXT">
+			<Text>
+				Greetings to you, Keine Kamashirasawa, protector and guardian of the Ningen no Sato.[NEWLINE][NEWLINE]Ningen no Sato is the name for the largest human community within Gensokyo. Commonly referred to as "the human village" by the other inhabitants of Gensokyo, it remains the safest place for humans in that land.[NEWLINE][NEWLINE]One of the reasons for that sense of security is that the Ningen no Sato is protected by Keine Kamishirasawa, a were-hakutaku. She possesses the ability to conceal the history -- and thus existence -- of things, and has at times used this ability to safeguard the village from harm. Under the light of a full moon, she transforms into her hakutaku form, which allows her to create, rather than conceal things. She also serves the community as a schoolteacher.[NEWLINE][NEWLINE]Knowledgeable and protective Keine, will you guard the people of the Ningen no Sato as they seek to expand and grow?[NEWLINE][NEWLINE]Can you create a civilization that will stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_HV_ZASHIKI_WARASHI">
+			<Text>Zashiki-Warashi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_ZASHIKI_WARASHI_STRATEGY">
+			<Text>Zashiki-Warashi are a building unique to the Ningen no Sato. It can be obtained through the The Zashiki-Warishi Disappear! event.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_ZASHIKI_WARASHI_TEXT">
+			<Text>After the zashiki-warashi disappeared and Yukari Yakumo offered hobgoblins from Europe as a replacement, people became suspicious about why exactly the youkai were so interested in helping the humans of the village find a replacement. In the end, people suspected both the zashiki-warashi and the hobgoblins of spying on them for the youkai, and drove both out of the village.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_ZASHIKI_WARASHI_HELP">
+			<Text>Adds 2 [ICON_HAPPINESS_1] Happiness to the city..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOBGOBLINS">
+			<Text>Hobgoblins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOBGOBLINS_STRATEGY">
+			<Text>Hobgoblins are a building unique to the Ningen no Sato. It can be obtained through the The Zashiki-Warishi Disappear! event.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOBGOBLINS_TEXT">
+			<Text>While the hobgoblins were hard workers, their ugly appearance made them unpopular amongst the citizens of the Human Village. After the zashiki-warashi returned, they were driven out of the village, but found employment at the Scarlet Devil Mansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOBGOBLINS_HELP">
+			<Text>Adds 1 [ICON_PRODUCTION] Production for every 4 [ICON_CITIZEN] Citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SUSPICIOUS">
+			<Text>Suspicious Citizens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SUSPICIOUS_STRATEGY">
+			<Text>Suspicious Citizens are a building unique to the Ningen no Sato. It can be obtained through the The Zashiki-Warishi Disappear! event.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SUSPICIOUS_TEXT">
+			<Text>After the zashiki-warashi disappeared and Yukari Yakumo offered hobgoblins from Europe as a replacement, people became suspicious about why exactly the youkai were so interested in helping the humans of the village find a replacement. In the end, people suspected both the zashiki-warashi and the hobgoblins of spying on them for the youkai, and drove both out of the village.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SUSPICIOUS_HELP">
+			<Text>Reduces enemy spy stealing rate in the city by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SHOP">
+			<Text>Village Shop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SHOP_STRATEGY">
+			<Text>The Village Shop is the Ningen no Sato's unique building, replacing the Market. It provides additional gold from neary bonus resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HV_SHOP_TEXT">
+			<Text>While the Ningen no Sato is the safest place for humans to live in Gensokyo, it also serves as a convenient location for the inhabitants of Genoskyo, both human and youkai, to shop. Hitozato is notable for having, amongst other shops, a florist, a woodcutter, a teahouse, a tofu shop, a bookstore, and the Kirisame-ya second-hand shop. Some stores are even known to stay open late into the night in order to cater exclusively to youkai.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_SHOP_HELP">
+			<Text>Bonus resources within the city's radius produce +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOPELESS_MASQUERADE">
+			<Text>Hopeless Masquerade Gambling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOPELESS_MASQUERADE_STRATEGY">
+			<Text>Hopeless Masquerade Gambling is a building unique to the Ningen no Sato. It can be obtained through the The Village Is In Despair! event.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOPELESS_MASQUERADE_TEXT">
+			<Text>During the events of Hopeless Masquerade, large groups of citizens gathered to observe the duels between the representatives from Gensokyo's various faiths. It was later revealed, however, that the citizens were simply betting upon the duels as a form of entertainment, rather than being moved to become more pious.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HV_HOPELESS_MASQUERADE_HELP">
+			<Text>Adds 1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_YOUKAI_HUNTER">
+			<Text>Youkai Hunters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YOUKAI_HUNTER_TEXT">
+			<Text>In Gensokyo, the greatest threat to humans are the ever-present youkai. In response, some humans will train themselves to act as youkai exterminators, using unique weapons and tactics to counter the powers possessed by the youkai.  They train themselves to be familiar with all of the terrain in the surrounding area, so that they can both react quickly to reports of hostile youkai, as well as use the terrain to their advantage to help counter the supernatural abilities of their targets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YOUKAI_HUNTER_STRATEGY">
+			<Text>The Youkai Hunters are a unique unit for the Ningen no Sato, replacing the Crossbowman. They are capable of moving through terrain quickly by ignoring any terrain cost, and also benefit from an increased sight radius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YOUKAI_HUNTER_HELP">
+			<Text>Crossbowman unit. Only the Ningen no Sato may produce them. Capable of travelling through terrain quickly, with an increased sight radius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_0">
+			<Text>Hieda no Akyuu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_1">
+			<Text>Kosozu Motoori</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_2">
+			<Text>Sendai Shirou</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_3">
+			<Text>Unshou</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_4">
+			<Text>Mr. A</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_5">
+			<Text>Yamada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_6">
+			<Text>Sakura</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HV_7">
+			<Text>Murasaki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITOZATO">
+			<Text>Hitozato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINAMIYAMASHIRO">
+			<Text>Minamiyamashiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHIBU">
+			<Text>Chibu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANAGOUCHI">
+			<Text>Sanagouchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KITAYAMA">
+			<Text>Kitayama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIEZU">
+			<Text>Hiezu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIYOKAWA">
+			<Text>Kiyokawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OUHIRA">
+			<Text>Ouhira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIMESHIMA">
+			<Text>Himeshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HIGASHICHICHIBU">
+			<Text>Higashichichibu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FUNAHASHI">
+			<Text>Funahashi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHIHAYAKASAWA">
+			<Text>Chihayakasawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUTSUKI">
+			<Text>Kutsuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HINAMIZAWA">
+			<Text>Hinamizawa</Text>
+		</Row>
+		<!--Leader: Cirno - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_KEINE_NAME">
+			<Text>Keine Kamishirasawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KEINE_SUBTITLE">
+			<Text>Protector of Ningen no Sato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KEINE_LIVED">
+			<Text>TH08.0 ~ TH14.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV6_KEINE_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KEINE_TEXT_1">
+			<Text>Although a youkai (a were-hakutaku), Keine Kamishirasawa acts as the guardian for the Human Village. She takes these duties very seriously, and during the events of Imperishable Night, hid the village from the heroines using her abilities. Her history-related abilities have also lead her to becoming the village's schoolteacher, although her school is apparently struggling to become popular.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_KEINE_FIRSTGREETING_1">
+			<Text>Oh, hello!  Welcome to the Ningen no Sato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_FIRSTGREETING_2">
+			<Text>Ahh, a newcomer to the Ningen no Sato?  Please make yourself comfortable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_FIRSTGREETING_3">
+			<Text>Oh, a visitor!  I welcome you to the Ningen no Sato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_FIRSTGREETING_4">
+			<Text>Greetings!  Welcome to the Ningen no Sato, a safe haven for the humans of Gensokyo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_DECLAREWAR_1">
+			<Text>I'm afraid you have become a threat to the people under my protection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_DECLAREWAR_2">
+			<Text>I regret that it has come to this, but I see no other choice but to go to war with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_DECLAREWAR_3">
+			<Text>I will protect the people of this community with all of my strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_DEFEATED_1">
+			<Text>It seems that I will have to become stronger in order to fulfill my obligations. Perhaps, in time, we will meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_DEFEATED_2">
+			<Text>You have prevailed over me. I have no choice but to leave the people of this community in your care. Please take care of them in my stead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KEINE_DEFEATED_3">
+			<Text>It would seem history shall record you the victor. If you stop by the school some time, I shall prepare tea for us.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

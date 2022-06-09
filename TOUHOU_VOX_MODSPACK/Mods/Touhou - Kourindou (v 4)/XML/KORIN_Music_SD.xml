@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/27/2013 12:53:05 PM -->
+<GameData>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>SONG_RINNOSUKE_PEACE_1</ScriptID>
+			<SoundID>SND_RINNOSUKE_PEACE_01</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_RINNOSUKE_PEACE_2</ScriptID>
+			<SoundID>SND_RINNOSUKE_PEACE_02</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_RINNOSUKE_WAR_1</ScriptID>
+			<SoundID>SND_RINNOSUKE_WAR_01</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_RINNOSUKE_PEACE_01</SoundID>
+			<Filename>KORIN_Peace_2</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_RINNOSUKE_PEACE_02</SoundID>
+			<Filename>KORIN_Peace_3</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_RINNOSUKE_WAR_01</SoundID>
+			<Filename>KORIN_War_2</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+</GameData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dda40b72-6850-41c8-9a37-e98fe4d5153b" version="20">
+  <Properties>
+    <Name>Touhou - Eiki's Higan</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Higan from the Touhou Project series as a civilization, lead by the Yama, Eiki Shiki.</Teaser>
+    <Description>Adds Higan from the Touhou Project series as a civilization, lead by the Yama, Eiki Shiki.</Description>
+    <Authors>Igniszath</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>19</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B3154AA2F81C2D528D92301DC52E9F15" import="1">Art/EikiDiplo.dds</File>
+    <File md5="3A1F471ED1748AAEA649F58518B36EAE" import="1">Art/EikiDOM.dds</File>
+    <File md5="1075499362E00CD6DA524D50BF830C10" import="1">Art/EikiMap.dds</File>
+    <File md5="23130D5BBB3E7DB160F38892944C4B7D" import="1">Art/EikiPeace.mp3</File>
+    <File md5="18B1C4FFB2C9191110BFECF4735FAD55" import="1">Art/EikiWar.mp3</File>
+    <File md5="B71428C763C745DD70260C37434A40AA" import="1">Art/HiganAlphaAtlas16.dds</File>
+    <File md5="F027930B67AF37620CBF8A2424F914DB" import="1">Art/HiganAlphaAtlas24.dds</File>
+    <File md5="1F8C7501D7F978C3F83BB7CAD3599B2C" import="1">Art/HiganAlphaAtlas32.dds</File>
+    <File md5="39CA62BDBB75ACD47090ACEB0C3099E7" import="1">Art/HiganAlphaAtlas48.dds</File>
+    <File md5="A4E8D718A94ADF9C9992D77F2F8CEEB9" import="1">Art/HiganAlphaAtlas64.dds</File>
+    <File md5="D557558DFEF6BB81AB25BEEF2ECDAB59" import="1">Art/HiganIconAtlas128.dds</File>
+    <File md5="B44A8373A294DC4BA0886FBD97DEEDBF" import="1">Art/HiganIconAtlas256.dds</File>
+    <File md5="59AAEBDA8A94F5E0878C1F51001553A8" import="1">Art/HiganIconAtlas32.dds</File>
+    <File md5="89555EA9CB66BBFDF7D39CED522ACD03" import="1">Art/HiganIconAtlas45.dds</File>
+    <File md5="DA713BD25C1CAA0FF5DC9542A3A0085E" import="1">Art/HiganIconAtlas64.dds</File>
+    <File md5="26863C42E0C79A73A4D7E5DAAC969BE7" import="1">Art/HiganIconAtlas80.dds</File>
+    <File md5="A55D8EBF280C5EB0DDBBF0FFEF942F23" import="1">Art/SlackingShinigami.dds</File>
+    <File md5="19FAB13DDA63BA61C074E3ED66661AF6" import="1">Art/Vampire_diff.dds</File>
+    <File md5="A6F934B630797EF7BB600051969F7F75" import="1">Art/vampire_noshield.fxsxml</File>
+    <File md5="25ABA96C5B3E9427D1F507771BDD0925" import="1">Art/Vampire_NoShield.gr2</File>
+    <File md5="6F919177E2FDEEEDEA13CEB066184181" import="1">Art/Vampire_sref.dds</File>
+    <File md5="31991539EA773DFAE5174400D9196DCB" import="1">Art/WonderConceptMuenzuka.dds</File>
+    <File md5="BB2268499C89797370D2A526CFD92FFB" import="0">Lua/EikiLua.lua</File>
+    <File md5="C745BFAFA29089ED8180B44664DC981E" import="0">Special Thanks.txt</File>
+    <File md5="76557FFC2A495F1522155BDF1F476222" import="1">Support/HiganDecisions.lua</File>
+    <File md5="0D588235CDCC6B11F0699AF90DC3276B" import="1">Support/HiganEvents.lua</File>
+    <File md5="D95B96134F0F72D0FCEE3B8B33C74FF5" import="0">Support/HiganEventsandDecisions.xml</File>
+    <File md5="900277336334FF67FAA1C007AA2B942B" import="0">Support/HiganSupport.sql</File>
+    <File md5="2CCCEF2547C88665E26AFB39EA73C67C" import="0">XML/EikiDummy.xml</File>
+    <File md5="5237A48386542711F7D935C2F13C4B60" import="0">XML/EikiText.xml</File>
+    <File md5="FE28686C0755F9321529262F6A0374E9" import="0">XML/EikiCivilization.xml</File>
+    <File md5="0BF9DD61B0BD42536D6CEC083C789D13" import="0">XML/EikiDiplomacy.xml</File>
+    <File md5="0A2BFCD1B4610E4B33145FA55DD07775" import="0">XML/EikiMusic.xml</File>
+    <File md5="705529C118CE2A44F4A646F61477F8AE" import="1">XML/EikiScene.xml</File>
+    <File md5="CC30997B1AA03935294844893E53D7AC" import="0">XML/EikiTrait.xml</File>
+    <File md5="83EB62C04DF407A5CC0439FAB41681D2" import="0">XML/EikiColors.xml</File>
+    <File md5="13F68865E07EC43B3E2B3416F847FE7C" import="0">XML/EikiBuildings.xml</File>
+    <File md5="F2EF54789EBE267EABF9F449CBBA765A" import="0">XML/EikiUnits.xml</File>
+    <File md5="9024704105E01BCC81FBC6D00103519E" import="0">XML/EikiUnitArtDefines.xml</File>
+    <File md5="562025FED42B3E45AEF67F119E3AEC85" import="0">XML/EikiLeader.xml</File>
+    <File md5="E6B5F2DAAED65DAD655BDEFA2B2AD5FC" import="0">XML/EikiTextMore.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/EikiBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiUnitArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiTextMore.xml</UpdateDatabase>
+      <UpdateDatabase>XML/EikiDummy.xml</UpdateDatabase>
+      <UpdateDatabase>Support/HiganEventsandDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Support/HiganSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/EikiLua.lua">
+      <Name>Eiki Lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

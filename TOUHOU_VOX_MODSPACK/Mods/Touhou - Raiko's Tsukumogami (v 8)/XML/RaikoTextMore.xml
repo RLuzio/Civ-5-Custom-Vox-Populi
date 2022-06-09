@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2017 4:37:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_1">
+			<Text>Yeah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_2">
+			<Text>Sure thing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_3">
+			<Text>Yeah, I can live with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_4">
+			<Text>Okay, cool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_5">
+			<Text>I&apos;m fine with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_6">
+			<Text>Yes, I agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_AGREE_SHORT_7">
+			<Text>Alright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_1">
+			<Text>Really? Then I'll push you down with pure danmaku power!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_2">
+			<Text>My, oh my, that&apos;s suprising. We have no choice but to put up a fight!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_3">
+			<Text>Oh my, an unscheduled performance? Well then, it&apos;s time to rock!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DEMANDTRIBUTE_ANGRY">
+			<Text>It&apos;s best that you give us these. It could help prevent more problems in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DEMANDTRIBUTE_HAPPY">
+			<Text>Could you please give us some help and lend us these. We&apos;re in need of some help. I&apos;ll pay you back, I promise!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>If you aren&apos;t using any of these, would you kindly give these to us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_2">
+			<Text>I&apos;m sorry, I don&apos;t agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_3">
+			<Text>Nope.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_4">
+			<Text>Sorry, that&apos;s a no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_5">
+			<Text>My friends don&apos;t agree, so do I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_6">
+			<Text>No, I can&apos;t agree on that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DISAGREE_SHORT_7">
+			<Text>No, sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_1">
+			<Text>Bye!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_2">
+			<Text>See you later!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_3">
+			<Text>Leaving already? See you then!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_4">
+			<Text>Goodbye!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_5">
+			<Text>Come back later, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_6">
+			<Text>Leaving so soon? See you later!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GOODBYE_7">
+			<Text>Please do return, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_1">
+			<Text>Need anything?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_2">
+			<Text>Anything I can do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_3">
+			<Text>You came to see my performance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_4">
+			<Text>Heya, need anything?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_5">
+			<Text>What's up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_6">
+			<Text>Did you need anything?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_7">
+			<Text>It's you, hi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_1">
+			<Text>Let&apos;s hear it, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_2">
+			<Text>I hear you, speak up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_3">
+			<Text>Speak up, what&apos;s the matter?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_4">
+			<Text>Please do tell us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_5">
+			<Text>You got a problem? We&apos;re listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_6">
+			<Text>Is this about concert tickets?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LETSHEARIT_7">
+			<Text>Personal issues? You know who to talk to!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_LOSEWAR_1">
+			<Text>How suprising... I surrender!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>This isn&apos;t enough. You need to tune it better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>The value we get from this is lower than the bass drum, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>We&apos;ll get absolutely nothing from this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>A little bit more tuning and we&apos;re good to go!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Maybe a little more, for a friend like me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>You can do better, I believe you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Sorry, we&apos;ll need more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Sorry, that&apos;s not enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Sorry, please tune it up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NO_ANGRY">
+			<Text>That&apos;s not gonna help us at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NO_HAPPY">
+			<Text>I want to say yes, but I&apos;m sure my friends won&apos;t like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NO_NEUTRAL">
+			<Text>Sorry, no can do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_YES_ANGRY">
+			<Text>Can&apos;t argue with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_YES_HAPPY">
+			<Text>Great! Now that that&apos;s done, would you like to stay for a live performance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_YES_NEUTRAL">
+			<Text>Ok, deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADEREQUEST_ANGRY">
+			<Text>Let&apos;s set aside our petty differences with a friendly trade, what say you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADEREQUEST_HAPPY">
+			<Text>Would you like to trade with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRADEREQUEST_NEUTRAL">
+			<Text>We wan&apos;t some of those, but do you wan&apos;t what we have right here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRIBUTE_NO_ANGRY">
+			<Text>Absolutely no, to accept that would be the same as insulting my friends!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRIBUTE_NO_HAPPY">
+			<Text>I&apos;m really sorry, I can&apos;t help you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRIBUTE_NO_NEUTRAL">
+			<Text>No, we need these. Sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRIBUTE_YES_ANGRY">
+			<Text>Alright I&apos;ll give it to you. But stay away from my friends, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRIBUTE_YES_HAPPY">
+			<Text>We&apos;ll help you out, please take it. We got you covered, don&apos;t worry!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_TRIBUTE_YES_NEUTRAL">
+			<Text>Alright, take it, we won&apos;t be needing it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_WARBLUFF_1">
+			<Text>Ah that&apos;s too bad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_WARBLUFF_2">
+			<Text>You got me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_WARBLUFF_3">
+			<Text>Well that sucks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_WARBLUFF_4">
+			<Text>How surprising.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_WINWAR_1">
+			<Text>Hey, no hard feelings okay? It&apos;s all in good fun, right?</Text>
+		</Row>
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_REPEAT_TOO_MUCH">
+			<Text>Maybe we should change the subject.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_REPEAT_TRADE_1">
+			<Text>Still a no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_REPEAT_TRADE_2">
+			<Text>I can&apos;t change my mind.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_REPEAT_1">
+			<Text>Back so soon?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_REPEAT_2">
+			<Text>Does this mean you have time for concerts?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_REPEAT_1">
+			<Text>Why did you return?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_REPEAT_2">
+			<Text>Sorry, I have to ask you to leave if you have nothing else to say.</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_POLITE_HELLO_2">
+			<Text>Is something the matter?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_POLITE_HELLO_3">
+			<Text>Hey, you want to watch our concert?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_POLITE_HELLO_1">
+			<Text>Welcome back, my good friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_NEUTRAL_HELLO_2">
+			<Text>Hi.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_NEUTRAL_HELLO_3">
+			<Text>Heya, need anything?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_NEUTRAL_HELLO_1">
+			<Text>What&apos;s up, what would you like to talk about?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HELLO_2">
+			<Text>Oh, it&apos; you. Please make this quick, we&apos;re busy.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HELLO_3">
+			<Text>What is it this time?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HELLO_1">
+			<Text>What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>It&apos;s almost the end of our performance, huh?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>We&apos;re exhausted, I can&apos;t hear my beats anymore. Have you come to stop this war?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I think that&apos;s enough for now, let&apos;s stop this war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>We had enough of this. Let&apos;s end this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>Let&apos;s make peace. We&apos;re not geting anywhere.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>We&apos;ll never surrender to you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AT_WAR_HOSTILE_2">
+			<Text>We&apos;re all fired up and ready to beat you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Can you hear these beats of mine? It will show you how I feel!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Our Research Agreement is looking really good so far!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>I really hope I can trust you again once I can forgive you about that broken promise.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_WORKING_WITH_1">
+			<Text>Heya, friend!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} sure is going down, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_COOP_WAR_1">
+			<Text>My beats will make {1_ThirdPlayerName:textkey} regret facing us!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_COOP_WAR_2">
+			<Text>I look forward to fighting with {1_ThirdPlayerName:textkey}, what about you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>What do you want? Shouldn&apos;t you be out there fighting?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HUMAN_AT_WAR_1">
+			<Text>Good luck in your war, show &apos;em who&apos;s the boss!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>If you would like to fight with all those troops, just tell me now so we can get it over with. I&apos;m ready!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Your troops around my borders are worrying me, I hope there will be no problems.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Your expansion is huge problem to us. Please stop this immediately!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Sorry, I have to tell you that your expansion is preventing us from expanding. The number of tsukumogami are increasing and we need more room. Please tone it down a bit.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your plot buying is huge problem to us. Please stop this immediately!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Sorry, I have to tell you that your plot buying is causing problems for us. Small borders mean our concerts are less spacious. Please tone it down a bit.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is strong! You&apos;ll definitely win all of your fights, for sure.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your economy is amazing! I think some of my friends would like to help out too. We feel better if we&apos;re useful.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>Concert tours in your nation would be easy to arrange, there isn&apos;t much choice. Building more cities would do both of us a favor.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Your army is worryingly small. I&apos;m worried about your people being invaded by barbarians.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>You don't know when to give up, do you? Why don't you quietly give up and apologize to everyone?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DENOUNCED_BY_AI_1">
+			<Text>Why are you still coming back?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DENOUNCED_BY_AI_2">
+			<Text>I really don&apos;t want to be bothered by you. Please leave if you have nothing else to do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DENOUNCED_AI_1">
+			<Text>You still want to talk to me after all of that? I&apos;m honored, really.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>{1_PlayerName} is not a good person. Please don&apos;t hang around with them for too long.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>I&apos;m happy that you got along with {1_PlayerName}! We should hold a celebration party, with live performances, of course.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>{1_PlayerName} is a nice person. Please don&apos;t denounce them, they are quite friendly.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>Seems like we have the same person we disagree with. While that&apos;s nice, please do watch your back too, they won&apos;t take your denouncement for granted. I&apos;m here if you need any help.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TOO_SOON_FOR_DOF_1">
+			<Text>Sorry, I don&apos;t know you well enough. Let&apos;s get to know each other first, okay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TOO_SOON_FOR_DOF_2">
+			<Text>I haven&apos;t known you well enough yet. Later in the future we can call each other friends.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>{1_CivName} needs to be denounced by us. That should make them learn to be nicer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOF_AI_WAR_REQUEST_1">
+			<Text>We need to declare war against {1_CivName}. They have gone too far with their ways.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOF_NOT_HONORED_1">
+			<Text>That wasn&apos;t very nice of you, betraying friends.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOF_NOT_HONORED_2">
+			<Text>Hey! That&apos;s not nice! Please don&apos;t betray your friends![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DENOUNCING_FRIEND_1">
+			<Text>I&apos;m really sorry for this, but I just can&apos;t keep up with your ways.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Is that how it&apos;s going to be? Very well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>That sucks, I really wish I could&apos;ve avoided this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DOFED_FRIEND_1">
+			<Text>I&apos;m happy that you got along with {1_PlayerName}! We should hold a celebration party, with live performances, of course.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_PlayerName} is not a good person. Please don&apos;t hang around with them for too long.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_PlayerName} is a nice person. Please don&apos;t denounce them, they are not enemies.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Seems like we have the same person we disagree with. While that&apos;s nice, please do watch your back too, they won&apos;t take your denouncement for granted. I&apos;m here if you need any help.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I befriended {1_CivName} because you two were just so friendly with each other. Let&apos;s all hold a party!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I agree that {1_CivName} is just not nice to everyone. I hope that with our denouncements, everyone will know and understand.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is a bad influence, you know? Please try not to get influenced by them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>{1_CivName} is definitely worth befriending. I hope that by befriending them, I will make you understand.</Text>
+		</Row>
+		<!--Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_EXPANSION_WARNING_1">
+			<Text>Please tone down on your expansion. We need to be settling cities, more and more tools are being discarded and I need to give them new homes.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_EXPANSION_BROKEN_PROMISE_1">
+			<Text>I thought you were better than that, but it looks like you can&apos;t be trusted.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>All those lands you brought were desperately needed by these poor tools. They need space too, you know. It&apos;s getting really crowded here.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PLOT_BUYING_WARNING_1">
+			<Text>Please tone down on your plot buying. We need some space too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>I thought you were better than that, but it looks like you can&apos;t be trusted.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Your City-state friend here has been abusing their tools lately. I&apos;m going to teach them a lesson, and save those poor things. Are you still going to support their misdeeds?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Apparently, we are attacking a City-state you are protecting. I think this was some kind of mistake, I&apos;ll resolve this as soon as possible. I hope you&apos;re cool with this?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WORK_WITH_US_1">
+			<Text>Pacts of Cooperation shouldn't be possible, but here we are.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DEC_FRIENDSHIP_1">
+			<Text>Heya, let&apos;s be friends. We&apos;ll be the dynamic duo!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DEC_FRIENDSHIP_2">
+			<Text>I think we&apos;re meant for each other. As friends of course. Let&apos;s make a public declaration!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DENOUNCE_1">
+			<Text>I'm sorry, but I have to tell you to stop being nasty to others.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DENOUNCE_2">
+			<Text>You don&apos;t have the heart to treat people with care, let alone giving tools like us the care we deserved.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_WITH_US_WARMONGER">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_WITH_US_MINORS">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_WITH_US_LAND">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_WITH_US_WONDERS">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_WITH_US_VICTORY">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WORK_AGAINST_SOMEONE_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_COOP_WAR_REQUEST_1">
+			<Text>I need all the help I can get to fight {1_PlayerName:textkey}. Are you in?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} needs to be taught a lesson. Together we can save the poor souls abused by them. Shall we?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_COOP_WAR_TIME_1">
+			<Text>The time for battle has come. Are you ready?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_NOW_UNFORGIVABLE_1">
+			<Text>It sucks that as a tsukumogami, I can&apos;t forgive easily, it&apos;s in my nature to be vengeful. Even so, I&apos;ve tried my best, but I just can&apos;t forgive you anymore.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_NOW_ENEMY_1">
+			<Text>I wish we were friends, but it looks like we really aren&apos;t meant for each other. It sucks that you are now my enemy.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_COMPLIMENT_1">
+			<Text>You are a very impressive leader, you know that? I can learn a lot from you. I&apos;ll definitely give you the VIP spot in our concerts.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_BOOT_KISSING_1">
+			<Text>Your skills as a leader is impressive! Since seeing those Taiko Drum Masters, I haven&apos;t seen anyone with such talent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_BOOT_KISSING_2">
+			<Text>You are a really great leader, someone should give you a title of some sort, don&apos;t you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WARMONGER_1">
+			<Text>My friends say that you remind them of their past owners. Abusive and uncaring. I think you fit that description pretty well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_MINOR_CIV_COMPETITION_1">
+			<Text>You are great friends with {1_MinorCivName:textkey}! That&apos;s great! But it gets really awkward if they have to chose their best friend, so I think it&apos;s best if you stop getting too close to them, okay?</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_LEADER_RAIKO_1">
+			<Text>You look like you need help. Do you want to join our civilization?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_LEADER_RAIKO_2">
+			<Text>Hey, just so you know, you&apos;re really behind. You gotta keep up with the beats of the world. Do you want me to guide you with my beats?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_LEADER_RAIKO_3">
+			<Text>Would you like to use us as your tools? I guarantee that it will bring your civilization a good 100 years forward!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_MILITARY_1">
+			<Text>I worry that barbarians might overrun your civilization. I think you should improve your military.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_NUKE_1">
+			<Text>This nuke is becoming a tsukumogami if I don&apos;t use it soon. That&apos;s gonna bring too much trouble.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_BULLY_1">
+			<Text>You should stop being such a huge bully. It&apos;s for your own benefit.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_UNHAPPINESS_1">
+			<Text>Man, your people look miserable. Reminds me of newborn tsukumogami. Abandoned and uncared for.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_CITIES_1">
+			<Text>We wanted to start another concert tour in your nation, but then we realized we do not have any more new cities to visit too. It&apos;s getting really boring performing in the same cities over and over again. Why don&apos;t you settle more cities?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_POPULATION_1">
+			<Text>Our concerts in your nation was so... bland. It sucks having to perform in front of thin air. On the other hand, we&apos;re not getting any noise complaints so I guess it&apos;s fine?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_INSULT_CULTURE_1">
+			<Text>Do your people love music? Perhaps some mask plays? They seemed so confused about the concept when we performed in front of them.</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DONT_SETTLE_YES_1">
+			<Text>Alright, we won&apos;t settle near you, I promise.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DONT_SETTLE_NO_1">
+			<Text>No, we need to have some freedom on where to settle.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WORK_WITH_US_YES_1">
+			<Text>Alright, I&apos;m happy to be your partner, then!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DECLINE_1">
+			<Text>Sorry, no can do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DECLINE_2">
+			<Text>I&apos;m, sorry, but I have to decline.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_COOP_WAR_YES_1">
+			<Text>Sure thing, we&apos;ll show &apos;em who&apos;s the boss!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_COOP_WAR_SOON_1">
+			<Text>Sure, but give us ten turns to prepare. Then I&apos;ll be ready to rock!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_YES_1">
+			<Text>If it means that it will keep my friends safe, I accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_YES_2">
+			<Text>It doesn&apos;t look like I can refuse this, so I accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>Really funny, teasing me like that. You got me there!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>I refuse. You&apos;ll need to do better than that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>No! I will not let you manipulate us just because we&apos;re tools!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>If I gave all of that away my friends would kill me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>My friends will have me recycled if I gave all of those away.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Another demand so soon? Why do you have to be so greedy?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>No! That was too soon, don&apos;t you think?</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_OFFER_1">
+			<Text>It&apos;s time we end this, it&apos;s getting boring. Is this enough?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_OFFER_2">
+			<Text>We&apos;re bored of fighting. Will this end the war?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DEMAND_1">
+			<Text>It&apos;s best that you give us these. It could help prevent more problems in the future.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_REQUEST_ITEM_1">
+			<Text>Could you please give us some help and lend us these. I&apos;ll pay you back, I promise!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GIFT_ITEM_1">
+			<Text>Here, take these. It will help you out.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_OPEN_BORDERS_OFFER_1">
+			<Text>Opening our borders means it will be a lot easier for us to do a concert tour. Of course that also means you can come over to our lands too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I think we shoud make a Research Agreement.[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Let&apos;s sign a Research Agreement. We&apos;re definitely good in researching, trust me! We&apos;re tools after all.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RENEW_DEAL_1">
+			<Text>This deal brought us closer, as friends of course. Shall we renew this deal?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal needs some tuning before we can renew it. I need you to tune up your offer.</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_GENEROUS_1">
+			<Text>That&apos;s very nice of you, thanks!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_GENEROUS_2">
+			<Text>I&apos;ll remember you for this, thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_GENEROUS_3">
+			<Text>This will help us a lot, thank you for your generosity.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Done, and done.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>I&apos;m cool with that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>Deal!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>Thank you for your cooperation.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>I hope this will prevent problems in the future between us.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>Okay, I forgive you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I can&apos;t accept that, sorry.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>I&apos;m sorry, but that isn&apos;t acceptable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>Sorry, no can do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_REJECT_INSULTING_1">
+			<Text>Accepting that would be an insult to my friends.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_REJECT_INSULTING_2">
+			<Text>I&apos;d rather be recycled than accept that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_DEAL_UNCHANGED_1">
+			<Text>I&apos;m cool if you&apos;re cool with this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_DEAL_UNCHANGED_2">
+			<Text>I&apos;m willing to accept this if you are.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_AI_MAKES_OFFER_1">
+			<Text>Does this look reasonable to you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_AI_MAKES_OFFER_2">
+			<Text>This should do, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I don&apos;t think this will ever work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>I can&apos;t find a way to make this work.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_HOSTILE_1">
+			<Text>We&apos;ll never back down against you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_HOSTILE_2">
+			<Text>You&apos;re cruel, you know that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_WEAK_HOSTILE_1">
+			<Text>If you think that we&apos;re weak, then we&apos;ll prove you wrong. We&apos;ll fight &apos;'til our very end!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_WEAK_HOSTILE_2">
+			<Text>If it&apos;s against you, we&apos;ll fight until we can no longer move!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Very well, I hope this will be a lesson for you to never underestimate us tools!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_STRONG_HOSTILE_2">
+			<Text>You really hate us that much do you? Even going so far as attacking us when we have the numbers.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_STRONG_HOSTILE_3">
+			<Text>You want to fight that badly? Well I won&apos;t be very merciful, if it&apos;s against you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_STRONG_HOSTILE_4">
+			<Text>I won&apos;t be holding back against you, this is an all out battle.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_EXCITED_1">
+			<Text>Oh my, an unscheduled performance? I&apos;m definitely in!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_EXCITED_2">
+			<Text>Let&apos;s get to it then! Show me what you&apos;ve got!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_EXCITED_3">
+			<Text>I&apos;m ready to make some noise too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_WEAK_EXCITED_1">
+			<Text>An unscheduled performance? I&apos;ll improvise whatever I wasn&apos;t prepared for!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_STRONG_EXCITED_1">
+			<Text>An unscheduled performance? I&apos;ll make sure the whole world can hear our song!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_SAD_1">
+			<Text>It&apos;s sad that it had to come to this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_SAD_2">
+			<Text>Hey, no hard feelings in this battle, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_BETRAYED_1">
+			<Text>But I thought we were friends?</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_LEADER_RAIKO_1">
+			<Text>The time&apos;s come for tools to rise to power! Come, my drummer! Engrave your beat into this very battle!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_LEADER_RAIKO_2">
+			<Text>Now&apos;s the time where we tools will finally get what we deserve. Freedom! I will give your tools the freedom they&apos;ve deserved after many years! Come, my drummer! Let your visionary beat resound throughout the world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_LEADER_RAIKO_3">
+			<Text>We&apos;ve come to save our fellow tools. This feeling may no longer be held back! Come, my drummer! Awaken primal emotions with your soul&apos;s beat!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>I shouldn&apos;t have trusted you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_LAND_1">
+			<Text>It&apos;s getting too crowded here, we need to move into your lands!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_LAND_2">
+			<Text>Our place is becoming junkyard, we gotta move to your territory!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_WORLD_CONQUEST_1">
+			<Text>This will make us one step closer to victory! Come, my drummer! Let your primal beat echo throughout the world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_OPPORTUNITY_1">
+			<Text>This is my time to shine! Come, my drummer! Let your once-in-a-lifetime beat resound!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_OPPORTUNITY_2">
+			<Text>My time to strike has come! Come, my drummer! Use your unknown pulse tonight to make my enemy "beat it"!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_DESPERATE_1">
+			<Text>Well, I don&apos;t have much choice, do I? Let&apos;s do this!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_DESPERATE_2">
+			<Text>We&apos;re backed to a corner, we have no choice but to fight you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_BETRAYAL_1">
+			<Text>I&apos;m sorry, but it looks like we can&apos;t be friends.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_BETRAYAL_2">
+			<Text>While it&apos;s not in my nature to betray people, I will not stand still in the face of your actions!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_WEAK_BETRAYAL_1">
+			<Text>Your nation is about to crumble. I&apos;ll your tools before they turn to dust!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_REGRET_1">
+			<Text>I&apos;m sorry that I had to do this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_DOW_REGRET_2">
+			<Text>I&apos;m sorry, I really wish I could avoid this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WAR_DEMAND_REFUSED_1">
+			<Text>I told you that if you give me what I wanted, this wouldn&apos;t have to happen.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>So, what&apos;s it going to be?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>Well, what do you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>Let&apos;s hear it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>How very kind of you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>Awesome, thanks!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_NO_PEACE_1">
+			<Text>No. We&apos;re not done yet!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_NO_PEACE_2">
+			<Text>It&apos;s not over yet, we must continue this!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TOO_SOON_NO_PEACE_1">
+			<Text>The performance&apos;s just getting started!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Alright.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_PLEASED_2">
+			<Text>Great!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thanks!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Thank you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>Thanks, I&apos;ll remember this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>That sucks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Oh well then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>Aw, okay then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_SO_BE_IT_1">
+			<Text>So be it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_SO_BE_IT_2">
+			<Text>So be it, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_SO_BE_IT_3">
+			<Text>Well, so be it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RETURNED_CIVILIAN_1">
+			<Text>Hey, thanks for returning our lost worker! I&apos;ll remember this!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_CULTURE_BOMBED_1">
+			<Text>Hey! That&apos;s not nice of you! Stealing our land!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>I knew you were eager to fight. We won&apos;t back down against you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>I&apos;ll have to trust you, for now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Very well, a war it is then!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Would you like a marching band to go with your army, then?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>That sucks. I feel bad for your tools.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Good choice, please do not follow them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Ah, well, I gotta get this straight as soon as possible then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_BAD_1">
+			<Text>That sucks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_RESPONSE_BAD_2">
+			<Text>I hope you&apos;ll change your mind.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>Cool. Let&apos;s put this aside, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>Cool. Let&apos;s put this aside, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>Cool. Let&apos;s put this aside, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>Cool. Let&apos;s put this aside, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Cool. Let&apos;s put this aside, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_OUR_WORDS_ARE_BACKED">
+			<Text>We have nukes! It&apos;s best if you guys be nice with each other, okay?</Text>
+		</Row>
+
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_SAME_POLICIES_FREEDOM_1">
+			<Text>You believe in Freedom too? Awesome! All things deserve to be free no matter who or what they are, am I right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_SAME_POLICIES_ORDER_1">
+			<Text>You believe in Order too? Awesome! Working for the greater good is what brings us together, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_SAME_POLICIES_AUTOCRACY_1">
+			<Text>You believe in Autocracy too? Awesome! Let&apos;s be leaders the world would look up too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>We caught your spy sneaking around our territory. Tell all of your spies to leave us alone immediately!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>We caught your spy watching our concerts without a ticket. At least tell your spies to pay for their tickets. Also tell them to not snoop around us, okay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Alright, cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Oh my, that sucks, it seems like we&apos;ll have to tune up our security.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Okay, I&apos;ll tell them to leave you alone.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_STOP_SPYING_NO_1">
+			<Text>I&apos;m sorry, but I need to make sure that you&apos;re not plotting against anyone.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Thanks for warning us about this {@1_CivAdjective} plot. We&apos;ll be prepared.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>We found out that {1_PlayerName} is plotting against you. Please watch your back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>We found out that {1_PlayerName} is planning to attack {2_CityName}. Please watch your back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>We found out that {1_PlayerName} is planning to attack you. Please watch your back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>We found out that {1_PlayerName} is planning to attack {2_CityName} from the sea. Please watch your back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>We found out that {1_PlayerName} is planning to attack from the sea. Please watch your back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_KILLED_YOUR_SPY_1">
+			<Text>Back when I was just a simple taiko drum, I would see all kinds of things, but I&apos;ve always made sure to not spy at people intentionally. You should have assigned your spy as a diplomat instead, but that&apos;s a bit too late now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_KILLED_MY_SPY_1">
+			<Text>I regret sending my agent to spy on you, I am truly sorry about this. I hope you&apos;ll be able to forgive me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>My, you sure got me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_SUSPECT_YOU_OF_SPYING_1">
+			<Text>I would appreciate it if you would stop spying on us. Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_STOP_CONVERSIONS_1">
+			<Text>Hey, I know we&apos;re not very religious, but we need to keep our own religion since it feeds us with the spiritual power we need. Please stop sending your missionaries to us.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>That sucks, but this is what I get for doing something like this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>Thank you, I swear to never repeat this mistake again.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Thanks for being considerate.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>Oh, this is gonna be bad for us...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Okay, we won&apos;t bother your people with missionaries any more.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>No, your people need to know about the importance of tools!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Given up yet?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>We&apos;ll forgive you if you&apos;re gonna surrender.</Text>
+		</Row>
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>You&apos;re gonna do something about it? Then do it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Okay, we&apos;ll put this whole issue aside.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_WE_BULLIED_MINOR_BAD_1">
+			<Text>I&apos;m confident that this is what I&apos;m supposed to do for my friends.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Thank you for understanding that I needed to do this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Sorry, that deal is way too out of our league.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_RAIKO_TRADE_CANT_MATCH_OFFER_2">
+			<Text>I can&apos;t match that offer!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Your proposal to the {1_LeagueName} is awesome! I&apos;m definitely supporting you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Your proposal to the {1_LeagueName} is not cool. I&apos;m sorry but you&apos;ve lost my support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Heya, I&apos;m here to thank you for your support at the {1_LeagueName}. I&apos;ll repay you for this, I promise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>Your support in {1_LeagueName} was a huge help for us. Thank you so much!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>You took part in making my proposal fail at the {1_LeagueName}. I&apos;m not happy with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>My proposal to the {1_LeagueName} failed because of you. Are you trying to be enemies with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Hey, thanks for getting us to be the host of the next World Congress. Together we&apos;ll be the best of partners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_RESPONSE_STOP_DIGGINGX_1">
+			<Text>Are you trying to rescue lost artifacts too? While that&apos;s great, I think you should just leave this to me, especially when they are in my territory, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>Sorry, but no. I must continue to rescue lost artifacts!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>Alright, alright! I&apos;ll stop digging up your artifacts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Oh my, seems like I&apos;ll have a rival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Thank you for understanding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>Everyone wants Freedom here, said that they were inspired by you. It will be disasterous if everyone was completely free, you know!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>Everyone wants Order here, said they were inspired by you. Solos will disappear if everyone was to work together all the time, you know!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>Everyone wants Autocracy here, said they were inspired by you. The conductor isn&apos;t the one who controls the entire flow of music, you know!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Your people are crying out for Freedom. You should just let them express their thoughts and feelings!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>Your people are crying out for Order. You should unite them together so that they may build a better future!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Your people are crying out for Autocracy. You should be that one leader who will lead them to greatness!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_SWITCHED_TO_FREEDOM_1">
+			<Text>Hey, you switched to Freedom. Awesome! All things deserve to be free no matter who or what they are, am I right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_SWITCHED_TO_ORDER_1">
+			<Text>Hey, you switched to Order. Awesome! Working for the greater good is what brings us together, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_SWITCHED_TO_AUTOCRACY_1">
+			<Text>Hey, you switched to Autocracy. Awesome! Let&apos;s be leaders the world would look up too!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_INFLUENTIAL_ON_AI_1">
+			<Text>Oh my, we no longer have our own culture... I worry that everyone else will suffer the same fate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RAIKO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Hey, I love how you are now taking good care of your tools. They&apos;ll definitely be great tsukumogami!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

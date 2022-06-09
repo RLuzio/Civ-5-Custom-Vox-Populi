@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/7/2015 1:25:19 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SHINMYOUMARU">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SHINMYOUMARU_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SHINMYOUMARU">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SHINMYOUMARU_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SHINMYOUMARU">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SHINMYOUMARU_DECLAREWAR%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

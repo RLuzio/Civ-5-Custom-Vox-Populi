@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 9:53:37 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_FANTASY_NATURE</Type>
+			<Description>TXT_KEY_TRAIT_FANTASY_NATURE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_FANTASY_NATURE_SHORT</ShortDescription>
+			<NoAnnexing>true</NoAnnexing>
+			<FreeUnit>UNITCLASS_GREAT_GENERAL</FreeUnit>
+			<FreeUnitPrereqTech>TECH_PHILOSOPHY</FreeUnitPrereqTech>
+		</Row>
+	</Traits>
+	<Trait_NoTrain>
+		<Row>
+			<TraitType>TRAIT_FANTASY_NATURE</TraitType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+		</Row>
+	</Trait_NoTrain>
+	<Policies>
+		<Row>
+			<Type>POLICY_HAKUREI_YOUKAI_HUNTER</Type>
+			<Description>TXT_KEY_POLICY_HAKUREI_YOUKAI_HUNTER</Description>
+			<GoldFromKills>100</GoldFromKills>
+		</Row>
+	</Policies>
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/26/2013 6:37:53 PM -->
+<GameData>
+	<Audio_Sounds>
+
+		<!--Keine Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KEINE_PEACE</SoundID>
+			<Filename>KeinePeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KEINE_WAR</SoundID>
+			<Filename>KeineWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Keine Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Keine Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KEINE_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KEINE_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KEINE_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KEINE_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Keine Music-->
+	</Audio_2DSounds>
+
+
+</GameData>

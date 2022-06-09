@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/12/2016 12:07:01 AM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_MATHALX_TENKO_PEACE</SoundID>
+			<Filename>Tenko_Peace</Filename>
+			<LoadType>Streamed</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_MATHALX_TENKO_WAR</SoundID>
+			<Filename>Tenko_War</Filename>
+			<LoadType>Streamed</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_MATHALX_TENKO_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MATHALX_TENKO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_MATHALX_TENKO_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MATHALX_TENKO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_MATHALX_TENKO_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_LEADER_HIAWATHA_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>25</MinVolume>
+			<MaxVolume>25</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

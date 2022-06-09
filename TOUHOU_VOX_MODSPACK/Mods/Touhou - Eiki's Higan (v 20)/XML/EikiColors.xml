@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2016 10:32:47 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_HIGAN_BACKGROUND</Type>
+			<Red>0.2196</Red>
+			<Green>0.2039</Green>
+			<Blue>0.5868</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_HIGAN_ICON</Type>
+			<Red>0.0980</Red>
+			<Green>0.5608</Green>
+			<Blue>0.3725</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_HIGAN</Type>
+			<PrimaryColor>COLOR_PLAYER_HIGAN_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_HIGAN_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

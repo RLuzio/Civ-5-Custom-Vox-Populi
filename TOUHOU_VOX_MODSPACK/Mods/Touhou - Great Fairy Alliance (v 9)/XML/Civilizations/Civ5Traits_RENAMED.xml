@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2013 4:45:56 PM -->
+<GameData>
+	-<Traits>
+		-<Row>
+			<Type>TRAIT_FAIRY_WARS</Type>
+			<Description>TXT_KEY_TRAIT_FAIRY_WARS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_FAIRY_WARS_SHORT</ShortDescription>
+			<LandUnitMaintenanceModifier>100</LandUnitMaintenanceModifier>
+			<NavalUnitMaintenanceModifier>100</NavalUnitMaintenanceModifier>
+			<FreeBuilding>BUILDING_FAIRY_COMMAND</FreeBuilding>
+		</Row>
+	</Traits>
+  
+</GameData>

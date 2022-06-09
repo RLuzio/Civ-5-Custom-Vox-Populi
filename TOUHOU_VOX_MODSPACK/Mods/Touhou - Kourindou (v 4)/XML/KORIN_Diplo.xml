@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_DEFEATED</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_DEFEATED%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_GREETING_POLITE_HELLO%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_GREETING_NEUTRAL_HELLO%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_GREETING_HOSTILE_HELLO%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_EXPANSION_SERIOUS_WARNING%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_REQUEST</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_RESPONSE_REQUEST%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_LUXURY_TRADE%</Response>
+	</Row>
+	<Row LeaderType="LEADER_RINNOSUKE">
+		<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+		<Response>TXT_KEY_LEADER_RINNOSUKE_OPEN_BORDERS_EXCHANGE%</Response>
+	</Row>
+		</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_1">
+			<Text>Welcome to Kourindow! I am Rinnosuke Morichika...do we have business together today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_2">
+			<Text>Welcome traveller, I am Rinnosuke Morichika of Kourindou. What brings you to my fair Shop?</Text>
+		</Row>
+		<!--Reacts to his bluff being called -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_1">
+			<Text>I have little concern for such obvious bluster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_2">
+			<Text>My experience tells me that you are not as confident as you appear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_3">
+			<Text>You are playing a dangerous game.</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WINWAR_1">
+			<Text>It's a wonderful feeling when a plan finally comes to fruition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WINWAR_2">
+			<Text>It's a wonderful feeling when a plan finally comes to fruition.</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LOSEWAR_1">
+			<Text>This was but one one of my many plans, you haven't seen the last of me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LOSEWAR_2">
+			<Text>This was but one one of my many plans, you haven't seen the last of me!</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_1">
+			<Text>A miscalculation on my part...it won't be repeated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_2">
+			<Text>Occasionally my ambitions get the better of me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_3">
+			<Text>What can I say...some dreams prosper, others are squashed.</Text>
+		</Row>
+
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_1">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_2">
+			<Text>Hello!</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_1">
+			<Text>Be gone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_2">
+			<Text>That is all.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_NEUTRAL">
+			<Text>I concur.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>I'm afraid that won't be possible as offered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can you do a little better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Almost...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>That’s not quite good enough. </Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_NEUTRAL">
+			<Text>That wouldn't be in my best interests.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_NEUTRAL">
+			<Text>Agreed.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_NEUTRAL">
+			<Text>I have no time to consider such things.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_NEUTRAL">
+			<Text>This offer will not be open long…think about it.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_NEUTRAL">
+			<Text>It's a reasonable request…think it over.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_1">
+			<Text>All right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_2">
+			<Text>Very Well.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_1">
+			<Text>I must refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_2">
+			<Text>No, of course not.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_1">
+			<Text>Let's hear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_2">
+			<Text>Go ahead.</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_3">
+			<Text>Greetings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_4">
+			<Text>Well?</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_3">
+			<Text>Our business here is done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_4">
+			<Text>Goodbye.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_HAPPY">
+			<Text>Of course! I'm always open to a fair trade.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Your terms could be slightly more favorable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Is that the best you can do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_3">
+			<Text>You're almost there...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_HAPPY">
+			<Text>My generosity has it's limits, even amongst friends.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_HAPPY">
+			<Text>I always look after my friends.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_HAPPY">
+			<Text>I cannot afford to be so generous.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_HAPPY">
+			<Text>Put your trust in my expertise...it's a lucrative offer.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_HAPPY">
+			<Text>In the spirit of friendship, could you do me this favor?</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_3">
+			<Text>Certainly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_4">
+			<Text>It is agreed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_5">
+			<Text>Excellent.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_3">
+			<Text>Certainly not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_4">
+			<Text>We must decline.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_3">
+			<Text>I'm listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_4">
+			<Text>Yes?</Text>
+		</Row>
+
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_5">
+			<Text>What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_6">
+			<Text>What do you want?</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_5">
+			<Text>That is all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_6">
+			<Text>We are done here.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_ANGRY">
+			<Text>It pains me to trade with the likes of you.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Proposterous! Have you forgotten who you are speaking with?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_2">
+			<Text>That will not be enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_3">
+			<Text>You must do better than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_4">
+			<Text>What an insulting proposal.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_ANGRY">
+			<Text>I do not trade with lowly humans!</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_ANGRY">
+			<Text>You risk much by asking for such a thing…but I will comply, this time.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_ANGRY">
+			<Text>You must be mistaken, why would I ever consider that?</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_ANGRY">
+			<Text>Trading with me might elevate your measly status in this world...</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_ANGRY">
+			<Text>Trust me...It would be unwise of you to deny me this request.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_5">
+			<Text>I beg your pardon?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_6">
+			<Text>That's unacceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_7">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_5">
+			<Text>You were saying?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_1">
+			<Text>I've weighed my options carefully...and war with you should pay out nicely!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_2">
+			<Text>I had a number of plans in mind…but in this case, war is the simplest means to an end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_3">
+			<Text>With you gone, there's so much more for me!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_1">
+			<Text>You've revealed your assets too soon my friend!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_2">
+			<Text>Do you think I was unprepared for this eventuality?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_3">
+			<Text>Your recklessness will be your undoing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KORINDOU_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your antique goods and reading to your Curiosities of Lotus Asia. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_KO_KR>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_1">
+			<Text>좋소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_2">
+			<Text>아주 좋소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_3">
+			<Text>물론이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_4">
+			<Text>동의하겠소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_5">
+			<Text>훌륭하오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_1">
+			<Text>자산을 너무 일찍 공개했소, 친구!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_2">
+			<Text>내가 전혀 대비를 안 했다고 생각하시오?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_3">
+			<Text>그렇게 무모하게 굴다가 망하게 될 거요.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_1">
+			<Text>아무리 고심해도 당신과 전쟁을 하면 남는 장사가 될 것 같소!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_2">
+			<Text>사실, 계획이야 많지만 당신과는 간단하게 전쟁으로 해결하겠소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_3">
+			<Text>당신이 사라지면 내게는 이득이지!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_1">
+			<Text>내가 잘못 계산했군... 이런 실수는 이제 없을 거요.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_2">
+			<Text>가끔 야망에 눈이 멀 때가 있지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_3">
+			<Text>흥하는 자가 있으면 망하는 자도 있기 마련이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_ANGRY">
+			<Text>내 말 들으시오. 이 제안을 거절하는 건 지혜롭지 못한 행동이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_HAPPY">
+			<Text>우리 우정을 위해 내 부탁을 들어주시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_NEUTRAL">
+			<Text>합리적인 제안이라고 생각하오. 한 번 생각해보시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_1">
+			<Text>거절하겠소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_2">
+			<Text>당연히 거절이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_3">
+			<Text>물론 안 될 일이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_4">
+			<Text>거절하겠소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_5">
+			<Text>뭐라고 했소?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_6">
+			<Text>받아들일 수 없소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_7">
+			<Text>지금 농담하시오?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_1">
+			<Text>향림당에 온 걸 환영하오. 나는 모리치카 린노스케 점장이오... 우리와 거래하고 싶으시오?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_2">
+			<Text>안녕하시오, 여행자. 난 모리치카 린노스케. 향림당에는 무슨 일로 왔소?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_1">
+			<Text>그만 가보시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_2">
+			<Text>이상이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_3">
+			<Text>용무는 끝났소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_4">
+			<Text>잘 가시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_5">
+			<Text>그럼 이만.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_6">
+			<Text>볼일은 다 끝난 것 같소만.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_1">
+			<Text>환영합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_2">
+			<Text>안녕하시오!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_3">
+			<Text>어서 오시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_4">
+			<Text>음?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_5">
+			<Text>무엇을 원하시오?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_6">
+			<Text>무엇을 원하시오?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_1">
+			<Text>말해 보시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_2">
+			<Text>들어봅시다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_3">
+			<Text>듣고 있소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_4">
+			<Text>음?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_5">
+			<Text>뭐라고 하셨소?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LOSEWAR_1">
+			<Text>이거 하나로 내가 끝났다고 생각하면 오산이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LOSEWAR_2">
+			<Text>이거 하나로 내가 끝났다고 생각하면 오산이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_1">
+			<Text>어처구니가 없군! 누구에게 말하는지 생각하고 입을 여시오!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_2">
+			<Text>충분하지 않소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_3">
+			<Text>좀 더 나은 제안을 해야 할 것이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_4">
+			<Text>모욕적인 제안이군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_1">
+			<Text>조건을 조금 완화하면 어떻겠소?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_2">
+			<Text>이게 최선이오?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_3">
+			<Text>거의 합의점에 도달한 것 같군...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>조금 더 매력적인 제안은 없소?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>좀 더 나은 제안을 해 보시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>뭔가 살짝 아쉽군...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>조금 부족하오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_ANGRY">
+			<Text>인간과는 거래하지 않겠소!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_HAPPY">
+			<Text>내 관대함에도 분명 한계는 있소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_NEUTRAL">
+			<Text>향림당에서는 손해 보는 장사는 하지 않소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_ANGRY">
+			<Text>당신 같은 부류와 거래하다니, 모욕적이군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_HAPPY">
+			<Text>물론이오! 공정한 거래는 언제든 환영이오!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_NEUTRAL">
+			<Text>동의하겠소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_ANGRY">
+			<Text>우리와 거래하면 그쪽의 주가가 조금은 올라가지 않을까 싶소...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_HAPPY">
+			<Text>장사라면 내가 전문가요... 이건 남는 장사요.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_NEUTRAL">
+			<Text>시간이 별로 없으니 서둘러 결정하시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_ANGRY">
+			<Text>실수한 것 같은데... 당신 제안은 검토할 가치도 없소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_HAPPY">
+			<Text>너무 많은 걸 요구하는군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_NEUTRAL">
+			<Text>이런 일에 낭비할 시간이 없소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_ANGRY">
+			<Text>이렇게 나오면 신상에 좋지 않은 줄 알면서... 이번에는 요구를 들어주겠소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_HAPPY">
+			<Text>곤경에 빠진 친구는 도와야지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_NEUTRAL">
+			<Text>동의하오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_1">
+			<Text>너무 뻔한 협박이라 신경 쓰고 싶지도 않군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_2">
+			<Text>당신은 허세를 부리고 있소. 보면 알지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_3">
+			<Text>위험한 도박을 하는군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WINWAR_1">
+			<Text>공든 일이 결실을 맺을 때의 기분은 다른 것과 비교할 수 없지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WINWAR_2">
+			<Text>공든 일이 결실을 맺을 때의 기분은 다른 것과 비교할 수 없지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KORINDOU_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 당신네 골동품을 사들이며 동방향림당을 즐겨 읽고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_KO_KR>
+	<Language_JA_JP>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_1">
+			<Text>よかろう。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_2">
+			<Text>あいわかった。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_3">
+			<Text>よいとも。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_4">
+			<Text>同意しよう。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_AGREE_SHORT_5">
+			<Text>結構。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_1">
+			<Text>資産を明かすのが早すぎだぞ、友よ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_2">
+			<Text>このような結果を僕が予測していなかったとでも？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_ATTACKED_3">
+			<Text>その向こう見ずさが命取りだ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_1">
+			<Text>選択肢を慎重に吟味してみたのだが…貴公との戦が最も多くの利を得られよう！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_2">
+			<Text>我が脳裏にはいくつもの策がある。だが今回は、戦こそが問題解決の最も単純な手段だ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DECLAREWAR_3">
+			<Text>貴公がいなくなれば、私の取り分が増えるというものだ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_1">
+			<Text>計算違いをしていたか…次からは間違わぬぞ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_2">
+			<Text>時おり野心に目を曇らされるのが私の欠点だな。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEFEATED_3">
+			<Text>叶う夢もあれば叶わぬ夢もある。そういうことか…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_ANGRY">
+			<Text>言うとおりにしたまえ。僕の要求を拒むのは賢明とは言えんぞ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_HAPPY">
+			<Text>我らの友情に免じて、言うとおりにしてくれぬか？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DEMANDTRIBUTE_NEUTRAL">
+			<Text>妥当な要求のはずだ。よく考えたまえ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_1">
+			<Text>断固として断る。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_2">
+			<Text>もちろん、断る。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_3">
+			<Text>冗談ではない。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_4">
+			<Text>断らせてもらう。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_5">
+			<Text>もう一度言ってくれぬか？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_6">
+			<Text>話にならん。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_DISAGREE_SHORT_7">
+			<Text>本気ではあるまい？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_1">
+			<Text>ようこそ、香霖堂へ！　僕は店主の森近霖之助。して、今日は商用かな？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_2">
+			<Text>ようこそ、旅の方。僕は香霖堂の森近霖之助。この街へはどのような用で？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_FIRSTGREETING_3">
+			<Text>僕は香霖堂店主の森近霖之助。商いで来られたのかな？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_1">
+			<Text>去れ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_2">
+			<Text>もう結構だ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_3">
+			<Text>用件は終わりだ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_4">
+			<Text>さらばだ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_5">
+			<Text>では、これにて。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GOODBYE_6">
+			<Text>話は終わりだ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_1">
+			<Text>ようこそ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_2">
+			<Text>これはこれは！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_3">
+			<Text>やあやあ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_4">
+			<Text>はて？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_5">
+			<Text>して、用件は？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_GREETING_6">
+			<Text>して、用件は？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_1">
+			<Text>伺おう。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_2">
+			<Text>先を続けられよ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_3">
+			<Text>聞いておるとも。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_4">
+			<Text>ふむ？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LETSHEARIT_5">
+			<Text>それで？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LOSEWAR_1">
+			<Text>これも僕にとっては計画のうち。とどめを刺したなどとは思わぬことだ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_LOSEWAR_2">
+			<Text>これも僕にとっては計画のうち。とどめを刺したなどとは思わぬことだ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_1">
+			<Text>冗談ではない！　この私を誰だと思っているのだ？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_2">
+			<Text>とても足りん。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_3">
+			<Text>話にならんな。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_ANGRY_4">
+			<Text>これっぽちとは、なんたる侮辱。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_1">
+			<Text>もう少し良い条件にすることもできないことはなかろう？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_2">
+			<Text>これが精一杯か？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_HAPPY_3">
+			<Text>後ほんの少し…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>もう少しだけ色をつけることはできないのか？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>もう少し何とかならんのか？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>もう一声…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>少し物足りないな。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_ANGRY">
+			<Text>卑しい小物とは取引せんのだ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_HAPPY">
+			<Text>僕の気前の良さにも限りがあるさ。たとえ相手が友でもな。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_NO_NEUTRAL">
+			<Text>僕にとってあまり良い話ではなさそうだ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_ANGRY">
+			<Text>貴様のような相手と取引とは、腹立たしい。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_HAPPY">
+			<Text>公平な取引はもちろんいつでも大歓迎だ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADE_YES_NEUTRAL">
+			<Text>よかろう。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_ANGRY">
+			<Text>僕と取引すれば、貴公を見る世間の目も少しは変わるかもしれんぞ…</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_HAPPY">
+			<Text>僕を信用したまえ。必ず儲かるから。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRADEREQUEST_NEUTRAL">
+			<Text>そう長くは待てんぞ。早く決めたまえ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_ANGRY">
+			<Text>勘違いしているようだな。想定外の事態だ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_HAPPY">
+			<Text>そこまで太っ腹にはなれんよ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_NO_NEUTRAL">
+			<Text>検討する価値さえない話だ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_ANGRY">
+			<Text>こんな要求をするとは、危険な賭けに出たものだ。だが、今回だけは呑んでやろう。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_HAPPY">
+			<Text>友の頼みだ、聞こうではないか。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_TRIBUTE_YES_NEUTRAL">
+			<Text>わかった。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_1">
+			<Text>そんなあからさまなはったり、気にとめる価値すらない。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_2">
+			<Text>僕の目は誤魔化されんぞ。内心ではびくびくしているのだろう？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WARBLUFF_3">
+			<Text>貴公、危険な遊びをしているぞ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WINWAR_1">
+			<Text>長年の計画が結実する瞬間の気持ちはえもいわれぬものだ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_WINWAR_2">
+			<Text>長年の計画が結実する瞬間の気持ちはえもいわれぬものだ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KORINDOU_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は貴国の骨とう品を買い、東方香霖堂を読んでいる。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_JA_JP>
+</GameData>

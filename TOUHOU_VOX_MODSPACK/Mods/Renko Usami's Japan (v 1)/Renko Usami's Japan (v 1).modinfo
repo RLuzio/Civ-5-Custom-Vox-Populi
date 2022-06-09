@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="46489503-edec-44af-9390-ad683c52cc1f" version="1">
+  <Properties>
+    <Name>Renko Usami's Japan</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Renko Usami from Touhou Project as leader of Japan</Teaser>
+    <Description>Adds Renko Usami from Touhou Project as leader of Japan
+[NEWLINE][NEWLINE]
+UA: Neo Super Express
+[NEWLINE]
+Road and Railroad tile maintenance is reduced by 75%. [ICON_CONNECTED] City Connections provide 15% [ICON_PRODUCTION] Production and +1 [ICON_HAPPINESS_1] Happiness to the connected city.
+[NEWLINE][NEWLINE]
+UU: Shikigami
+[NEWLINE]
+Replaces Workers. They are 25% more efficient than regular Workers.
+[NEWLINE][NEWLINE]
+UB: Occult Library
+[NEWLINE]
+Replaces Libraries. Provides +2 [ICON_CULTURE] Culture and 1 Great work of Writing slot in addition to [ICON_RESEARCH] Science bonuses.</Description>
+    <Authors>Wifi_LC</Authors>
+    <SpecialThanks>ZUN (Team Shanghai Alice), Dariri</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="850753DFCAB6152A2734BA1E261C5CAE" import="1">assets/art/Usami_Renko_Alpha128.dds</File>
+    <File md5="9A96C4DA0A92BD183CFE179A2417C8CF" import="1">assets/art/Usami_Renko_Alpha16.dds</File>
+    <File md5="BFC64959281EDFF19E87EF6E25D90286" import="1">assets/art/Usami_Renko_Alpha24.dds</File>
+    <File md5="5CA71574CA1D7553A48A58C4E9E7058B" import="1">assets/art/Usami_Renko_Alpha32.dds</File>
+    <File md5="56949B3E6C1C1A7DC1D04413F3611FC2" import="1">assets/art/Usami_Renko_Alpha48.dds</File>
+    <File md5="3ED35D7F4FFD627A5E312CE00EB948B6" import="1">assets/art/Usami_Renko_Alpha64.dds</File>
+    <File md5="341775A501B0DC0CB9AACDB0F4D806F2" import="1">assets/art/Usami_Renko_IconAtlas128.dds</File>
+    <File md5="AE21F79E05F4EFD6DE4AE2F7D523B288" import="1">assets/art/Usami_Renko_IconAtlas32.dds</File>
+    <File md5="1587A368F7CBAA6A0CE0AE954D014D78" import="1">assets/art/Usami_Renko_IconAtlas45.dds</File>
+    <File md5="309F830BA8C6DC71C03DD927415EAFD4" import="1">assets/art/Usami_Renko_IconAtlas64.dds</File>
+    <File md5="9866168899681401DE1464BE0699D837" import="1">assets/art/Usami_Renko_IconAtlas80.dds</File>
+    <File md5="AB47D7B5A8533281C0424D60B1C9E379" import="1">assets/art/DOM_UsamiRenko.dds</File>
+    <File md5="42E9E3E961F2540F18D02BA557D30812" import="1">assets/art/Usami_Renko_IconAtlas256.dds</File>
+    <File md5="8A7C7A72A3B288AAD8555CDEC858C830" import="1">assets/art/UsamiRenko_Scene_Afraid.dds</File>
+    <File md5="738F6A1FD9102E200F4CE5D1F03BF9C6" import="1">assets/art/UsamiRenko_Scene_Defeat.dds</File>
+    <File md5="414CC86DC58BCEA2A0CBCF5DD5DB8D5D" import="1">assets/art/UsamiRenko_Scene_Friendly.dds</File>
+    <File md5="0A58A9913E159C927EA79EA7D8017067" import="1">assets/art/UsamiRenko_Scene_Hostile.dds</File>
+    <File md5="BD059C20758499CFC2DA50059397D949" import="1">assets/art/UsamiRenko_Scene_Guarded.dds</File>
+    <File md5="95A4A02D06BA9181D3D457D27904102F" import="1">assets/art/Usami_Renko_MapJapan.dds</File>
+    <File md5="A703C91F371979F22E7E38A29BC3DFEB" import="1">assets/art/Usami_Renko_UnitFlag32.dds</File>
+    <File md5="C91B4034476F3FD25EEB34B1FA5B370B" import="1">assets/art/UsamiRenko_Scene.dds</File>
+    <File md5="181CAFFDA2CE68D0407F16C445569CA6" import="1">assets/music/SSC_Peace1.mp3</File>
+    <File md5="27551B28F8E5B9A420ADC627884DF59F" import="1">assets/music/SSC_Peace2.mp3</File>
+    <File md5="B4356F45E6D018E12420532BE2B55647" import="1">assets/music/SSC_Peace3.mp3</File>
+    <File md5="41241EB348AD6EDAEB2A772D81530938" import="1">assets/music/SSC_Peace4.mp3</File>
+    <File md5="83F8F4D321224F0DD28CD24ABF01AB08" import="1">assets/music/SSC_Peace5.mp3</File>
+    <File md5="5CC6FF6690879C3543A05B11440D9F3E" import="1">assets/music/SSC_Peace6.mp3</File>
+    <File md5="83BC54E7B97AF9E8E5306DD7F0CB1716" import="1">assets/music/SSC_Peace7.mp3</File>
+    <File md5="9FF475F348FF1C96B2D977F2916BE7F3" import="1">assets/music/SSC_Peace8.mp3</File>
+    <File md5="8FA888AB555874E7DFB8E42AF0574680" import="1">assets/music/SSC_Peace9.mp3</File>
+    <File md5="0D2337ED9BFC7B1B87746F0E0E87EDFB" import="1">assets/music/SSC_War1.mp3</File>
+    <File md5="7C21784B247246CAE5B46E8D283BA5F2" import="1">assets/music/SSC_War2.mp3</File>
+    <File md5="324D6EE07243B5EF1E62A9AF1973768D" import="1">assets/music/SSC_War3.mp3</File>
+    <File md5="E4115A2CC6B80E256D6E15587A79B619" import="1">assets/music/SSC_War4.mp3</File>
+    <File md5="57FAA1BA80638A17AEEA6983385B364E" import="1">assets/music/SSC_War5.mp3</File>
+    <File md5="00AC79D3CDC169860AB4EA027F0FF391" import="1">assets/music/SSC_War6.mp3</File>
+    <File md5="302134E6228AED2F98025EB1E1867193" import="1">assets/music/SSC_War7.mp3</File>
+    <File md5="746C6E87AF367DA98155F13BED27008B" import="0">src/lua/CityConnectionEvents.lua</File>
+    <File md5="2DAA50456CDC5A75740268D2299884B5" import="1">src/lua/VVLeaderHeadImageOverride.lua</File>
+    <File md5="C567330B4352A772AD1B0E3B30C76386" import="0">src/lua/Trait.lua</File>
+    <File md5="A0F4D10153946A4C0B1234422518BF58" import="0">src/xml/BNW_Updates.xml</File>
+    <File md5="5D6C4D61F5236423E05775FBAE69EF9C" import="0">src/xml/Diplomacy.sql</File>
+    <File md5="B27CD12E36C949E3FFA66C0BFC018F82" import="0">src/xml/Diplomacy.xml</File>
+    <File md5="FB8C1A7D0EA66D23FD3729522EE1192C" import="0">src/xml/Music.xml</File>
+    <File md5="01326AAA3F03CDF6CD96CB0DB9A2A4FB" import="0">src/xml/VVLeaderHeadImageOverride.xml</File>
+    <File md5="BB4B750641243264B5C8740ADC38DD6E" import="0">src/xml/IconAtlas.xml</File>
+    <File md5="0BDC47FFBACFCEB06AA50B12AD6D6FEF" import="0">src/xml/Trait_Building.xml</File>
+    <File md5="AE86269A4B346ABCD29A2B74C39BA347" import="0">src/xml/UB_Building.xml</File>
+    <File md5="3E7E21B7E67B586A9A5BD5902683282B" import="0">src/xml/Civilization.xml</File>
+    <File md5="6F6AC2A3198577447A6CE829954884B4" import="0">src/xml/Leader.xml</File>
+    <File md5="FCF7294B4F7DF42551225DA0F1DDD656" import="0">src/xml/Trait.sql</File>
+    <File md5="24B3B8958820D754886FD2A882F25386" import="0">src/xml/Trait.xml</File>
+    <File md5="4A69F9E26818521E42041B05F2278167" import="0">src/xml/Unit.xml</File>
+    <File md5="02795F2DBCE5DC46A073D41DCE6DC545" import="0">src/xml/UsamiRenko_Scene.xml</File>
+    <File md5="72DD0AFD5AFC86E80E6A52D82C552A5E" import="0">src/xml/VV_LeaderSceneChanger.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>src/xml/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Music.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Trait.sql</UpdateDatabase>
+      <UpdateDatabase>src/xml/BNW_Updates.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Trait_Building.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/VV_LeaderSceneChanger.sql</UpdateDatabase>
+      <UpdateDatabase>src/xml/UsamiRenko_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Unit.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/UB_Building.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>src/xml/Diplomacy.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="src/lua/CityConnectionEvents.lua">
+      <Name>CityConnectionEvents</Name>
+      <Description>CityConnectionEvents script</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="src/lua/Trait.lua">
+      <Name>Trait</Name>
+      <Description>Trait script</Description>
+    </EntryPoint>
+    <EntryPoint type="DiplomacyUIAddin" file="src/xml/VVLeaderHeadImageOverride.xml">
+      <Name>LeaderSceneOverride</Name>
+      <Description>Overrides leader screens based on status</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

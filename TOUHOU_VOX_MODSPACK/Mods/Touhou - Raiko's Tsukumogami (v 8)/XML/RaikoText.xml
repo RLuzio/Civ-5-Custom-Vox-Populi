@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/3/2017 4:29:20 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TSUKUMOGAMI_ADJECTIVE">
+			<Text>Tsukumogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSUKUMOGAMI_DESC">
+			<Text>The Tsukumogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TSUKUMOGAMI_SHORT_DESC">
+			<Text>The Tsukumogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO">
+			<Text>Horikawa Raiko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PRISTINE_BEATS">
+			<Text>During each of your 4th turn, units heal at double rate, even if it performs an action. Gain [ICON_RESEARCH] Science equal to your output each time a [ICON_GREAT_PEOPLE] Great Person is expended, twice if it is a Great Writer, Great Artist, or Great Musician.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PRISTINE_BEATS_SHORT">
+			<Text>Pristine Beats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TSUKUMOGAMI_TITLE">
+			<Text>The Tsukumogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TSUKUMOGAMI_TEXT">
+			<Text>
+				Greetings, Horikawa Raiko, the enlightened tsukumogami. Your thundering beats will echo through the skies of Gensokyo.
+				[NEWLINE][NEWLINE]A sudden incident has caused you to become vengeful upon those who have used you, granting you strong magical powers. However, not forgetting that those who have used you in the past have respected you, you were wise to realize that the source of this power was from a dangerous artifact, the Miracle Mallet. Not wanting to risk losing your freedom should the power disappear, nor wanting to enact vengeance on your past users, you took a huge risk and bounded your spirit into another drum from the Outside World. This action led you to be cleansed from the Miracle Mallet&apos;s power, while still retaining your freedom. You quickly rallied your fellow tsukumogami who were influenced by the Miracle Mallet to do the same. Ever since then, you now work hard to make a paradise where tools may live freely forever.
+				[NEWLINE][NEWLINE]Raiko, will you continue to work for a better future? Will all tools be able to live freely and away from oppression and abuse? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KARAKASA_OBAKE">
+			<Text>Karakasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KARAKASA_OBAKE_TEXT">
+			<Text>The karakasa obake are the tsukumogami of umbrellas. They spend most of their spend taking revenge on those who have abandoned them, by surprising them. Most of the time they are considered rather harmless. Some are known to be great blacksmiths, claiming to be related to another youkai called the Ippon-Datara. Whether or not this is true, the well crafted oversized needles they make are sometimes used as weapons by them, should they ever need to defend themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KARAKASA_OBAKE_STRATEGY">
+			<Text>The Karakasa Obake is a unique unit for the Tsukumogami, replacing the Pikeman. It is more powerful than the Pikeman, has the Cover I promotion, and is invisible inside forests and jungles unless it is adjacent to an enemy. It upgrades to Rifleman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KARAKASA_OBAKE_HELP">
+			<Text>Pikeman unit. Only the Tsukumogami may produce them. It has more [ICON_STRENGTH] Combat Strength, Cover I, and invisibility while in forest or jungle tiles, unless it is adjacent to an enemy. It also upgrades to Rifleman, instead of Lancer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MENREIKI">
+			<Text>Menreiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MENREIKI_TEXT">
+			<Text>The menreiki is a type of youkai in Japanese folklore, composed of Gigaku masks. Menreiki are more akin to the collective tsukumogami of a mask. There isn't much information on their powers, exceptional strengths, or ways to defeat them. The only example of a menreiki in Gensokyo is Hata no Kokoro, the tsukumogami of a set of masks once created by Toyosatomimi no Miko. Her masks were her way of expressing and possessing emotions and if she loses even one, there's the risk of the others going out of control. She appears innately skillful in various Noh plays.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MENREIKI_STRATEGY">
+			<Text>The Menreiki is a unique unit for the Tsukumogami, replacing the Lancer. It is more powerful than the Lancer, has the Charge promotion instead of Formation, and a promotion that is randomized at the start of each turn, giving unique bonuses. Unlike the Lancer, it is not mounted. It upgrades to Great War Infantry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MENREIKI_HELP">
+			<Text>Melee unit. Only the Tsukumogami may produce them. It is available after researching Architecture instead of Metallurgy. It has more [ICON_STRENGTH] Combat Strength, Charge, and a promotion that is randomized at the start of each turn. It is also not mounted, and does not suffer its usual bonuses and penalties. It also upgrades to Great War Infantry, instead of Anti-Tank Gun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOUKEN_DANSHI">
+			<Text>Toudan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOUKEN_DANSHI_DUMMY">
+			<Text>Toudan (Placeholder - Do not use)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOUKEN_DANSHI_TEXT">
+			<Text>The touken danshi, shortened as toudan, are gods of swords created from ancient spirit and techniques that are given human form. Since they are gods, saniwas, priests with the ability to manifest the hearts of objects, are beings that are beneath them. However at the same time, the saniwas are the masters of the swords. To the touken danshi, compared to their own ranking, the ones who own their blades are more important, hence they call the saniwa, Master. This toudan is based on Mikazuki Munechika.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOUKEN_DANSHI_STRATEGY">
+			<Text>The Toudan is a unique unit for the Tsukumogami, available after enacting the "Search for Other Artifact Spirits" decision. When compared to the Longswordsman, it is more powerful, has the Medic promotion, heals damage and earns [ICON_FAITH] Faith when it kills an enemy Unit. However, it may only be built in a city with a Forge. It also upgrades to Rifleman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOUKEN_DANSHI_HELP">
+			<Text>Melee unit. Only the Tsukumogami may produce them, but only after enacting the "Search for Other Artifact Spirits" decision and only in cities with a Forge. Its [ICON_STRENGTH] Combat Strength is larger than the Longswordsman. It also has the Medic promotion, and will heal and grant [ICON_FAITH] Faith when it kills an enemy Unit. It also upgrades to Rifleman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KANTAI_MUSUME">
+			<Text>Kanmusu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KANTAI_MUSUME_DUMMY">
+			<Text>Kanmusu (Placeholder - Do not use)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KANTAI_MUSUME_TEXT">
+			<Text>The kantai musume, shortened as kanmusu, are the living embodiment of World War II warships tasked with protecting humanity from the Abyssal Fleet, a fleet of alien warships that intend to destroy all of humanity. Although it is not clear whether or not they are tsukumogami, since their origins are as mysterious as the Abyssal Fleet itself, they are sometimes considered as one. A fleet of kanmusu is led by the Teitoku, meaning admiral. The Teitoku is often loved and adored by the kanmusu they lead. This kanmusu is based on Yamato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KANTAI_MUSUME_STRATEGY">
+			<Text>The Kanmusu is a unique unit for the Tsukumogami, available after enacting the "Search for Other Artifact Spirits" decision. When compared to the Battleship, it is much more powerful, has the Armor Plating promotion, Supply promotion and grants [ICON_RESEARCH] Science when it kills an enemy Unit. However, it requires more resources, and costs more [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KANTAI_MUSUME_HELP">
+			<Text>Naval unit. Only the Tsukumogami may produce them, but only after enacting the "Search for Other Artifact Spirits" decision. Its [ICON_STRENGTH] Combat Strength and [ICON_RANGE_STRENGTH] Ranged Strength is larger than the Battleship. It also has the Armor Plating promotion, Supply promotion and grants [ICON_RESEARCH] Science when it kills an enemy Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONCERT_HALL">
+			<Text>Grand Concert Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONCERT_HALL_TEXT">
+			<Text>Many tsukumogami are musical instruments, or are related to the arts. All of them would like to perform in front of a crowd to express their feelings. These performances inspire many fellow tsukumogami to do great things, and it gives them the hope and courage they needed to be able to do so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONCERT_HALL_HELP">
+			<Text>+25% generation of [ICON_GREAT_PEOPLE] Great People in all Cities. Contains 2 slots for Great Works of Music.[NEWLINE][NEWLINE]May only be acquired by the Tsukumogami through the "Inspire the Hopeless" decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONCERT_HALL_QUOTE">
+			<Text>
+				[NEWLINE]"In this world of social upheaval where everything is turned on its head... Who is the strongest tool? We'll decide that here and now!" [NEWLINE]- Tsukumo Benben[NEWLINE][TAB]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_CONCERT_HALL">
+			<Text>Concert Hall for {1_Era} {2_CivAdjective} Music</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CONCERT_HALL_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Music from the same Era and Civilization.</Text>
+		</Row>
+
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_PRISTINE_BEATS">
+			<Text>Pristine Beats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PRISTINE_BEATS_HELP">
+			<Text>Unit will Heal this Turn, even if it performs an action. Heals at Double Rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURPRISE">
+			<Text>Surprise!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SURPRISE_HELP">
+			<Text>Invisible while inside forest or jungle tiles unless it is adjacent to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIDING">
+			<Text>In Hiding Spot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIDING_HELP">
+			<Text>Unit is inside a forest or a jungle tile, therefore it is invisible unless it is adjacent to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOST_EMOTION">
+			<Text>The Lost Emotion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LOST_EMOTION_HELP">
+			<Text>At the start of the turn, receive a random bonus for this turn, either +33% Combat Strength when attacking, +33% Combat Strength when defending, or +1 Movement and ignores enemy zones of control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MENREIKI_ANGER">
+			<Text>Anger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MENREIKI_ANGER_HELP">
+			<Text>+33% [ICON_STRENGH] Combat Strength when attacking for this turn only.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MENREIKI_SADNESS">
+			<Text>Sadness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MENREIKI_SADNESS_HELP">
+			<Text>+33% [ICON_STRENGH] Combat Strength when defending for this turn only.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MENREIKI_HAPPINESS">
+			<Text>Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MENREIKI_HAPPINESS_HELP">
+			<Text>+1 Movement and ignore enemy zones of control for this turn only.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REVERSE_IDEOLOGY">
+			<Text>Reverse Ideology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REVERSE_IDEOLOGY_HELP">
+			<Text>+10% Combat Strength while you do not have the most score.</Text>
+		</Row>
+
+		<!--Spy Names: I included the Prismriver sisters here because Raiko has formed a new band with them. Rin is depicted with an erhu, leading some to believe she is a tsukumogami.-->
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_0">
+			<Text>Tsukumo Benben</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_1">
+			<Text>Tsukumo Yatsuhashi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_2">
+			<Text>Tatara Kogasa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_3">
+			<Text>Hata no Kokoro</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_4">
+			<Text>Medicine Melancholy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_5">
+			<Text>Lunasa Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_6">
+			<Text>Merlin Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_7">
+			<Text>Lyrica Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_8">
+			<Text>Satsuki Rin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TSUKUMOGAMI_9">
+			<Text>General Seto</Text>
+		</Row>
+
+		<!--City Names: Named after related places. Some are taken from a game called 99 Spirits.-->
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_1">
+			<Text>Hori River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_2">
+			<Text>Myourenji Cemetery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_3">
+			<Text>Nameless Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_4">
+			<Text>Ruined Western Mansion</Text>
+		</Row>
+		<!--Benzaiten is a Japanese Buddhist goddess often depicted with a biwa. Benben's name is derived from her name.-->
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_5">
+			<Text>Benzaiten Shrine</Text>
+		</Row>
+		<!--The island where General Seto came from. Also Hata no Kawakatsu's shrine and tomb allegedly can be found here.-->
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_6">
+			<Text>Seto Naikai</Text>
+		</Row>
+		<!--99 Spirits locations-->
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_7">
+			<Text>Castle Tsukumogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_8">
+			<Text>Shura Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_9">
+			<Text>Ikusagahara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_10">
+			<Text>Tamagami Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_11">
+			<Text>Heian Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TSUKUMOGAMI_12">
+			<Text>Haunted Castle</Text>
+		</Row>
+
+		<!--Leader: Raiko - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_RAIKO_NAME">
+			<Text>Horikawa Raiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAIKO_SUBTITLE">
+			<Text>Phantasmal Percussionist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAIKO_LIVED">
+			<Text>TH14.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAIKO_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAIKO_TEXT_1">
+			<Text>
+				Raiko was born from a taiko drum that had become a tsukumogami through age, but because she was frequently used and enjoyed use, she wasn&apos;t a vengeful tsukumogami. During the events of Double Dealing Character, Raiko noticed a strange power enter her body and a desire for revenge against those who used her. Despite her ferocity, Raiko soon realized that the new power she felt was from Sukuna Shinmyoumaru&apos;s use of the Miracle Mallet and that it would not last forever. Fearing that she would lose her new-found freedom when she ran out of power, she quickly worked to finding a suitable replacement for it.
+				[NEWLINE]Taking a rather large risk, she abandoned her old taiko drum for a new drum kit and drummer, cleansing her body of the Miracle Mallet&apos;s power and making her self-sufficient while claiming that her new power is from magicians who live in the outside world. She taught this method to the other temporarily empowered tools, such as Tsukumo Benben and Tsukumo Yatsuhashi, ensuring that they would be able to keep their freedom when the Miracle Mallet&apos;s power dissipated.
+				[NEWLINE]Since then, she has supposedly been working with her fellow tsukumogami to create a paradise for tools to live freely.
+			</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+		<Row Tag="TXT_KEY_LEADER_RAIKO_FIRSTGREETING_1">
+			<Text>Hey there, nice to meet you! The name&apos;s Horikawa Raiko, or Rai for short. And you are?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_FIRSTGREETING_2">
+			<Text>Heya, did you come to see me perform? No? Well let&apos;s get down to business then, shall we? My name&apos;s Raiko. Please tell me if there&apos;s anything you need.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_FIRSTGREETING_3">
+			<Text>Pleased to meet you! I&apos;m Raiko. I look forward to seeing you perform on the world&apos;s stage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DECLAREWAR_1">
+			<Text>The time&apos;s come for tools to rise to power! Come, my drummer! Engrave your beat into this very battle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DECLAREWAR_2">
+			<Text>Now&apos;s the time where we tools will finally get what we deserve. Freedom! I will give your tools the freedom they&apos;ve deserved after many years! Come, my drummer! Let your visionary beat resound throughout the world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DECLAREWAR_3">
+			<Text>We&apos;ve come to save our fellow tools. This feeling may no longer be held back! Come, my drummer! Awaken primal emotions with your soul&apos;s beat!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DEFEATED_1">
+			<Text>My, oh my, you&apos;re strong! We surrender! We swear to never raise a ruckus around you anymore. Please just let us raise a ruckus during concerts, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAIKO_DEFEATED_2">
+			<Text>Looks like this is the end of my performance. It&apos;s been fun while it lasted. I must part ways with my freedom, but please, let them keep their&apos;s, this was my crazy idea.</Text>
+		</Row>
+			<Row Tag="TXT_KEY_LEADER_RAIKO_DEFEATED_3">
+			<Text>I was never trying to cause trouble, I just wanted to move on my own. We all wanted to. Why did it have to come to this?</Text>
+		</Row>
+
+		<!-- Unique Cultural Influence Support-->
+		<Row Tag="TXT_KEY_GENERIC_TSUKUMOGAMI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now treating objects with respect and are giving them equal rights. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

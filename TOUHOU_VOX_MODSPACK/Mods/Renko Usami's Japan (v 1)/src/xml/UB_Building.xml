@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2021-05-17 12:47:41 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SEALING_CLUB</Type>
+			<BuildingClass>BUILDINGCLASS_LIBRARY</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>75</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_SEALING_CLUB_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SEALING_CLUB_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SEALING_CLUB_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SEALING_CLUB_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_LIBRARY</ArtDefineTag>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>0</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>SSC_USAMI_RENKO_COLOR_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SEALING_CLUB</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SEALING_CLUB</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_SEALING_CLUB</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SEALING_CLUB</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_BUILDING_SEALING_CLUB_DESC'>
+			<Text>Occult Library</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEALING_CLUB_STRATEGY">
+			<Text>In addition to the [ICON_RESEARCH] Science output of the Library it replaces, the Occult Library also provides +2 [ICON_CULTURE] Culture and 1 Great Work of Writing slot.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SEALING_CLUB_HELP'>
+			<Text>Replaces Libraries. Provides +2 [ICON_CULTURE] Culture and 1 Great work of Writing slot in addition to [ICON_RESEARCH] Science bonuses.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SEALING_CLUB_PEDIA'>
+			<Text>With an interest in the paranormal many Sealing Club members put to paper their experiences with the paranormal. Archives of paranormal encounters, rituals, spells, and even taboo Yoma tomes can be found within the walls of any Occult Library. The variety of occult literature leads one down a road of exploring the unknown delving into the fantastic and enriches one's knowledge.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

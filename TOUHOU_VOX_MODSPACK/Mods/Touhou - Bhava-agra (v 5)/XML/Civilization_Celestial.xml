@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/11/2016 11:58:48 PM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_MATHALX_CELESTIAL</Type>
+			<Description>TXT_KEY_CIV_MATHALX_CELESTIAL_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_MATHALX_CELESTIAL_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_MATHALX_CELESTIAL_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_MATHALX_CELESTIAL_TEXT_1</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_MATHALX_CELESTIAL</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_MATHALX_CELESTIAL</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_JAPAN</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MATHALX_CELESTIAL_COLOR_ATLAS</IconAtlas>
+			<AlphaIconAtlas>MATHALX_CELESTIAL_ALPHA_ICON</AlphaIconAtlas>
+			<MapImage>MapIndia512.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_MATHALX_CELESTIAL_DOM</DawnOfManQuote>
+			<DawnOfManImage>Tenko_DOM.dds</DawnOfManImage>
+			<SoundtrackTag>India</SoundtrackTag>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+		</Row>
+	</Civilizations>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<ReligionType>RELIGION_BUDDHISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_BHAVA_AGRA</CityName>
+			<!-- 유정천 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_ARUPYADHATU</CityName>
+			<!-- 무색계 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_NAIVASAMJN_YANASAMJN_YAYATANA</CityName>
+			<!-- 비유상비무상처 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_AKIMCANYAYATANA</CityName>
+			<!-- 무소유처 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_VIJN_YANANANTYAYATANA</CityName>
+			<!-- 식무변천 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_AKASANANTYAYATANA</CityName>
+			<!-- 공무변천 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_RUPADHATU</CityName>
+			<!-- 색계 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_BRHATPHALA</CityName>
+			<!-- 사선구천 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_SUBHAKRTSNA</CityName>
+			<!-- 삼선삼천 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_ABHASVARA</CityName>
+			<!-- 이선삼천 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_BRAHMA</CityName>
+			<!-- 초선구천 -->
+		</Row>
+	</Civilization_CityNames>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IKU</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MIROKU</SpyName>
+			<!-- 미륵 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KANNIN</SpyName>
+			<!-- 관음 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_JIZOU</SpyName>
+			<!-- 지장 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FUGEN</SpyName>
+			<!-- 보현 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MONJYU</SpyName>
+			<!-- 문수 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_GAKKOU</SpyName>
+			<!-- 월광 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KOKUUZOU</SpyName>
+			<!-- 호공장 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_HIKKOU</SpyName>
+			<!-- 일광 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_YAKUOH</SpyName>
+			<!-- 악왕 -->
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SEISHI</SpyName>
+			<!-- 세지 -->
+		</Row>
+	</Civilization_SpyNames>
+
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<LeaderheadType>LEADER_MATHALX_TENKO</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+
+	<Civilization_UnitClassOverrides>
+	</Civilization_UnitClassOverrides>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_CARAVANSARY</BuildingClassType>
+			<BuildingType>BUILDING_MATHALX_HEAVENLY_PEACHTREE</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<RegionType>REGION_HILLS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+		
+
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<RegionType>REGION_TUNDRA</RegionType>
+		</Row>
+	</Civilization_Start_Region_Avoid>
+</GameData>

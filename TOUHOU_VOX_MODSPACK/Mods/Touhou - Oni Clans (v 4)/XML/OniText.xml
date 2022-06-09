@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/18/2013 7:11:47 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_ONI_ADJECTIVE">
+			<Text>Oni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_ONI_DESC">
+			<Text>Oni Clans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_ONI_SHORT_DESC">
+			<Text>Oni Clans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA">
+			<Text>Suika Ibuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ONIKAKUSHI">
+			<Text>Pre-gunpowder melee units heal after destroying an enemy unit. Capturing enemy cities increases the population in the capital, and each time a city increases population you gain points towards a Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ONIKAKUSHI_SHORT">
+			<Text>Onikakushi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_ONI_TITLE">
+			<Text>Oni Clans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_ONI_TEXT">
+			<Text>
+				Greetings to you, Suika Ibuki, mightiest of the oni of Gensokyo![NEWLINE][NEWLINE]Long ago, the oni loved to drink, feast, and compete amongst themselves in various kinds of contests, from simple physical fighting to drinking games. However, when an oni found a human that they particularly liked, they tempted that human into challenging them in any way the human desired. Those times that the the human lost, they were abducted. Because normal humans were nowhere near an oni's level of ability, the humans began to resort to sneaky and underhanded tactics in order to beat the oni. Tired of being tricked and killed all the time, the oni eventually swore off humans forever and left for a place beyond human reach -- or so the legends say.[NEWLINE][NEWLINE]You, however, chose to remain behind. As time passed, though, you became lonely, and finally decided to try and lure the remaining oni out of hiding by holding feast after feast. Although your efforts ultimately failed, the appearance of other oni upon the surface suggests that they may yet return to rejoin the other youkai of Gensokyo.[NEWLINE][NEWLINE]Mighty and drunken Suika, will you find a way to re-establish the presence of the oni within Gensokyo?[NEWLINE]Can you gather a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_BREWERY_HELP">
+			<Text>Each source of [ICON_RES_WHEAT] Wheat, [ICON_RES_BANANA] Bananas, [ICON_RES_DEER] Deer, [ICON_RES_CITRUS] Citrus, [ICON_RES_WINE] Wine and [ICON_RES_SUGAR] Sugar worked by this City produce +1 [ICON_FOOD] Food. These bonuses double during Golden Ages. Melee and recon units trained in a city with a Brewery receive a unique Drunken Master promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_BREWERY">
+			<Text>Brewery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_BREWERY_STRATEGY">
+			<Text>The Brewery is the Oni unique building, replacing the Granary. It provides increased food supply, even moreso than the standard Granary, and these bonuses are doubled during Golden Ages. Units trained in a city with a Brewery receive the Drunken Master promotion, which increases a unit's movement and defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ONI_BREWERY_TEXT">
+			<Text>Alcohol plays a central role in oni society, arguably moreso than the other residents of Gensokyo, as hardly any oni will be found without some form of alcohol nearby. Their talent for brewing is such that there are instances of oni alcohol having medicinal and regenerative properties, although these same brews have been said to cause humans to behave like oni, or even transform those who drink them into oni. The ready availability of alcohol and near-constant inebriation also causes the oni to be that much more belligerent and eager to challenge others, causing trouble for their neighbors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_GOLDEN_AGE_BREWERY">
+			<Text>Golden Age Brewery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_GOLDEN_AGE_BREWERY_STRATEGY">
+			<Text>During golden ages, the Brewery's output is doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ONI_GOLDEN_AGE_BREWERY_TEXT">
+			<Text>Alcohol plays a central role in oni society, arguably moreso than the other residents of Gensokyo, as hardly any oni will be found without some form of alcohol nearby. Their talent for brewing is such that there are instances of oni alcohol having medicinal and regenerative properties, although these same brews have been said to cause humans to behave like oni, or even transform those who drink them into oni. The ready availability of alcohol and near-constant inebriation also causes the oni to be that much more belligerent and eager to challenge others, causing trouble for their neighbors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_SAKE_BUG">
+			<Text>Sake Bug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_SAKE_BUG_STRATEGY">
+			<Text>Provides 4 [ICON_RES_ONI_SAKE] Oni Sake for the Sake Bug decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ONI_SAKE_BUG_TEXT">
+			<Text>Alcohol plays a central role in oni society, arguably moreso than the other residents of Gensokyo, as hardly any oni will be found without some form of alcohol nearby. Their talent for brewing is such that there are instances of oni alcohol having medicinal and regenerative properties, although these same brews have been said to cause humans to behave like oni, or even transform those who drink them into oni. The ready availability of alcohol and near-constant inebriation also causes the oni to be that much more belligerent and eager to challenge others, causing trouble for their neighbors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_DRINKING_PARTY">
+			<Text>Oni Drinking Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONI_DRINKING_PARTY_STRATEGY">
+			<Text>Provides +1 [ICON_HAPPINESS_1] for the Drinking Party decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ONI_DRINKING_PARTY_TEXT">
+			<Text>Alcohol plays a central role in oni society, arguably moreso than the other residents of Gensokyo, as hardly any oni will be found without some form of alcohol nearby. Their talent for brewing is such that there are instances of oni alcohol having medicinal and regenerative properties, although these same brews have been said to cause humans to behave like oni, or even transform those who drink them into oni. The ready availability of alcohol and near-constant inebriation also causes the oni to be that much more belligerent and eager to challenge others, causing trouble for their neighbors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_GENERAL">
+			<Text>Kishin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_GENERAL_TEXT">
+			<Text>Even amongst the oni there are those who are more powerful (and arguably more cruel), ending up in positions leading lesser oni. These are the kishin. They are most commonly found within Hell, leading groups of lesser oni in the torment of evil souls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_GENERAL_STRATEGY">
+			<Text>The Kishin is a unique Great Person for the Oni, replacing the Great General. It provides the same combat bonuses to nearby units, but also heals friendly units by 20HP each turn, as well as weakening the fighting strength of enemy units nearby. Unlike the Great General, the Kishin cannot construct a Citadel, but can start a Golden Age instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_GENERAL_HELP">
+			<Text>Great General unit. Only the Oni may produce them. Terrifies enemy units within 2 tiles and heals friendly units in the same tile or adjacent tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_HERO">
+			<Text>Kishin Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_HERO_TEXT">
+			<Text>Sometimes, a hermit or celestial will live for a period of time deemed too long by those responsible for overseeing the cycle of life and reincarnation. In these instances, a powerful kishin chief will be sent to assassinate them, so that they can receive their proper judgement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_HERO_STRATEGY">
+			<Text>The Kishin is a unique unit for the Oni. It only appears from the 'Kishin Chief' event. While it has many of the same effects as a regular Kishin, it is a combat unit instead of a Great Person, allowing it to attack and defend. Its combat strength increases depending on the era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ONI_HERO_HELP">
+			<Text>Unique unit. Only available through the 'Kishin Chief' event. Provides similar bonuses to the Kishin, while also functioning as a combat unit. Its strength increases depending on the era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_SHUTEN-DOJI">
+			<Text>Shuten-doji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_IBARAKI-DOJI">
+			<Text>Ibaraki-doji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_KUMA-DOJI">
+			<Text>Kuma-doji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_TORAKUMA-DOJI">
+			<Text>Torakuma-doji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_HOSHIKUMA-DOJI">
+			<Text>Hoshikuma-doji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_KANAGUMA-DOJI">
+			<Text>Kanaguma-doji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_YAGYO-SAN">
+			<Text>Yagyo-san</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_NAMAHAGE">
+			<Text>Namahage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_GAGOZE">
+			<Text>Gagoze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_ANMO">
+			<Text>Anmo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_AMABURAKOSAGI">
+			<Text>Amaburakosagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_AMAMEHAGI">
+			<Text>Amamehagi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_DODOMEKI">
+			<Text>Dodomeki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_GENERAL_HANNYA">
+			<Text>Hannya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_0">
+			<Text>Yuugi Hoshiguma</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_1">
+			<Text>Kasen Ibaraki</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_2">
+			<Text>Kisume</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_3">
+			<Text>Yamame Kurodane</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_4">
+			<Text>Parsee Mizuhashi</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_5">
+			<Text>Suiki</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_6">
+			<Text>Konngara</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ONI_7">
+			<Text>Kikuri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONI_CLANS_1">
+			<Text>Ancient City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONI_CLANS_2">
+			<Text>Former Hell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONI_CLANS_3">
+			<Text>Jigoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONI_CLANS_4">
+			<Text>Oni's Caves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ONI_CLANS_5">
+			<Text>Lava Pools</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ONI_CLANS_MOUNTAIN_1">
+			<Text>Mt. Ooe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_MOUNTAIN_2">
+			<Text>Mt. Ibuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_MOUNTAIN_3">
+			<Text>Mt. Hiei</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ONI_CLANS_COAST_1">
+			<Text>Onigashima</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ONI_CLANS_RIVER_1">
+			<Text>Hashihime's Bridge</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ONI_CLANS_GENERIC_1">
+			<Text>Windy Cave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_GENERIC_2">
+			<Text>Silent Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_GENERIC_3">
+			<Text>Flower-Viewing Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_GENERIC_4">
+			<Text>Hermit's Mansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_GENERIC_5">
+			<Text>Hidden Way</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ONI_CLANS_GENERIC_6">
+			<Text>Geyser Springs</Text>
+		</Row>
+
+
+		<!--Leader: Suika - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SUIKA_NAME">
+			<Text>Suika Ibuki</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV5_SUIKA_SUBTITLE">
+			<Text>Deva of the Mountain</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV5_SUIKA_LIVED">
+			<Text>TH07.5 ~ TH14.0</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV6_SUIKA_HEADING_1">
+			<Text>About</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV5_SUIKA_TEXT_1">
+			<Text>Considered by some to be the most powerful youkai in Gensokyo, Suika is currently the only oni known to have remained upon the surface when the rest of her kind retreated underground. As with most oni, she values strength and fair play while despising dishonesty and cowardice, but being slightly less honest than most oni, as well as unwilling to kidnap humans, she is also something of an outcast amongst her kind. Fortunately, this also helps her fit into the modern Gensokyo better than most of the other oni.</Text>
+		</Row> 
+		
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_SUIKA_FIRSTGREETING_1">
+			<Text>Hello there! I&apos;m Suika, strongest of the oni!  Care for a drink?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_FIRSTGREETING_2">
+			<Text>Well, well, so you've found me. I&apos;m Suika, one of the Four Devas of the Mountain!  Think you&apos;re strong enough to take us on?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_FIRSTGREETING_3">
+			<Text>Hey there! I&apos;m Suika of the oni, and we should have a feast to celebrate this meeting!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_FIRSTGREETING_4">
+			<Text>Ahhh, someone to share a drink with! I&apos;m Suika, the strongest drinker amongst the oni! We&apos;ll drink until you pass out!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DECLAREWAR_1">
+			<Text>Time to see just how strong you are!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DECLAREWAR_2">
+			<Text>I challenge you to a fight!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DECLAREWAR_3">
+			<Text>Things are getting a little boring, so it&apos;s time you and I had a fight!</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DEFEATED_1">
+			<Text>Heh... I&apos;m impressed! Someone as strong as an oni... perhaps some day, we&apos;ll fight again!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DEFEATED_2">
+			<Text>Ahhh... that was a good fight. Now, it&apos;s time for drinking!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DEFEATED_3">
+			<Text>I guess it wasn&apos;t time for the oni to return just yet... but someday, we will be back!</Text>
+		</Row>
+
+		<!--Reacts to her bluff being called -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_WARBLUFF_1">
+			<Text>Heh, yeah, not the right time for a good fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_WARBLUFF_2">
+			<Text>Mmm, probably more fun to have another feast anyways.</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_WINWAR_1">
+			<Text>Humans and youkai aren't strong enough to challenge an oni!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_WINWAR_2">
+			<Text>Weakling. Don't think you can match the strength of an oni!</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LOSEWAR_1">
+			<Text>Well, well, you&apos;re actually pretty strong! Let&apos;s share a drink instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LOSEWAR_2">
+			<Text>Never thought I&apos;d meet someone this strong. I&apos;m looking forwards to our next fight!</Text>
+		</Row>
+
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_1">
+			<Text>Welcome back!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_2">
+			<Text>Hello again!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Oh, hello! Come back to drink with the oni again?</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GOODBYE_1">
+			<Text>See ya!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GOODBYE_2">
+			<Text>Come back if you ever want another drink!</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_YES_NEUTRAL">
+			<Text>Sure, that sounds good.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Not really good enough...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Oh, c&apos;mon, you think I&apos;m going to settle for that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Not really a fair deal...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Maybe if you offered a bit more...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NO_NEUTRAL">
+			<Text>Eh, not interested.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRIBUTE_YES_NEUTRAL">
+			<Text>Sure, I can spare that.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRIBUTE_NO_NEUTRAL">
+			<Text>Heh, no way. Nice try, though.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADEREQUEST_NEUTRAL">
+			<Text>Hey, wanna make a trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LUXURY_TRADE_1">
+			<Text>Mmm, you&apos;ve got some nice stuff there. How about a trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>How about we open our borders to each other? It&apos;ll make it easier to drink together!</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Mind sharing a few things? We broke some of our stuff after the last feast.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_AGREE_SHORT_1">
+			<Text>Okay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_AGREE_SHORT_2">
+			<Text>Sure.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DISAGREE_SHORT_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DISAGREE_SHORT_2">
+			<Text>Nah.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LETSHEARIT_1">
+			<Text>Go ahead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LETSHEARIT_2">
+			<Text>Yeah?</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_3">
+			<Text>Hey, welcome back!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_4">
+			<Text>Nice to see you again!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_POLITE_HELLO_1">
+			<Text>Hey, if it isn't my favorite drinking companion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_POLITE_HELLO_2">
+			<Text>Hello, friend to the oni!</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GOODBYE_3">
+			<Text>Come back soon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GOODBYE_4">
+			<Text>See ya later!</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_YES_HAPPY">
+			<Text>Sounds good to me!</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>C&apos;mon, that&apos;s all you&apos;re offering?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Hey, toss in a bit more, and I&apos;ll share some extra sake with you, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Hey, we&apos;re friends, right? Just a bit more.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NO_HAPPY">
+			<Text>Sorry, but that&apos;s just not good enough.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRIBUTE_YES_HAPPY">
+			<Text>Oh, sure, we don&apos;t really need that.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRIBUTE_NO_HAPPY">
+			<Text>We&apos;re friends and all, but I can&apos;t really just give stuff like that away.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADEREQUEST_HAPPY">
+			<Text>Hey, would you be willing to trade? I thought you might like some of this...</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DEMANDTRIBUTE_HAPPY">
+			<Text>Would you be willing to help us out? We&apos;ll have a feast in your honor!</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_AGREE_SHORT_3">
+			<Text>Sure!</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DISAGREE_SHORT_3">
+			<Text>Sorry, but no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DISAGREE_SHORT_4">
+			<Text>No.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LETSHEARIT_3">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LETSHEARIT_4">
+			<Text>What&apos;s up?</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_5">
+			<Text>What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_6">
+			<Text>You again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GREETING_HOSTILE_HELLO_1">
+			<Text>Why are you here? You&apos;re interrupting my drinking time.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GOODBYE_5">
+			<Text>Good riddance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_GOODBYE_6">
+			<Text>Get lost.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_YES_ANGRY">
+			<Text>I suppose I can stomach that deal.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Like I&apos;m going to accept that offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>That&apos;s not nearly enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>You insult me with that offer.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADE_NO_ANGRY">
+			<Text>No. Accepting that offer would be a disgrace to an oni.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRIBUTE_YES_ANGRY">
+			<Text>Fine, take it! But I won&apos;t forget this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRIBUTE_NO_ANGRY">
+			<Text>No. Do you really think I&apos;m so weak that I&apos;d just give it to you?</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_TRADEREQUEST_ANGRY">
+			<Text>You&apos;d better agree to this, if you know what&apos;s good for you.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DEMANDTRIBUTE_ANGRY">
+			<Text>Hand it over, weakling.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_AGREE_SHORT_4">
+			<Text>Yeah, whatever.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DISAGREE_SHORT_5">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_DISAGREE_SHORT_6">
+			<Text>No.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LETSHEARIT_5">
+			<Text>What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_LETSHEARIT_6">
+			<Text>What?</Text>
+		</Row>
+		<!--Attacked-->
+		<Row Tag="TXT_KEY_LEADER_SUIKA_ATTACKED_1">
+			<Text>So you think you can take on an oni? Bring it on!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_ATTACKED_2">
+			<Text>At least you aren&apos;t shy about getting in a fight!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SUIKA_ATTACKED_3">
+			<Text>I was hoping for a good fight right around now! I hope you&apos;re strong enough for it!</Text>
+		</Row>
+		<!--Misc-->
+
+	</Language_en_US>
+</GameData>

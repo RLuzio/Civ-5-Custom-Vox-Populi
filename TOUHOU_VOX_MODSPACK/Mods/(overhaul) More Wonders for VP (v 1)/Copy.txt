@@ -1,0 +1,212 @@
+----------------------------------------------------
+/* Flavors
+FLAVOR_AIR
+FLAVOR_AIRLIFT
+FLAVOR_CITY_DEFENSE
+FLAVOR_CULTURE
+FLAVOR_DEFENSE
+FLAVOR_DIPLOMACY
+FLAVOR_ESPIONAGE
+FLAVOR_EXPANSION
+FLAVOR_GOLD
+FLAVOR_GREAT_PEOPLE
+FLAVOR_GROWTH
+FLAVOR_HAPPINESS
+FLAVOR_I_LAND_TRADE_ROUTE
+FLAVOR_I_SEA_TRADE_ROUTE
+FLAVOR_I_TRADE_DESTINATION
+FLAVOR_I_TRADE_ORIGIN
+FLAVOR_MILITARY_TRAINING
+FLAVOR_MOBILE
+FLAVOR_NAVAL
+FLAVOR_NAVAL_GROWTH
+FLAVOR_NAVAL_TILE_IMPROVEMENT
+FLAVOR_OFFENSE
+FLAVOR_PRODUCTION
+FLAVOR_RANGED
+FLAVOR_RELIGION
+FLAVOR_SCIENCE
+FLAVOR_SPACESHIP
+FLAVOR_TILE_IMPROVEMENT
+FLAVOR_WATER_CONNECTION
+FLAVOR_WONDER
+*/
+
+
+--('ABUSIMBEL', 1), -- Abu Simbel
+-- ALAMO
+--('DUOMO', 1), -- Cattedrale di Santa Maria del Fiore /  Il Duomo di Firenze
+--('LEONARDO', 1), -- Leonardo's Workshop
+--('SAGRADA', 1), -- Sagrada Familia
+
+
+----------------------------------------------------
+-- ANITKABIR
+-- Tyranny: Can bully friendly CS. It decreases Influence from other Civs by 25% and increases your by 25%
+-- Anitkabir: Reduces Boredom, All Military buildings (ex. Barracks) +1 GDP (Great Diplomat Point), Military Academy +25% Production towards Diplo units
+-- Inc rate of GDs, +2 GDP, +20% production Diplomat, +2 Paper
+----------------------------------------------------
+
+UPDATE Buildings
+SET FreePolicies = 1, ExtraLeagueVotes = 1, SpecialistType = 'SPECIALIST_CIVIL_SERVANT', GreatPeopleRateChange = 2
+WHERE Type = 'BUILDING_ANITKABIR';
+
+INSERT INTO Building_YieldChanges (BuildingType, YieldType, Yield) VALUES
+('BUILDING_ANITKABIR', 'YIELD_CULTURE', 5);
+
+INSERT INTO Building_SpecificGreatPersonRateModifier (BuildingType, SpecialistType, Modifier) VALUES
+('BUILDING_ANITKABIR', 'SPECIALIST_CIVIL_SERVANT', 33);
+
+INSERT INTO Building_UnitCombatProductionModifiers 	(BuildingType, UnitCombatType, Modifier) VALUES
+('BUILDING_ANITKABIR', 'UNITCOMBAT_DIPLOMACY', 33);
+
+--INSERT INTO Building_ResourceQuantity (BuildingType, ResourceType, Quantity) VALUES
+--('BUILDING_ANITKABIR', 'RESOURCE_PAPER', 2);
+
+INSERT INTO Building_Flavors (BuildingType, FlavorType, Flavor) VALUES
+('BUILDING_ANITKABIR', 'FLAVOR_CULTURE', 10),
+('BUILDING_ANITKABIR', 'FLAVOR_DIPLOMACY', 60);
+
+INSERT INTO Language_en_US (Tag, Text)VALUES
+('TXT_KEY_BUILDING_ANITKABIR',     'Anitkabir'),
+('TXT_KEY_WONDER_ANITKABIR_HELP',  '1 Free [COLOR_POSITIVE_TEXT]Social Policy[ENDCOLOR]. Grants 1 additional Delegate in the World Congress for every 8 City-States in the game. +33% faster production of Diplomacy Units and generation of [ICON_DIPLOMAT] Great Diplomats in the City.[NEWLINE][NEWLINE]Requires [COLOR_CYAN]Autocracy[ENDCOLOR]. City must be built on a [COLOR_CYAN]Flat[ENDCOLOR] terrain.'),
+('TXT_KEY_WONDER_ANITKABIR_QUOTE', '[NEWLINE]"Peace at Home, Peace in the World"[NEWLINE][NEWLINE] - Mustafa Kemal Ataturk[NEWLINE]'),
+('TXT_KEY_WONDER_ANITKABIR_PEDIA', 'Anitkabir ("memorial tomb") is the mausoleum of Mustafa Kemal Ataturk, the leader of the Turkish War of Independence and the founder and first President of the Republic of Turkey. It is located in Ankara and was designed by architects Professor Emin Onat and Assistant Professor Ahmet Orhan Arda, whose proposal beat 48 other entries from several countries in a competition held by the Turkish Government in 1941 for a "monumental tomb" for Ataturk.[NEWLINE][NEWLINE] The site is also the final resting place of Ismet Inonu, the second President of Turkey, who was interred there after he died in 1973. His tomb faces the Ataturk Mausoleum, on the opposite side of the Ceremonial Ground.');
+    
+
+----------------------------------------------------
+-- HOLLYWOOD
+-- Media Culture: +25% Tourism with BTs, +20% Culture with Stadiums
+-- All Guilds +33% inc rate of the respective GP. Also +5 Gold & +5 Culture from each Guild. Reduces Boredom
+----------------------------------------------------
+
+UPDATE Buildings
+SET FreePolicies = 1, UnculturedHappinessChangeGlobal = -20, SpecialistType = 'SPECIALIST_WRITER', GreatPeopleRateChange = 2
+WHERE Type = 'BUILDING_HOLLYWOOD';
+
+INSERT INTO Building_YieldChanges (BuildingType, YieldType, Yield) VALUES
+('BUILDING_HOLLYWOOD', 'YIELD_GOLD', 10);
+
+INSERT INTO Building_SpecificGreatPersonRateModifier (BuildingType, SpecialistType, Modifier) VALUES
+('BUILDING_HOLLYWOOD', 'SPECIALIST_WRITER', 33),
+('BUILDING_HOLLYWOOD', 'SPECIALIST_MUSICIAN', 33),
+('BUILDING_HOLLYWOOD', 'SPECIALIST_ARTIST', 33);
+
+INSERT INTO Building_BuildingClassYieldChanges (BuildingType, BuildingClassType, YieldType, YieldChange) VALUES
+('BUILDING_HOLLYWOOD', 'BUILDINGCLASS_WRITERS_GUILD', 'YIELD_GOLD', 5),
+('BUILDING_HOLLYWOOD', 'BUILDINGCLASS_WRITERS_GUILD', 'YIELD_CULTURE', 5),
+('BUILDING_HOLLYWOOD', 'BUILDINGCLASS_ARTISTS_GUILD', 'YIELD_GOLD', 5),
+('BUILDING_HOLLYWOOD', 'BUILDINGCLASS_ARTISTS_GUILD', 'YIELD_CULTURE', 5),
+('BUILDING_HOLLYWOOD', 'BUILDINGCLASS_MUSICIANS_GUILD', 'YIELD_GOLD', 5),
+('BUILDING_HOLLYWOOD', 'BUILDINGCLASS_MUSICIANS_GUILD', 'YIELD_CULTURE', 5);
+
+INSERT INTO Building_Flavors (BuildingType, FlavorType, Flavor) VALUES
+('BUILDING_HOLLYWOOD', 'FLAVOR_HAPPINESS', 20),
+('BUILDING_HOLLYWOOD', 'FLAVOR_CULTURE', 20),
+('BUILDING_HOLLYWOOD', 'FLAVOR_GOLD', 20),
+('BUILDING_HOLLYWOOD', 'FLAVOR_GREAT_PEOPLE', 40);
+
+INSERT INTO Language_en_US (Tag, Text) VALUES
+('TXT_KEY_BUILDING_HOLLYWOOD',     'Hollywood'),
+('TXT_KEY_WONDER_HOLLYWOOD_HELP',  '1 Free [COLOR_POSITIVE_TEXT]Social Policy[ENDCOLOR]. Reduces [ICON_HAPPINESS_3] Boredom in all cities. +33% faster generation of [ICON_GREAT_WRITER] Great Writers, [ICON_GREAT_ARTIST] Artists and [ICON_GREAT_MUSICIAN] Musicians in the City. +5 [ICON_GOLD] Gold and +5 [ICON_CULTURE] Culture from all Guilds.[NEWLINE][NEWLINE]Requires [COLOR_CYAN]Freedom[ENDCOLOR]. City must be built on a [COLOR_CYAN]Hill[ENDCOLOR].'),
+('TXT_KEY_WONDER_HOLLYWOOD_QUOTE', '[NEWLINE]"Hollywood is a place where they''ll pay you a thousand dollars for a kiss and fifty cents for your soul."[NEWLINE] - Marilyn Monroe[NEWLINE]'),
+('TXT_KEY_WONDER_HOLLYWOOD_PEDIA', 'Hollywood is a district of Los Angeles, USA, famous for it''s film industry. The area started life as a idealistic "suburban America", however it quickly grew from 1909, when film-makers started to arrive, and is now synonomous with the American Film Industry.[NEWLINE][NEWLINE]  Today, Hollywood is glamourised for being the land of the rich and famous, where dreams are made and wishes come true. It is home to several iconic buildings, including the Hollywood Bowl and Grauman''s Chinese Theatre. However, when most people think of Hollywood, they think of the large sign atop the Hollywood hills. This sign started life as a billboard for the suburban settlement, then named "Hollywoodland". In 1949, the "Land" was removed as part of a renovation contract.');
+
+
+
+----------------------------------------------------
+-- ROCKEFELLER - Rockefeller Center
+-- Charity Foundations, John Hopkins (HOSPITAL-MEDICAL_LAB), Money, Food-Growth
+-- Free Medical Lab (John Hopkins School); Culture when Purchase (see Bank); Building_GlobalYieldModifiers +10% gold; +2 Science from all Hospitals
+----------------------------------------------------
+
+UPDATE Buildings
+SET FreeBuildingThisCity = 'BUILDINGCLASS_MEDICAL_LAB', SpecialistType = 'SPECIALIST_MERCHANT', GreatPeopleRateChange = 2
+WHERE Type = 'BUILDING_ROCKEFELLER';
+
+INSERT INTO Building_YieldChanges (BuildingType, YieldType, Yield) VALUES
+('BUILDING_ROCKEFELLER', 'YIELD_CULTURE', 3);
+
+INSERT INTO Building_YieldFromPurchase (BuildingType, YieldType, Yield) VALUES
+('BUILDING_ROCKEFELLER', 'YIELD_CULTURE', 20);
+
+--INSERT INTO Policy_BuildingClassYieldModifiers (PolicyType,BuildingClassType,YieldType,YieldMod)
+--VALUES ('POLICY_FREEDOM');
+
+INSERT INTO Building_GlobalYieldModifiers (BuildingType, YieldType, Yield) VALUES
+('BUILDING_ROCKEFELLER', 'YIELD_GOLD', 10);
+	
+INSERT INTO Building_BuildingClassYieldChanges (BuildingType, BuildingClassType, YieldType, YieldChange) VALUES
+('BUILDING_ROCKEFELLER', 'BUILDINGCLASS_HOSPITAL', 'YIELD_SCIENCE', 2);
+
+INSERT INTO Building_Flavors (BuildingType, FlavorType, Flavor) VALUES
+('BUILDING_ROCKEFELLER', 'FLAVOR_CULTURE', 40),
+('BUILDING_ROCKEFELLER', 'FLAVOR_GOLD', 60),
+('BUILDING_ROCKEFELLER', 'FLAVOR_GROWTH', 30),
+('BUILDING_ROCKEFELLER', 'FLAVOR_SCIENCE', 20);
+
+INSERT INTO Language_en_US (Tag, Text) VALUES
+('TXT_KEY_BUILDING_ROCKEFELLER',     'Rockefeller Center'),
+('TXT_KEY_WONDER_ROCKEFELLER_HELP',  'All Cities generate +10% [ICON_GOLD] Gold and all Hospitals +2 [ICON_RESEARCH] Science. In this City: receive a free [COLOR_POSITIVE_TEXT]Medical Lab[ENDCOLOR] and [ICON_GOLD] Gold purcheses generate +20 [ICON_CULTURE] Culture (scaling with Era).[NEWLINE][NEWLINE]Requires an improved [ICON_RES_OIL] [COLOR_CYAN]Oil[ENDCOLOR] or [ICON_RES_COAL] [COLOR_CYAN]Coal[ENDCOLOR] nearby.'),
+('TXT_KEY_WONDER_ROCKEFELLER_QUOTE', '[NEWLINE]"Don''t be afraid to give up the good to go for the great"[NEWLINE] - John D. Rockefeller[NEWLINE]'),
+('TXT_KEY_WONDER_ROCKEFELLER_PEDIA', 'The Rockefeller Center is a complex of fourteen buildings in New York City. It is named after the entrepreneur John D. Rockefeller, who bought the land in 1928 and began to develop it in 1930 as the sole financeur of a project which was to cost $250,000,000 at the time, as a result of the Great Depression. The construction took the entire 1930''s to build, and during which time workers on the site did not have safety harnesses, and so were subject to narrow steel girders with a large fall below. It is here that Charles Ebbet''s iconic photograph of eleven men eating lunch on a girder overlooking Manhattan was taken. [NEWLINE][NEWLINE] The Rockefeller Center is home to several iconic New York scenes. Radio City Music Hall was completed in the complex in December of 1932, and at the time was the largest theatre on Earth, larger even than those on Broadway. The name is homage to the nickname of the NBC studios, which were also located within the complex. The Rockefeller Center is also home to what has been refered to as the fourth most famous statue in America. The gilded Bronze statue of the Hellenistic titan, Prometheus, adorns the lower plaza of the Rockefeller center, adjacent to what becomes an ice rink in winter months, again a famous scene.');
+
+
+
+
+
+----------------------------------------------------
+-- SOVIETS - Palace of the Soviets
+-- Dictatorship of Proletariat: +75% Tourism for Civs with less Happiness, +1 Hap from Factories
+-- Palace of the Soviets: Factories +3 Cul, all Great Works +1 Tourism.
+-- Tourism modifier for TR is increased by 15%????
+----------------------------------------------------
+
+UPDATE Buildings
+SET FreePolicies = 1, DefenseHappinessChangeGlobal = -20, SpecialistType = 'SPECIALIST_ENGINEER', GreatPeopleRateChange = 2
+WHERE Type = 'BUILDING_SOVIETS';
+
+-- if this will not work, try: GlobalGreatWorksTourismModifier
+-- it may only affect this city...
+INSERT INTO Building_GreatWorkYieldChanges (BuildingType, YieldType, Yield) VALUES
+('BUILDING_SOVIETS', 'YIELD_TOURISM', 1);
+
+INSERT INTO Building_BuildingClassYieldChanges (BuildingType, BuildingClassType, YieldType, YieldChange) VALUES
+('BUILDING_SOVIETS', 'BUILDINGCLASS_FACTORY', 'YIELD_CULTURE', 3);
+
+INSERT INTO Building_Flavors (BuildingType, FlavorType, Flavor) VALUES
+('BUILDING_SOVIETS', 'FLAVOR_CULTURE', 50),
+('BUILDING_SOVIETS', 'FLAVOR_HAPPINESS', 30);
+
+INSERT INTO Language_en_US (Tag, Text) VALUES
+('TXT_KEY_BUILDING_SOVIETS',     'Palace of the Soviets'),
+('TXT_KEY_WONDER_SOVIETS_HELP',  '1 Free [COLOR_POSITIVE_TEXT]Social Policy[ENDCOLOR]. Reduces [ICON_HAPPINESS_3] Crime in all cities. All Factories generate +3 [ICON_CULTURE] Culture and Great Works +1 [ICON_TOURISM] Tourism.[NEWLINE][NEWLINE]Requires [COLOR_CYAN]Order[ENDCOLOR]. City must be built next to a [COLOR_CYAN]River[ENDCOLOR].'),
+('TXT_KEY_WONDER_SOVIETS_QUOTE', '[NEWLINE]"The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to represent and repress them in parliament."[NEWLINE][NEWLINE] - Karl Marx[NEWLINE]'),
+('TXT_KEY_WONDER_SOVIETS_PEDIA', 'The Palace of the Soviets was a project to construct an administrative center and a congress hall in Moscow, Russia, near the Kremlin, on the site of the demolished Cathedral of Christ the Saviour. The architectural contest for the Palace of the Soviets (1931–1933) was won by Boris Iofan''s neoclassical concept, subsequently revised by Iofan, Vladimir Shchuko and Vladimir Gelfreikh into a skyscraper. If built, it would have become the world''s tallest structure of its time. Construction started in 1937, and was terminated by the German invasion in 1941. In 1941–1942, its steel frame was disassembled for use in fortifications and bridges. Construction was never resumed. In 1958, the foundations of the Palace were converted into what would become the world''s largest open-air swimming pool, the Moskva Pool.');
+
+
+----------------------------------------------------
+-- SPUTNIK - The Sputnik Program
+-- Spaceflight Pioneers: Gain free Great Engineer and Scientist, may procure SS parts with GEs, +100 Science when popping GP (era scaled)
+-- Sputnik Program: Reduces Boredom. SS parts build +25% faster. Faster +33% GEs&GSs in the city. Faster GPs in all Cities.  Increases Influence with all City States by +40
+----------------------------------------------------
+
+UPDATE Buildings
+SET FreePolicies = 1, UnculturedHappinessChangeGlobal = -20, SpaceProductionModifier = 25, GlobalGreatPeopleRateModifier = 10, SpecialistType = 'SPECIALIST_ENGINEER', GreatPeopleRateChange = 2
+WHERE Type = 'BUILDING_SPUTNIK';
+
+INSERT INTO Building_SpecificGreatPersonRateModifier (BuildingType, SpecialistType, Modifier) VALUES
+('BUILDING_SPUTNIK', 'SPECIALIST_ENGINEER', 33),
+('BUILDING_SPUTNIK', 'SPECIALIST_SCIENTIST', 33);
+
+INSERT INTO Building_Flavors (BuildingType, FlavorType, Flavor) VALUES
+('BUILDING_SPUTNIK', 'FLAVOR_GREAT_PEOPLE', 50),
+('BUILDING_SPUTNIK', 'FLAVOR_HAPPINESS', 30),
+('BUILDING_SPUTNIK', 'FLAVOR_SCIENCE', 30),
+('BUILDING_SPUTNIK', 'FLAVOR_SPACESHIP', 50);
+
+INSERT INTO Language_en_US (Tag, Text) VALUES
+('TXT_KEY_BUILDING_SPUTNIK',     'The Sputnik Program'),
+('TXT_KEY_WONDER_SPUTNIK_HELP',  '1 Free [COLOR_POSITIVE_TEXT]Social Policy[ENDCOLOR]. Reduces [ICON_HAPPINESS_3] Boredom in all cities. +33% faster generation of [ICON_GREAT_ENGINEER] Great Engineers and [ICON_GREAT_SCIENTIST] Scientists in this City and +10% faster generation of all [ICON_GREAT_PEOPLE] Great People in all Cities. +25% [ICON_PRODUCTION] Production in this City when building Spaceship Parts.[NEWLINE][NEWLINE]Requires [COLOR_CYAN]Order[ENDCOLOR]. City must be built on a [COLOR_CYAN]Flat[ENDCOLOR] terrain.'),
+('TXT_KEY_WONDER_SPUTNIK_QUOTE', '[NEWLINE]"Beep... Beep... Beep..."[NEWLINE] - Sputnik 1[NEWLINE]'),
+('TXT_KEY_WONDER_SPUTNIK_PEDIA', 'The Sputnik program was a series of robotic spacecraft missions launched by the Soviet Union. The first of these, Sputnik 1, launched the first human-made object to orbit the Earth. That launch took place on October 4, 1957 as part of the International Geophysical Year and demonstrated the viability of using artificial satellites to explore the upper atmosphere.[NEWLINE][NEWLINE]  The value of Sputnik 1 as Soviet propaganda was especially evident in the response of the American public. Sputnik crushed the American perception of the United States as the technological superpower by demonstrating that the Soviets were not the ignorant Easterners they had been perceived as prior to the launch. As a result, panic overtook the American public, which created an enormous sense of vulnerability regarding the United States'' ability to defend its territory.');

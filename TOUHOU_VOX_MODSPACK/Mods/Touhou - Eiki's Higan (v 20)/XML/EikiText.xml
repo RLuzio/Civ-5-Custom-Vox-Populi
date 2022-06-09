@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2016 7:34:23 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_HIGAN_ADJECTIVE">
+			<Text>Higan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HIGAN_DESC">
+			<Text>Higan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_HIGAN_SHORT_DESC">
+			<Text>Higan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI">
+			<Text>Shikieiki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_YAMA_JUDGEMENT">
+			<Text>Cannot gain settlers nor annex cities. May purchase in puppeted cities. Your [ICON_DENOUNCE] Denouncement gives the denounced empire [ICON_GOLD] Gold penalty. Gain [ICON_STRENGTH] Combat Strength and a boost to [ICON_GOLD] Gold, [ICON_CULTURE] Culture and [ICON_HAPPINESS_1] Happiness based on how many empires follow your [ICON_DENOUNCE] Denouncement by denouncing the same enemy, but have not denounced you. After researching Currency, you will always have at least one Shinigami, losing [ICON_GOLD] Gold each time one appears (The first is free).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_YAMA_JUDGEMENT_SHORT">
+			<Text>Yama&apos;s Judgement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_HIGAN_TITLE">
+			<Text>Higan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_HIGAN_TEXT">
+			<Text>
+				All hail the Yamaxanadu, Shikieiki, the judge of Gensokyo.[NEWLINE][NEWLINE]You are the supreme judge of the dead that makes the ultimate decision on where a dead man goes, either Heaven, the Netherworld, or Hell. You were once a humble jizou statue, but your faith proved to be worthy among the gods, and thus, you were appointed as the Yama of Gensokyo. Your insightful lectures echo throughout Gensokyo, teaching the residents there to learn from their mistakes, for they know that you are able to distinguish good from evil. All of Gensokyo respects your fair and honest judgements. The good are blessed to have you, while the bad loathe to be judged by you, because they know that your punishments are never to be taken lightly.[NEWLINE][NEWLINE]Great Judge of Paradise, will you bring your judgements into the light of the world? Can you punish the evils of the world and praise the goodwills of the world fairly? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHINIGAMI">
+			<Text>Shinigami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHINIGAMI_DUMMY">
+			<Text>Shinigami (Placeholder - Do not use)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHINIGAMI_TEXT">
+			<Text>Shinigami are gods of the dead that help create order in the Afterlife. They occupy many different roles, and these include recording lifespans of the living, acting as a guide to souls unfamiliar with Hell, recording the proceedings of the Yama&apos;s court, and ferrying the souls of the deceased to the Yama so that they can be judged.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHINIGAMI_STRATEGY">
+			<Text>The Shinigami is a unique unit for Higan. It can only be purchased while in a Golden Age, and cannot be trained through other ways. Its Combat Strength is equal to the strongest melee unit you can build. It ignores terrain costs and has the Amphibious promotion. Whenever a unit is killed near them, the controller receives [ICON_GOLD] Gold proportional to the era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHINIGAMI_HELP">
+			<Text>Melee unit. Only Higan may produce them. It can only be purchased while in a Golden Age, and cannot be trained through other ways. It has Combat Strength equal to the strongest melee unit you can build, and ignores terrain costs. Has the Amphibious promotion. Any unit killed within 3 tiles of them yields [ICON_GOLD] Gold relative to your era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHIGAN">
+			<Text>Shigan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHIGAN_STRATEGY">
+			<Text>The Shigan is Higan&apos;s unique building, replacing the Garden. It provides flat increase in [ICON_CULTURE] Culture, as well as [ICON_GOLD] Gold when the city works a River tile, as well as boosting Great Person generation rate. It must be built along a River.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHIGAN_TEXT">
+			<Text>The Shigan is where the dead waits for a Shinigami to ferry them to Higan. When they arrive there, they must wait again for the arrival of the Yama, who will then judge them. Dead souls must pay a toll to be ferried. This toll comes from the connections they had from when they were alive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHIGAN_HELP">
+			<Text>Gives +2 [ICON_CULTURE] Culture. Also provides +1 [ICON_GOLD] Gold for all river tiles worked by the city, in addition to the Garden&apos;s traits. Must be built along a river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHINIGAMI">
+			<Text>Death&apos;s Toll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHINIGAMI_HELP">
+			<Text>Receive [ICON_GOLD] Gold whenever a unit is killed within 3 tiles. Combat Strength equal to the strongest Melee or Gunpowder unit you can build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_1">
+			<Text>Yama&apos;s Judgement 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_1_HELP">
+			<Text>+5% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_2">
+			<Text>Yama&apos;s Judgement 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_2_HELP">
+			<Text>+10% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_3">
+			<Text>Yama&apos;s Judgement 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_3_HELP">
+			<Text>+15% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_4">
+			<Text>Yama&apos;s Judgement 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_4_HELP">
+			<Text>+20% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_5">
+			<Text>Yama&apos;s Judgement 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_5_HELP">
+			<Text>+25% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_6">
+			<Text>Yama&apos;s Judgement 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_6_HELP">
+			<Text>+30% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_7">
+			<Text>Yama&apos;s Judgement 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_7_HELP">
+			<Text>+35% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_8">
+			<Text>Yama&apos;s Judgement 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_8_HELP">
+			<Text>+40% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_9">
+			<Text>Yama&apos;s Judgement 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_9_HELP">
+			<Text>+45% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_10">
+			<Text>Yama&apos;s Judgement 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMA_JUDGEMENT_BONUS_10_HELP">
+			<Text>+50% increase to Combat Strength.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_HIGAN_GUARANTEED_SHINIGAMI_TEXT">
+			<Text>You have recruited a Shinigami to help you out. However, since this is not your first time, you lose {1_Num} [ICON_GOLD] Gold to pay for the Shinigami!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_HIGAN_GUARANTEED_SHINIGAMI_TITLE">
+			<Text>Shinigami Recruited</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MUENZUKA">
+			<Text>Muenzuka</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_BUILDING_MUENZUKA_HELP">
+			<Text>Gain +8 [ICON_PEACE] Faith and [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]May only be acquired by Higan through the "Build Muenzuka in a City-State" decision.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_BUILDING_MUENZUKA_QUOTE">
+			<Text>
+				[NEWLINE]"This is where nameless ones sleep, Muenzuka. The only reason for living humans to come here would be to commit suicide. " [NEWLINE]- Onozuka Komachi[NEWLINE][TAB]
+			</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_BUILDING_MUENZUKA_TEXT">
+			<Text>
+				Muenzuka is a small, wooded area located at the end of the Road of Reconsideration, known for its poisonous, deep red-colored red spider lilies. It is the graveyard of humans who don't have relatives. Many treasures from the Outside World make their way to Gensokyo by floating here.
+				[NEWLINE][NEWLINE]The purple cherry blossoms purify the soil of Muenzuka, and once per year, bloom to sever all hesitation. Even for Gensokyo, these are quite peculiar youkai cherry trees. Those flower petals that drop by ones and twos create a sight reminiscent of Muenzuka itself weeping, an illusion that will beguile any viewer. This might be the most perfect place for flower viewing, or so one might think, but the sorrowful sights create such sadness that there is no one who is able to make merry while watching them.
+			</Text>
+		</Row>
+
+		<!--Spy Names: Named after the Shinigami from Death Note, and of course, including Komachi-->
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_0">
+			<Text>Onozuka Komachi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_1">
+			<Text>Ryuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_2">
+			<Text>Rem</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_3">
+			<Text>Gelus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_4">
+			<Text>Sidoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_5">
+			<Text>Gook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_6">
+			<Text>Deridovely</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_7">
+			<Text>Daril Ghiroza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_8">
+			<Text>Midora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIGAN_9">
+			<Text>Zellogi</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_HIGAN_1">
+			<Text>Higan</Text>
+		</Row>
+
+		<!--Leader: Eiki - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_EIKI_NAME">
+			<Text>Shikieiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EIKI_SUBTITLE">
+			<Text>Yamaxanadu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EIKI_LIVED">
+			<Text>TH9.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EIKI_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_EIKI_TEXT_1">
+			<Text>Eiki is a yama who belongs to the Ministry of Right and Wrong located at Hell. Although there are many yamas, Eiki is the one in charge of Gensokyo. She, like the other yamas, holds the Cleansed Crystal Mirror that lets them look into a person's past, learn anything they want to know about him/her, and then use that knowledge to make fair judgements.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_EIKI_FIRSTGREETING_1">
+			<Text>Welcome to Higan. I am the Yama, the one who judges the dead. You&apos;re not a being of this world, so you must be a world leader. What do you need?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_FIRSTGREETING_2">
+			<Text>Greetings. There has been reports from the Shinigami that a world leader would be coming. I am the Yama, Shikieiki. Have you been doing your duties as a leader properly?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_FIRSTGREETING_3">
+			<Text>Greetings. You must be the world leader everyone has been talking about. I am the Yamaxanadu. You shall be judged fairly as a leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_DECLAREWAR_1">
+			<Text>In the purple cherry blossoms resides humans neck-deep in sin. Under these raining purple cherry blossoms, by my will as the Yama, you shall cleanse your sins!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_DECLAREWAR_2">
+			<Text>Hell exists not to punish sinners, but to ensure that nobody sins in the first place. I am here so that everybody realizes that. Even if I must hurt you, I must make you correct the error of your ways!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_DECLAREWAR_3">
+			<Text>The weight of your sins have grown to become a matter of importance. You will be sent to Hell when you are dead. As the Yama, I am here to correct your ways!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_DEFEATED_1">
+			<Text>Even if the Yama could no longer judge, justice and karma will prevail no matter what.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_DEFEATED_2">
+			<Text>Higan may have fallen, but your past sins remain unchanged. You shall be punished accordingly by the gods when you leave this world, should you not learn from this mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_DEFEATED_3">
+			<Text>Repent your warmongering ways! You will be sent to Hell if you do not repent! Do heed my one last warning before I take my leave.</Text>
+		</Row>
+
+		<!-- Unique Cultural Influence Support-->
+		<Row Tag="TXT_KEY_GENERIC_HIGAN_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now listening to your lectures and watching your trials. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

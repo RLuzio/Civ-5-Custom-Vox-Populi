@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2013 11:18:46 AM -->
+<GameData>
+	-<Buildings>
+		<Update>
+			<Where Type="BUILDING_FAIRY_ART_SUPPLIES"/>
+			<Set>
+				<GoldMaintenance>1</GoldMaintenance>
+				<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+				<GreatWorkCount>1</GreatWorkCount>
+				<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+				<SpecialistCount>0</SpecialistCount>
+				
+				
+			</Set>
+		</Update>
+	</Buildings>
+	-<Building_YieldChanges>
+		-<Update>
+			<Where BuildingType="BUILDING_FAIRY_ART_SUPPLIES"/>
+			<Set>
+				<YieldType>YIELD_CULTURE</YieldType>
+				<Yield>1</Yield>
+			</Set>
+		</Update>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_FAIRY_ART_SUPPLIES"/>
+			<Set>
+				<Text>Art Center</Text>
+			</Set>
+		</Update>
+		<Update><Where Tag="TXT_KEY_BUILDING_FAIRY_ART_SUPPLIES_HELP"/>
+			<Set><Text>Provides an extra +2 [ICON_CULTURE] with the discovery of Refrigeration. Provides 1 [ICON_RES_CRAYON] Crayons, a luxury resource which cannot be obtained any other way. Hosts a Great Work of Writing, poorly spelled and written in crayon.</Text></Set>
+	</Update>
+		<Update>	-<Where Tag="TXT_KEY_BUILDING_FAIRY_ART_SUPPLIES_PEDIA"/>
+			<Set>
+				<Text>A reliable source of crayons is the most important part of a fairy community; without it, it&apos;s not even a community, it&apos;s just a bunch of fairies who happen to be in one place. The childish fairies use crayon drawings to express themselves as individuals and as part of a community: drawing self-portraits to identify their homes, illustrating neat things they want to try and make, or recording their accomplishments in picture form. The sight of the autumn fairies returning from the forest, beaming with pride, holding crayon rubbings of all the cool leaves they made that day, is enough to move even the most cynical observers to say "Awwww..."[NEWLINE][NEWLINE] Though most fairies aren't literate, even fairy authors prefer to work in crayon with lots of pictures.</Text>
+			</Set>
+	</Update>
+		</Language_en_US>
+</GameData>

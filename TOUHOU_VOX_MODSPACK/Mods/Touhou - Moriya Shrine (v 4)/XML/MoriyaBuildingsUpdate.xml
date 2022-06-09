@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/25/2015 7:02:24 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_HYDRO_PLANT"/>
+			<Set MutuallyExclusiveGroup="16592"/>
+		</Update>
+	</Buildings>
+	<Policy_BuildingClassHappiness>
+		<Row>
+			<PolicyType>POLICY_YOUNG_PIONEERS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MORIYA_KAPPA_DAM</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+	</Policy_BuildingClassHappiness>
+</GameData>

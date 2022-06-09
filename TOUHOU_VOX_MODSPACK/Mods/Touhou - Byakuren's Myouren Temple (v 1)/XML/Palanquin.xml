@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Type>UNIT_PALANQUIN</Type>
+			<Description>TXT_KEY_UNIT_PALANQUIN</Description>
+			<Civilopedia>TXT_KEY_CIV5_PALANQUIN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_PALANQUIN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_PALANQUIN</Help>
+			<Requirements></Requirements>
+			<Combat>25</Combat>
+			<RangedCombat>28</RangedCombat>
+			<Cost>225</Cost>
+			<FaithCost>270</FaithCost>
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+			<PurchaseOnly>0</PurchaseOnly>
+			<MoveAfterPurchase>0</MoveAfterPurchase>
+			<Moves>4</Moves>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+			<Immobile>0</Immobile>
+			<Range>2</Range>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_FRIGATE</Class>
+			<Special></Special>
+			<Capture></Capture>
+			<Domain>DOMAIN_HOVER</Domain>
+			<CivilianAttackPriority></CivilianAttackPriority>
+			<Food>0</Food>
+			<NoBadGoodies>1</NoBadGoodies>
+			<RivalTerritory>0</RivalTerritory>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<PillagePrereqTech></PillagePrereqTech>
+			<Found>0</Found>
+			<FoundAbroad>0</FoundAbroad>
+			<CultureBombRadius>0</CultureBombRadius>
+			<GoldenAgeTurns>0</GoldenAgeTurns>
+			<FreePolicies>0</FreePolicies>
+			<OneShotTourism>0</OneShotTourism>
+			<OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
+			<IgnoreBuildingDefense>0</IgnoreBuildingDefense>
+			<PrereqResources>0</PrereqResources>
+			<Mechanized>true</Mechanized>
+			<Suicide>0</Suicide>
+			<CaptureWhileEmbarked>0</CaptureWhileEmbarked>
+			<PrereqTech>TECH_NAVIGATION</PrereqTech>
+			<ObsoleteTech>TECH_ELECTRONICS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_PALANQUIN</GoodyHutUpgradeUnitClass>
+			<HurryCostModifier>0</HurryCostModifier>
+			<AdvancedStartCost>50</AdvancedStartCost>
+			<MinAreaSize>20</MinAreaSize>
+			<AirInterceptRange>0</AirInterceptRange>
+			<AirUnitCap>0</AirUnitCap>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<WorkRate>0</WorkRate>
+			<NumFreeTechs>0</NumFreeTechs>
+			<BaseBeakersTurnsToCount>0</BaseBeakersTurnsToCount>
+			<BaseCultureTurnsToCount>0</BaseCultureTurnsToCount>
+			<RushBuilding>0</RushBuilding>
+			<BaseHurry>0</BaseHurry>
+			<HurryMultiplier>0</HurryMultiplier>
+			<BaseGold>0</BaseGold>
+			<NumGoldPerEra>0</NumGoldPerEra>
+			<SpreadReligion>0</SpreadReligion>
+			<RemoveHeresy>0</RemoveHeresy>
+			<ReligionSpreads>0</ReligionSpreads>
+			<ReligiousStrength>0</ReligiousStrength>
+			<FoundReligion>0</FoundReligion>
+			<RequiresEnhancedReligion>0</RequiresEnhancedReligion>
+			<ProhibitsSpread>0</ProhibitsSpread>
+			<CanBuyCityState>0</CanBuyCityState>
+			<CombatLimit>100</CombatLimit>
+			<RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+			<RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+			<Trade>0</Trade>
+			<NumExoticGoods>0</NumExoticGoods>
+			<PolicyType></PolicyType>
+			<RangedCombatLimit>0</RangedCombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<SpecialCargo></SpecialCargo>
+			<DomainCargo></DomainCargo>
+			<Conscription>0</Conscription>
+			<ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+			<NoMaintenance>0</NoMaintenance>
+			<Unhappiness>0</Unhappiness>
+			<UnitArtInfo>ART_DEF_UNIT_FRIGATE</UnitArtInfo>
+			<UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
+			<UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
+			<ProjectPrereq></ProjectPrereq>
+			<SpaceshipProject></SpaceshipProject>
+			<LeaderPromotion></LeaderPromotion>
+			<LeaderExperience>0</LeaderExperience>
+			<DontShowYields>0</DontShowYields>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>WOODEN_BOAT</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CIV_MYOURENJI_ATLAS</IconAtlas>
+
+
+
+			<UnitFlagAtlas>PALANQUIN_FLAG_ATLAS</UnitFlagAtlas>
+		</Row>
+	</Units>
+
+
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<UnitClassType>UNITCLASS_BATTLESHIP</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MOVE_ALL_TERRAIN</Type>
+			<Description>TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN</Description>
+			<Help>TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PortraitIndex>58</PortraitIndex>
+			<PediaEntry>TXT_KEY_PROMOTION_MOVE_ALL_TERRAIN</PediaEntry>
+			<CanMoveAllTerrain>true</CanMoveAllTerrain>
+			<LostWithUpgrade>1</LostWithUpgrade>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombats>
+		<Delete UnitCombatType="UNITCOMBAT_PALANQUIN" PromotionType="PROMOTION_EMBARKATION"/>
+		<Delete UnitCombatType="UNITCOMBAT_PALANQUIN" PromotionType="PROMOTION_DEFENSIVE_EMBARKATION"/>
+		<Delete UnitCombatType="UNITCOMBAT_PALANQUIN" PromotionType="PROMOTION_ALLWATER_EMBARKATION"/>
+	</UnitPromotions_UnitCombats>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<PromotionType>PROMOTION_MOVE_ALL_TERRAIN</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+	
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<!-- Unit_ResourceQuantityRequirements -->
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_PALANQUIN</UnitType>
+			<SelectionSound>AS2D_SELECT_FRIGATE</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_FRIGATE</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>PALANQUIN_FLAG_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>PalanquinFlag.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_PALANQUIN">
+			<Text>Palanquin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PALANQUIN_TEXT">
+			<Text>
+				The Palanquin Ship was created by Byakuren Hijiri and given to Minamitsu Murasa in order to win over her trust. The design itself is based on the ship that Minamitsu died on. It was eventually buried into the Underworld after Byakuren was sealed away by humans, but popped up on the surface of Gensokyo during the events of Subterranean Animism. It was temporarily used as a simple granary, but was later renovated into a temple which was named after Byakuren's brother, Myouren Hijiri.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PALANQUIN_STRATEGY">
+			<Text>The Palanquin is a frigate replacement that costs more and has lower movement, but can fly across all terrain. Since it is able to fly, terrain won't slow it down. Not even mountains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PALANQUIN">
+			<Text>The Palanquin is a frigate replacement that costs more and has lower movement, but can fly across all terrain.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

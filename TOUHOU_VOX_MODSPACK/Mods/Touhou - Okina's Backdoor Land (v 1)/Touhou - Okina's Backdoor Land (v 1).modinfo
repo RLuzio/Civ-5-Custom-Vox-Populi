@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="89218972-9126-464c-99b9-1ee658040548" version="1">
+  <Properties>
+    <Name>Touhou - Okina's Backdoor Land</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>The Land of the Back Door (後戸の国 Ushirodo no Kuni) is an extradimensional location ruled by Okina Matara which first appeared in</Teaser>
+    <Description>The Land of the Back Door is an extradimensional location ruled by Okina Matara which first appeared in Hidden Star in Four Seasons.
+
+The area is a seemingly endless plane of floating doors which lead to different locations in Gensokyo. Not much is known about the place other than that it seems to have been created by Okina.
+
+UA: Backdoor
+Can Warp Everywhere
+
+UU1: Dancer Alpha
+Specialized in defeating Knights and other mounted units. Only the Backdoor may build it.
+
+UU2: Dancer Beta
+Replace Great General.
+
+UB: Dance Hall
+Unique building of the Backdoor Land. Replaces the Opera House</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4 trait" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="unique culture" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E521805C2BA4DF34A4F6175B2C74EDCB" import="1">ART/MATARA_Alpha128.dds</File>
+    <File md5="D8E5BAF931D0D861445A2EC47500F5A4" import="1">ART/MATARA_Alpha16.dds</File>
+    <File md5="55205E9FAE1CC8DCEB303E24C77A7FB3" import="1">ART/MATARA_Alpha24.dds</File>
+    <File md5="0AFEC84399535476D22300FBE7B962EB" import="1">ART/MATARA_Alpha32.dds</File>
+    <File md5="2B16B11299A3FDEAA1353029FDC63565" import="1">ART/MATARA_Alpha48.dds</File>
+    <File md5="6EFC40D6A5F4A959CA58B0CF5B984B9E" import="1">ART/MATARA_Alpha64.dds</File>
+    <File md5="BF45E6D12F9E6ACB35286A3808F6A406" import="1">ART/MATARA_Atlas128.dds</File>
+    <File md5="ED4CDC502FEA237CD4B8EB1969D2AE9D" import="1">ART/MATARA_Atlas256.dds</File>
+    <File md5="2FA5DB1658F567CDCF666DC587BCC951" import="1">ART/MATARA_Atlas32.dds</File>
+    <File md5="D5915A9262B45B83F6BFCDD3F1FE2C0E" import="1">ART/MATARA_Atlas45.dds</File>
+    <File md5="4F5D810F5BCC40A3340B8CA50CDBACE8" import="1">ART/MATARA_Atlas64.dds</File>
+    <File md5="29BF8DB89699E69FA13BC59FEC76262B" import="1">ART/MATARA_Atlas80.dds</File>
+    <File md5="B61BDF9851C3B520CB79F303E93BF7B9" import="1">ART/MATARA_DOM.dds</File>
+    <File md5="855DD2A059E7D8ED32B98545F3639D99" import="1">ART/MATARA_Map.dds</File>
+    <File md5="4EE7E3E5EC72ACF18BF9D09E39EEFF79" import="1">ART/MATARA_Scene.dds</File>
+    <File md5="EF12571532921580EB651B32AD2A353A" import="1">ART/MATARA_Scene.xml</File>
+    <File md5="CF16C45A169644264EEC2D71FB219575" import="1">MUSIC/MATARA_Peace.mp3</File>
+    <File md5="BF00915DB1F439B9940BC75949E71342" import="1">MUSIC/MATARA_Peace1.mp3</File>
+    <File md5="D433E0FFAA28C26F4239EB8D96E5FE3E" import="1">MUSIC/MATARA_Peace2.mp3</File>
+    <File md5="FF8832386ACEDD64446AB56E812776DD" import="1">MUSIC/MATARA_War.mp3</File>
+    <File md5="4F8063DA296F019DD81AC881A1D0BDC7" import="1">MUSIC/MATARA_War1.mp3</File>
+    <File md5="0B2100FD95761A70266DA2D0CDC8D0A3" import="1">MUSIC/MATARA_War2.mp3</File>
+    <File md5="213B031675558D5ACBC2ED47C628B546" import="0">XML/MATARA_Building.xml</File>
+    <File md5="6FBFCDDD6299EFBDC69BD381D1678C96" import="0">XML/MATARA_Civ4.sql</File>
+    <File md5="50C4B7B9CE4C758BCF555144E383F44A" import="0">XML/MATARA_Civ4.xml</File>
+    <File md5="4873DD3B9D216C48FC02A13E0FA6207C" import="0">XML/MATARA_Civilization.xml</File>
+    <File md5="E2451206A3C512BABDD512005D76FB50" import="0">XML/MATARA_Diplomacy.xml</File>
+    <File md5="4166702A2BBD8E5BF3858ED6D74AB9D8" import="0">XML/MATARA_Icon.xml</File>
+    <File md5="A160061292FA6EE160DB079C711765BB" import="0">XML/MATARA_Leader.xml</File>
+    <File md5="2B25E658BF09EF9375D75F840775C83B" import="0">XML/MATARA_Music.xml</File>
+    <File md5="F5B67276F22DE61727E988AD5E015ECA" import="0">XML/MATARA_Music_SD.xml</File>
+    <File md5="791D611A973D11EF7363D1C196D4D4FE" import="0">XML/MATARA_Trait.xml</File>
+    <File md5="2CE69A04F4A113405C8779CB2BA31921" import="0">XML/MATARA_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/MATARA_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/MATARA_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/2/2015 11:53:17 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_KOBITO_COLLECT_MAGIC">
+			<Text>Collect additional Magic Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOBITO_COLLECT_MAGIC_DESC">
+			<Text>
+				A lot of magical energy of the Miracle Mallet spreads to Gensokyo. Why don't we wander around and try to find any object that has magical power in it? Maybe we can find a useful way to use it.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kobito
+				[NEWLINE][ICON_BULLET]Receive Miracle Mallet bonus at least once
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Rewards depend on the bonus you got last time.
+				[NEWLINE][ICON_BULLET]Free Social Policy : {2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Free Technology : {3_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]Free Great People : +15% generation of [ICON_GREAT_PEOPLE]Great People in [ICON_CAPITAL]Capital until you advance to next era
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOBITO_COLLECT_MAGIC_ENACTED_DESC">
+			<Text>
+				A lot of magical energy of the Miracle Mallet spreads to Gensokyo. Why don't we wander around and try to find any object that has magical power in it? Maybe we can find a useful way to use it.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Rewards depend on the bonus you got last time.
+				[NEWLINE][ICON_BULLET]Free Social Policy : Some [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Free Technology : Some [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]Free Great People : +15% generation of [ICON_GREAT_PEOPLE]Great People in [ICON_CAPITAL]Capital until you advance to next era
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_SHINING_NEEDLE_SWORD">
+			<Text>Make the Shining Needle Sword</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHINING_NEEDLE_SWORD_DESC">
+			<Text>
+				It is not an easy thing to live as a Kobito. Because the enemy is bigger than Kobito usually, our people should keep their own weapon to protect themselves. Maybe making a needle as a sword - like Issun-Boushi did - is a good idea.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kobito
+				[NEWLINE][ICON_BULLET]Must have researched Steel
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Stinging Swordsman appears near the capital
+				[NEWLINE][ICON_BULLET]+ 20% to all pre-gunpowder melee unit and recon unit (Combat bonus remained when units are upgraded to gunpowder unit)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHINING_NEEDLE_SWORD_ENACTED_DESC">
+			<Text>
+				It is not an easy thing to live as a Kobito. Because the enemy is bigger than Kobito usually, our people should keep their own weapon to protect themselves. Maybe making a needle as a sword - like Issun-Boushi did - is a good idea.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Stinging Swordsman appears near the capital
+				[NEWLINE][ICON_BULLET]+ 20% to all pre-gunpowder melee unit and recon unit (Combat bonus remained when units are upgraded to gunpowder unit)
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD">
+			<Text>Shining Needle Sword</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD_HELP">
+			<Text>Combat bonus + 20%</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

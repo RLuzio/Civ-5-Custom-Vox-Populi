@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:12:02 AM -->
+<GameData>
+	-<PlayerColors>
+		-<Row>
+			<Type>PLAYERCOLOR_FAIRY</Type>
+			<PrimaryColor>COLOR_FAIRY_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_FAIRY_LAND</SecondaryColor>
+			<TextColor>COLOR_FAIRY_BORDER</TextColor>
+		</Row>
+	</PlayerColors>  
+</GameData>

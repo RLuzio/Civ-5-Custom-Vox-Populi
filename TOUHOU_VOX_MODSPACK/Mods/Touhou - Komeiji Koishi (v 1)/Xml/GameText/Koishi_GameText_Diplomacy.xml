@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/24/2019 11:52:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_FIRSTGREETING_1">
+			<Text>You can see me? Incredible. My name is Komeiji Koishi, I'm always right behind you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_FIRSTGREETING_2">
+			<Text>Hanging out at this time can be dangerous, traveler, Miss Mary is hunting for her next prey.</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DEFEATED_1">
+			<Text>My civilization has gone, but I'll still wander in your palace, and you will never find me again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DEFEATED_2">
+			<Text>Ok, time to go home.</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_REPEAT_1">
+			<Text>I'm here!</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_REPEAT_1">
+			<Text>Now what?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_REPEAT_2">
+			<Text>Oh, I hate your eyes.</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>Oh, I find you again.</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_REPEAT_TRADE_1">
+			<Text>Nooooo way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_REPEAT_TRADE_2">
+			<Text>(Walk away)</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>(Doze off)</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_POLITE_HELLO_1">
+			<Text>Hello, you konw I am here, right?</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hi, do you like this cobble?</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_HELLO_1">
+			<Text>You can't see me~</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Why don't you run away now?</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_WORKING_WITH_1">
+			<Text>Hihi, friend, you can always find me, right?</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Be careful, Miss Mary is searching for you.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HUMAN_AT_WAR_1">
+			<Text>Can your enemies see me? It better be not.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>You'd better give up the idea to catch me with your troops.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I dislike playing hiding game with soliders, just keep them away.</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You can't cath me even after your expansion!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Your cities are too close, I hate being monitoring.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You have bought my plot!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You prefer to besiege me with your lands?.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your command so many soliders, they are much more than my sister's pets.</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Hehe, would mind providing me with some pocket money?</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Where is your city? I can't find it.</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>What are you troops doing? Picking cobbles?</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I have called Miss Mary to kill you!</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DEC_FRIENDSHIP_1">
+			<Text>Hello, my friend, time for hiding game! And this time our playground will be the whole world!</Text>
+		</Row>
+
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_TOO_SOON_FOR_DOF_1">
+			<Text>It's too soon, I can't even speak your name.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_TOO_SOON_FOR_DOF_2">
+			<Text>Let's talk about it after next game, OK?</Text>
+		</Row>
+		
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>Hi, pal, denouncing {1_CivName} can be interesting, let's do this now.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to declare war on another civilization (disabled in normal DLL according to whoward69) -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DOF_AI_WAR_REQUEST_1">
+			<Text>Heiheihei, my friend, murdering {1_CivName} can be really fun, let's do it. (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DENOUNCE_1">
+			<Text>Denouncing is part of our game, right?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DENOUNCE_2">
+			<Text>Hope my denouncement can avoid you finding me.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Denouncing someone invisible is stupid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>I remember, so do Miss Mary.</Text>
+		</Row>
+		
+		
+		
+		
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DOFED_FRIEND_1">
+			<Text>Hi, friend, let's hide into the palace of {1_CivName} and get a surprise for their leader!</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DOFED_ENEMY_1">
+			<Text>I'm warning you for Miss Mary: stay away with {1_CivName}!</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>You denounced Miss Mary's friend {1_PlayerName}, be careful when you answer the phone.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Yes, {1_PlayerName} is a hollow sham, don't cheated by the image of normalcy.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Believe it or not, I visited {1_CivName} after you.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>No one likes {1_CivName}, no one!</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Miss Mary had warned {1_CivName}, so the next is you?.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>So you are an enemy of {1_CivName}? I remember.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your troops are approaching, are they eager be the preys of Miss Mary?</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies. Don't hide anymore.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You had expanded to Miss Mary's territory!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_EXPANSION_WARNING_1">
+			<Text>Don't get closer, or Miss Mary will notice you.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You had bought Miss Mary's plot!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_PLOT_BUYING_WARNING_1">
+			<Text>The money you spend on buying plot may attract Miss Mary's attention.</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} is bound to cause a catastrophe. Maybe we can solve it for Reimu?</Text>
+		</Row>
+
+		<!-- ==================================== Miscellanious comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_MINOR_CIV_COMPETITION_1">
+			<Text>Yesterday I visited {1_MinorCivName:textkey} and heard your name. Can you explain it?</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_REPEAT_NO_1">
+			<Text>No. Shall I repeat again?</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DONT_SETTLE_YES_1">
+			<Text>Ok, my playground is big enough.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DONT_SETTLE_NO_1">
+			<Text>No, I have no place to hide now.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_GENERIC_1">
+			<Text>Who is speaking? Is that you, my small cobble?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_MILITARY_1">
+			<Text>Miss Mary is willing to massacre you weak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_NUKE_1">
+			<Text>Now I understand, you are a fan of Utsuho!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_BULLY_1">
+			<Text>You successfully sick me with your dirty bullying to the weak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_UNHAPPINESS_1">
+			<Text>I won't read your heart, it's too depressed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_CITIES_1">
+			<Text>Where do your pets live with such a small house?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_POPULATION_1">
+			<Text>So this is all of your pets? At least you won't misremember their names.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INSULT_CULTURE_1">
+			<Text>Do you know this word? How about this one?</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_LUXURY_TRADE_1">
+			<Text>I like your luxury, how about its price?</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I can visit your palace more convenient after pening borders.</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_ATTACKED_HOSTILE_1">
+			<Text>Haha, the prey is knocking at my door.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_ATTACKED_HOSTILE_2">
+			<Text>I will beat you without opening my third eye.</Text>
+		</Row>
+	
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DOW_GENERIC_1">
+			<Text>Hello, this is Miss Mary speaking! And I'm going to kill you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DOW_GENERIC_2">
+			<Text>Don't worry, after killing you, I will call Rin to recycle your body.</Text>
+		</Row>
+
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DOW_LAND_1">
+			<Text>I won't miss any prey comes near.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_DOW_LAND_2">
+			<Text>Thank you for improving my lands, I'll make full use ot them.</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_WAR_DEMAND_REFUSED_1">
+			<Text>Fine, now I need to change my mind.</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_NO_PEACE_1">
+			<Text>I haven't played enough yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOISHI_NO_PEACE_2">
+			<Text>No, Miss Mary is still hungry.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_TOO_SOON_NO_PEACE_1">
+			<Text>No, Miss Mary just polished her knife.</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INFLUENTIAL_ON_AI_1">
+			<Text>Now even I close all my three eyes, you can still find me, is it true?</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_KOISHI_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Now I can read your heart, with my third eye closed!</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

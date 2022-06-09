@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/15/2015 9:51:12 AM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_HV_SHOP"/>
+			<Set>
+				<TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+				<TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+			</Set>
+		</Update>
+	</Buildings>
+</GameData>

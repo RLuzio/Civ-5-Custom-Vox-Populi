@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/24/2015 6:15:02 PM -->
+<GameData>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_KOBITO</CivilizationType>
+			<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	
+	<Units>
+		<Row>
+			<Class>UNITCLASS_SWORDSMAN</Class>
+			<Type>UNIT_STINGING_SWORDSMAN</Type>
+			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
+			<Combat>14</Combat>
+			<Cost>75</Cost>
+			<FaithCost>150</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<HurryCostModifier>20</HurryCostModifier>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_STINGING_SWORDSMAN</Description>
+			<Strategy>TXT_KEY_UNIT_STINGING_SWORDSMAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_STINGING_SWORDSMAN_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_STEEL</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_LONGSWORDSMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_STINGING_SWORDSMAN</UnitArtInfo>
+			<IconAtlas>CIV_COLOR_ATLAS_KOBITO</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<UnitFlagAtlas>CIV_UNITFLAG_ATLAS_KOBITO</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<MoveRate>HEAVY_BIPED</MoveRate>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Unit_Flavors>
+
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_STINGING_SWORDSMAN</UnitType>
+			<PromotionType>PROMOTION_GROW_BIGGER</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+</GameData>

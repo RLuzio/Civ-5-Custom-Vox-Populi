@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 6:05:07 PM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_MASQUERADE</Type>
+			<Description>TXT_KEY_CIV_MASQUERADE_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_MASQUERADE_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_MASQUERADE_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_MASQUERADE</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_MASQUERADE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_CHINA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN </ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MASQUERADE_ATLAS</IconAtlas>
+			<AlphaIconAtlas>MASQUERADE_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>kokoromap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV_MASQUERADE_DAWN_TEXT</DawnOfManQuote>
+			<DawnOfManImage>kokoroDOM.dds</DawnOfManImage>
+			<SoundtrackTag>MASQUERADE</SoundtrackTag>
+		</Row>
+	</Civilizations>
+	
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<LeaderheadType>LEADER_KOKORO</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs> 
+	
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits>
+
+	<Civilization_Start_Along_River>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<StartAlongRiver>true</StartAlongRiver>
+		</Row>
+	</Civilization_Start_Along_River>
+	
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<ReligionType>RELIGION_TAOISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<UnitClassType>UNITCLASS_ARCHAEOLOGIST</UnitClassType>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides> 
+	
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+			<BuildingType>BUILDING_MASQUERADE_TREASUREHOUSE</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_1</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_2</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_3</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_4</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_5</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_6</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_7</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_8</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_9</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_10</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_11</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_12</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_13</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_14</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_15</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_16</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_17</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_18</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_19</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_20</CityName>
+		</Row><Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MASQUERADE_21</CityName>
+		</Row>
+		
+	</Civilization_CityNames>
+	
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_0</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_1</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_2</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_3</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_4</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_5</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_6</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_7</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_8</SpyName>
+		</Row> <Row>
+			<CivilizationType>CIVILIZATION_MASQUERADE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MASQUERADE_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+  
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/20/2015 1:15:33 PM -->
+<GameData>
+	<Audio_Sounds>
+		<!-- Normal Music -->
+		<Row>
+			<SoundID>SND_BORDER_PEACE_01</SoundID>
+			<Filename>YukariPeace1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_BORDER_PEACE_02</SoundID>
+			<Filename>YukariPeace2</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_BORDER_WAR_01</SoundID>
+			<Filename>YukariWar1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_BORDER_WAR_02</SoundID>
+			<Filename>YukariWar2</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_BORDER_EITHER_01</SoundID>
+			<Filename>YukariEither1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+</GameData>

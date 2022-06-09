@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/18/2019 9:42:46 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Civ: ANIMISM-->
+		<Row Tag="TXT_KEY_CIV_ANIMISM_DESC">
+			<Text>State of Animism</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV_ANIMISM_SHORT_DESC">
+			<Text>Animism</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV_ANIMISM_ADJECTIVE">
+			<Text>Animism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ANIMISM_DAWN_TEXT">
+			<Text>Here you are, Komeiji Koishi, ghostly youkai girl. [NEWLINE][NEWLINE]Born with the third eye, you chosed a different way with your older sister. You closed your eye and heart, wander in the every corner of Gensokyo. It's the day you met Hakurei Reimu changed your road of life, you tried to touch the world and open your eye. With the appearance of Hata no Kokoro and her mask of hope, you finally got the chance to show yourself in a big stage. Gradually, you find it interesting to open your heart with a little bit of regret. [NEWLINE][NEWLINE]Time to show up, Koishi! Now the world is characterized by turbulence and intranquility, can you keep your eyes open, distinguish your friends from enemies? Will you build a civilization catch everyone's sight?</Text>
+		</Row>
+
+		<!--Civ: ANIMISM  Pedia-->
+		<Row Tag="TXT_KEY_CIV5_ANIMISM_HEADING_1">
+			<Text>State of Animism</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV5_ANIMISM_TEXT_1">
+			<Text>Civilization led by Komeiji Koishi</Text>
+		</Row>
+
+		<!--Leader: Komeiji Koishi-->
+		<Row Tag="TXT_KEY_LEADER_KOISHI">
+			<Text>Komeiji Koishi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Leader: Komeiji Koishi  Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOISHI_NAME">
+			<Text>Komeiji Koishi</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOISHI_SUBTITLE">
+			<Text>Closed 3rd Eye</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOISHI_TITLES_1">
+			<Text>Satori</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOISHI_LIVED">
+			<Text>TH11</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOISHI_HEADING_1">
+			<Text>About</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOISHI_TEXT_1">
+			<Text>The younger sister of Komeiji Satori, a youkai who can read heart. But when learned that ability will be disgusted by others, Koishi closed her third eye, this explains why she always acts unconsciously. Although will not be disgusted by the underground occupants, she will never be feared or won by animals. The ability to read the heart is also the strength of one's own mind. Closing eyes is just a simple escape, the result is no different from closing heart. Now only a few children can see her, and call her Imaginary Companion.</Text>
+		</Row>
+
+		<!--Trait: IMAGINARY_COMPANION-->
+		<Row Tag="TXT_KEY_TRAIT_IMAGINARY_COMPANION">
+			<Text>Spy level +1, each spy +1 Delegate and +25%[ICON_RESEARCH] for capital.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_TRAIT_IMAGINARY_COMPANION_SHORT">
+			<Text>Imaginary Companion</Text>
+		</Row>
+
+		<!--Unique BUILDING_SUBTERRANEAN_PALACE-->
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_PALACE">
+			<Text>Subterranean Palace</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_PALACE_HELP">
+			<Text>Reduces enemy spy stealing rate by 50%, all newly-trained non-air Units in this City receive the Cover I Promotion</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_PALACE_PEDIA">
+			<Text>Palace of the Earth Spirits.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_SUBTERRANEAN_PALACE_STRATEGY">
+			<Text>Build Subterranean Palace to prevent enemy spies and train your units, it also offers extra 1 culture and 1 happiness. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_KOISHI_TRAIT_BUILDING">
+			<Text>Koishi Trait Build</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KOISHI_TRAIT_BUILDING_B">
+			<Text>Koishi Trait Build B</Text>
+		</Row>
+		
+		
+		<!--Unique ANIMISM_SATORI-->
+		<Row Tag="TXT_KEY_UNIT_ANIMISM_SATORI">
+			<Text>Satori</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_UNIT_ANIMISM_SATORI_HELP">
+			<Text>Replace Composite Bowman, more powerful with the Indirect Fire Promotion.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_UNIT_ANIMISM_SATORI_PEDIA">
+			<Text>People are said to meet them while walking along mountain paths or resting in the mountains. Upon reading a person's mind, the satori would say the person's thoughts aloud faster than a human could. There is also a theory that they are the child incarnations of mountain gods who have come to ruin and turned into a yokai form.They would appear before people at mountain huts, and are even said to try to eat and kill if they have a chance, but if something unexpectedly strikes the satori, they become stricken with fear and run away. There is also a theory that they do not present any danger to people and would not dare to harm those who work on the mountain, allowing people to coexist with satori.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_UNIT_ANIMISM_SATORI_STRATEGY">
+			<Text>Powerful unit for both offense and defense.</Text>
+		</Row>
+
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_0">
+			<Text>Rin</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_1">
+			<Text>Utsuho</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_2">
+			<Text>Tom</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_3">
+			<Text>Jerry</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_4">
+			<Text>Garfield</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_5">
+			<Text>Simba</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_6">
+			<Text>Timon</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_7">
+			<Text>Pumbaa</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_8">
+			<Text>King Kong</Text>
+			<Gender>masculine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_ANIMISM_9">
+			<Text>Godzilla</Text>
+			<Gender>masculine</Gender>
+		</Row>
+
+		<!--City names-->
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_1">
+			<Text>Pebble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_2">
+			<Text>Diamond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_3">
+			<Text>Emerald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_4">
+			<Text>Ruby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_5">
+			<Text>Sapphire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_6">
+			<Text>Opal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_7">
+			<Text>Amber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_8">
+			<Text>Tourmaline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_9">
+			<Text>Spinel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_10">
+			<Text>Garnet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_11">
+			<Text>Zircon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_12">
+			<Text>Peridot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_13">
+			<Text>Crystal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_14">
+			<Text>Coral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIMISM_15">
+			<Text>Pearl</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

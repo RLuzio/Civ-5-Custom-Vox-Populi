@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/27/2019 2:57:42 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_JOON">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_JOON_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_JOON">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_JOON_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_JOON">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_JOON_DECLAREWAR%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

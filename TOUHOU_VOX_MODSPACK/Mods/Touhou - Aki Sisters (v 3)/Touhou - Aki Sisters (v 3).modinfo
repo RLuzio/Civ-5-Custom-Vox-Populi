@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="508ab9d8-4297-4f14-8407-d4312d70ac68" version="3">
+  <Properties>
+    <Name>Touhou - Aki Sisters</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Minoriko Aki is the goddess of abundant harvest in Gensokyo. Along with Shizuha, her older sister, they control the autumn seas</Teaser>
+    <Description>Minoriko Aki is the goddess of abundant harvest in Gensokyo. Along with Shizuha, her older sister, they control the autumn season. She visits the Human Village to give humans a good harvest, and she also runs a sweet potato stand.
+
+Trait: Agriculture is the foundation of manufacture and commerce
+Farm Yields 2 food and 1 production, gold and faith.
+
+UB1: Agricultural Cooperative
+Unique building of the Aki Sisters. Replaces the Granary. +4 Food, +2 Food from each source of wheat, bananas and deer worked by this City.
+
+UB2: Agricultural Bank
+Unique building of the Aki Sisters. Replaces the Bank. +3 Gold, +2 Food and +50% gold
+
+UB3: Farmers' Market
+Unique building of the Aki Sisters. Replaces the Market. +2 Golds, Foods and +25% gold and foods
+
+UU1: Farmer
+Replaces Worker. Instantly builds farm and make improvements 20% faster.
+
+UU2: Tractor
+Replaces Mechanized Infantry. It's weaker than Mechanized Infantry but can build farm and make roads.
+
+Beliefs for Aki Sisters
+
+Autumn Sky (pantheon)
++1 Food from Farms
+
+Autumn Sky and Maiden's Heart (founder)
++1 Culture from Farms
+
+Owotoshi Harvester (Follower)
++1 Science from Farms
+
+Promise of the Wheat God (Follower)
++2 Foods from Farms
+
+Warm Color Harvest (Enhance)
+Granaries, Markets and Banks provide +2 Happiness in city
+
+Sweet Potato Room (Reformation)
+Granaries, Markets and Banks provide +4 Happiness in city. Granaries more provide +3 golds and +1 food. Markets more provide +2 gold and foods. Banks more provide +2 and +3 foods.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4 trait" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="dll component etc." />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="unique culture influnce" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="16F5D1FDF030DABF54B91F7B20EEAA2E" import="1">ART/Aki_Alpha128.dds</File>
+    <File md5="7042B056E9DB53A90490E994E1829839" import="1">ART/Aki_Alpha16.dds</File>
+    <File md5="40F9C7F3D22B72EB150C4FC4B60FDC18" import="1">ART/Aki_Alpha24.dds</File>
+    <File md5="3AA82204A54D5DA89C283D8903584708" import="1">ART/Aki_Alpha32.dds</File>
+    <File md5="0E3BF8F10D80311A654BD1D95949C6A9" import="1">ART/Aki_Alpha48.dds</File>
+    <File md5="0AD96B839D9C6AC8B0E76BA967592DCF" import="1">ART/Aki_Alpha64.dds</File>
+    <File md5="5FCC8D0C1AEA241193573D037F429785" import="1">ART/AKI_Atlas128.dds</File>
+    <File md5="D518F7E2E049F41F5A9161E35EDFF8A6" import="1">ART/AKI_Atlas256.dds</File>
+    <File md5="924D05D2460DC6DEC9293D481353C63B" import="1">ART/AKI_Atlas32.dds</File>
+    <File md5="7610203CDF74D17C6D6418F113C045AA" import="1">ART/AKI_Atlas45.dds</File>
+    <File md5="AD8D168D4CD61390781FF5E1C1A7B6C6" import="1">ART/AKI_Atlas64.dds</File>
+    <File md5="2A651C8083E451D9B8A06661F9262C3A" import="1">ART/AKI_Atlas80.dds</File>
+    <File md5="D302769A495C32EA8BA61D19DEE6D6FA" import="1">ART/AKI_DOM.dds</File>
+    <File md5="952FF0FB09E0E810E2A6021D5C1567C2" import="1">ART/AKI_Farmer_Unitflag.dds</File>
+    <File md5="375080857B97FAAA6613D76709253B7E" import="1">ART/AKI_Map.dds</File>
+    <File md5="66D511D5EEFF6AA4CA6BC5CE19D7923A" import="1">ART/AKI_Religion128.dds</File>
+    <File md5="A9D183DDE8EEE1F6232BDDB5EF09A5B2" import="1">ART/AKI_Religion16.dds</File>
+    <File md5="4A571519C9ECB76731693062C7B524DE" import="1">ART/AKI_Religion24.dds</File>
+    <File md5="1275A3D4EEF639370401FDFC3DBB90C4" import="1">ART/AKI_Religion32.dds</File>
+    <File md5="15AED43CDCF77B452196DD6A11B273F9" import="1">ART/AKI_Religion48.dds</File>
+    <File md5="937267E31AB4F24AFB78B4637FA9D163" import="1">ART/AKI_Religion64.dds</File>
+    <File md5="FA67A0564B66B48542EE167A3724C752" import="1">ART/AKI_Religion80.dds</File>
+    <File md5="24A27061E714BE9640FEF0E654D9D90C" import="1">ART/AKI_Scene.dds</File>
+    <File md5="C28E7FEFA40FAD665FA66DC147B9003B" import="1">ART/AKI_Scene.xml</File>
+    <File md5="DAF80F9F2E61FDEC1B713BDAF7EB429E" import="1">ART/AKI_Tractor_Unitflag.dds</File>
+    <File md5="8619138C42B1930AC6FEE80BB2CF0AE3" import="1">ART/SV_AKI_Farmer.dds</File>
+    <File md5="5562906EFB20D264D6CBCA387936C7BA" import="1">ART/SV_AKI_Tractor.dds</File>
+    <File md5="219B6CE37A49542461D7483E4C6A5E3B" import="0">LUA/AKI_Lua_Eul.lua</File>
+    <File md5="DC0531BE70AD8C7A975E23764B2821FA" import="0">LUA/AKI_Lua_Gap.lua</File>
+    <File md5="23E5681BB8F291C492AAD94FF499687F" import="1">MUSIC/AKI_Peace_1.mp3</File>
+    <File md5="387522668F46923DAACC59935F1F9FA7" import="1">MUSIC/AKI_Peace_3.mp3</File>
+    <File md5="6798FE72CB042B91AB3BDB9540DA2E6F" import="1">MUSIC/AKI_Peace_5.mp3</File>
+    <File md5="F9722FF40B912B18109D388AA7AA6661" import="1">MUSIC/AKI_War_1.mp3</File>
+    <File md5="EBAB2464B9EE8C354B412880EE09102C" import="1">MUSIC/AKI_Peace_4.mp3</File>
+    <File md5="1E9E2356175A1EC283B46D1936190580" import="1">MUSIC/AKI_Peace_2.mp3</File>
+    <File md5="9960EA7F4DDCFB8FB796F91F4CEFD61D" import="1">MUSIC/AKI_DOM.mp3</File>
+    <File md5="9E0194A709C25C5D89F574324ADBC123" import="1">MUSIC/AKI_War_2.mp3</File>
+    <File md5="E82932991969A22DE158C147E7274F0B" import="1">MUSIC/RuralDiary.mp3</File>
+    <File md5="5A4F2A77B93F2E3FD7B33C48A93674E5" import="1">MUSIC/AKI_Peace.mp3</File>
+    <File md5="ABF69FE5E6459011F720DB7942247754" import="1">MUSIC/AKI_War.mp3</File>
+    <File md5="E57063ABF0EF92AEB4BD372B0206E7B7" import="1">MUSIC/AKI_Peace_7.mp3</File>
+    <File md5="557D3754DE205C7F60C6092D28F4C0D7" import="1">MUSIC/AKI_Peace_6.mp3</File>
+    <File md5="3D369220D3E441E462A23B540332FC88" import="1">XML/AKI_Artdef.xml</File>
+    <File md5="5A635644DDED80755D74617BDB843D5E" import="1">XML/AKI_Building.xml</File>
+    <File md5="EE3944BD952D123C44A10E92A287FACA" import="1">XML/Aki_Civ4.sql</File>
+    <File md5="FFF684D054180A154BEDAFB7A428E0A8" import="1">XML/Aki_Civ4.xml</File>
+    <File md5="F7EA5BCAEF76E15ED0DF80308480AD43" import="1">XML/AKI_Civilization.xml</File>
+    <File md5="BBDEECBA3C9FCAFC59D1F2A42D149C8F" import="1">XML/AKI_Diplomacy.xml</File>
+    <File md5="08DCD45DF7F50F99565B6C0FF4B3EE06" import="1">XML/AKI_Icon.xml</File>
+    <File md5="0F6371AD3CFED933CFA9AB42DCA62AA5" import="1">XML/AKI_Leader.xml</File>
+    <File md5="48C87F99CF3AC9107104A04093FB1AE6" import="1">XML/AKI_Music.xml</File>
+    <File md5="7136E2E4773CCE0D6A3D9E9FE0D29267" import="1">XML/AKI_Music_SD.xml</File>
+    <File md5="3491A6E107005B8E8921AD74BEEDA82C" import="0">XML/AKI_Religion.sql</File>
+    <File md5="42A34268A2DEF4C32E49B4C96E577F14" import="1">XML/AKI_Religion.xml</File>
+    <File md5="BDA890D066DB0EF082EEE3E407E747EA" import="1">XML/AKI_Text.xml</File>
+    <File md5="463C0A3F04C52EB302D265A269930EC3" import="1">XML/AKI_Trait.xml</File>
+    <File md5="0F532B8752C15A39A71CF24ADA745418" import="1">XML/AKI_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/AKI_Artdef.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Religion.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Aki_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Aki_Civ4.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AKI_Religion.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/AKI_Lua_Gap.lua">
+      <Name>Aki Lua Gap</Name>
+      <Description>Freshly-harvested sweet potatoes make up my perfume. Do you think I'm going to let a shrine maiden eat me!?</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/AKI_Lua_Eul.lua">
+      <Name>Aki Lua Eul</Name>
+      <Description>I'm just one amongst the multitudes of gods. There are many more here just like me.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

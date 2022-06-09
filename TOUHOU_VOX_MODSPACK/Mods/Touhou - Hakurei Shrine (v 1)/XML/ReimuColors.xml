@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 10:20:08 AM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_BM_TH_HAKUREI_SHRINE_BACKGROUND</Type>
+			<Red>0.3725</Red>
+			<Green>0</Green>
+			<Blue>0.1451</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_BM_TH_HAKUREI_SHRINE_ICON</Type>
+			<Red>1</Red>
+			<Green>0.9647</Green>
+			<Blue>0.8824</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_BM_TH_HAKUREI_SHRINE</Type>
+			<PrimaryColor>COLOR_PLAYER_BM_TH_HAKUREI_SHRINE_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_BM_TH_HAKUREI_SHRINE_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

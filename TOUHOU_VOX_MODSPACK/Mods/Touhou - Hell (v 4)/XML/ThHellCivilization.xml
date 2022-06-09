@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_TH_HELL</Type>
+			<Description>TXT_KEY_CIV_TH_HELL_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_TH_HELL_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_TH_HELL_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV5_TH_HELL</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_TH_HELL</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_TH_HELL</DefaultPlayerColor>
+			<ArtDefineTag><ArtDefineTag>ART_DEF_CIVILIZATION_JAPAN</ArtDefineTag></ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TH_HELL_ATLAS</IconAtlas>
+			<AlphaIconAtlas>TH_HELL_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>ThHellHecatiamap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_TH_HELL_DOM_TEXT</DawnOfManQuote>
+			<DawnOfManImage>ThHellHecatiaDOM.dds</DawnOfManImage>
+			<SoundtrackTag>Japan</SoundtrackTag>
+		</Row>
+	</Civilizations>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<LeaderheadType>LEADER_HECATIA</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits>
+
+	<Civilization_Start_Along_River>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<StartAlongRiver>true</StartAlongRiver>
+		</Row>
+	</Civilization_Start_Along_River>
+
+	-<Civilization_Start_Region_Priority>
+		-<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<RegionType>REGION_HILLS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority> -<Civilization_UnitClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+			<UnitType>UNIT_TH_HELL_YAMA</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides> -<Civilization_BuildingClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<BuildingType>BUILDING_TH_HELL_MINISTRY_OF_RIGHT_AND_WRONG</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TH_HELL_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TH_HELL_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TH_HELL_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TH_HELL_4</CityName>
+		</Row>
+	</Civilization_CityNames>
+
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TH_HELL_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_TH_HELL</CivilizationType>
+			<ReligionType>RELIGION_BUDDHISM</ReligionType>
+		</Row>
+
+	</Civilization_Religions>
+
+	<Colors>
+		-<Row>
+			<Type>COLOR_TH_HELL_LAND</Type>
+			<Red>0.866</Red>
+			<Green>0.176</Green>
+			<Blue>0.109</Blue>
+			<Alpha>1</Alpha>
+		</Row> -<Row>
+			<Type>COLOR_TH_HELL_BORDER</Type>
+			<Red>0.10</Red>
+			<Green>0.10</Green>
+			<Blue>0.10</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TH_HELL</Type>
+			<PrimaryColor>COLOR_TH_HELL_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_TH_HELL_LAND</SecondaryColor>
+			<TextColor>COLOR_TH_HELL_BORDER</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

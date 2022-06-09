@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--As of Version 1, this mod only supports English text.-->
+	<Language_en_US>
+		<!-- Add names for each new religion. -->
+		<Row Tag="TXT_KEY_RELIGION_KINIAKUA">
+			<Text>Kiniakua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MEMPHITISM">
+			<Text>Memphitism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PUNICISM">
+			<Text>Punicism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HELLENISM">
+			<Text>Hellenism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DRUIDISM">
+			<Text>Druidism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TEOTLISM">
+			<Text>Teotlism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AKKADIANISM">
+			<Text>Akkadianism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INTIISM">
+			<Text>Intiism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GERMANICISM">
+			<Text>Germanicism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KANOHHONIO">
+			<Text>Kanoh'hon'io</Text>
+		</Row>
+		<!-- Add adjective forms for each new religion. Allows compatibility with Lex's "Civ Names by Policy Mod" (which I use).-->
+		<Row Tag="TXT_KEY_RELIGION_KINIAKUA_ADJ">
+			<Text>Kiniakuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MEMPHITISM_ADJ">
+			<Text>Memphitic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PUNICISM_ADJ">
+			<Text>Punicist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HELLENISM_ADJ">
+			<Text>Hellenic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DRUIDISM_ADJ">
+			<Text>Druidic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TEOTLISM_ADJ">
+			<Text>Teotlic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AKKADIANISM_ADJ">
+			<Text>Akkadianist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INTIISM_ADJ">
+			<Text>Intiist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GERMANICISM_ADJ">
+			<Text>Germanicist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KANOHHONIO_ADJ">
+			<Text>Kanoh'hon'ioan</Text>
+		</Row>
+		<!-- Add civolopedia pages for each new religion. -->
+		<Row Tag="TXT_KEY_RELIGION_KINIAKUA_PEDIA">
+			<Text>"Kini Akua", a Hawaiian expression, is a term for traditional Polynesian religion, the phrase itself meaning "the multitude of gods and spirits". Although the Polynesian people reside in isolated societies across the Pacific, there is a spectacular religious continuity uniting their many local beliefs. While naming varies between island groups, virtually every Polynesian society recognized Kanaloa, Kana, Ku, and Lono as the chief deities. Tribes kept sacred spaces, called "marae" or "heiau", and had local experts who bridged the mortal world with the divine. Each household tended to its own family spirits at home altars.[NEWLINE][NEWLINE]Universally, traditional Polynesian faith was guided by two core concepts: Mana, the supernatural force that permeates beings and institutions, and Tapu, a sacred restrictivity surrounding certain forbidden objects and places. Violating Tapu was a serious act in Polynesian religion and could jeopardize oneself and one's tribe. From it, Captain Cook coined the Western term "taboo".[NEWLINE][NEWLINE]As Europeans began to colonize Polynesia, Christianity gradually replaced traditional beliefs. Today most Polynesians are Catholic or Protestant, though on some islands hybrid religions sprung up that combine elements of both old and new. While Polynesian religion is no longer practiced in the original sense, its myths remain and the uniquely Polynesian perception of Mana and Tapu continues to guide Polynesian cultural norms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MEMPHITISM_PEDIA">
+			<Text>Memphitism is the ancient religion of the Egyptians, who were unified by the legendary first pharaoh Menes around 5000 years ago. Upon founding a new capital at Memphis, Menes drew upon the spiritual traditions of both Upper and Lower Egypt, developing a new theology which thrived throughout the Old Kingdom. Memphitism is a complex, polytheistic religion featuring many gods and goddesses, not unlike the faiths worshipped by other early civilizations.[NEWLINE][NEWLINE]Followers of Memphitism worshiped the sun Atum as their ultimate creator, and venerated his divine progeny, Osiris, Isis, Seth, Nepthys, Horus, and many others. They believed in an extensive afterlife and observed funerary practices intensely, especially mummification. They also treated their own pharaoh as a god-king, a divine mortal who served none other than Horus himself, obeying his every command and building glorious tombs and pyramids to shuttle him safely into the afterlife upon his demise.[NEWLINE][NEWLINE]Memphitism changed gradually over the millennia, and took on new characteristics during the New Kingdom as contact with the Greeks and Romans grew. Upon the advent of Christianity, Egyptians gradually began to convert to Abrahamic traditions, adopting Christianity first and Islam later. Although Memphitism is no longer in practice today, its legend lives on through the spectacular monuments and unique writing system that its ardent followers created long ago.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_PUNICISM_PEDIA">
+			<Text>Punicism is the Classical-Era belief system of the Carthaginians, a Phoenician seafaring people who adopted coastal North Africa as their home. Their religion is an extension of the early Phoenician religion, and like most other religions of its day focuses on a polytheistic pantheon of gods. At the head of the pantheon, Punic polytheists revered Ba'al Hammon, frequently identified as Moloch, along with his consort Tanit, and respected a caste of clean shaven priests who maintain shrines and direct rituals and sacrifices. Worshippers also engaged in human sacrifice, cremating and burying remains under limestone stele, overtime creating vast necropoli. Unpracticed today, much of Punicism remains shrouded in mystery over the lack of written texts and telling archeological evidence. Debate remains over the possibility that its followers also practiced child sacrifice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_HELLENISM_PEDIA">
+			<Text>Hellenism refers to the practice of Greek Polytheism, though it can more broadly refer to all of the art, literature, and philosophy that made the Greek culture uniquely Greek. The religion developed as a continuation of the Minoan and Mycenaean religious traditions and climbed to new heights during the Classical Era. Followers of Greek Polytheism honored a pantheon of gods called the Olympians, glorious divinities lead by Zeus who had prevailed over the Titans in primordial times and created man. Hellenists revered their gods by designating sanctuaries to them, making regular offerings, and giving sacrifices upon their altars. Greek Polytheistic cities each favored a particular patron god or goddess in a local civic religion, but always revere the pantheon as a whole.[NEWLINE][NEWLINE]The ancient Greeks took their religion with them wherever they could sail to, including East Asia, Egypt, North Africa, and Italy. When Greece fell to the Roman Republic in 146 BC, the Romans adopted most of Hellenism into their own society, though they called the gods by different names and freely introduced some new gods of their own. While both cultures eventually converted to Christianity leaving Hellenism virtually unpracticed, the religion continues to inspire to the present day as its relics and great temples remain as a source of great wonder for the world over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DRUIDISM_PEDIA">
+			<Text>Druidism is the religion of the ancient Celtic tribes of Gaul and the British Isles. Not much is known for certain about this faith, particularly because it was passed down between generations verbally. Like other religions from antiquity, Celtic religion is polytheistic. While some gods like Lugh and Brigid were widely worshipped, each Celtic locality tended to worship its own unique pantheon with heavy influence upon natural themes. According to Greek, Roman, and Middle Age sources, Druidism was maintained by a class of Celts known as the druids. These druids were met with great respect and directed group worship, including human sacrifice. Druidism slowly fell into decline under Roman rule, and by the Fifth Century the vast majority of Celts had converted to Christianity. Although Druidism is no longer practiced, its colorful traditions continue to enthuse modern descendants of the Celts and other Western peoples in the present day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_TEOTLISM_PEDIA">
+			<Text>Teotlism is an expression representing Mesoamerican religion as a whole. While the peoples of Pre-Columbian Mesoamerica never formally organized their regional beliefs into a single, cohesive following, a number of trends unite their practices. The Olmecs, Zapotecs, Aztecs, and Mayans all worshipped similar sets of deities, including the Feathered Serpent, alternatively named Quetzalcoatl by the Aztecs and Kulkulkan by the Mayan. They also organized their religion around intricate religious calendars and built grand step pyramids to display their veneration. Perhaps the most memorable feature of Mesoamerican religion was its extensive practice of human sacrifice, as exemplified by the Aztecs in particular, in order to secure the continued backing of the Sun God and ensuring the prolongation of human existence. The core of Teotlism is in the concept of "Teotl". While the general populace understood Teotl as simply a term for the pantheon, the educated philosophers of Mesoamerica understood it as something deeper: the cosmic essence of everything. Teotl could not be separated apart by dichotomies of animate verses inanimate, or between time and space. Everything was Teotl and Teotl was in everything.[NEWLINE][NEWLINE]When the Spaniards arrived in 1519, they conquered Mesoamerica and banned the practice of traditional religions. European missionaries gradually converted the regional tribes to Catholicism, though rather than total conversion, many tribes simply absorbed Christian ideology into their local beliefs. In this way, Mesoamerican religion remains today, though it is unpracticed in its original manner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_AKKADIANISM_PEDIA">
+			<Text>Mesopotamian religion is an ancient form of polytheism that sprung from Mesopotamia, the birthplace of early civilization. First developed by the Sumerians, it was subsequently passed down relatively unchanged to the Akkadian empires that followed: Babylonia and Assyria. Mesopotamian religion rivals other early religions for the title of the world's oldest, but is indisputably the first to have a written history, thanks to the early development of cuneiform script.[NEWLINE][NEWLINE]It is an incredibly complex faith by today's standards. In addition to a pantheon of major deities including Anu, Ishtar, Marduk, and Ashur, believers recognized thousands of other gods, demigods, demons, and monsters. Every Mesopotamian city revered a particular god or goddess, and built great step pyramids called ziggurats to house and honor their patron. Followers of Akkadianism believed in an afterlife, but perceived it as a dark, unpleasant world following mortal life.[NEWLINE][NEWLINE]Mesopotamian religion continued strong for over 4000 years, coexisting alongside Judaism, but eventually underwent one major change. When Assyria conquered Mesopotamia in the Tenth Century B.C., they declared their patron god, Ashur, the supreme god, and built a new monotheistic faith around him alone. Ashurism lasted for yet another millennium, until ultimately most Assyrians converted to Christianity. Today, Mesopotamian religion is no longer practiced, but has already secured a lasting legacy of influence upon both Abrahamic religions and Western thought through its rich mythology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_INTIISM_PEDIA">
+			<Text>Intiism is the religion of the Incan people, just one subset of Andean faith. Similarly to the way in which there are commonalities shared by all Mesoamerican beliefs, the many Andean tribes generally shared similar polytheistic structures. Inspired by their physical surroundings, Andeans followed nature-based religions, manifested in Pachama, the goddess mother of the Earth, and Inti, the Sun God. In their rise to power, the Inca took their reverence a step further and worshiped their own king as a deity, the son of Inti himself. Over time the Inca expanded and absorbed their smaller neighbors, actively converting subjugated peoples, but allowing them to worship their native pantheons so long as it was only in addition to the state sanctioned Incan variety.[NEWLINE][NEWLINE]Although the Inca came to dominate the Andes, unifying Andean ideologies, they ultimately crumbled to the Spanish in 1532. When the empire fell, the Spanish conquistadors outlawed native religions and introduced Catholicism in its place. Today, the Andean peoples are thoroughly Catholic, though followers of traditional faiths can often be found in isolated, rural pockets. Many aspects of the actual practice of Intiism remain mysterious to this day, and our understanding relies on persistent archeological exploration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GERMANICISM_PEDIA">
+			<Text>Germanicism is the folk religion of the many Germanic tribes of Northern Europe and Scandinavia, as practiced most famously by the Norse. Inspired by conflict, the Germanic pantheon of gods and goddesses is divided into two opposing clans who unified after an epic war: the Æsir and the Vanir. Following the war, Odin of the Æsir became the head of Asgard, the godly realm. Worship of these deities seems to have been guided by a class of priests who represented the tribes to the divine, though they don't seem to have spoken for the divines themselves. These priests directed group sacrifices, including human sacrifices. Germanic polytheists, especially the Norse, believed in an afterlife in Valhalla, a paradise reserved for those who died valiantly in battle. Over time, the Germanic tribes and Norse converted to Christianity, and although traditional Germanic religion is no longer practiced today, it remains one of the most vibrant faiths ever seen in Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_KANOHHONIO_PEDIA">
+			<Text>Kanoh'hon'io is the traditional religion of the Iroquois peoples of present-day upstate New York, including the Mohawk, Onondaga, Oneida, Cayuga, and Seneca. Like most other Native American tribal religions, Kanoh'hon'io is linked closely with the natural world, which combines elements of the upper world, which promotes life, and the lower world, which diminishes it. Man dwells in the middle, where both types of elements mix freely. Adherents of the faith see it as their duty to access the spiritual power at their disposal and to use it to promote only those worldly elements that foster life's growth and prosperity. Spirituality is typically mediated tribally, often through shamanistic medicine societies, songs, and seasonal dances, but also through individual means. Particularly important is one's recognition of dreams as the window to the soul with the power to indicate a path to wellbeing. A dream might warn of a terrible event that can be avoided, or introduce a guardian spirit willing to share supernatural knowledge a song or skill. After receiving a warning the dreamer might act it out in order to avoid its actual occurrence, and upon learning a new knowledge they might share it with the rest of their tribe, adding to the collective Iroquois theology. Even though most Iroquois converted to Christianity following the arrival of European settlers in the New World, about a quarter still follow forms of traditional faith to this day.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

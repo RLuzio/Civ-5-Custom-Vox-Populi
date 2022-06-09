@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2013 6:20:12 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Traits>
+		<Row>
+			<Type>TRAIT_ONIKAKUSHI</Type>
+			<Description>TXT_KEY_TRAIT_ONIKAKUSHI</Description>
+			<ShortDescription>TXT_KEY_TRAIT_ONIKAKUSHI_SHORT</ShortDescription>
+			<GreatGeneralRateModifier>50</GreatGeneralRateModifier>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_ONIKAKUSHI</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Trait_MaintenanceModifierUnitCombats>
+		<Row>
+			<TraitType>TRAIT_ONIKAKUSHI</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<MaintenanceModifier>-50</MaintenanceModifier>
+		</Row>
+	</Trait_MaintenanceModifierUnitCombats>
+</GameData>

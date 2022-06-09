@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-26 오후 8:57:05 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_AKYUU_CIV_IV">
+			<Text>Hieda no Akyuu [ICON_RESEARCH][ICON_CULTURE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		</Language_en_US>
+		<Language_ko_KR>
+			<Row Tag="TXT_KEY_LEADER_AKYUU_CIV_IV">
+				<Text>히에다노 아큐 [ICON_RESEARCH][ICON_CULTURE]</Text>
+				<Gender>feminine</Gender>
+			</Row>
+			</Language_ko_KR>
+			<Language_ja_JP>
+				<Row Tag="TXT_KEY_LEADER_AKYUU_CIV_IV">
+					<Text>稗田阿求 [ICON_RESEARCH][ICON_CULTURE]</Text>
+					<Gender>feminine</Gender>
+				</Row>
+			</Language_ja_JP>
+</GameData>

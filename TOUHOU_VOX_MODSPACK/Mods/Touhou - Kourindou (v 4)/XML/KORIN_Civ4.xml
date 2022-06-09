@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-27 오전 7:59:48 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_CIV_IV">
+			<Text>Rinnosuke Morichika [ICON_GOLD][ICON_INFLUENCE]</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_CIV_IV">
+			<Text>모리치카 린노스케 [ICON_GOLD][ICON_INFLUENCE]</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_RINNOSUKE_CIV_IV">
+			<Text>森近霖之助 [ICON_GOLD][ICON_INFLUENCE]</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 10:20:08 AM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MAKAI_BACKGROUND</Type>
+			<Red>0.7843</Red>
+			<Green>0.4784</Green>
+			<Blue>0.9098</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MAKAI_ICON</Type>
+			<Red>0.7056</Red>
+			<Green>0.0234</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MAKAI</Type>
+			<PrimaryColor>COLOR_PLAYER_MAKAI_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MAKAI_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

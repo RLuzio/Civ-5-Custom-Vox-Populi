@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/2/2016 3:55:33 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_TENGU_ADJECTIVE">
+			<Text>Tengu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_TENGU_DESC">
+			<Text>Tengu Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_TENGU_SHORT_DESC">
+			<Text>The Tengu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA">
+			<Text>Tenma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOUHOU_TENGU">
+			<Text>The [ICON_CAPITAL] Capital starts with Tenma&apos;s Palace. All foot based units may gain a special promotion and have +1 [ICON_MOVES] Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOUHOU_TENGU_SHORT">
+			<Text>Sleepless Night of the Eastern Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_TENGU_TITLE">
+			<Text>The Tengu Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_TENGU_TEXT">
+			<Text>
+				Hail mighty Tenma, ruler of all tengu and mountains. The many races of the tengu bow before your name.[NEWLINE][NEWLINE]The mountain where you stand to rule was onced ruled by the oni. However, due to the creation of the Great Hakurei Barrier and the rapid decline of dedicated oni exterminators, the oni grew tired of how uneventful Gensokyo had become and left the mountain. With your superiors nowhere to be found, you were quick to lead your people to build upon what was left by the oni. Ever since then, your people have made an advanced civilization that has become the envy of many humans and youkai alike.[NEWLINE][NEWLINE]Lady Tenma, will you continue to rule the skies? Will you make sure that all tengu is prideful of their race, while the others look up to them? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REPORTER_JOURNALIST">
+			<Text>Reporter Journalist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REPORTER_JOURNALIST_TEXT">
+			<Text>The tengu of Gensokyo are known for their love of gossip and writing newspapers. Their reporters enjoy rumormongering and paparazzi photography. What&apos;s even more frightening is that they&apos;ll spread half-truths and weird rumors. There are cases where the tengus&apos; rumors will literally become the wind&apos;s rumors that they even reached human ears. Thereby, it becomes difficult to properly notify the village otherwise. Because this is something against which there is no complete defense, there is nothing more dreadful than this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REPORTER_JOURNALIST_STRATEGY">
+			<Text>The Reporter Journalist is a unique unit for the Tengu Union, replacing the Great Writer. Along with the normal Great Writer abilities, it may perform a trade mission that provides [ICON_INFLUENCE] Influence. Whenever this unit is expended, gain [ICON_HAPPINESS_1] Happiness proportional to your [ICON_CITIZEN] Citizens in cities founded by you, with the boost halving every turn. This [ICON_HAPPINESS_1] Happiness also provides a [ICON_CULTURE] Culture boost during a Golden Age, added in between turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_REPORTER_JOURNALIST_HELP">
+			<Text>Great Writer unit. Only the Tengu Union may produce them. It can do a trade mission that provides 60 [ICON_INFLUENCE] Influence. Expending this unit gains a temporary boost in [ICON_HAPPINESS_1] Happiness that also provides a [ICON_CULTURE] Culture boost during a Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE">
+			<Text>Newspaper Office</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_STRATEGY">
+			<Text>The Newspaper Office is the Tengu Union&apos;s unique building, replacing the Windmill. It is available earlier, receives [ICON_PRODUCTION] Production from Forests if the city has a Factory, and a flat increase to [ICON_PRODUCTION] Production and [ICON_HAPPINESS_1] Happiness. It also has a [ICON_GREAT_PEOPLE] Writer Specialist slot. However, it may only be built in cities on Hills and is adjacent to a Mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_TEXT">
+			<Text>The tengus&apos; are known for their newspapers. These offices print thousands of newspapers everyday for any kind of scoop the reporters find. The Great Youkai Forest supplies the physical materials they need to produce those. Many of the crow tengu and the yamabushi tengu can be found working here, as well as the occasional long nose tengu who act as their financiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_HELP">
+			<Text>Can only be built in cities on Hills and is adjacent to a Mountain. Provides +2 [ICON_PRODUCTION] Production and [ICON_HAPPINESS_1] Happiness. Forest tiles worked by this city yields an additional +1 [ICON_PRODUCTION] Production if the city has a Factory. It also has 1 [ICON_GREAT_PEOPLE] Writer Specialist slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_TENMA">
+			<Text>Tenma&apos;s Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_TENMA_STRATEGY">
+			<Text>Tenma&apos;s Palace is the Tengu Union&apos;s unique building that replaces the Palace. It provides the usual Palace yields, but air units are trained 50% faster and the city has a -25% enemy spy stealing rate instead of a [ICON_GREAT_WORK] Great Work of Art slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_TENMA_TEXT">
+			<Text>Tenma rules the tengu from the highest point of the mountains. Naturally, the path that leads to her palace is well defended. The tengu are, after all, well known for their protectiveness and their hate of outsiders. As ruler of the skies, those who fight for her in the skies receive her blessings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_TENMA_HELP">
+			<Text>Marks the city as the [ICON_CAPITAL] Capital. Provides +3 [ICON_PRODUCTION] Production, +3 [ICON_GOLD] Gold, +3 [ICON_RESEARCH] Science, and +1 [ICON_CULTURE] Culture. +50% [ICON_PRODUCTION] Production when building Air Units and enemy spy stealing rate in this city is slowed down by 25%.</Text>
+		</Row>
+		
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_TRAIT_TOUHOU_TENGU">
+			<Text>Sleepless Night of the Eastern Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TRAIT_TOUHOU_TENGU_HELP">
+			<Text>+1 Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGUKAKUSHI">
+			<Text>Tengukakushi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGUKAKUSHI_HELP">
+			<Text>Unit will receive a special promotion, if applicable and if you are the Tengu Union. +10% [ICON_STRENGTH] Combat Strength in friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_SPEED">
+			<Text>Fastest in Gensokyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_SPEED_HELP">
+			<Text>+1 Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_AGILITY">
+			<Text>One-toothed Geta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_AGILITY_HELP">
+			<Text>Can Move After Attacking. +10% [ICON_STRENGTH] Combat Strength when attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_GUSTINESS">
+			<Text>Hauchiwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_GUSTINESS_HELP">
+			<Text>+30% [ICON_STRENGTH] Combat Strength when defending in [COLOR_POSITIVE_TEXT]OPEN[ENDCOLOR] Terrain or [COLOR_POSITIVE_TEXT]HILLS[ENDCOLOR]. (NO Forest or Jungle).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_WISDOM">
+			<Text>Tokin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_WISDOM_HELP">
+			<Text>Earns experience toward promotions 50% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_PRIDE">
+			<Text>Shakujo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TENGU_PRIDE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals 10 Additional HP[ENDCOLOR] per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPREAD_NEWSPAPER">
+			<Text>Spreading Newspapers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SPREAD_NEWSPAPER_HELP">
+			<Text>This unit may perform a trade mission that provides 60 [ICON_INFLUENCE] Influence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROW_TENGU">
+			<Text>Crow Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROW_TENGU_HELP">
+			<Text>Ignore terrain costs. If unit already has it, it gains +1 Movement instead. If unit is a Great Person, it gains another +1 Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROW_TENGU_BONUS">
+			<Text>Crow Heritage Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROW_TENGU_BONUS_HELP">
+			<Text>This unit already has ignore terrain costs, therefore, it gains +1 Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROW_TENGU_BONUS_GP">
+			<Text>Crow Heritage Bonus - Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CROW_TENGU_BONUS_GP_HELP">
+			<Text>This unit is a Great Person, therefore, it gains +1 Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WHITE_WOLF_TENGU">
+			<Text>White Wolf Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WHITE_WOLF_TENGU_HELP">
+			<Text>+1 Sight and +15% Combat Strength. If this unit is a Great Person, it gains an extra +3 Sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WHITE_WOLF_TENGU_BONUS_GP">
+			<Text>White Wolf Heritage Bonus - Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WHITE_WOLF_TENGU_BONUS_GP_HELP">
+			<Text>This unit is a Great Person, therefore, it gains +3 Sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMABUSHI_TENGU">
+			<Text>Yamabushi Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YAMABUSHI_TENGU_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength when fighting in [COLOR_POSITIVE_TEXT]Hill[ENDCOLOR]. All units in adjacent tiles [COLOR_POSITIVE_TEXT]Heal 5 Additional HP[ENDCOLOR] per turn. Expending this unit as a Great Person grants you [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LONG_NOSE_TENGU">
+			<Text>Long-nose Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LONG_NOSE_TENGU_HELP">
+			<Text>Steals [ICON_GOLD] Gold equal to 100% of the damage inflicted on a city. Earn points toward a Golden Age for each enemy killed. Expending this unit as a Great Person grants you [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_TENGU">
+			<Text>Great Tengu Heritage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GREAT_TENGU_HELP">
+			<Text>Ignore enemy Zones of Control. +33% [ICON_STRENGTH] Combat Strength VS [COLOR_POSITIVE_TEXT]Wounded Units[ENDCOLOR]. Expending this unit as a Great Person grants you [ICON_FOOD] Food for the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+
+		<!--Spy Names: Named after all kinds of tengu from popular culture-->
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_0">
+			<Text>Shameimaru Aya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_1">
+			<Text>Himekaidou Hatate</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_2">
+			<Text>Inubashiri Momiji</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_3">
+			<Text>Nyoigatake Yakushibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_4">
+			<Text>Kurama Shinjirou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_5">
+			<Text>Inue Shinobu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_6">
+			<Text>Sakurazaki Setsuna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_7">
+			<Text>Miyamoto Haiji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_8">
+			<Text>Gohyakumine Bankotsubou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_TENGU_9">
+			<Text>Nyotengu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--City Names: Named after Japanese newspapers that can be used as a 'proper' noun (I can't tell if this is true or not, I tried researching but sometimes I'm left with no information), except the capital, which comes from the phrase Tenma's name was derived from.-->
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_1">
+			<Text>Dairokuten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_2">
+			<Text>Yomiuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_3">
+			<Text>Asahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_4">
+			<Text>Chunichi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_5">
+			<Text>Nikkei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_6">
+			<Text>Akahata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_7">
+			<Text>Yukan Fuji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_8">
+			<Text>Yamanami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_9">
+			<Text>Shinano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_10">
+			<Text>Minato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_11">
+			<Text>Mutsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_12">
+			<Text>Riasu's Wind</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_13">
+			<Text>Hokuu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_14">
+			<Text>Abukuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_15">
+			<Text>Senpoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_16">
+			<Text>Shimotsuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_17">
+			<Text>Kokoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_18">
+			<Text>Koushoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_19">
+			<Text>Ise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_20">
+			<Text>Nanki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_21">
+			<Text>Yuukan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_22">
+			<Text>Oumi Doumei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_23">
+			<Text>Rakunan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_24">
+			<Text>Hidaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_25">
+			<Text>Kinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_26">
+			<Text>Kii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_TENGU_27">
+			<Text>Kumano</Text>
+		</Row>
+
+		<!--JFD Rise to Power: Head of Government-->
+		<!--These were named after great tengu in Tengu Meigiko-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU">
+			<Text>Daitengu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_1">
+			<Text>Soujoubou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_2">
+			<Text>Taroubou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_3">
+			<Text>Jiroubou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_4">
+			<Text>Sanjakubou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_5">
+			<Text>Ryuhoubou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_6">
+			<Text>Buzenbou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_7">
+			<Text>Hokibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_8">
+			<Text>Myougibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_9">
+			<Text>Sankibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_10">
+			<Text>Zenkibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_11">
+			<Text>Kotenbou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_12">
+			<Text>Tsukuba-houin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_13">
+			<Text>Daranibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_14">
+			<Text>Naigubu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_15">
+			<Text>Sagamibou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_16">
+			<Text>Saburou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_TOUHOU_TENGU_17">
+			<Text>Ajari</Text>
+		</Row>
+
+		<!--JFD Rise to Power: Legislature-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_TOUHOU_TENGU">
+			<Text>Council of the Five Clans</Text>
+		</Row>
+
+		<!--JFD Rise to Power: Unique Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_TOUHOU_TENGU">
+			<Text>Firstborn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_TOUHOU_TENGU_FEMININE">
+			<Text>Firstborn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_GOVERNMENT_TOUHOU_TENGU">
+			<Text>{1_CivAdj} Clans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_ONE_PARTY_TITLE_LEADER_TOUHOU_TENGU">
+			<Text>Great Boss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_ONE_PARTY_TITLE_LEADER_TOUHOU_TENGU_FEMININE">
+			<Text>Great Boss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_ONE_PARTY_TITLE_GOVERNMENT_TOUHOU_TENGU">
+			<Text>{1_CivAdj} Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_TOUHOU_TENGU">
+			<Text>Amanozako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_TOUHOU_TENGU_FEMININE">
+			<Text>Amanozako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_GOVERNMENT_TOUHOU_TENGU">
+			<Text>{1_CivAdj} Union</Text>
+		</Row>
+
+		<!--Leader: Tenma - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_TENMA_NAME">
+			<Text>Tenma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TENMA_SUBTITLE">
+			<Text>Boss of the Tengu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TENMA_LIVED">
+			<Text>TH10.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TENMA_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TENMA_TEXT_1">
+			<Text>Tenma is an enigmatic character, only known to be the chief of the tengu on the Youkai Mountain. She was first mentioned as the Tengu boss in the Tengu section of Perfect Memento in Strict Sense.</Text>
+		</Row>
+
+		<!-- Great Works + Writer Names-->
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_1">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_10">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_11">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_12">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_13">
+			<Text>Himekaidou Hatate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_14">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_15">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_16">
+			<Text>Himekaidou Hatate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_17">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_2">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_3">
+			<Text>Himekaidou Hatate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_4">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_5">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_6">
+			<Text>Himekaidou Hatate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_7">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_8">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REPORTER_JOURNALIST_9">
+			<Text>Shameimaru Aya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_1">
+			<Text>A New Trend in Youkai Music[NEWLINE]Punk concerts popular with delinquent fairies?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_10">
+			<Text>A Savior for Falsely Accused Victims?[NEWLINE]See no evil, speak no evil, hear no evil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_11">
+			<Text>Incident on Youkai Mountain?[NEWLINE]Was it an omen of eruption?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_12">
+			<Text>A Super-Accurate Local Weather Forecast![NEWLINE]With complaints for some reason...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_13">
+			<Text>The Legend of Husband-Hunting Veils[NEWLINE]Forgotten Veils of Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_14">
+			<Text>New Shogi Discovery?[NEWLINE]New pieces discovered in Muenzuka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_15">
+			<Text>The Hakurei Shrine Collapse[NEWLINE]The strange celestial who has accepted the task of rebuilding...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_16">
+			<Text>The Great Unseen War[NEWLINE]Harsh punishment for the prank-loving fairy?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_17">
+			<Text>The Pros and Cons of the Nets[NEWLINE]What is the purpose of the hanging webbing?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_2">
+			<Text>A messenger from Former Hell and an inexplicable guardian[NEWLINE]Speaking for the Mysterious Zombie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_3">
+			<Text>Aliens From a Burning Fireball?[NEWLINE]A 10 Shaku Giant Appears!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_4">
+			<Text>Skeletal Remains Found from the Dry Well[NEWLINE]But who was it!?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_5">
+			<Text>A New Business in the End-of-Year Rush[NEWLINE]Is this the outbreak of a Christmas business war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_6">
+			<Text>Instant Hina Dolls Popular[NEWLINE]What is in demand at the Dolls' Festival?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_7">
+			<Text>What Is the Future Of The Worn Out Tool?[NEWLINE]Youkai babysitter spotted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_8">
+			<Text>Opinions Divided On Mountain's Future Direction[NEWLINE]The Great Serpent and the white wolf tengu at odds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TENMA_9">
+			<Text>Summer Night Buddhist Services for Youkai[NEWLINE]Can they chill anyone to the bone?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_1">
+			<Text>
+				"What's 'punk'? It's an explosion of oppressed frustration! The roar of the soul!"
+				[NEWLINE]This was the explanation provided by Ms. Kyouko. I then asked her what exactly her "oppressed frustration" was.
+				[NEWLINE]"Well, all I ever do is clean and recite sutras all day, you know? Sitting in the lotus position hurts a lot too."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_10">
+			<Text>
+				"Living in every human's body are bugs called the three worms. On the night of gengshen they sneak out of your body and report your sins to the Lord of Heaven, thereby reducing your lifespan. So, if you stay awake and alert on gengshen, you can prevent having your sins revealed and therefore preserve your life."
+				[NEWLINE]She claims this is the reason why people started to have parties on that day.
+				[NEWLINE]"But everyone just gets dead drunk in today's parties, and the bugs get out anyway, completely ruining the point. That's why I developed 'The Four Wise Monkeys'. With these, you can easily live longer than even the most devout monk. Indeed, you could say they're for monk-ease."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_11">
+			<Text>
+				"It's not an eruption. That red light is not magma but the light of a nuclear fusion reactor. It's the same light as the sun."
+				[NEWLINE]Says Ms. Moriya Suwako (goddess), who is connected to the Geyser Center. Magma is another word for "Divine Oni Spring", said to be so hot that the oni bathe in it. Though plentiful in Hell, magma is seldom found on the surface.
+				[NEWLINE]"It has nothing to do with an eruption. Even if something like that happens, I'll adjust the date, so...."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_12">
+			<Text>
+				"Heaven is just so dull, you know. I thought that if I tried doing some personality assessment, I could be a bit useful to others while I occupy myself."
+				[NEWLINE]These were the words of the suspicious woman in question, Hinanawi Tenshi (Celestial). According to her, it was not a weather forecast but a personality assessment.
+				[NEWLINE]"Haven't you ever heard of someone having a sunny or cloudy disposition? It happens to rain or clear up when they're there, sort of... Humans can manipulate the weather like that and I can see the effects. So my personality assessment is equivalent to a weather forecast."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_13">
+			<Text>
+				These maidens lose their veil near the human village on purpose to lure a potential partner. If they take a fancy to the gentleman who finds their veil, they tell him they cannot return to heaven so they insist on marrying him. If they don't, they simply swipe it back. However, is this method really acceptable?
+				[NEWLINE]Nagae Iku (Messenger of the Dragon Palace) had this to say on the matter:
+				[NEWLINE]""Husband-hunting veils"? Oh yes, I heard that kind of thing has become popular with the more tawdry maidens. However, these veils are provided by the Lord of Heaven, so we have to write an apology letter if we damage or lose it. To be perfectly honest, the only ones who participate in such absurdity are fools who do not consider the consequences."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_14">
+			<Text>
+				"I thought that we were the only ones making original rules. I could not believe my eyes to see that the same kind of thing was happening in the outside world as well. It's a bit frustrating."
+				[NEWLINE]Though she says that, she is devoted to making more rules to utilize the new pieces.
+				[NEWLINE]"I want to see how shogi in the outside world has evolved with my own eyes. There is the possibility that the rules have been simplified, since all of the new pieces which were found couldn't be promoted. In that case, we tengu would likely find it lacking."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_15">
+			<Text>
+				"The rumbling was so strong, I almost felt like I was being tossed around. Then, in an instant, the roof caved in on the shrine and wrecked it!"
+				[NEWLINE]The shrine did not seem to have been struck by a strong force from the outside, nor did it not look like it was destroyed by a power other than an earthquake. There were no obvious cracks or faults visible nearby, so perhaps it was the doing of a relatively small giant catfish.
+				[NEWLINE]The shrine was was a fairly old building, so it was fortunate that the shrine's roof simply fell upon it. That makes it much simpler to rebuild. However, even if the shrine is repaired, if the reason for the collapse remains unknown then the same thing might happen again. Basically, that earthquake seemed suspicious, as if it were caused on purpose.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_16">
+			<Text>
+				Kirisame Marisa (Human) was the one who was at the end of our path. What will happen if we match a fairy drunk on her own power against a human who often hangs out with fairies? That was my observation at the time.
+				[NEWLINE]"This'll be good. Lessee how entertainin' a fairy as my opponent could possibly be!"
+				[NEWLINE]A show between a human drunk on alcohol and a fairy drunk on power began. Although there was nothing special to report in this silly play-fight, it was quite impressive to see how Marisa enjoyed taking it easy on the fairy. The fact that she wasn't using her specialty, her famous lasers, made it even more amusing.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_17">
+			<Text>
+				The kappa remain aggressive, claiming that, "If the nets are hurting anyone, we will just modify them so they don't; we still have the right to catch mist!"
+				[NEWLINE]In response, Ms. Ibaraki replied:
+				[NEWLINE]"We don't only eat mist. And even when we do, it's simple enough to gather some on our own... I mean, who would have to buy something like that?"
+				[NEWLINE]The conclusion of the conference was: "Nets which affect flying creatures will be banned.". Shortly after, it seems that the kappa developed an improved mist net which will only catch mist. However, there is a widespread belief that the price of mist will not increase significantly and the sales of the nets will decrease. Despite this, the technology to catch mist efficiently may be used elsewhere in the future.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_2">
+			<Text>
+				"This corpse says she's not really planning on harming anyone, you see."
+				[NEWLINE]The interpreter is Kaenbyou Rin (Kasha), an expert on the dead. There is no one that can handle the treatment of human corpses better than her.
+				[NEWLINE]"Her name is Miyako Yoshika. She says she doesn't remember much more than that, and that she suddenly got the feeling that she really needed to defend this place no matter what. I think that her obsessions from her past life made her uneasy, and caused her corpse to be reanimated. I've narrowed down her territory a bit, so if it's not a problem you can probably just leave her here to rot!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_3">
+			<Text>
+				"I was just out searching for something. I was told to collect the pieces of the flying vault. But forget that; how did you figure out my true form?"
+				[NEWLINE]The fireball and ten-shaku alien were just an act to keep people away.
+				[NEWLINE]"I was just trying to look like a "scary unidentified object". I heard people were starting to say there was an alien running around beforehand, so that rumor just kind of ended up making me out to be that alien on its own. But, a 10 shaku tall alien, you say?"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_4">
+			<Text>
+				The youkai expert, Ms. Yakumo Yukari said:
+				[NEWLINE]"Well, I suppose it was an act by the youkai of the underground. Since their powers come from the negative energy of humans, maybe she wanted to scare humans who had become too peace-addled."
+				[NEWLINE]There is a nonintervention pact made between the youkai of the underground and the surface, so if this was the work of the youkai underground, the situation could become complicated. Even we tengu hope to avoid trouble with the underground.
+				[NEWLINE]"However, since we don't have the all-important skeleton, it could have been a simple misunderstanding. No, it was a misunderstanding, definitely."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_5">
+			<Text>
+				Ms. Kaku Seiga (hermit) seeks to make a business out of this fad. She says that with her ability to go through walls at will, she is planning to sneak into human houses.
+				[NEWLINE]"During Christmas, everyone buys toys from Santa Claus (St. Nicholas), and he sneaks in to deliver them. That's how it works in the outside world. I guess it's an event that gathers faith from children."
+				[NEWLINE]But Seiga claims that it isn't enough:
+				[NEWLINE]"Why should we believe in some white-beard old man, especially when we don't even know if he's in Gensokyo in the first place? That's why everyone has such a hard time selling toys. So, I decided that I'm going to sell the toys directly to the owner, or, if they're asleep, I'll just take something that looks valuable."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_6">
+			<Text>
+				The individual behind this trend, Kagiyama Hina (Misfortune God), explains:
+				[NEWLINE]"Extravagant hina dolls being traditional is just plain nonsense. Sturdy dolls made by the poor to last many years are what became the fancy hina dolls you see today. The truth is that you're supposed to throw the dolls away after filling them with misfortune."
+				[NEWLINE]The new hina dolls are made to be disposable. Once the Hina Festival is over, the dolls simply float down the river.
+				[NEWLINE]"Humans who thought 'Letting these dolls be carried away by the river is such a waste' are the ones who made hina dolls into what they are now. As an unfortunate result, they no longer accomplish the original goal of cleansing. This has caused misfortune to slowly gather in the human village. If that's not discarded quickly, my power will..."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_7">
+			<Text>
+				"What, you don't know? A babysitter's job is to fly through the sky with an umbrella."
+				[NEWLINE]A karakasa obake is a type of Tsukumogami. An umbrella neglected for many years, she eventually turned into a youkai. She is a fairly classic type that exists to trouble humans. However, its connection to babysitting is vague at best.
+				[NEWLINE]"I don't really get the whole picture, but in the outside world, babysitters fly through the sky using an umbrella. When I heard of that, I decided to take a shot at it myself. I mean, children are pretty easy to scare. "
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_8">
+			<Text>
+				"I'm sick of these pointless objections from the white wolf tengu. It's not like we're going to wreak havoc on the mountain. In fact, it will help provide more faith to the mountain, which will then also increase their own power. I can't help but think that they are just trying to justify not going outside more than the absolute minimum required. This is why I hate those hikikomori."
+				[NEWLINE]In response to this, the white wolf tengu replied curtly, "It is our duty to remain alert for intruders."
+				[NEWLINE]As it is right now, worshipers praying at the Moriya Shrine is a rare occurrence. One of the reasons for this are the patrolling white wolf tengu. Seeing no way around them, Moriya established a branch shrine in the foothills to allow people to come and pray, as well as to be able to conduct business themselves and gather faith from humans.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_GREAT_WORK_TENMA_9">
+			<Text>
+				"The path of Buddhism is training to attain enlightenment. In other words, it involves exorcising evil spirits from the human soul. However, our Buddhist service is specially tailored for youkai, so..."
+				[NEWLINE]She may have been attempting to say that the very act of a youkai attending a Buddhist service would be like them denying their own existence, as they are an aspect of the evil lurking in the human soul. That indeed sounds like a thrill.
+				[NEWLINE]But Ms. Hijiri continues:
+				[NEWLINE]"The state of enlightenment is "Form is emptiness. Emptiness is form", thus it is said to be a substance which is born by itself from the flawless soul. It may be that youkai are actually close to enlightenment, since the denial of self is directly connected to the denial of existence."
+			</Text>
+		</Row>
+		
+		<!-- Diplomacy-->
+		<Row Tag="TXT_KEY_LEADER_TENMA_FIRSTGREETING_1">
+			<Text>Greetings, I am Tenma, the supreme boss of all tengu and all of the skies. Tread lightly under my watch or risk the wrath of the tengu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_FIRSTGREETING_2">
+			<Text>Welcome to the sixth heaven of this earth. I am Tenma, the ruler of this mountain. Your actions are carefully watched by us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_FIRSTGREETING_3">
+			<Text>I welcome you to my domain. Respect the tengu and we will surely respect you and your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_DECLAREWAR_1">
+			<Text>The time for your doom has come. May you fight well in the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_DECLAREWAR_2">
+			<Text>Come, show us your fighting prowess. Do you have faith in your people as I do with mine? This fight shall tell us the answer!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_DECLAREWAR_3">
+			<Text>Have you prepared your kuhin-mochi? No matter, those will no longer stop us in our quest for triumph!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_DEFEATED_1">
+			<Text>One day, we will rise once more and the skies will be ours again. Enjoy your rule while it lasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_DEFEATED_2">
+			<Text>Impossible! A mere ground dweller has defeated the great boss of the tengu? Enjoy your rule while fortune favors you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TENMA_DEFEATED_3">
+			<Text>A tengu&apos;s pride can never be crushed easily. We will rise from our graves one day to avenge this.</Text>
+		</Row>
+		
+		<!-- Unique Cultural Influence Support-->
+		<Row Tag="TXT_KEY_GENERIC_TOUHOU_TENGU_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now reading your newspapers and wearing your geta. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

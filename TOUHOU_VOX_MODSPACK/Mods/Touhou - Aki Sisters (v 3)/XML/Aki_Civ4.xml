@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-26 오후 11:43:46 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_CIV_IV">
+			<Text>Minoriko Aki [ICON_FOOD][ICON_PEACE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_CIV_IV">
+			<Text>아키 미노리코 [ICON_FOOD][ICON_PEACE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_CIV_IV">
+			<Text>秋穣子 [ICON_FOOD][ICON_PEACE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ja_JP>
+</GameData>

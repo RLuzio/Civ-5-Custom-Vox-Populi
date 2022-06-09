@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cc197857-3998-485f-ab17-09f6e546663b" version="1">
+  <Properties>
+    <Name>Touhou - Hata no Kokoro</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds Hata no Kokoro as a new civilization</Teaser>
+    <Description>This mod adds Hata no Kokoro as a new civilization</Description>
+    <Authors>Gugugu</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A81E2284E03FB86C419529A1F7344413" import="1">Art/IconAtlas/MasqueradeAlphaAtlas16.dds</File>
+    <File md5="F7A73BB58E8D0C6FC1E88D8AB2BF7EEB" import="1">Art/IconAtlas/MasqueradeAlphaAtlas24.dds</File>
+    <File md5="C88F8FEFDA2A56D5DC1B79DC7B2AD0EE" import="1">Art/IconAtlas/MasqueradeAlphaAtlas32.dds</File>
+    <File md5="D4AB05A028F3CF6B761E86ABD69A87BD" import="1">Art/IconAtlas/MasqueradeAlphaAtlas48.dds</File>
+    <File md5="7322B03EB1382A45747958A6F8741650" import="1">Art/IconAtlas/MasqueradeAlphaAtlas64.dds</File>
+    <File md5="F1D204AD899C2D5CBB1AD9B78D3CB482" import="1">Art/IconAtlas/MasqueradeAtlas128.dds</File>
+    <File md5="63EFAF248F2D7B4256F9EAF9D0B03690" import="1">Art/IconAtlas/MasqueradeAtlas256.dds</File>
+    <File md5="455801B7798248C0722FD2A92F3681F8" import="1">Art/IconAtlas/MasqueradeAtlas32.dds</File>
+    <File md5="7A0E2BAD58438640F689BF77794B04B0" import="1">Art/IconAtlas/MasqueradeAtlas45.dds</File>
+    <File md5="6EA96AE63159CB3C9378A6FE702FC470" import="1">Art/IconAtlas/MasqueradeAtlas64.dds</File>
+    <File md5="0C26C333E1476FFD343D1B9497BB1697" import="1">Art/IconAtlas/MasqueradeAtlas80.dds</File>
+    <File md5="6D1B51056C6561466708678B4A0DAFE7" import="1">Art/kokorodiplo.dds</File>
+    <File md5="11330BE05CCC9BA1945C6C764D1D3600" import="1">Art/kokoroDOM.dds</File>
+    <File md5="81822A20996AF2F2800894C2855A983F" import="1">Art/kokoromap.dds</File>
+    <File md5="B33AED7ED7B183A356721F238433C97C" import="0">Lua/Kokoro_Trait2.lua</File>
+    <File md5="2C06B12FF57B39AA3F02C08D2487E44C" import="1">Music/KOKOROpeace.mp3</File>
+    <File md5="B4F759C4E01236A936F7388470ADD151" import="1">Music/KOKOROwar.mp3</File>
+    <File md5="1FB6F9C46EA1C4A11C6A9CE59CDF6F32" import="0">Xml/Buildings/Kokoro_Buildings.xml</File>
+    <File md5="8DE31782C91FDFC68839752087A7ECBA" import="0">Xml/Civilizations/Kokoro_Civilization.xml</File>
+    <File md5="0B0412D54D485CB751EB7D198C6587B6" import="0">Xml/Civilizations/Kokoro_Trait.xml</File>
+    <File md5="6B4D9828E13D5F68EEDE6004106B2468" import="0">Xml/Gameinfo/Kokoro_Icon_Atlas.xml</File>
+    <File md5="F7F6564835C864D9C193CDFA78F453BD" import="0">Xml/GameText/Kokoro_GameDefines_Diplomacy.sql</File>
+    <File md5="5262D831B7067E5D2F45FFF3A8924F7D" import="0">Xml/GameText/Kokoro_GameText_Diplomacy.xml</File>
+    <File md5="DA761CFD9843BC2F99BD5F42D6768B9C" import="0">Xml/GameText/Kokoro_Game_Text.xml</File>
+    <File md5="74D2F14B83E43205BE6FD693FEB4FA20" import="0">Xml/Interface/Kokoro_Colors.xml</File>
+    <File md5="EBA5D31BEADBEB8E58B2C895977D80DE" import="0">Xml/Interface/Kokoro_Player_Colors.xml</File>
+    <File md5="9C149FA00CF78663DEB82FDA3A7FCE7B" import="0">Xml/Leaders/Kokoro_Leader.xml</File>
+    <File md5="84D70ED3CDF6AFA56BDA975444A168A6" import="1">Xml/Leaders/Kokoro_Scene.xml</File>
+    <File md5="BE9DA6D3941F93E0002A15626B0DDE08" import="0">Xml/Music/Kokoro_Music.xml</File>
+    <File md5="424C97A093752342E293FE0F0E9C57D2" import="0">Xml/Units/Kokoro_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Xml/Buildings/Kokoro_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Civilizations/Kokoro_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Civilizations/Kokoro_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Gameinfo/Kokoro_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/GameText/Kokoro_Game_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Interface/Kokoro_Colors.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Interface/Kokoro_Player_Colors.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Leaders/Kokoro_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Leaders/Kokoro_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Music/Kokoro_Music.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units/Kokoro_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/GameText/Kokoro_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Xml/GameText/Kokoro_GameText_Diplomacy.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Kokoro_Trait2.lua">
+      <Name>1</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

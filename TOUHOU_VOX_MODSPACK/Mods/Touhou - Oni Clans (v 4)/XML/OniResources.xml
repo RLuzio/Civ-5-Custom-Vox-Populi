@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/27/2013 8:10:54 AM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_ONI_SAKE</Type>
+			<CivilizationType>CIVILIZATION_TOUHOU_ONI</CivilizationType>
+			<Happiness>4</Happiness>
+			<Description>TXT_KEY_RESOURCE_ONI_SAKE</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_ONI_SAKE_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_ONI_SAKE_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SUGAR</ArtDefineTag>
+			<IconString>[ICON_RES_ONI_SAKE]</IconString>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>TOUHOU_ONI_CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_ONI_SAKE</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_ONI_SAKE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>TOUHOU_ONI_ICON_FONT_TEXTURE</IconFontTexture>
+			<IconFontTextureFile>OniFontIcons</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_ONI_SAKE</IconName>
+			<IconFontTexture>TOUHOU_ONI_ICON_FONT_TEXTURE</IconFontTexture>
+			<IconMapping>0</IconMapping>
+		</Row>
+	</IconFontMapping>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_ONI_SAKE">
+			<Text>Oni Sake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ONI_SAKE_HELP">
+			<Text>Sake produced by the oni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ONI_SAKE_TEXT">
+			<Text>The oni are notorious for the consumption of alcohol, but sake appears to be their preferred form. The sake produced by the oni is noted for its complex, if somewhat unrefined, taste.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

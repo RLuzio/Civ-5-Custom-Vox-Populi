@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 12:11:57 AM -->
+
+
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_CRYSTAL_FOREST</Type>
+			<Description>TXT_KEY_IMPROVEMENT_CRYSTAL_FOREST</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CRYSTAL_FOREST_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_CRYSTAL_FOREST_HELP</Help>
+			<!--
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_MONOLITH_EURO</ArtDefineTag>
+			-->
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_MANA</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_TH_MAKAI</CivilizationType>
+			<PillageGold>30</PillageGold>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Improvement_TechYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<TechType>TECH_ECONOMICS</TechType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<TechType>TECH_ECONOMICS</TechType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechYieldChanges>
+	<Builds>
+		<Row>
+			<Type>BUILD_CRYSTAL_FOREST</Type>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_CRYSTAL_FOREST</ImprovementType>
+			<Description>TXT_KEY_BUILD_CRYSTAL_FOREST</Description>
+			<Help>TXT_KEY_BUILD_CRYSTAL_FOREST_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CRYSTAL_FOREST_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>54</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_CRYSTAL_FOREST</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_CRYSTAL_FOREST</BuildType>
+		</Row>
+	</Unit_Builds>
+</GameData>

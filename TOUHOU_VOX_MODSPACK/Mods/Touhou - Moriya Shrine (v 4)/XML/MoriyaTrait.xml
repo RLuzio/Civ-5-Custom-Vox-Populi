@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/22/2013 3:06:08 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Traits>
+		<Row>
+			<Type>TRAIT_MOUNTAIN_OF_FAITH</Type>
+			<Description>TXT_KEY_TRAIT_MOUNTAIN_OF_FAITH</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MOUNTAIN_OF_FAITH_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

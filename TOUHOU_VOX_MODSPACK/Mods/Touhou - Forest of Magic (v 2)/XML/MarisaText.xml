@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 10:21:54 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_FOREST_OF_MAGIC_ADJECTIVE">
+			<Text>Magical</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FOREST_OF_MAGIC_DESC">
+			<Text>Forest of Magic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FOREST_OF_MAGIC_SHORT_DESC">
+			<Text>Forest of Magic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA">
+			<Text>Marisa Kirisame</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PRECIOUS_THING">
+			<Text>Founding cities reveals Mushroom Patches (which may generate [ICON_FOOD] Food, [ICON_PRODUCTION] Production, or [ICON_RESEARCH] Science) within three tiles of the city and claims their tiles. Marsh tiles generate +1 [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PRECIOUS_THING_SHORT">
+			<Text>Mushroom Magic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_FOREST_OF_MAGIC_TITLE">
+			<Text>Forest of Magic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_FOREST_OF_MAGIC_TEXT">
+			<Text>
+			Greetings to you, Marisa, a perfectly ordinary magician![NEWLINE][NEWLINE]Perhaps the most well-known forest in Gensokyo, the Forest of Magic is a focal point for dark and ominous things. It is best known for the multitude of dangerous and toxic mushrooms that grow there, due to the dark and shadowy environment of the forest. These mushrooms and other dangerous plants pose a hazard to both humans and youkai alike, and thus the Forest of Magic is shunned by much of the populace of Gensokyo.[NEWLINE][NEWLINE]However, if one is able to withstand the noxious gases of the mushrooms, avoid the carnivorous plants and the other horrible misfortunes that befall those who trespass within the forest, it makes a safe and secretive place for one to seclude oneself. In particular, the magical potency of the mushrooms that grow within the forest attract many magicians who seek to increase their power.[NEWLINE][NEWLINE]Marisa Kirisame, while you may be an ordinary magician, an opportunity now awaits you, a chance to build a society within the depths of the Forest of Magic that can rival those of any other human or youkai.[NEWLINE][NEWLINE]Can you create a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_1">
+			<Text>Red Mushroom Patch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_1_TEXT">
+			<Text>The most notable feature of the Forest of Magic are the hallucinogenic mushrooms that grow there. The noxious gases and spores they emit are hazardous to both humans and youkai, and as a result, few venture into the gloomy forest. However, these mushrooms are also useful as ingredients for potions or magical spells, and are a key component in Marisa's magic.[NEWLINE][NEWLINE]The Red Mushroom Patch provides 1 [ICON_FOOD] Food to the tile it's on. This increases with the discovery of Metal Casting and Fertilizer. The Red Mushroom Patch also inflicts 10 damage on enemy units on or adjacent to the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_1_HELP">
+			<Text>The Red Mushroom Patch provides 1 [ICON_FOOD] Food to the tile it's on. This increases with the discovery of Metal Casting and Chemistry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_3">
+			<Text>Yellow Mushroom Patch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_3_TEXT">
+			<Text>The most notable feature of the Forest of Magic are the hallucinogenic mushrooms that grow there. The noxious gases and spores they emit are hazardous to both humans and youkai, and as a result, few venture into the gloomy forest. However, these mushrooms are also useful as ingredients for potions or magical spells, and are a key component in Marisa's magic.[NEWLINE][NEWLINE]The Yellow Mushroom Patch provides 1 [ICON_PRODUCTION] Production to the tile it's on. This increases with the discovery of Metal Casting and Fertilizer. The Yellow Mushroom Patch also inflicts 10 damage on enemy units on or adjacent to the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_3_HELP">
+			<Text>The Yellow Mushroom Patch provides 1 [ICON_PRODUCTION] Production to the tile it's on. This increases with the discovery of Metal Casting and Chemistry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_2">
+			<Text>Blue Mushroom Patch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_2_TEXT">
+			<Text>The most notable feature of the Forest of Magic are the hallucinogenic mushrooms that grow there. The noxious gases and spores they emit are hazardous to both humans and youkai, and as a result, few venture into the gloomy forest. However, these mushrooms are also useful as ingredients for potions or magical spells, and are a key component in Marisa's magic.[NEWLINE][NEWLINE]The Blue Mushroom Patch provides 1 [ICON_RESEARCH] Science to the tile it's on. This increases with the discovery of Metal Casting and Fertilizer. The Blue Mushroom Patch also inflicts 10 damage on enemy units on or adjacent to the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MUSHROOM_PATCH_2_HELP">
+			<Text>The Blue Mushroom Patch provides 1 [ICON_RESEARCH] Science to the tile it's on. This increases with the discovery of Metal Casting and Chemistry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FAIRY_TREE">
+			<Text>Fairy Tree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FAIRY_TREE_TEXT">
+			<Text>Fairies live all over Gensokyo, and have a variety of dwellings, although most of them seem to be natural things, such as flowers, trees, or the soil. The Three Fairies of Light, for example, inhabited a tree in the Forest of Magic for a while, before later moving to a tree near the Hakurei Shrine. To most humans, these dwellings simply appear to be natural objects - Reimu never noticed that the home of the Three Fairies of Light was anything other than an ordinary tree. Others, however, including Marisa and Yukari, have recognized the tree as the fairies' home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_FAIRY_TREE_HELP">
+			<Text>The Fairy Tree provides 5 [ICON_FOOD] Food and 5 [ICON_GOLD] Gold to the tile it's on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CARNIVOROUS_PLANTS">
+			<Text>Carnivorous Plants</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CARNIVOROUS_PLANTS_TEXT">
+			<Text>While the various kinds of hallucinogenic mushrooms that grow in the Forest of Magic are its most notable feature (and hazard), there are other dangers as well. Carnivorous plants are mentioned as another threat posed to unwary travellers in the forest.[NEWLINE][NEWLINE]Carnivorous Plantsreduce tile yields by 1 [ICON_FOOD] Food and 1 [ICON_PRODUCTION] Production, but inflict 20 damage on enemy units on or adjacent to the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CARNIVOROUS_PLANTS_HELP">
+			<Text>Carnivorous Plants reduce tile yields by 1 [ICON_FOOD] Food and 1 [ICON_PRODUCTION] Production, but inflict damage on nearby enemy units.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_FOM_WITCH">
+			<Text>Witch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOM_WITCH_TEXT">
+			<Text>The terms 'magician' and 'witch' usually refer to humans who are capable of using magic, although the term can also be applied to youkai who can do the same. They are extremely flexible in their use of their spiritual power, and while most beings are limited to using the powers they are born with, in theory a magician can create almost any effect as long as they understand how it works and can construct a suitable spell for it. There are some limitations, however, including the necessity of spending extensive time and energy collecting data and researching how to construct the spells desired.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOM_WITCH_STRATEGY">
+			<Text>The Witch is a unique unit for the Forest of Magic, replacing the Cannon. It does not need to set up to attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FOM_WITCH_HELP">
+			<Text>Cannon unit. Only the Forest of Magic may produce them. Does not need to set up to attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOM_ATELIER">
+			<Text>Atelier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOM_ATELIER_TEXT">
+			<Text>The term 'atelier' is a French word meaning 'workshop', although in English it is typically used to refer to an artist's workspace, although it has been used on occasion to refer to a workshop used for the art of alchemy.[NEWLINE][NEWLINE]One of the methods known to be used by Marisa for studying and improving her magic is the alchemical treatment and refinement of the exotic mushrooms that she collects from the surrounding forest. By boiling them, crushing them, mixing them, and otherwise experimenting with them, she has been able to produce a variety of magical chemicals and medicines. While Marisa's experiments only occasionally produce useful results, she keeps extensive notes on both her successes and failures, learning from both.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOM_ATELIER_STRATEGY">
+			<Text>The Atelier is the unique building of the Forest of Magic, replacing the Workshop. In addition to the normal benefits of the Workshop to [ICON_PRODUCTION] Production, the Atelier causes nearby Forest tiles to produce [ICON_RESEARCH] Science as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOM_ATELIER_HELP">
+			<Text>Forest tiles produce [ICON_RESEARCH] Science.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_0">
+			<Text>Marisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_1">
+			<Text>Alice</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_2">
+			<Text>Rinnosuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_3">
+			<Text>Sunny Milk</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_4">
+			<Text>Star Sapphire</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_5">
+			<Text>Luna Child</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_6">
+			<Text>Shizuha Aki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_FOREST_OF_MAGIC_7">
+			<Text>Minoriko Aki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_FOREST_OF_MAGIC_1">
+			<Text>Kirisame-ya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_FOREST_OF_MAGIC_2">
+			<Text>Fairys Home</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_FOREST_OF_MAGIC_3">
+			<Text>Alice's House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_FOREST_OF_MAGIC_4">
+			<Text>Rinnosuke's Shop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_FOREST_OF_MAGIC_5">
+			<Text>Abandoned Radio Tower</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_1">
+			<Text>Waterhedge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_2">
+			<Text>Riverhall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_3">
+			<Text>Silverwater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_4">
+			<Text>Wellhollow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_5">
+			<Text>Waypond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_6">
+			<Text>Brookness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_7">
+			<Text>Fernswater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_WATER_8">
+			<Text>Elderbrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_1">
+			<Text>Grassbridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_2">
+			<Text>Widebourne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_3">
+			<Text>Deepsummer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_4">
+			<Text>Goldmeadow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_5">
+			<Text>Wolffield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_6">
+			<Text>Irongrass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_7">
+			<Text>Skystead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FIELD_8">
+			<Text>Cullfield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_1">
+			<Text>Mistendale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_2">
+			<Text>Beechford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_3">
+			<Text>Deephollow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_4">
+			<Text>Aldwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_5">
+			<Text>Deepdale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_6">
+			<Text>Summerglade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_7">
+			<Text>Magedell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_8">
+			<Text>Urdwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_9">
+			<Text>Wyldegrove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_10">
+			<Text>Greenwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_11">
+			<Text>Dellness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_FOREST_12">
+			<Text>Brackenvale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MARSH_1">
+			<Text>Fairmarsh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MARSH_2">
+			<Text>Moorhome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MARSH_3">
+			<Text>Fenhollow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MARSH_4">
+			<Text>Shadowmire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MARSH_5">
+			<Text>Greyrush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MARSH_6">
+			<Text>Mistymere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_1">
+			<Text>Valland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_2">
+			<Text>Highwynne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_3">
+			<Text>Summerhill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_4">
+			<Text>Belwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_5">
+			<Text>Highcrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_6">
+			<Text>Stonegate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_7">
+			<Text>Barrowedge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_8">
+			<Text>Clearmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_9">
+			<Text>Travercraig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_MOUNTAIN_10">
+			<Text>Hillford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_SNOW_1">
+			<Text>Frostview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_SNOW_2">
+			<Text>Winterbush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_SNOW_3">
+			<Text>Crystalhaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_SNOW_4">
+			<Text>Coldwater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_SNOW_5">
+			<Text>Snowley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_SNOW_6">
+			<Text>Whitehollow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_DESERT_1">
+			<Text>Searstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_DESERT_2">
+			<Text>Sunhome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_DESERT_3">
+			<Text>Bonewaste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_DESERT_4">
+			<Text>Shiftingsands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_GENERIC_1">
+			<Text>Aelham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_GENERIC_2">
+			<Text>Freynesse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_GENERIC_3">
+			<Text>Brighton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOREST_OF_MAGIC_GENERIC_4">
+			<Text>Fayden</Text>
+		</Row>
+
+		<!--Leader: Marisa - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_MARISA_NAME">
+			<Text>Marisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MARISA_SUBTITLE">
+			<Text>Ordinary Magician</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MARISA_LIVED">
+			<Text>TH2.0 ~ TH14.3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MARISA_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MARISA_TEXT_1">
+			<Text>Marisa Kirisame is a magician who resides in the Forest of Magic in Gensokyo, and is one of the protagonists of the Touhou Project games.  Her specialities are light and heat magic, and while most of the other characters in the Touhou games are youkai or other beings blessed with innate powers, Marisa is an ordinary human whose magical strength is the product of hard work and effort.  Her main profession is youkai hunting, and she has even been known to visit the Hakurei Shrine on occasion with the intent of stealing Reimu's youkai exterimnation jobs.  She also has a magic shop that she runs out of an attachment to her house, although its location within the Forest of Magic means it has very few customers.[NEWLINE][NEWLINE]In terms of personality, Marisa is brash and straightforwards, and is informal with everyone -- even goddesses and other powerful figures she encounters. Amongst her bad habits is a tendency towards buglary -- she is known for breaking into places such as the Scarlet Devil Mansion in order to steal books from their library.  Despite this trait, however, she is not subtle or sneaky.  She will break into someone's house through the front door, fair and square, shouting "I'll borrow ze" while making off with their books.[NEWLINE][NEWLINE]This straightforwards approach also shows itself in her magic.  One of her most notable sayings is "It ain't magic if it ain't flashy. Danmaku's all about firepower."  Her spells rely on power over finesse, and are typically themed after stars and other astronomical phenomena, although her most famous spells by far are her lasers.  The most notorious of these is the "Master Spark", a wide beam laser capable of incredible power.  Many of these spells, however, she has learned in imitation of other people -- the Master Spark is an imitation of Mima's spell, while Marisa has also shown to have learned Patchouli's Non-Directional Laser.  These spells are not mere copies, however, as they are the product of extensive research and effort in order to try and reproduce their effects through the means available to Marisa.  This desire to expand her own knowledge and capabilities may be part of why she is so keen to steal books and other sources of knowledge from other residents of Gensokyo.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_MARISA_FIRSTGREETING_1">
+			<Text>Hey there! Plannin' to visit the Forest of Magic? I should warn you... it's a pretty dangerous place! Me? Oh, I'm just a perfectly ordinary magician, Marisa Kirisame... nice to meet you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_FIRSTGREETING_2">
+			<Text>Oh, hello! Who might you be? I'm Marisa Kirisame, a magician living in the Forest of Magic. Say... do you have any interesting books?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_FIRSTGREETING_3">
+			<Text>Oh, so there was someone skulking around here! You're just lucky I didn't blast ya with my lasers. Almost mistook you for a burglar... not that I'd know anything about that! I'm Marisa Kirisame, an ordinary magician. Say... you don't have anything particularly valuable on you, do you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_DECLAREWAR_1">
+			<Text>Magic's something you've gotta let loose with once in a while. Let's fight!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_DECLAREWAR_2">
+			<Text>By the way, it's my annual Youkai Extermination Month. And you're in the way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_DECLAREWAR_3">
+			<Text>Well, I was gettin' pretty bored... Suppose it's fine to have a war for a bit!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_DEFEATED_1">
+			<Text>Well, I lost, so there ain't much I can do. Time to go home an' sleep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_DEFEATED_2">
+			<Text>Well, dang... I can't believe my magic wasn't enough! Maybe I'll just go hang out at the shrine for a bit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MARISA_DEFEATED_3">
+			<Text>Wow... so even my most powerful lasers weren't enough? Hmph... maybe after a good night's sleep I'll be in better condition.</Text>
+		</Row>
+		<!--Misc-->
+
+
+	</Language_en_US>
+</GameData>

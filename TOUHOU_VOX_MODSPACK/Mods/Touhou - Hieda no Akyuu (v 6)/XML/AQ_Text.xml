@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-08 오후 9:54:43 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_DESC'>
+			<Text>Hieda Archive</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_STRATEGY'>
+			<Text>Unique building of the Hieda civilization. Replaces the Library. It provides 1 Scientist slots.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_HELP'>
+			<Text>Unique building of the Hieda civilization. Replaces the Library. It provides 1 Scientist slots.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_PEDIA'>
+			<Text>Akyuu is the one who written the in-universe book Perfect Memento in Strict Sense that shows article of various characters from Embodiment of Scarlet Devil to Phantasmagoria of Flower View. In then, she shows actual facts about the characters, and sometimes shows speculation.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_DESC'>
+			<Text>Archivist</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_HELP'>
+			<Text>Replaces Great Scientist. Can Receive a free Technology and Policy. Also, can build an Academy.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_STRATEGY'>
+			<Text>Archivists keep records that have enduring value as reliable memories of the past, and they help people find and understand the information they need in those records.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_PEDIA'>
+			<Text>An archivist is an information professional who assesses, collects, organizes, preserves, maintains control over, and provides access to records and archives determined to have long-term value. The records maintained by an archivist can consist of a variety of forms, including letters, diaries, logs, various other writings, official documents, sound and/or picture recordings, etc.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_DESC'>
+			<Text>히에다가 서고</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_STRATEGY'>
+			<Text>히에다가의 고유 건물입니다. 도서관을 대체하며, 과학자 슬롯 1개를 제공합니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_HELP'>
+			<Text>히에다가의 고유 건물입니다. 도서관을 대체하며, 과학자 슬롯 1개를 제공합니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_PEDIA'>
+			<Text>환생의 술법으로 전생의 기억을 일부 가지고 태어난 히에다노 아이치는 18세에 첫 번째 '환상향연기'를 편찬한다. 이후에도 계속 환생의 술법을 통해 아홉 번을 환생. 이제 환상향연기는 총 아홉 권이 있다. 아큐는 환상향연기에 기재할 인물 대부분을 초청하여 삽화, 그들의 능력, 그들의 사생활 등 소문으로는 파악할 수 없는 세세한 부분까지 파고들었다. 그리하여 '인간과 요괴 모두를 다루며, 그들을 남에게 알리는, 앞서 편찬된 여덟 권과는 다른 환상향연기'가 탄생했다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_DESC'>
+			<Text>기록물관리전문요원</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_HELP'>
+			<Text>위대한 과학자를 대체합니다. 위인을 소모하여 무료기술과 정책을 얻을 수 있고 아카데미를 지을 수 있습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_STRATEGY'>
+			<Text>기록물관리사가 되기 위해서는 기록물관리학, 역사학, 문헌정보학 등을 전공해야 한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_PEDIA'>
+			<Text>기록물관리사가 일하는 분야는 크게 공공기관, 기업, 시민단체 등으로 나눌 수 있다. 기업에서는 기업사를 정리하거나 기업홍보에 활용할 자료를 수집·정리하고, 법무적 분쟁에 대응할 근거를 만드는 데 기록연구사가 한몫 할 수 있다. 시민단체도 기업과 마찬가지다. 특히 투명성이 생명인 시민단체는 공정하고 객관적인 기록을 구축하기 위해 기록연구사에 의한 기록 작성이 필수적이다. 그러나 현재 우리나라에서는 기업과 시민단체에서 전문적으로 일하는 기록연구사가 극히 드물다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_DESC'>
+			<Text>稗田家書庫</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_STRATEGY'>
+			<Text>稗田家のUBです。図書館を代替し、科学者の枠を１つ提供します。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_HELP'>
+			<Text>稗田家のUBです。図書館を代替し、科学者の枠を１つ提供します。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_HIEDA_ARCHIVE_PEDIA'>
+			<Text>稗田阿礼の最初の転生体であり、初代御阿礼の子である稗田阿一が編纂し始めた書物のこと。妖怪が跋扈する幻想郷において人間の安全を守るために編纂される書物であり、幻想郷で目立った妖怪について纏めている。阿一（阿礼）はその後も縁起の編纂を続けるために転生を繰り返し、自らの子孫である稗田家に百二十～百八十年周期で現れては、編纂作業を行っている。稗田家にはこの編纂作業のための資料が大量に所蔵されており、九代目の阿求はこれらの資料を既に全て暗記しているという。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_DESC'>
+			<Text>アーキビスト</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_HELP'>
+			<Text>稗田家のUUで、大科学者を代替します。偉人の消費により、テクノロジーや制度を１つ得ることができます。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_STRATEGY'>
+			<Text>アーキビストの仕事は新たなコレクション（収集物）を入手したり査定すること、記録を順番に並べたり説明書きを加えること、閲覧者に利用案内をすること、資料の保存処理を行うことなどである。アーキビストは記録を整理する際、二つの重要なルールに従う。記録の出処や権利保持者、そして元の（整理する前の）順序である。倫理に照らし合わせる作業も怠ってはならない。このような一般の目には見えない作業と同時に、コレクションの翻訳や説明を加えて閲覧者を助けたり、問い合わせに答えたりする。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_ARCHIVIST_PEDIA'>
+			<Text>アーキビストとは、永久保存価値のある情報を査定、収集、整理、保存、管理し、閲覧できるよう整える専門職を指す。アーキビストの扱う情報は、写真、ビデオ、録音、手紙、書類、電磁的記録など様々な形式を取る。アリゾナ州立図書館デジタル行政資料部長のリチャード・ピアスモーゼスの言葉を借りるなら、アーキビストとは「確実な過去の記憶として永続的な価値を持つ記録」を保存し、「その記録の山の中から、その人が必要としている情報をみつけ、その情報を理解する手助け」をする者である。日本では日本語の訳語が定着していないことからも察せられるように、認知度が低い専門職であるが、例えば日本の図書館において書籍、雑誌のみならず、歴史資料の古文書、古写真、行政資料などの非定型の記録類も、司書が（必ずしもこれらの扱いの専門教育を受けてはいないにもかかわらず）保存管理を担うことが多い。あるいは図書館ではなく博物館において学芸員が非記録性の資料類と同様に管理を行うことも常態である。しかし、すべての欧米諸国や少なからぬ非欧米諸国では、これらは司書（ライブラリアン）や、日本の学芸員に相当するとされるキュレーターの担当分野ではなく、アーキビストの担当分野とされる。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e655a702-ea57-4ba3-9771-544a58a07ead" version="1">
+  <Properties>
+    <Name>Touhou - Makai</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds a new civilization based on Makai from the Touhou games!</Teaser>
+    <Description>Adds a new civilization based on Makai from the Touhou games!</Description>
+    <Authors>BouncyMischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3CB11CEC2941A0EDC4666E2B314E3799" import="1">Art/ImprovementArt/Crystal Forest/CrystalForest1.fxsxml</File>
+    <File md5="27D7E5A23A9712BC06AB2EEC856BC3D3" import="1">Art/ImprovementArt/Crystal Forest/CrystalForest1.gr2</File>
+    <File md5="EEBA4746FBD5B1DDEAA2CC3936900B2F" import="1">Art/ImprovementArt/Crystal Forest/CrystalForest1_HB.fxsxml</File>
+    <File md5="9C258D1C64654AD5D76A31C6ACBA12CA" import="1">Art/ImprovementArt/Crystal Forest/CrystalForest1_HB.gr2</File>
+    <File md5="8EF589F99D502769A27D05428BB5CFAC" import="1">Art/ImprovementArt/Crystal Forest/CrystalForest1_PL.fxsxml</File>
+    <File md5="189425CD9825145F62F8E58CC170ED99" import="1">Art/ImprovementArt/Crystal Forest/MarkerManaBase.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/ImprovementArt/Crystal Forest/no_gloss.dds</File>
+    <File md5="AF2665162DB93EB3BC57FA8A0962ADB5" import="1">Art/MakaiAlphaAtlas16.dds</File>
+    <File md5="3996E77441F1D86EE0C1DCB74B1FA5E8" import="1">Art/MakaiAlphaAtlas24.dds</File>
+    <File md5="55A5E858D68FA9C51D948FC1BF457965" import="1">Art/MakaiAlphaAtlas32.dds</File>
+    <File md5="131FE0A338EBCDF5D17D4A9D93D2DA92" import="1">Art/MakaiAlphaAtlas48.dds</File>
+    <File md5="ED8521A99D7BF597F15CF17CA73D0DB1" import="1">Art/MakaiAlphaAtlas64.dds</File>
+    <File md5="5D2B52F3AE110CA6904BCD4580601A69" import="0">Art/MakaiCredits.rtf</File>
+    <File md5="6D386E6272A412FB74F6DB100DD660DA" import="1">Art/MakaiIconAtlas128.dds</File>
+    <File md5="9E84493DACAAEC24872E674143D87576" import="1">Art/MakaiIconAtlas256.dds</File>
+    <File md5="AE89751E2C77F66CA47D92B408428CBB" import="1">Art/MakaiIconAtlas32.dds</File>
+    <File md5="D93142700166C84F9B2F70029C678EC2" import="1">Art/MakaiIconAtlas45.dds</File>
+    <File md5="C14BB2C35411A26649A20CD9BD7104F0" import="1">Art/MakaiIconAtlas64.dds</File>
+    <File md5="3CB95E55CC55E30F8CB568CD251AC7C6" import="1">Art/MakaiIconAtlas80.dds</File>
+    <File md5="92889B0B5200917091EDEDE5A1266272" import="1">Art/MakaiMap.dds</File>
+    <File md5="AA547AA104BBD3273D9230B8568BA0BA" import="1">Art/MakaiUnitIcons.dds</File>
+    <File md5="261A2D277526CBE02D540EC02FA3AB25" import="1">Art/ShinkiDiploNew2.dds</File>
+    <File md5="C80E3D1EDCDE82C0D1B4763766BA0989" import="1">Art/ShinkiDOM.dds</File>
+    <File md5="8B8679F29BB375C39C29F958109551A1" import="1">Art/ShinkiPeace.mp3</File>
+    <File md5="B90EB45B97C1B19E6979115A8802E1AD" import="1">Art/ShinkiWar.mp3</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744" import="1">Art/UnitArt/Goblins/black_4x4.dds</File>
+    <File md5="6F7D5A1AE7AE31427C61A24F7A3B233C" import="1">Art/UnitArt/Goblins/Goblin_Loincloth.dds</File>
+    <File md5="24268E7763CE15CD43544DBD165D66D4" import="1">Art/UnitArt/Goblins/Goblin_Warrior.fxsxml</File>
+    <File md5="262E0AA341E17750EF1CC37A2DCF0938" import="1">Art/UnitArt/Goblins/Goblin_Warrior.gr2</File>
+    <File md5="DCFB8CF6A7A2890E3CE8A3A4B81CD3AE" import="1">Art/UnitArt/Ogres/ogre.dds</File>
+    <File md5="9A24489422B6C589C6967ED79540F619" import="1">Art/UnitArt/Ogres/ogre.fxsxml</File>
+    <File md5="A9862871639D4BC0815F408E481E2FBF" import="1">Art/UnitArt/Ogres/ogre.gr2</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744" import="1">Art/UnitArt/Stoneskin Ogres/black_4x4.dds</File>
+    <File md5="51398B6C4C925405E2BD406F451A89C1" import="1">Art/UnitArt/Stoneskin Ogres/ogre_panzerung.dds</File>
+    <File md5="C54A9DD8DFA4DCC32B8007C9CD0ABEA0" import="1">Art/UnitArt/Stoneskin Ogres/stoneskinogre.dds</File>
+    <File md5="52F2ADDF1B1FE1D8E990D48971B8D4A3" import="1">Art/UnitArt/Stoneskin Ogres/stoneskin_ogre_short.fxsxml</File>
+    <File md5="25F5C813A544862AEE1039F1CBEEF126" import="1">Art/UnitArt/Stoneskin Ogres/stoneskin_ogre_short.gr2</File>
+    <File md5="AAE54270883AD456AE90C6E6A70DA07B" import="1">Art/UnitArt/Stoneskin Ogres/stoneskin_ogre_tall.fxsxml</File>
+    <File md5="D40F68BBA6F65C9603846F058878ED59" import="1">Art/UnitArt/Stoneskin Ogres/stoneskin_ogre_tall.gr2</File>
+    <File md5="A093FF6DC888F4E30315A9E20F1AC39F" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_attacka.gr2</File>
+    <File md5="E32F74100787899EDF99762A43CE73CC" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_attackb.gr2</File>
+    <File md5="C24FC229639E0201354767F82D295DCA" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_attack_city.gr2</File>
+    <File md5="E27C9B0E95FB826619CB8AC30A22EFD4" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_bombard_defense.gr2</File>
+    <File md5="058EFF9143A825D83CEA6BEEDF96E198" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_bombard_defense_idle.gr2</File>
+    <File md5="4405B22C0EEDC2DBEADCF9B6B850EB8E" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_bombard_defense_idle_trans_idlea.gr2</File>
+    <File md5="6880F33C5BF4C1675E9E082225F0E2AD" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_charge_attack.gr2</File>
+    <File md5="05C5D9AA71AA1BDC9921DBD833DA003D" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_charge_run.gr2</File>
+    <File md5="13062ED04841BBA51A7629C808D60CED" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_charge_start_run.gr2</File>
+    <File md5="DF7FD839709A6BA0EEB03901E8F100FD" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_combat_ready.gr2</File>
+    <File md5="9A0BB79B379AF913F96D0BCBD3373B39" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_combat_ready_idle.gr2</File>
+    <File md5="31BFF6A496FC588156BEB76FE3FF8C06" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_combat_ready_idle_trans_idlea.gr2</File>
+    <File md5="BC961C5927033E8287195DF0AEAF1A42" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_deatha.gr2</File>
+    <File md5="E9555871B95AE28F13369D2EB8A3F389" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_deatha_idle.gr2</File>
+    <File md5="57E97CCF16F1B77B55997F7CB80B392A" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_deathb.gr2</File>
+    <File md5="2FD6B6DCABF8316EDB9DA606426C5369" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_deathb_idle.gr2</File>
+    <File md5="820008B5C587D0698D65D1D8DFFB880E" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fidgeta.gr2</File>
+    <File md5="916984339A7850A15E42CBF77FDF621E" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fidgetb.gr2</File>
+    <File md5="FA8D569DC31B3FC78DC0A021A69F56E5" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fortify.gr2</File>
+    <File md5="37702D05987035B51294F8CB04C0A396" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fortify_idle.gr2</File>
+    <File md5="F9522B7F9F2332EAF55511BD81679D36" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fortify_idle_fidget.gr2</File>
+    <File md5="E76AA953FFB7A4E4027AA97FAE7DFD90" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fortify_idle_trans_combat_ready_idle.gr2</File>
+    <File md5="FB12A097FE744D78F73F8E3FC1BFA81C" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_fortify_idle_trans_idlea.gr2</File>
+    <File md5="B0B5CE47FFB42B597DA5370EFEB6BEDE" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_idlea.gr2</File>
+    <File md5="A401A9BC987CB2AB3D31542F89AE183A" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_idlea_trans_idleb.gr2</File>
+    <File md5="3AE13B5940EC9E82C33F108C65C4D512" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_idleb.gr2</File>
+    <File md5="5CE2ADA0478FE3A5BABB6FDF9DA70385" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_idleb_trans_idlea.gr2</File>
+    <File md5="BC5027F07051A457D6D26E2A1ADD0D9D" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_run.gr2</File>
+    <File md5="F44E8F6E26B1E24C90772280C643D46D" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_shuffle.gr2</File>
+    <File md5="AE8F69A66A7FDEF6C7DE314155C29CC6" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_start_run.gr2</File>
+    <File md5="BFC32031BB1408C8664157A7B089AD3E" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_stop_run.gr2</File>
+    <File md5="88409EC78F5CFA5DEEDFAA903AC15DF8" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_stop_run_idleb.gr2</File>
+    <File md5="A8644921A7FE7AF5403756D983E1A0D1" import="1">Art/UnitArt/Stoneskin Ogres/u_polynesian_maori_warrior_victory.gr2</File>
+    <File md5="53B4E89D05CB55A200A299E3821945A5" import="0">Lua/MakaiLua.lua</File>
+    <File md5="1B3621788FBD4BEAC187234B84D4E614" import="0">XML/MakaiBuildings.xml</File>
+    <File md5="FC5F57BE03DFE53326410AFBBD01411C" import="0">XML/MakaiCivilization.xml</File>
+    <File md5="B458D44C7BFB832D0AD63B4684BF8C69" import="0">XML/MakaiColors.xml</File>
+    <File md5="3586A30044B627D1798FA61982A01E00" import="0">XML/MakaiDiplomacy.xml</File>
+    <File md5="A81A0F3E714C6BDBE543BF19CF483631" import="0">XML/MakaiDragonArtDefines.xml</File>
+    <File md5="301310853206B1BDD536CF0287C5C36D" import="0">XML/MakaiImprovements.sql</File>
+    <File md5="89E3428D4807D53F4F66046DE1855BDA" import="0">XML/MakaiImprovements.xml</File>
+    <File md5="11C96626E02AFA54BDEB1C41AA1AFF99" import="0">XML/MakaiLeader.xml</File>
+    <File md5="9D924D75299E1D71A53831AA7D4E0AEE" import="0">XML/MakaiMusic.xml</File>
+    <File md5="8A8D56C5FDA2BAC368E10468F779BF8C" import="0">XML/MakaiText.xml</File>
+    <File md5="36AD4926BADD20A42B5C4A7DE55FB79E" import="0">XML/MakaiTrait.xml</File>
+    <File md5="4D35395DFE203EBBDE314A9D7159F8C8" import="0">XML/MakaiUnits.xml</File>
+    <File md5="5CD8B9AA73DA22D9FC63208E1506AD61" import="0">XML/OgreArtDefines.xml</File>
+    <File md5="FB953F40E406E8A763184B63C5B59E12" import="1">XML/ShinkiScene.xml</File>
+    <File md5="4057482D6FDDBAD4D164320A8BA1CE2C" import="1">XML/unitformations.xml</File>
+    <File md5="56824E11901AC13CCA377045ABF7648B" import="0">XML/Units_GoblinSpearman_Art.xml</File>
+    <File md5="6B2866BFCFD37AA7B9E32E149AF7CCD4" import="0">XML/Units_StoneskinOgre_Art.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/MakaiBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiDragonArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiImprovements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiImprovements.sql</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OgreArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units_GoblinSpearman_Art.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units_StoneskinOgre_Art.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MakaiDiplomacy.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MakaiLua.lua">
+      <Name>Makai Lua</Name>
+      <Description>Makai Lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

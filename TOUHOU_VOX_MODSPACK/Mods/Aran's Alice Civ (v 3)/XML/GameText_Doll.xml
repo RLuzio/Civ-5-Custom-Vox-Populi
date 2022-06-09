@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 4:58:18 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Doll Civ Texts-->
+		<Row Tag="TXT_KEY_CIV_DOLL_DESC">
+			<Text>The Unified Doll Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DOLL_SHORT_DESC">
+			<Text>The Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DOLL_ADJECTIVE">
+			<Text>Doll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DOLL_DAWN_TEXT">
+			<Text>You, Alice Margatroid, came upon a great discovery many years ago.  Through tireless research, you had finally constructed your crowning achievement, the sentient doll.  As you showed this feat to the rest of the world, they recoiled and struck, believing them to be monsters.  Angry and distraught, you gathered your creations and hid them where they would be safe and protected.[NEWLINE][NEWLINE]Now, the time has come for you and your children to rise up to create a world where all souls, whether they be youkai, human, or doll, can live in peace and harmony.</Text>
+		</Row>
+
+		<!-- Doll Civ Pedia Texts-->
+		<Row Tag="TXT_KEY_CIV_DOLL_PEDIA_HEADING_1">
+			<Text>Doll Front</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DOLL_PEDIA_TEXT_1">
+			<Text>The game has begun!  Yukari has started yet another one of her many games and has invited all in Gensokyo to join in the quest for glory and prestige.  Joining is simple, applicants create their own nation by filling out their form and posting it on their front door/porch/hill/cave/tree.  The purpose for this game is again, unknown, but who cares?  The prize for winning this competition of strategy, wit, and leadership is one favor from Yukari herself!  With that incentive, it seems few will be left out of the game.[NEWLINE][NEWLINE]The Doll Front was a movement created by Alice Margatroid, in slight collaboration with Medicine Melancholy, to further the freedom of sentient dolls.  Their goal is to change the how the world views creation of the dolls, making sure that dolls will never again be attacked or segregated from society.</Text>
+		</Row>
+
+		<!-- Leader Alice Margatroid-->
+		<Row Tag="TXT_KEY_LEADER_ALICE">
+			<Text>Alice Margatroid</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Leader Alice Margatroid Pedia Texts-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_NAME">
+			<Text>Alice Margatroid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_SUBTITLE">
+			<Text>Seven-Colored Puppeteer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_TITLES_1">
+			<Text>The Grand Dollmaster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_TITLES_2">
+			<Text>The Superficially Busy Youkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_LIVED">
+			<Text>~1987-Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_TEXT_1">
+			<Text>The magician Alice Margatroid is a master dollmaster.  Unlike other magicians who spend all their time focusing on magical or elemental study, she practices battlefield tactics and war strategies with her dolls.  This makes her magical strength weaker compared to the average magician, but she more than makes up for it with her doll formations.  With wit and skill, she is capable of taking down a variety of different opponents and is extremely flexible on the battlefield, adapting to any which problem that arises.  Do not take her or her dolls lightly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_HEADING_2">
+			<Text>Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ALICE_TEXT_2">
+			<Text>Her age is just a guess, and is not canon in any way.  Additional information and flavor text influenced by my headcanon and story, Legacy of a Different Gensokyo.</Text>
+		</Row>
+
+		<!-- Doll Civ Trait Text-->
+		<Row Tag="TXT_KEY_TRAIT_DOLL_JUDGEMENT">
+			<Text>A 75% [ICON_PRODUCTION] Production bonus to all land units.  Land units suffer various [ICON_STRENGTH] Strength penalties, but gain a bonus in Forest and Jungle terrain.  Improved lumber mills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DOLL_JUDGEMENT_SHORT">
+			<Text>War Command - Doll&apos;s War</Text>
+		</Row>
+
+		<!-- Doll Civ Promotions Text -->
+		<Row Tag="TXT_KEY_PROMOTION_DOLL_CONSTRUCTION">
+			<Text>Doll Construct</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOLL_CONSTRUCTION_HELP">
+			<Text>-35% [ICON_STRENGTH] Strength, -15% [ICON_STRENGTH] Vs Cities, +5% [ICON_STRENGTH] Strength in Forest/Jungle terrain</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DOLL_FIELDREPAIR">
+			<Text>Doll Field Repair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOLL_FIELDREPAIR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]+9 Recovery[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DOLL_GUNPOWDER">
+			<Text>Doll Gunpowder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOLL_GUNPOWDER_HELP">
+			<Text>+50% vs Cities and +25% vs Fortified</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_DOLLHOUSE_DEFENSE">
+			<Text>Dollhouse Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DOLLHOUSE_DEFENSE_HELP">
+			<Text>+35% [ICON_STRENGTH] Defense, [COLOR_POSITIVE_TEXT]+7 HP Recovery[ENDCOLOR]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_DOLL">
+			<Text>Doll Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOLL_PEDIA">
+			<Text>Doll Policy Pedia.  Used to give doll specific bonuses to Alice on dollhouses and lumber mills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOLL_HELP">
+			<Text>Doll Policy Help</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_DOLL_MACHINERY">
+			<Text>Doll Policy Machinery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOLL_MACHINERY_PEDIA">
+			<Text>Doll Policy Machinery Pedia.  Used to give doll machinery specific bonuses to Alice on dollhouses and lumber mills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOLL_MACHINERY_HELP">
+			<Text>Doll Policy Machinery Help</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_POLICY_NONDOLL">
+			<Text>Non-Doll Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NONDOLL_PEDIA">
+			<Text>Non-Doll Policy Pedia.  Used to give nondoll specific bonuses to others on dollhouses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NONDOLL_HELP">
+			<Text>Non-Doll Policy Help</Text>
+		</Row>
+
+		<!-- Doll Civ Doll-Part Supplier Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_DOLLPART_ARSENAL">
+			<Text>Doll-Part Arsenal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLLPART_ARSENAL_PEDIA">
+			<Text>With the advent of steel and gunpowder advancements, high quality doll parts can be manufactured.  These high quality parts remain balanced and precise when exposed to the elements, allowing for spare parts to be carried out onto the battlefield.  This arsenal serves to provide dolls the required parts and gunpowder before leaving for combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLLPART_ARSENAL_STRATEGY">
+			<Text>The Doll-Part Arsenal is the Front&apos;s unique building, replacing the Arsenal.  It grants the Doll Field Repair and Doll Gunpowder promotion to all land units produced in the city, giving all units bonus recovery and the ability to attack cities and fortified units with greater effect.  Like a normal Arsenal, it boosts the city&apos;s defense power and health as well, but does not require the Castle to be built, making it a great front line city building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLLPART_ARSENAL_HELP">
+			<Text>Grants the Doll Field Repair and Doll Gunpowder promotion to land units and boosts defense of city.</Text>
+		</Row>
+
+		<!-- Trait Building -->
+		<Row Tag="TXT_KEY_BUILDING_DOLL_WORKSHOP">
+			<Text>Doll Workshop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLL_WORKSHOP_PEDIA">
+			<Text>These workshops make dolls faster than other civs train units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLL_WORKSHOP_STRATEGY">
+			<Text>The Doll Workshop speeds up construction of units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLL_WORKSHOP_HELP">
+			<Text>Trait Building, gives a 75% [ICON_PRODUCTION] Production bonus to land units.</Text>
+		</Row>
+
+		<!-- Supporting Unique Building -->
+		<Row Tag="TXT_KEY_BUILDING_DOLL_GUNPOWDER">
+			<Text>Doll Gunpowder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLL_GUNPOWDER_PEDIA">
+			<Text>Gunpowder for dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLL_GUNPOWDER_STRATEGY">
+			<Text>Allows dolls to equip gunpowder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOLL_GUNPOWDER_HELP">
+			<Text>Support building for Doll-Part Arsenal.  Actually grants the Doll Gunpowder promotion.  Cannot be destroyed unless occupied.</Text>
+		</Row>
+
+		<!-- Doll Civ Dollhouse Unique Improvement-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_DOLLHOUSE">
+			<Text>Doll Lumber-House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DOLLHOUSE_PEDIA">
+			<Text>Wood is very important to dolls, for obvious reasons, which is why many dolls prefer living near forests.  They build their houses near these forests to gather wood very efficiently while maintaining the health of the land, boosting [ICON_FOOD] Food production for the city.  Gains an additional bonus to [ICON_FOOD] Food and [ICON_CULTURE] Culture after researching Machinery.  Once Industrialization is researched, these also produce extra [ICON_PRODUCTION] Production.  These houses also serve as a fallback position for doll units, giving them bonus defense and recovery.[NEWLINE][NEWLINE]If you are not a doll, you can always make money by selling the dolls, you monster.  You also get the [ICON_PRODUCTION] Production bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DOLLHOUSE_HELP">
+			<Text>Boosts [ICON_FOOD] Food while maintaining the forest.  Gets a bonus to [ICON_FOOD] Food and [ICON_CULTURE] Culture after Machinery and some [ICON_PRODUCTION] Production after Industrialization.  Also grants a [COLOR_POSITIVE_TEXT]Recovery[ENDCOLOR] and [ICON_STRENGTH] Defense bonus.  If you are not a doll, gives bonuses to [ICON_GOLD] Gold generation, and after Industrialization, gets a bonus to [ICON_PRODUCTION] Production.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_DOLLHOUSE">
+			<Text>Construct a Doll Lumber-House.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_DOLLHOUSE_REC">
+			<Text>Building this will boost food growth as well as grant bonus defense and [COLOR_POSITIVE_TEXT]Recovery[ENDCOLOR].  Eventually grants culture and production bonuses too.</Text>
+		</Row>
+
+		<!-- Doll Civ City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_1">
+			<Text>Alice&apos;s Home</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_2">
+			<Text>Nameless Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_3">
+			<Text>Valley of Deathly Flowers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_4">
+			<Text>House of Hearts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_5">
+			<Text>Wonderland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_6">
+			<Text>House of Clubs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_7">
+			<Text>The Realm of Imagination</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_8">
+			<Text>Pandæmonium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_9">
+			<Text>Looking-Glass Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_10">
+			<Text>Ruins of Vina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_11">
+			<Text>House of Spades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_12">
+			<Text>Makai City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_13">
+			<Text>A Page of the Grimoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_14">
+			<Text>The City of Dolls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_15">
+			<Text>House of Diamonds</Text>
+		</Row>
+		<!-- I gave up after this... -->
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_16">
+			<Text>House of Cards</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_17">
+			<Text>PC-98 Alice&apos;s Lair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_18">
+			<Text>The Rainbow-Colored House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_19">
+			<Text>World Famous Mr. Alice&apos;s House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DOLL_20">
+			<Text>The Precious Thing</Text>
+		</Row>
+
+		<!-- Doll Civ Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_0">
+			<Text>Medicine Melancholy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_1">
+			<Text>Shanghai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_2">
+			<Text>Hourai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_3">
+			<Text>Orleans</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_4">
+			<Text>Russia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_5">
+			<Text>Kyoto</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_6">
+			<Text>London</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_7">
+			<Text>Holland</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_8">
+			<Text>Su-san</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DOLL_9">
+			<Text>Tibet</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

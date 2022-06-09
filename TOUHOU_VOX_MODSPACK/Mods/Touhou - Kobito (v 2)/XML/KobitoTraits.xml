@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/24/2015 6:56:25 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MIRACLE_MALLET</Type>
+			<Description>TXT_KEY_TRAIT_MIRACLE_MALLET</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MIRACLE_MALLET_SHORT</ShortDescription>
+		</Row>	
+	</Traits>
+</GameData>

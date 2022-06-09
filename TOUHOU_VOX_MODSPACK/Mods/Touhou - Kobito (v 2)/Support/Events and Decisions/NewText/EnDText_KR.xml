@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/2/2015 11:53:17 AM -->
+<GameData>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_DECISIONS_KOBITO_COLLECT_MAGIC">
+			<Text>마력을 추가로 회수하다</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOBITO_COLLECT_MAGIC_DESC">
+			<Text>
+				요술 망치의 마력이 모두 돌아오기까지 기다리기만 하는 것은 꽤 지루한 일입니다. 가만히 앉아서 기다리는 것도 좋지만 이왕이면 집안 구석구석을 뒤져보며 혹시 마력이 깃든 물건이 있는지 찾아보는 것도 좋은 방법일 것입니다.[NEWLINE]
+				[NEWLINE]요구사항/제한사항:
+				[NEWLINE][ICON_BULLET]플레이어가 소인족일 것
+				[NEWLINE][ICON_BULLET]요술 망치 보너스를 한 번 이상 받아야 합니다
+				[NEWLINE][ICON_BULLET]시대마다 한번 제정할 수 있습니다
+				[NEWLINE]비용:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] 골드
+				[NEWLINE]보상:
+				[NEWLINE][ICON_BULLET]가장 최근에 받은 보너스에 따라 보상이 달라집니다
+				[NEWLINE][ICON_BULLET]무료 사회정책을 받았을 경우 {2_Culture} [ICON_CULTURE] 문화
+				[NEWLINE][ICON_BULLET]무료 기술을 받았을 경우 {3_Science} [ICON_RESEARCH] 과학
+				[NEWLINE][ICON_BULLET]무료 위인을 받았을 경우 현재 시대가 끝날 때까지 [ICON_CAPITAL] 수도에 [ICON_GREAT_PEOPLE] 위인 보너스 + 15%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOBITO_COLLECT_MAGIC_ENACTED_DESC">
+			<Text>
+				요술 망치의 마력이 모두 돌아오기까지 기다리기만 하는 것은 꽤 지루한 일입니다. 가만히 앉아서 기다리는 것도 좋지만 이왕이면 집안 구석구석을 뒤져보며 혹시 마력이 깃든 물건이 있는지 찾아보는 것도 좋은 방법일 것입니다.[NEWLINE]
+				[NEWLINE]보상:
+				[NEWLINE][ICON_BULLET]가장 최근에 받은 보너스에 따라 보상이 달라집니다
+				[NEWLINE][ICON_BULLET]무료 사회정책을 받았을 경우 일정량의 [ICON_CULTURE] 문화
+				[NEWLINE][ICON_BULLET]무료 기술을 받았을 경우 일정량의 [ICON_RESEARCH] 과학
+				[NEWLINE][ICON_BULLET]무료 위인을 받았을 경우 현재 시대가 끝날 때까지 [ICON_CAPITAL] 수도에 [ICON_GREAT_PEOPLE] 위인 보너스 + 15%
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_SHINING_NEEDLE_SWORD">
+			<Text>휘침검을 만들다</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHINING_NEEDLE_SWORD_DESC">
+			<Text>
+				소인으로 살아간다는 것은 쉬운 일이 아닙니다. 보통 적들의 크기는 소인들보다 훨씬 크기 때문에, 소인들은 항상 자신을 보호할 무기를 지녀야 합니다. 그런 의미에서 바늘을 검으로 삼아 가지고 다니는 것은 좋은 생각일 것입니다 - 먼 옛날 한치 동자가 그랬듯이 말입니다.[NEWLINE]
+				[NEWLINE]요구사항/제한사항:
+				[NEWLINE][ICON_BULLET]플레이어가 소인족일 것
+				[NEWLINE][ICON_BULLET]개발해야 하는 기술: 강철
+				[NEWLINE][ICON_BULLET]게임 중에 한번만 제정할 수 있습니다
+				[NEWLINE]비용:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] 문화
+				[NEWLINE]보상:
+				[NEWLINE][ICON_BULLET]수도에 바늘 검사 유닛이 나타납니다
+				[NEWLINE][ICON_BULLET]모든 비화약 근접 유닛의 전투력이 20% 증가합니다 (이 전투력 증가는 이후 화약 유닛으로 업그레이드해도 유지됩니다)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHINING_NEEDLE_SWORD_ENACTED_DESC">
+			<Text>
+				소인으로 살아간다는 것은 쉬운 일이 아닙니다. 보통 적들의 크기는 소인들보다 훨씬 크기 때문에, 소인들은 항상 자신을 보호할 무기를 지녀야 합니다. 그런 의미에서 바늘을 검으로 삼아 가지고 다니는 것은 좋은 생각일 것입니다 - 먼 옛날 한치 동자가 그랬듯이 말입니다.[NEWLINE]
+				[NEWLINE]보상:
+				[NEWLINE][ICON_BULLET]수도에 바늘 검사 유닛이 나타납니다
+				[NEWLINE][ICON_BULLET]모든 비화약 근접 유닛의 전투력이 20% 증가합니다 (이 전투력 증가는 이후 화약 유닛으로 업그레이드해도 유지됩니다)
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD">
+			<Text>휘침검</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD_HELP">
+			<Text>전투력 + 20%</Text>
+		</Row>
+	</Language_ko_KR>
+</GameData>

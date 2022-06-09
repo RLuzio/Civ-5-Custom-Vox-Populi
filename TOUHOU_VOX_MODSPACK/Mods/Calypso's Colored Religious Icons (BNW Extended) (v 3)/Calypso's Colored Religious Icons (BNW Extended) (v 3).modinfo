@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5ea0b288-77df-4412-994f-195160e994cd" version="3">
+  <Properties>
+    <Name>Calypso's Colored Religious Icons (BNW Extended)</Name>
+    <Teaser>Vibrantly recolors religious icons, while adding 2 more religions.[NEWLINE]Requires Calypso's Colored Religious Icons (Basic).</Teaser>
+    <Description>Calypso's Colored Religion Icons (Civ V BNW)[NEWLINE][NEWLINE](BNW Extended): Adds 2 new religions with colored icon art. Requires Civilization V Brave New World and Calypso's Colored Religion Icons (Basic) to use.[NEWLINE][NEWLINE]This mod continues my project dynamically recoloring the religious icons in Civilization V Gods &amp; Kings and Brave New World. This mod adds 2 new religions, as I had colored my previous icons. If you have not seen my previous religion mods, the collection is linked above.
+CCRI (Extended) added religions with colored icons for the base game and Gods &amp; Kings. Similarly, this mod adds a couple for Brave New World.
+My ultimate goal has been to provide users with a greater diversity of religions so that civilizations who lack accurate religions could finally make logical, culturally accurate selections. These religions often lacked as clear symbology as today's faiths, and they often did not have distinctive names, which has made for quite a challenge.[NEWLINE][NEWLINE]This mod affects saved games, but I find that you need to load both (Basic) and  (BNW Extended) from the MODS menu and then load your game to make sure that the religions load correctly.[NEWLINE][NEWLINE]To sum it up, while using this mod, the new religions are:[NEWLINE][NEWLINE]- Amadhlozi (Zulu)[NEWLINE]- Nemesumagu (Shoshone)[NEWLINE][NEWLINE]My color palette and designs were inspired by reference photos, the religion icons from Civ IV, and the religion pips from Empire Total War.[NEWLINE][NEWLINE]This mod requires Calypso's Colored Religion Icons (Basic) and should be compatible with most other mods, except those that also recolor religious icons (such as Toft's Colored Religions Mod). While this mod will work with others that add religions, it will of course not recolor them, so expect the game to then have an odd mix of colored and uncolored icons (if, for example, using Tomatekh's Historical Religion mods).[NEWLINE][NEWLINE]Calypso's Colored Religion Icons (BNW Extended) is English and German language compatible. Thanks to Lukas for the German translation.</Description>
+    <Authors>Calypso</Authors>
+    <SpecialThanks>Lukas</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Mod id="c865cfd4-c125-42dc-9c46-51fe15fb7841" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="205ebd78-1e7e-4a12-a34a-1a63ff7033d3" minversion="0" maxversion="999" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6B8EA72421735F6C20C772847123DDB1" import="1">Art/CalypsoReligiousSymbolsFontIcons_BNWextended.dds</File>
+    <File md5="665A43A1AE74C89224DDE7E4D8726045" import="1">Art/CalypsoReligiousSymbolsFontIcons_BNWextended.ggxml</File>
+    <File md5="9691A2E77CFBDCA1EA18175F7447434F" import="1">Art/CalypsoReligiousSymbolsColored128_BNWextended.dds</File>
+    <File md5="E2995AE3A260BDD936B0F18A9C4F054F" import="1">Art/CalypsoReligiousSymbolsColored16_BNWextended.dds</File>
+    <File md5="F8FB47B0D3C6044F1CFFF5C6A08EE3BF" import="1">Art/CalypsoReligiousSymbolsColored214_BNWextended.dds</File>
+    <File md5="3A6B30A917F1F23A3F0F1E6246773908" import="1">Art/CalypsoReligiousSymbolsColored24_BNWextended.dds</File>
+    <File md5="51EA1F74666B20898C75C36019E0CAE3" import="1">Art/CalypsoReligiousSymbolsColored256_BNWextended.dds</File>
+    <File md5="3C3DF49A021C9FA13E865FD7B3400EC2" import="1">Art/CalypsoReligiousSymbolsColored32_BNWextended.dds</File>
+    <File md5="A8B93E0C6E0F98C44ADCE775201222F8" import="1">Art/CalypsoReligiousSymbolsColored48_BNWextended.dds</File>
+    <File md5="FF922CF44D1FA370D8C2C6C3B80B44BC" import="1">Art/CalypsoReligiousSymbolsColored64_BNWextended.dds</File>
+    <File md5="AF5359E5AD1408CBD49C74D3C1246FEF" import="1">Art/CalypsoReligiousSymbolsColored80_BNWextended.dds</File>
+    <File md5="78CA0DEC88B4F4B4EE3101B8C3C1FA15" import="0">XML/Calypso Religions (BNW Extended).xml</File>
+    <File md5="CD755256350CAEC37DF06C8215620114" import="0">XML/Calypso Religions Art (BNW Extended).xml</File>
+    <File md5="B9183054E0202E213175D09F1344C04B" import="0">XML/Calypso Religions Text (BNW Extended).xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Calypso Religions (BNW Extended).xml</UpdateDatabase>
+      <UpdateDatabase>XML/Calypso Religions Art (BNW Extended).xml</UpdateDatabase>
+      <UpdateDatabase>XML/Calypso Religions Text (BNW Extended).xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

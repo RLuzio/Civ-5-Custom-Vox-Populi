@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="33647f33-bdf8-4d40-b109-c7cb21770b7d" version="4">
+  <Properties>
+    <Name>Touhou - Kourindou</Name>
+    <Stability>Beta</Stability>
+    <Teaser>The store is Rinnosuke's home. Although it's a somewhat well-known establishment for the residents of Gensokyo, Rinnosuke rarel</Teaser>
+    <Description>The store is Rinnosuke's home. Although it's a somewhat well-known establishment for the residents of Gensokyo, Rinnosuke rarely (if ever) actually sells anything, despite keeping an exhaustive inventory; he mostly trades and/or puts up with "creative borrowing" from Reimu Hakurei and Marisa Kirisame. The store doesn't get very many customers aside from the usual noisy ones. Mold often grows in the store, as well, which may contribute to this.
+
+On occasion, the store is used for completely non-business ventures, such as cooking and combat. The store has also taken quite a bit of damage over time, thanks to conflicts that involve the store's occupants.
+
+Trait : Hostile Takeover
+Cannot gain settlers or annex cities but have some bonus for gold. Can spend 20 Gold to puppet a City-State that has been your ally for 5 turns. also, can buy buildings and units by half price.
+
+UU : Ibis Bomber (aka Tokiko)
+Replaces WW1 Bomber. Can build after research the Writing.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4 trait" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="unique culture" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="73BE99A8259FBD4393ACCEAE6A7ECC3B" import="1">ART/KORIN_Alpha128.dds</File>
+    <File md5="526A5E3EE22EF14540EF2F2D3D59E799" import="1">ART/KORIN_Alpha16.dds</File>
+    <File md5="BBD5AC94801A40E5B86BF4C8238BB083" import="1">ART/KORIN_Alpha24.dds</File>
+    <File md5="53995453C3DA867D43B1B9790C7C616B" import="1">ART/KORIN_Alpha32.dds</File>
+    <File md5="782FB7D55E17ABD87E6591634B357431" import="1">ART/KORIN_Alpha48.dds</File>
+    <File md5="020FE2FAFC38D6D0B61A12B296B914F9" import="1">ART/KORIN_Alpha64.dds</File>
+    <File md5="493668C5AB48EDE847D04A005ACDB4A3" import="1">ART/KORIN_Atlas128.dds</File>
+    <File md5="150FDFD35F875A8E0C59A7AB5C32799A" import="1">ART/KORIN_Atlas256.dds</File>
+    <File md5="D68A69820AC1DBAD343FDF8C8A449C9D" import="1">ART/KORIN_Atlas32.dds</File>
+    <File md5="E85BD31A3EF78511BA30BC229BA1E16C" import="1">ART/KORIN_Atlas45.dds</File>
+    <File md5="2EA5A9106F93843EFE1A1DEFEE0670D9" import="1">ART/KORIN_Atlas64.dds</File>
+    <File md5="E720365239A2B9D52008DA1A4671DCB9" import="1">ART/KORIN_Atlas80.dds</File>
+    <File md5="4DA8BB7068BC509ACC2EF9581CFEE225" import="1">ART/KORIN_DOM.dds</File>
+    <File md5="230A01690A0DFC3E526BC763E1FF850D" import="1">ART/KORIN_Map.dds</File>
+    <File md5="567422BC8C79A171AE6F4688897EC8CF" import="1">ART/KORIN_Scene.dds</File>
+    <File md5="F509BB8DACFE5644C05DC26BF1A126AA" import="1">ART/KORIN_Scene.xml</File>
+    <File md5="92056364BC67DF963A68FA37A400AE13" import="1">MUSIC/Consumer.mp3</File>
+    <File md5="D1DD086DCCB42BD5FB44987F3247E058" import="1">MUSIC/KORIN_Dom.mp3</File>
+    <File md5="E236AC1CEF123120B3C2FE340AD18BB8" import="1">MUSIC/KORIN_Peace_1.mp3</File>
+    <File md5="82E6B72230630FA26747E203E0E9BCE3" import="1">MUSIC/KORIN_Peace_2.mp3</File>
+    <File md5="BD7FE971B3E541259B118986266D5764" import="1">MUSIC/KORIN_Peace_3.mp3</File>
+    <File md5="A40849BD8995DA077148C2695FB8143F" import="1">MUSIC/KORIN_War_1.mp3</File>
+    <File md5="C2A70AB4785878995C5EA91120CF0B4E" import="1">MUSIC/KORIN_War_2.mp3</File>
+    <File md5="848B3CAFCB04A855BEBA7698AFDD26E6" import="1">XML/KORIN_Building.xml</File>
+    <File md5="9C5F59621D317B3B2E80A0517F3DE553" import="1">XML/KORIN_Civ.xml</File>
+    <File md5="6EDF76E7A0B4D0FB5938BECF738FCAF9" import="1">XML/KORIN_Civ4.sql</File>
+    <File md5="D40FBD245F8A26D6B0B1E1063DA87FB6" import="1">XML/KORIN_Civ4.xml</File>
+    <File md5="86E0CA6DD9CEC8B1CC36DE583805686C" import="1">XML/KORIN_Diplo.xml</File>
+    <File md5="52C1BDD27CD1B62F659EF8850581CC68" import="1">XML/KORIN_Icon.xml</File>
+    <File md5="526FF21C6FD3287E0BEADA54CEB846AE" import="1">XML/KORIN_Leader.xml</File>
+    <File md5="003139BC60B98FD7CEB4E5B871F7367C" import="1">XML/KORIN_Music.xml</File>
+    <File md5="15C20DBF516369981B5110DDE631655E" import="1">XML/KORIN_Music_SD.xml</File>
+    <File md5="43F162C90F495D0DD76542DFFA2CABEA" import="1">XML/KORIN_Text.xml</File>
+    <File md5="F792FFB087BEAA7B859B10629D339165" import="1">XML/KORIN_Trait.xml</File>
+    <File md5="8D9A3E3AA759AC92AD714EA6C6A7C9AE" import="1">XML/KORIN_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/KORIN_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Civ.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Diplo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/KORIN_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

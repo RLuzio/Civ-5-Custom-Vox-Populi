@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4171b2c9-983f-4232-8a76-1d3597d14c0d" version="1">
+  <Properties>
+    <Name>Sondre's Westeros</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A map of Westeros and the Free Cities of Essos. 11 Civilizations (all playable) total and 7 City-states.</Teaser>
+    <Description>A map of Westeros and the Free Cities of Essos. 11 Civilizations (all playable) total and 7 City-states.</Description>
+    <Authors>Sondreos</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6C4AF5A640B69B1BFF8C8DF6EADE6A79" import="0">Sondre's Westeros.Civ5Map</File>
+  </Files>
+</Mod>

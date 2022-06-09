@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+
+	<Instance Name="MessageButtonInstance">
+		<GridButton Style="BaseButton"  ID="MessageButton" Size="320,36" Anchor="C,T" Offset="0,20"  Hidden="0">
+            <Label Anchor="C,C" Offset="0,0" String="BLANK" ColorSet="Beige_Black" Font="TwCenMT22" FontStyle="Shadow" ID="MessageButtonText" Hidden="0"/>
+        </GridButton>
+	</Instance>
+	<Instance Name="MessageLabelInstance">
+		<Label Anchor="C,T" Offset="0,0" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="BLAH BLAH" ID="MessageLabel" WrapWidth="450" LeadingOffset="-8"/>
+	</Instance>
+	<Box Style="BGBlock_ClearTopBar" />
+    <Grid Size="500,360" Anchor="C,C" Offset="0,0" Padding="30,30" Style="Grid9DetailFive140" ID="ButtonStackFrame" Hidden="true" ConsumeMouse="1">
+		<Label Anchor="C,T" Offset="0,15" Font="TwCenMT24" Color0="30.50.80.255" Color1="133.184.186.255" Color2="133.184.186.255" FontStyle="SoftShadow" String="BLAH BLAH" ID="PopupTitle"/>		
+        <Stack Anchor="C,T" Offset="0,70" Padding="12" StackGrowth="Bottom" ID="ButtonStack" >
+        </Stack>
+    </Grid>
+
+</Context>

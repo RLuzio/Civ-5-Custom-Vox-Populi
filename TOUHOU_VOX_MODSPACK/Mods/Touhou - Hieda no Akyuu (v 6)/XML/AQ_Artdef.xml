@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-27 오후 10:38:17 -->
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_HIEDA_ARCHIVIST</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>EarlyGreatArtist</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_HIEDA_ARCHIVIST</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HIEDA_ARCHIVIST</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_HIEDA_ARCHIVIST</Type>
+			<Scale>0.18</Scale>
+			<Model>Great_Writer_Late_F2.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_HIEDA_ARCHIVIST</UnitMemberType>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_HIEDA_ARCHIVIST</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>AQ_Alpha128.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 2:17:40 PM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_YUKARI_PEACE</SoundID>
+			<Filename>YukariPeace1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_YUKARI_WAR</SoundID>
+			<Filename>YukariWar1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+
+	<!-- Audio Scripts -->
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_YUKARI_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_YUKARI_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_YUKARI_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_YUKARI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>55</MinVolume>
+			<MaxVolume>55</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

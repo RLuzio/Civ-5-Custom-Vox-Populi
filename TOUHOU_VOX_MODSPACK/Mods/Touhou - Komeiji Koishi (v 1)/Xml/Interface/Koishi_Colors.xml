@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:36:21 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_ANIMISM_LAND</Type>
+			<Red>1</Red>
+			<Green>0.75</Green>
+			<Blue>0.24</Blue>
+			<Alpha>1</Alpha>
+		</Row> 
+		<Row>
+			<Type>COLOR_ANIMISM_BORDER</Type>
+			<Red>1</Red>
+			<Green>1</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

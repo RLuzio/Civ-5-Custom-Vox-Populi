@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2016 7:36:46 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MATHALX_TENKO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_TENKO_FIRSTGREETING%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_TENKO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_TENKO_DEFEATED%</Response>
+			<Bias>1</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_TENKO">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_TENKO_GREETING_POLITE%</Response>
+			<Bias>8</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_TENKO">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_TENKO_GREETING_NEUTRAL%</Response>
+			<Bias>8</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_TENKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_TENKO_GREETING_HOSTILE%</Response>
+			<Bias>8</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_TENKO">
+			<ResponseType>RESPONSE_DOW_LEADER_MATHALX_TENKO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_TENKO_DOW_LEADER_MATHALX_TENKO%</Response>
+			<Bias>25</Bias>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

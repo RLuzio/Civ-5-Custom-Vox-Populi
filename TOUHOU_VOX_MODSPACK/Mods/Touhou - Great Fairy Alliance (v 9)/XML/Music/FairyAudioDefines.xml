@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/10/2013 7:55:24 PM -->
+<GameData>
+		<Audio_Sounds>
+			<Row>
+				<SoundID>SND_FAIRY_PEACE_01</SoundID>
+				<Filename>Cirno_Peace_2</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_PEACE_02</SoundID>
+				<Filename>Cirno_Peace_3</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_PEACE_03</SoundID>
+				<Filename>Sound_Fairy_Peace_04</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_PEACE_04</SoundID>
+				<Filename>Sound_Fairy_Peace_05</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+				<Row>
+				<SoundID>SND_FAIRY_WAR_01</SoundID>
+				<Filename>Cirno_War_2</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_WAR_02</SoundID>
+				<Filename>Cirno_War_3</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_WAR_03</SoundID>
+				<Filename>Sound_Fairy_War_04</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_WAR_04</SoundID>
+				<Filename>Sound_Fairy_War_05</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_EITHER_01</SoundID>
+				<Filename>Sound_Fairy_Either_01</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_FAIRY_EITHER_02</SoundID>
+				<Filename>Sound_Fairy_Either_02</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+
+		</Audio_Sounds>
+	</GameData>

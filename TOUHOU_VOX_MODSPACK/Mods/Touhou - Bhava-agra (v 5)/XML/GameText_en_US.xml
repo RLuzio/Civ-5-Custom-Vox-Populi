@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/12/2016 12:31:35 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL_DESC">
+			<Text>Bhava-Agra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL_SHORT_DESC">
+			<Text>Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_TEXT_1">
+			<Text>
+				In the Touhou canon, the Heaven is reserved for those who have either reached nirvana or those who have been found worthy by the Yama. While Heaven in the Touhou canon had declared overpopulation and thus barred its gates to additional people, Yakumo Yukari claims that the statement is false. In Heaven are the celestials, angels and other heavenly races, who live peaceful and prosperous lives marked by fishing, alcohol, music, and peaches.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_HEADING_2">
+			<Text>Strategy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_TEXT_2">
+			<Text>
+				Bhava-Agra has a bit of an all-rounder personality, although it is a bit reliant on hills. However, Bhava-Agra can support decent sized cities even on the hills thanks to its unique improvement. While Bhava-Agra isn't as capable of sustaining population on hilly terrain as Incas are, it is still more capable than most other civilizations in developing hill cities. However, Bhava-Agra should avoid mountain ranges, as their improvement does not benefit from being adjacent to the mountains, although building cities next to mountains is recommended as to take advantage of the unique building if fresh water is not available.[NEWLINE][NEWLINE]Bhava-Agra has a penalty associated with Golden Ages, meaning Bhava-Agra must control its happiness to prevent too many Golden Ages that cannot be extended. Likewise, given the need to extend its Golden Ages, opening Aesthetics is almost a must for Tenshi as to increase the speed in which Great Artists are generated.[NEWLINE][NEWLINE]Bhava-Agra synergizes very poorly with Autocracy because it is discouraged from keeping happiness high outside of golden ages, and likewise synergizes with Freedom best given its Golden Age extension policy. Order in general is also a fine choice, although there is the problem of a lack of synergy with 5-Year Plan, especially as Keystone competes with mines as a production-oriented improvement that develops resources.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL">
+			<Text>Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_TITLE">
+			<Text>Bhava-Agra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL_ADJECTIVE">
+			<Text>Celestial</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_MATHALX_CELESTIAL_HERITAGE_REMAKE">
+			<Text>Units receive a 15% [ICON_STRENGTH] Combat bonus when fighting within 1 tile range of a Keystone. Immune to anarchy, city resistance, and unhappiness in [ICON_GOLDEN_AGE] Golden Ages. May construct special Weather buildings [ICON_GOLDEN_AGE] in a Golden Age, which provides additional bonuses to Keystones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MATHALX_CELESTIAL_HERITAGE_SHORT">
+			<Text>Sword of the Scarlet Thoughts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_DOM">
+			<Text>
+				Bhava-Agra wishes you luck, Hinanawi Tenshi.[NEWLINE][NEWLINE]You and the rest of the Hinanawi clan has been considered delinquent Celestials given your unorthodox ascention. You are an confident lady unable to throw away the longings for the secular world. This and your instigation of the earthquate incident in Gensokyo did not help your image.[NEWLINE][NEWLINE]Nevertheless, you have been given a chance, Tenshi. Show the world that you have the skill and the mettle necessary, all while having fun in diplomacy, war, and development. If your words and attitudes are matched by your skill, you should be able to build a civilization that will stand the last of time. Will you prove that is the case, Tenshi? Can you build a civilization that will stand the last of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_PEDIA">
+			<Text>
+				TBA
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_LIVED">
+			<Text>TH10.5-</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_NAME">
+			<Text>Hinanawi Tenshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO">
+			<Text>Hinanawi Tenshi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_CIV_IV">
+			<Text>Hinanawi Tenshi [ICON_FOOD][ICON_STRENGTH]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_TEXT_1">
+			<Text>
+				Hinanawi Tenshi is a character belonging to Touhou Project, serving as the final boss of Scarlet Weather Rhapsody.  Tenshi is often portrayed as either slightly immature or strangely masochistic.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_SUBTITLE">
+			<Text>Delinquent Celestial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_TITLES_1">
+			<Text>Delinquent Celestial</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_BHAVA_AGRA">
+			<Text>Bhava-Agra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_ARUPYADHATU">
+			<Text>Arypyadhatu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_NAIVASAMJN_YANASAMJN_YAYATANA">
+			<Text>Naivasamjnyasamjnyayatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_AKIMCANYAYATANA">
+			<Text>Akimcanyayatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_VIJN_YANANANTYAYATANA">
+			<Text>Vijnyananantyayatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_AKASANANTYAYATANA">
+			<Text>Akasanantyayatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_RUPADHATU">
+			<Text>Rupadhatu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_BRHATPHALA">
+			<Text>Brhatphala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_SUBHAKRTSNA">
+			<Text>Subhakrtsna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_ABHASVARA">
+			<Text>Abhasvara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_BRAHMA">
+			<Text>Brahma</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_IKU">
+			<Text>Iku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MIROKU">
+			<Text>Miroku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KANNIN">
+			<Text>Kannin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JIZOU">
+			<Text>Jizou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FUGEN">
+			<Text>Fugen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONJYU">
+			<Text>Monjyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GAKKOU">
+			<Text>Gakkou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOKUUZOU">
+			<Text>Kokuuzou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIKKOU">
+			<Text>Hikkou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YAKUOH">
+			<Text>Yakuoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SEISHI">
+			<Text>Seishi</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_HEAVENLY_PEACHTREE">
+			<Text>Heavenly Peach Tree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MATHALX_HEAVENLY_PEACHTREE_TEXT">
+			<Text>
+				In the Touhou Canon, the Celestial diet primarily consists of alcohol and peaches. The peaches that the Celestials eat are presumed to be the Peaches of Immortality in the Chinese legends, which grants the consumer immortality.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_HEAVENLY_PEACHTREE_HELP">
+			<Text>
+				Bhava-Agra's unique replacement for the Caravansary. It loses the trade-oriented bonuses, costs more in both production and maintenance and cannot be bought with gold. To compensate, the building provides [ICON_HAPPINESS_1] Global Happiness and a decent [ICON_FOOD] Food and [ICON_CULTURE] Culture output while also boosting the [ICON_PEACE] Faith, [ICON_FOOD] Food and [ICON_CULTURE] Culture output of nearby lakes by 1.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_HEAVENLY_PEACHTREE_STRATEGY">
+			<Text>Heavenly Peach Tree is Bhava-Agra's unique replacement for the Caravansary. It loses the trade-oriented bonuses, costs more in both production and maintenance and cannot be bought with gold, but produces [ICON_HAPPINESS_1] Global Happiness, [ICON_FOOD] Food and [ICON_CULTURE] Culture while also boosting the [ICON_PEACE] Faith, [ICON_FOOD] Food and [ICON_CULTURE] Culture output of nearby lakes by 1, aiding the city's growth.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE">
+			<Text>Keystone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MATHALX_CELESTIAL_KEYSTONE_TEXT">
+			<Text>Keystones are sacred rock objects, which in Touhou canon has the ability to stop or cause earthquakes. In the Touhou canon, only the Hinanawi clan has the ability to control these keystones, who has the exclusive ability to plant, pull out or otherwise control these objects. The Hinanawi clan has previously controlled these objects before their ascension as Celestials, and it was through that the Oomuranokami, the master of the Hinanawi clan, stopped the earthquake and earned the Hinanawi clan's path to ascension. Planting these keystones prevent earthquakes, which allows the citizens to not fear earthquakes and thus work more efficiently. Also, the keystones of the Touhou universe are often decorated with shimenawa, making them cultural symbols as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MATHALX_CELESTIAL_KEYSTONE_HELP">
+			<Text>
+				The Keystone is the Bhava-Agra's unique improvement. It fulfills a role similar to mines and quarries in that it can develop any resources which are developed by mines or quarries. Not only that, the Keystone provides a base [ICON_FOOD] Food and [ICON_CULTURE] Culture Yield, increased through developing technologies.[NEWLINE]
+				[NEWLINE][ICON_BULLET]1 [ICON_CULTURE] Culture from Theology.
+				[NEWLINE][NEWLINE]The Keystone also increases the defensive capabilities of units in the tile.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CELESTIAL_HAPPINESS_BONUS_DUMMY">
+			<Text>
+				HTHT
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CELESTIAL_GOLDEN_AGE_BONUS_DUMMY">
+			<Text>
+				HTGA
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CELESTIAL_GOLDEN_AGE_DUMMY">
+			<Text>
+				HTGAD
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MATHALX_CELESTIAL_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are consuming peaches in large amount while the children are playing with earthquake simulators. I fear that the world will be consumed by the influence of your culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_MATHALX_CELESTIAL_KEYSTONE_REC">
+			<Text>We recommend a Keystone in this tile![NEWLINE][NEWLINE]If the maintenance can be dealt with, the Keystone will grant the tile food, production, and culture all at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MATHALX_CELESTIAL_KEYSTONE">
+			<Text>Plant a Keystone</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MATHALX_TENKO_GOLDEN_AGE_BONUS_IMMINENT">
+			<Text>The following cities will receive the Golden Age boost in 2 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MATHALX_TENKO_GOLDEN_AGE_BONUS_SHORT">
+			<Text>Golden Age Bonus Imminent</Text>
+		</Row>
+
+		<!--
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_STONE_CIRCLES"/>
+			<Set Text="+2 [ICON_PEACE] Faith on Quarries, +1 [ICON_PEACE] Faith on Keystones."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_EARTH_MOTHER"/>
+			<Set Text="Salt, Copper, Iron, and Keystones generate 1 more [ICON_PEACE]."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_ORAL_TRADITION"/>
+			<Set Text="+1 [ICON_CULTURE] Culture on Plantations and Keystones."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP"/>
+			<Set Text="1 [ICON_CULTURE] to Shrines and Keystones."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_FORMAL_LITURGY"/>
+			<Set Text="1 [ICON_PEACE] and [ICON_CULTURE] to [ICON_RES_GOLD]Gold and [ICON_RES_SILVER]Silver. 1 [ICON_GOLD] to Keystones."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_MESSENGER_GODS"/>
+			<Set Text="2 [ICON_RESEARCH] per each [ICON_CONNECTED] Connected City. 1 [ICON_RESEARCH] to Keystones."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN"/>
+			<Set Text="1 [ICON_PRODUCTION] to 3+ pop cities and Keystones worked by the city."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_FERTILITY_RITES"/>
+			<Set Text="10% more [ICON_FOOD] Growth. 1 [ICON_FOOD] to Keystones."/>
+		</Update>
+		-->
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MATHALX_WEATHER_TEXT">
+			<Text>The Sword of the Scarlet Thoughts has the ability to portray the emotion of the person it cuts through weather effects. While this ability does not appear directly, Scarlet Weather Rhapsody features the weather system where each weather has an effect associated with them. For example, Clear Sky increases flight capabilities, Drizzle causes spells to do more damage, and Deep Mist causes attacks to siphon health off to heal the attacking player.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_WEATHER_STRATEGY">
+			<Text>Weather effects are "buildings" which can be cheaply produced in a Golden Age, and its effects expire at the end of a golden age. Each Weather has an effect that affects the Keystone, causing the city working a Keystone to gain a bonus while also conferring a unit starting a turn on one to gain a special promotion.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_PLEASANT_WEATHER">
+			<Text>Clear Sky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_PLEASANT_WEATHER_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to gain +1 [ICON_FOOD] Food per Keystone Worked, while causing units starting a turn on a keystone to gain +1 movement for the duration of the Golden Age.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_DRIZZLE">
+			<Text>Drizzle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_DRIZZLE_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to gain +1 [ICON_RESEARCH] Science per Keystone Worked, while causing units starting a turn on a keystone to gain +33% Offensive combat strength for the duration of the Golden Age.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CLOUDY">
+			<Text>Cloudy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CLOUDY_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to gain +1 [ICON_PRODUCTION] Production per Keystone Worked, while causing units starting a turn on a keystone to heal for 20 more HP for the duration of the Golden Age.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_MISTY">
+			<Text>Misty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_MISTY_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to gain +1 [ICON_GOLD] Gold per Keystone Worked, while causing units starting a turn on a keystone to ignore both terrain costs and enemy ZOC for the duration of the Golden Age.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SNOW">
+			<Text>Snow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SNOW_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to gain +1 [ICON_CULTURE] Culture per Keystone Worked, while causing units starting a turn on a keystone to gain +33% Defensive combat strength for the duration of the Golden Age.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_AZURE_SKY">
+			<Text>Azure Sky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_AZURE_SKY_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to gain +1 [ICON_PEACE] Faith per Keystone Worked, while causing units starting a turn on a keystone to heal 33 HP when defeating an enemy unit for the duration of the Golden Age.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SUNSHOWER">
+			<Text>Sunshower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SUNSHOWER_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age. Causes the city to generate [ICON_GREAT_PEOPLE] 5% faster per Keystone Worked, while causing units starting a turn on a keystone to be able to paradrop up to 6 tiles away when starting a turn on friendly territory for the duration of the Golden Age.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_BOREALIS">
+			<Text>Aurora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_BOREALIS_HELP">
+			<Text>This weather effect only remains for the duration of a Golden Age, and only one may be owned at a time. Causes the city to gain +1 [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science, [ICON_CULTURE] Culture and [ICON_PEACE] Faith per Keystone Worked, while causing units on the keystone to heal completely at the start of the turn.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_PLEASANT_WEATHER">
+			<Text>
+				Clear Sky
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_PLEASANT_WEATHER_HELP">
+			<Text>
+				+1 [ICON_MOVES] Move.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_DRIZZLE">
+			<Text>
+				Drizzle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_DRIZZLE_HELP">
+			<Text>
+				+33% Attack Strength.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_CLOUDY">
+			<Text>
+				Cloudy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_CLOUDY_HELP">
+			<Text>
+				+20 HP when healing.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_MISTY">
+			<Text>
+				Misty
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_MISTY_HELP">
+			<Text>
+				Ignores ZOC and Terrain Costs.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SNOW">
+			<Text>
+				Snow
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SNOW_HELP">
+			<Text>
+				+33% Defensive Combat Strength.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SUNSHOWER">
+			<Text>
+				Sunshower
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SUNSHOWER_HELP">
+			<Text>
+				May paradrop up to 6 tiles away when starting a turn on friendly territory
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

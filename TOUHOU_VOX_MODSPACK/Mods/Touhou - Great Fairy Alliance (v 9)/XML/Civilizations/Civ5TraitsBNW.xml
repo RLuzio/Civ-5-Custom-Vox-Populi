@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/31/2013 5:07:09 PM -->
+<GameData>
+	<Trait_MaintenanceModifierUnitCombats>
+		<Row>
+			<TraitType>TRAIT_FAIRY_WARS</TraitType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+			<MaintenanceModifier> 100 </MaintenanceModifier>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_FAIRY_WARS</TraitType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+			<MaintenanceModifier> 100 </MaintenanceModifier>
+		</Row>
+	</Trait_MaintenanceModifierUnitCombats>
+	-<Building_DomainProductionModifiers>
+	-<Row>
+		<BuildingType>BUILDING_FAIRY_COMMAND</BuildingType>
+		<DomainType>DOMAIN_AIR</DomainType>
+		<Modifier>100</Modifier>
+	</Row>
+	</Building_DomainProductionModifiers>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_FAIRY_COMMAND_HELP"/>
+			<Set>
+				<Text>The good news is, fairies don&apos;t die, so your fairy units build at double speed. The bad news is, fairies have short attention spans, so you have to spend twice as much to keep their units active.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_FAIRY_COMMAND_PEDIA"/>
+			<Set>
+				<Text>Cirno&apos;s fairies can re-arm military units faster than anyone, because any "dead" unit can just come back to base and get some more weapons or paper boats and airplanes.</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_FAIRY_WARS"/>
+			<Set>
+				<Text>Doubles production speed and upkeep cost of all units.</Text>
+			</Set>
+		</Update>
+	</Language_en_US>
+</GameData>

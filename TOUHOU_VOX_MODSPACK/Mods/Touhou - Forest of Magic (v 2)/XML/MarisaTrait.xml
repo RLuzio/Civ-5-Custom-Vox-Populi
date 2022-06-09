@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 9:53:37 AM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Traits>
+		<Row>
+			<Type>TRAIT_PRECIOUS_THING</Type>
+			<Description>TXT_KEY_TRAIT_PRECIOUS_THING</Description>
+			<ShortDescription>TXT_KEY_TRAIT_PRECIOUS_THING_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_MARISA_TRAIT</FreeBuilding>
+		</Row>
+	</Traits>
+</GameData>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/24/2015 6:57:52 PM -->
+<GameData>
+	<Language_ko_KR>
+		
+		<!-- Civilization-->
+		
+		<Row Tag="TXT_KEY_KOBITO_SHORT_DESC">
+			<Text>소인족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_DESC">
+			<Text>소인족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_ADJECTIVE">
+			<Text>소인족의</Text>
+		</Row>
+
+		<!-- Trait-->
+		
+		<Row Tag="TXT_KEY_TRAIT_MIRACLE_MALLET_SHORT">
+			<Text>요술 망치의 마력</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_MIRACLE_MALLET">
+			<Text>
+				시대가 바뀔 때마다 무료 사회정책, 무료 기술, 무료 위인 중 이전 시대에 선택하지 않은 보너스 하나를 선택해 받을 수 있습니다.
+			</Text>
+		</Row>
+
+		<!-- Civilization Pedia-->
+
+		<Row Tag="TXT_KEY_CIV5_KOBITO_DOM_TEXT">
+			<Text>
+				[NEWLINE]소인족의 후손 스쿠나 신묘마루여, 그대에게 인사드리옵니다. 한치동자의 피를 이어받은 그대는 작디작은 소인족임에도 불구하고 환상향의 고통받는 약자들을 위해 불평등한 세상을 뒤엎으려는 대담함을 지녔습니다. 무슨 소원이든지 들어주는 요술 망치를 통해, 환상향에 휘침성을 소환해서 같은 약자의 처지에 놓은 도구들을 끌어모아 쿠데타를 도모했습니다. 비록 그 계획은 인간들에게 저지당했지만 그대의 용기와 위엄은 그 누구도 막지 못했을 것이란 걸 모두에게 알려 줄 수 있었습니다.[NEWLINE][NEWLINE]신묘마루여, 소인족들은 그대가 다시 돌아와서 약자와 강자가 동등하게 공존하는 세상으로 이끌어 주기를 바라고 있습니다. 그들의 부름을 받아 다시 지배자의 자리에 서시겠습니까? 소인족들에게 영원한 영광을 안겨주고 세월의 시련을 이겨낼 문명을 건설해 주시겠습니까?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_HEADING_1">
+			<Text>요술 망치</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_TEXT_1">
+			<Text>소유자의 소원을 들어주는 요술 망치는 소인족 한치동자가 먼 옛날 오니를 무찌르고 얻은 오니의 전리품이다. 한치 동자는 이 망치를 사용해서 자신의 키를 커지게 했다. 그러나 이 망치는 사용하면 반드시 그에 걸맞는 대가를 갖고 올 수도 있었다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_HEADING_2">
+			<Text>휘침성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_TEXT_2">
+			<Text>한치 동자는 알려진 이야기 이후 요술 망치의 부작용을 우려해 그것을 봉인한다. 그리고 오랜 세월이 흘러 후손 중 한 명이 그 봉인을 풀고 쾌락을 맛본 뒤 거대한 성과 인간계를 지배하는 힘을 소원으로 빌게 된다. 그러나 망치의 부작용으로 거꾸로 뒤집힌 성, 휘침성이 소환되며 소인족들은 오니의 나라로 끌려간다. 결국 망치는 다시 봉인되었으나, 또다시 오랜 세월이 흘러 스쿠나 신묘마루가 봉인을 풀고 휘침성을 다시 소환한다. </Text>
+		</Row>
+
+		<!-- City name -->
+
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_01">
+			<Text>휘침성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_02">
+			<Text>릴리퍼트</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_03">
+			<Text>블레퍼스크</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_04">
+			<Text>라퓨타</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_05">
+			<Text>브롭딩낵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_06">
+			<Text>발니바르니</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_07">
+			<Text>러그네그</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_08">
+			<Text>글러드덥드리브</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_09">
+			<Text>지팡구</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_10">
+			<Text>월 오브 잇슨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_11">
+			<Text>태공망</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_12">
+			<Text>놈</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_13">
+			<Text>성남</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_14">
+			<Text>홈 오 마이 섬</Text>
+		</Row>
+
+		<!-- Spy Name -->
+
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_0">
+			<Text>키진 세이자</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_1">
+			<Text>와카사기히메</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_2">
+			<Text>이마이즈미 카게로</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_3">
+			<Text>세키반키</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_4">
+			<Text>츠쿠모 벤벤</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_5">
+			<Text>츠쿠모 야츠하시</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_6">
+			<Text>호리카와 라이코</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_7">
+			<Text>한치 동자</Text>
+		</Row>
+
+
+		<!-- Leader -->
+
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU">
+			<Text>스쿠나 신묘마루</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_LIVED">
+			<Text>불명</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_NAME">
+			<Text>스쿠나 신묘마루</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_SUBTITLE">
+			<Text>소인족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TITLES_1">
+			<Text>소인족의 공주</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_HEADING_1">
+			<Text>동방휘침성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TEXT_1">
+			<Text>
+				이변의 원인이자 최종보스로 첫 등장했다. 일본 동화에 등장하는 소인족 한치동자의 후손으로, 키진 세이자에게 속아 환상향에 복수를 하기 위해 오래전 소인족의 조상들이 봉인했던 요술 망치의 봉인을 풀고 휘침성을 하늘에 소환한다. 그리고 그 부작용으로 요술 망치의 마력이 새어나가기 시작했고, 이는 환상향의 도구들이 츠쿠모가미화하는 원인이 되었다. 이후 이변을 눈치챈 주인공들에게 제압당한 후 요술망치의 마력이 다하면서 다시 원래의 작은 모습으로 돌아온다. 이후 하쿠레이 신사에서 살게 된다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_HEADING_2">
+			<Text>탄막 아마노자쿠</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TEXT_2">
+			<Text>
+				이변 이후에 요술 망치의 마력을 모두 회수하기 위해 키진 세이자와 대면한다. 신묘마루는 세이자에게 자신이 세이자를 지명수배했음을 밝히며 항복을 권유하나 거절당한다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_HEADING_3">
+			<Text>동방심비록</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TEXT_3">
+			<Text>
+				환상향의 신비한 오컬트 볼을 모두 모으면 몸이 커질 수 있다는 소문을 듣고 오컬트 볼을 차지하기 위해 나선다. 이후 볼을 모두 모으지만 실제로 몸이 커지지는 못하였고 대신 우사미 스미레코가 있는 현실의 세계로 들어가게 된다. (신묘마루는 그곳이 라퓨타라고 생각했다)
+			</Text>
+		</Row>
+		
+		<!-- Unit -->
+
+		<Row Tag="TXT_KEY_UNIT_STINGING_SWORDSMAN">
+			<Text>바늘 검사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STINGING_SWORDSMAN_HELP">
+			<Text>검사를 대체하는 소인족의 고유 유닛입니다. 생산에 [ICON_RES_IRON]철을 필요로 하지 않습니다. 우호적인 영토에 있을 때 [ICON_CAPITAL]수도의 [ICON_CITIZEN]인구 2명당 기본 전투력이 1 상승합니다. 최대 +7까지 상승할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STINGING_SWORDSMAN_STRATEGY">
+			<Text>검사를 철이 없어도 생산할 수 있다는 큰 이점을 가진 방어전에 특화된 유닛입니다.</Text>
+		</Row>
+
+		<!-- Building -->
+		
+		<Row Tag="TXT_KEY_BUILDING_INVERTED_CASTLE">
+			<Text>뒤집힌 성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVERTED_CASTLE_HELP">
+			<Text>
+				성을 대체하는 소인족의 고유 건물입니다. 건축을 연구하면 2 [ICON_TOURISM]관광과 3 [ICON_CULTURE]문화를 추가로 얻습니다. 비행 유닛 생산시 25%의 [ICON_PRODUCTION]생산 보너스를 얻으며, 도시에 주둔한 비행 유닛은 턴당 5 체력을 추가로 회복합니다.[NEWLINE][NEWLINE]도시에 성벽이 있어야 합니다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVERTED_CASTLE_STRATEGY">
+			<Text>뒤집힌 성은 도시의 방어력, 체력, 그리고 [ICON_CULTURE]문화를 늘려주는 방어 건물입니다. 여기에 건축학 기술을 연구하면 [ICON_TOURISM]관광도 얻을 수 있습니다. 뒤집힌 성을 건설하려면 도시에 성벽이 건설되어 있어야 합니다.</Text>
+		</Row>
+
+		<!-- Promotion -->
+		
+		<Row Tag="TXT_KEY_PROMOTION_GROW_BIGGER">
+			<Text>커져라 얍!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GROW_BIGGER_HELP">
+			<Text>우호적인 영토에 있을 때 수도의 인구 2명당 기본 전투력 1 증가 (최대 +8)</Text>
+		</Row>
+
+		<!-- UI -->
+
+		<Row Tag="TXT_KEY_KOBITO_BONUS_01">
+			<Text>[COLOR_POSITIVE_TEXT]무료 사회정책[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_BONUS_02">
+			<Text>[COLOR_POSITIVE_TEXT]무료 기술[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_BONUS_03">
+			<Text>[COLOR_POSITIVE_TEXT]무료 위인[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE">
+			<Text>[COLOR_YELLOW]특별 보너스[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE_DESC">
+			<Text>요술 망치의 마력이 모두 회수되었습니다!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE_DESC_2">
+			<Text>원하는 특별 보너스를 선택하십시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_CANNOT_SELECT_BONUS">
+			<Text>바로 이전 시대에 선택했던 보너스는 선택할 수 없습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_SELECT_BONUS_TOOLTIP">
+			<Text>{1_v} 보너스를 선택할 수 있습니다!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_SELECT_BONUS_TOOLTIP_INFO">
+			<Text>보너스는 연속으로 선택될 수 없습니다. 만약 이 보너스를 선택한다면 당신은 이 보너스를 {1_eraname}에 다시 선택할 수 없을 것입니다.</Text>
+		</Row>
+		
+		<!-- Diplomacy -->
+		
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU_FIRSTGREETING_1">
+			<Text>내 성에 방문한 걸 환영해! 소인족의 후예인 신묘마루라고 해. 작다고 얕보다간 큰코 다칠테니 조심하는게 좋을걸.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU_DEFEATED_1">
+			<Text>아... 난 아직 부족한가 봐. 나한테는 사람들을 이끌어가는 것보단 그냥 내 밥그릇이나 씻고 있는게 더 나을거 같네...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU_DECLAREWAR_1">
+			<Text>마침내 때가 찾아왔군! 작은 자들에게 농락당한다는게 어떤 건지 똑똑히 보여주마!</Text>
+		</Row>
+
+	</Language_ko_KR> 
+</GameData>

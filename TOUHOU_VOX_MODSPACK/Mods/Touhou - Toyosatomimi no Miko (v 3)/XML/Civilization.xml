@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_SENKAI</Type>
+			<Description>TXT_KEY_CIV_SENKAI_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_SENKAI</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_SENKAI_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_SENKAI_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_SENKAI</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_JAPAN</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_MED</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_SENKAI_ATLAS</IconAtlas>
+			<AlphaIconAtlas>CIV_ALPHAMIKO_ATLAS</AlphaIconAtlas>
+			<MapImage>SenkaiMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_SENKAI_TEXT</DawnOfManQuote>
+			<DawnOfManImage>TMikoDoM.dds</DawnOfManImage>
+			<DawnOfManAudio>NULL</DawnOfManAudio>
+			<SoundtrackTag>Japan</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<!-- Civilization_BuildingClassOverrides -->
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SENKAI_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SENKAI_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SENKAI_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SENKAI_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SENKAI_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SENKAI_5</CityName>
+		</Row>
+	</Civilization_CityNames>
+	
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<LeaderheadType>LEADER_TMIKO</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<ReligionType>RELIGION_TAOISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SENKAI_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SENKAI_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SENKAI_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SENKAI_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SENKAI_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SENKAI_5</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+			<UnitType>UNIT_SHIKAISEN</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_SENKAI</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<BuildingType>BUILDING_DIVINE_MAUSOLEUM</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_SENKAI</Type>
+			<PrimaryColor>COLOR_PLAYER_SENKAI_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_SENKAI_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_SENKAI_ICON</Type>
+			<Red>.90</Red>
+			<Green>.76</Green>
+			<Blue>.46</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_SENKAI_BACKGROUND</Type>
+			<Red>.72</Red>
+			<Green>.55</Green>
+			<Blue>.75</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SENKAI_DESC">
+			<Text>Senkai</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENKAI_SHORT_DESC">
+			<Text>Senkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENKAI_HEADING_1">
+			<Text>Description</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_SENKAI_HEADING_2">
+			<Text>Geography and Location</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_SENKAI_TEXT_1">
+			<Text>
+				Senkai is a sealed secret world suited for hermits, which even Gensokyo did not know of before the events of Ten Desires. According to Toyosatomimi no Miko during the first part of a symposium between her, Kanako Yasaka, and Byakuren Hijiri, it's a space that Miko had created, herself. A location where nobody else can bother someone is well-suited for hermits.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENKAI_TEXT_2">
+			<Text>
+				Little is known about the geography of Senkai. It's accessed via the principle that any crack contains limitless space, which connects the world to any other location allowing it to be accessed from anywhere. For example, Toyosatomimi no Miko showed Reimu Hakurei a way to get to it by pointing to a crack in the ground. Reimu sarcastically replied by asking if Miko was an ant. The residence isn't off-limits to those seeking shelter from youkai, but the hidden nature of the entrance(s) tends to make that option not particularly viable.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_SENKAI_TITLE">
+			<Text>Senkai</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_SENKAI_ADJECTIVE">
+			<Text>Senkai</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SENKAI_TEXT">
+			<Text>
+				The revival of the crown prince is nigh! Toyosatomimi no Miko, from an early age you could listen to 10 difficult conversations simultaneously and offer insightful feedback to all. Despite your political brilliance, you were still plagued by one thing, the inevitability of death. Determined to overcome death, you sought to slumber and reawaken as a shikaisen.
+				
+				
+				
+				                        Due to interference from Buddhist monks, your revival took longer than planned, but upon becoming a myth and reaching Gensokyo, your revival has finally been realized. With your revival, you can now listen to peoples ten desires and understand them fully. Legendary ruler, return to your throne once more! Use your newfound ability to create a mighty empire! Can you create a civilization that stands the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENKAI_0">
+			<Text>Senkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENKAI_1">
+			<Text>Mononobe Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENKAI_2">
+			<Text>Soga City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENKAI_3">
+			<Text>Kaku Village</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENKAI_4">
+			<Text>Miyakoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENKAI_5">
+			<Text>Hermit Retreat</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SENKAI_0">
+			<Text>Mononobe no Futo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENKAI_1">
+			<Text>Soga no Tojiko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENKAI_2">
+			<Text>Seiga Kaku</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENKAI_3">
+			<Text>Yoshika Miyako</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENKAI_4">
+			<Text>Hata no Kokoro</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENKAI_5">
+			<Text>Shotoku</Text>
+		</Row>
+
+	</Language_en_US>
+
+		
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIV_ALPHAMIKO_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>SenkaiAlpha32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_ALPHAMIKO_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>SenkaiAlpha48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_ALPHAMIKO_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>SenkaiAlpha64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_ALPHAMIKO_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>SenkaiAlpha80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_ALPHAMIKO_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>SenkaiAlpha128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_ALPHAMIKO_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>SenkaiAlpha256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_SENKAI_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TMikoAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_SENKAI_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TMikoAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_SENKAI_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TMikoAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_SENKAI_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TMikoAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_SENKAI_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TMikoAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_SENKAI_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>TMikoAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+</GameData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2015 11:18:30 AM -->
+<Context>
+	<Instance Name="KobitoInstance" >
+		<Button Size="600, 100" Anchor ="L, C" Offset="10,0" ID="KobitoButton">
+			<Grid Size="600, 100" Anchor ="L, T" Style="Grid9FrameTurns">
+				<!-- background and selection anim-->
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="L,C" Size="600, 100" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1">
+						<Grid Size="600, 100" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+				<AlphaAnim Anchor="L,C" Size="600, 100" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="2" AlphaEnd="1" ID="SelectionAnim" Hidden="1">
+					<Grid Size="600, 100" Offset="0,0" Padding="0,0" Style="Grid9FrameTurnsHL" />
+				</AlphaAnim>
+					<Image Anchor="L,C" Size="100,100" Offset="0,-15" Hidden="false" ID="KobitoFreeImage">
+				</Image>
+				<Label Anchor="C,C" Offset="0,0" Font="TwCenMT22" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" ID="KobitoLabel"/>
+			</Grid>
+		</Button>
+	</Instance>
+	<Box Style="BGBlock_ClearTopBar" />
+	<Grid Size="600,550" Anchor="C,C" Style="Grid9DetailFive140" ConsumeMouse="1">
+		<Image Anchor="C,T" AnchorSide="I,O" Offset="0,-27" Size="256,64" Texture="DecTop256x64.dds">
+			<Image Anchor="C,C" Offset="0,-6" Size="80,80" Texture="NotificationFrameBase.dds">
+				<Image Anchor="C,C" Offset="0,0" Size="80,80" Texture="KobitoMiracleMallet.dds" />
+			</Image>
+		</Image>
+		<Image Anchor="L,C" AnchorSide="O,I" Offset="-17,0" Size="32,64" Texture="Dec32x64Left.dds" />
+		<Image Anchor="R,C" AnchorSide="O,I" Offset="-17,0" Size="32,64" Texture="Dec32x64Right.dds" />
+		
+		<Label Style="MenuTitleCaption" ID="KobitoTitle" String="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE"/>
+		<Label ID="KobitoDesc" Anchor="C,T" Offset="0,80" Font="TwCenMT24" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE_DESC"/>
+		<Label ID="KobitoDesc2" Anchor="C,T" Offset="0,110" Font="TwCenMT24" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE_DESC_2"/>
+		<ScrollPanel ID="KobitoPanel" Anchor="C,C" Offset="0,70" Size="400,350" Vertical="1">
+			<Stack ID="KobitoStack" Anchor="C,T" StackGrowth="Bottom" Padding="5"/>
+			<ScrollBar Offset="0,18" Anchor="R,T" AnchorSide="O,I" Style="VertSlider" Length="300" />
+			<UpButton Offset="0,0" Anchor="R,T" AnchorSide="O,I" Style="ScrollBarUp" />
+			<DownButton Offset="0,1" Anchor="R,B" AnchorSide="O,I" Style="ScrollBarDown" />
+		</ScrollPanel>
+	</Grid>
+</Context>

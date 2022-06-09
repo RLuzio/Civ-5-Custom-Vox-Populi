@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/21/2017 4:16:21 PM -->
+<GameData>
+	<EventsAddin_Support>
+		<Row>
+			<FileName>TenguEvents.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>TenguDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_TENGU_TERRACE_FARM">
+			<Text>Develop a Way to Make Mountains More Liveable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TENGU_TERRACE_FARM_DESC">
+			<Text>
+				The mountains and hills are a harsh environment, even for us tengu. Our scientists already have ideas on how to make the environment more liveable, but further research is needed.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Tengu
+				[NEWLINE][ICON_BULLET]Must have researched Construction
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the building of Terrace Farms
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TENGU_TERRACE_FARM_ENACTED_DESC">
+			<Text>
+				The mountains and hills are a harsh environment, even for us tengu. Our scientists already have ideas on how to make the environment more liveable, but further research is needed.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the building of Terrace Farms
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TENGU_NEWS_TOURNAMENT">
+			<Text>Create the Annual News Tournament</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TENGU_NEWS_TOURNAMENT_DESC">
+			<Text>
+				With the invention of the printing press, printing newspapers has never been easier! We should create an annual news tournament to give our writers and our people something to look forward to every year.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Tengu
+				[NEWLINE][ICON_BULLET]Must have researched Printing Press
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production and [ICON_FOOD] Food from Writers
+				[NEWLINE][ICON_BULLET]Earn Reporter Journalists 50% faster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TENGU_NEWS_TOURNAMENT_ENACTED_DESC">
+			<Text>
+				With the invention of the printing press, publishing newspapers has become a thousand times easier! We should create an annual news tournament to give our writers and our people something to look forward to every year.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production and [ICON_FOOD] Food from Writers
+				[NEWLINE][ICON_BULLET]Earn Reporter Journalists 50% faster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT">
+			<Text>Youkai Mountain Incident</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_DESC">
+			<Text>
+				Some group of people have been causing an incident nearby our territory. It appears they would like to make our mountains their home. If we don't do something about this, serious issues might come up in the future!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_1">
+			<Text>
+				Send our Great Tengu to negotiate some deals.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Faith} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_1_NOTIFICATION">
+			<Text>
+				A deal has been struck between us and the incident masterminds, they won't bother us, but they get to teach us about their faith.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_2">
+			<Text>
+				Send our nimble information corps to blackmail them to leave.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Reporter Journalist[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_2_NOTIFICATION">
+			<Text>
+				Our Crow Tengu have been successful in convincing the incident masterminds to leave, albeit somewhat forcefully, but we can be sure that they won't be coming back.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_3">
+			<Text>
+				Accept them into our society, we should be more open to outsiders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Culture} [ICON_CULTURE] Culture[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]-1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_RESEARCH] Science and [ICON_PEACE] Faith from Shrines and Temples[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_3_NOTIFICATION">
+			<Text>
+				We have openly accepted the incident masterminds into our society, their knowledge and faith has proven to be useful.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_4">
+			<Text>
+				Mobilize our defense corps, that should scare them away.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_4_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive 4 Military Units[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great General[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_4_NOTIFICATION">
+			<Text>
+				The mobilization of our troops have caused the incident masterminds to leave our territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_5">
+			<Text>
+				Let them live with us in secret.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_5_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]-2 [ICON_MAGISTRATES] Magistrates[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain an extra spy[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Promotes all spies[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_YOUKAI_MOUNTAIN_INCIDENT_OUTCOME_5_NOTIFICATION">
+			<Text>
+				We have given the incident masterminds a secret place in our society, and our spies have been trained under them.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TERRACE_FARM_TENGU_TEXT">
+			<Text>Terrace Farming developed in mountainous areas simultaneously around the world, including Bali, the Philippines, China and Peru.  These skinny, stepped fields are cut into hill and mountain sides, preventing the run off of irrigation water and providing space for arable land, usually where none previously was possible. The Tengu have adapted this for their use.</Text>
+		</Row>
+	</Language_en_US>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_TERRACE_FARM_TENGU</Type>
+			<Description>TXT_KEY_IMPROVEMENT_TERRACE_FARM</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_TERRACE_FARM_TENGU_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_TERRACE_FARM_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_TERRACE_FARM</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_TOUHOU_TENGU</CivilizationType>
+			<HillsMakesValid>true</HillsMakesValid>
+			<PillageGold>18</PillageGold>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>DLC02_TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM_TENGU</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_AdjacentMountainYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM_TENGU</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_AdjacentMountainYieldChanges>
+	<Improvement_TechNoFreshWaterYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM_TENGU</ImprovementType>
+			<TechType>TECH_FERTILIZER</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechNoFreshWaterYieldChanges>
+	<Improvement_TechFreshWaterYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM_TENGU</ImprovementType>
+			<TechType>TECH_CIVIL_SERVICE</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechFreshWaterYieldChanges>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM_TENGU</ImprovementType>
+			<TerrainType>TERRAIN_HILL</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Builds>
+		<Row>
+			<Type>BUILD_TERRACE_FARM_TENGU</Type>
+			<PrereqTech>TECH_LIVEABLE_MOUNTAINS_DUMMY</PrereqTech>
+			<Time>700</Time>
+			<ImprovementType>IMPROVEMENT_TERRACE_FARM_TENGU</ImprovementType>
+			<Description>TXT_KEY_BUILD_TERRACE_FARM</Description>
+			<Recommendation>TXT_KEY_BUILD_FOOD_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_IRRIGATE</EntityEvent>
+			<HotKey>KB_E</HotKey>
+			<OrderPriority>97</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>UNIT_ACTION_DLC02_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_TERRACE_FARM_TENGU</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_TERRACE_FARM_TENGU</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_TERRACE_FARM_TENGU</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Building_ResourcePerEra>
+		<Row>
+			<BuildingType>BUILDING_PALACE_TENMA</BuildingType>
+			<ResourceType>RESOURCE_MAGISTRATES</ResourceType>
+			<Quantity>0</Quantity>
+			<InitialQuantity>2</InitialQuantity>
+		</Row>
+	</Building_ResourcePerEra>
+</GameData>

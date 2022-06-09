@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!--
+						Civ Specific Decisions
+-->
+		<!-- Oni Clans -->
+		<Row Tag="TXT_KEY_DECISIONS_SAKEBUG">
+			<Text>Create a Sake Bug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAKEBUG_DESC">
+			<Text>
+				The Sake Bug is a companion of the oni, and a creation of their technology. It is able to turn small amounts of water into sake, providing a potentially endless supply of alcohol.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Oni Clans
+				[NEWLINE][ICON_BULLET]Must have at least 4 Brewery
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]4 [ICON_RES_ONI_SAKE] Oni Sake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAKEBUG_ENACTED_DESC">
+			<Text>
+				The Sake Bug is a companion of the oni, and a creation of their technology. It is able to turn small amounts of water into sake, providing a potentially endless supply of alcohol.[NEWLINE]
+				[NEWLINE][ICON_BULLET]4 [ICON_RES_ONI_SAKE] Oni Sake
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ONIDRINKINGPARTY">
+			<Text>Hold a Drinking Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ONIDRINKINGPARTY_DESC">
+			<Text>
+				It's been too long since we had a good drinking party! Hosting a drinking party will help unite our people and lift their spirits, but some of them will undoubtably become rowdy and eager for a fight![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Oni Clans
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]-1 [ICON_CITIZEN] Population in all cities
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Military Unit in each city
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] in each city
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ONIDRINKINGPARTY_ENACTED_DESC">
+			<Text>
+				It's been too long since we had a good drinking party! Hosting a drinking party will help unite our people and lift their spirits, but some of them will undoubtably become rowdy and eager for a fight![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Military Unit in each city
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] in each city
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

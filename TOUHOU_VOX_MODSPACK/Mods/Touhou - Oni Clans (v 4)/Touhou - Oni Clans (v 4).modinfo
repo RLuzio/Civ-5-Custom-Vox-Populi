@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5724b943-205f-4845-a195-19e4c2aa7b8d" version="4">
+  <Properties>
+    <Name>Touhou - Oni Clans</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A mod that adds a civilization based on mythological oni (particularly as depicted in the Touhou games) to the game!</Teaser>
+    <Description>Adds a civilization based on mythological oni (particularly as depicted in the Touhou games) to the game!</Description>
+    <Authors>BouncyMischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="37F7D6D1124BF27391750F30B17A4761" import="1">Art/OniAlphaAtlas16.dds</File>
+    <File md5="D053F836A26069A0A621073D9FED4C18" import="1">Art/OniAlphaAtlas24.dds</File>
+    <File md5="736CDC465BDB67808C2122056AE81A6B" import="1">Art/OniAlphaAtlas32.dds</File>
+    <File md5="B35359A6479406CAF7C55994C91AACC6" import="1">Art/OniAlphaAtlas48.dds</File>
+    <File md5="563DBEEA3B27511E9D4C05762F144901" import="1">Art/OniAlphaAtlas64.dds</File>
+    <File md5="96523591C2DF58D39FF75738F4A95660" import="1">Art/OniFontIcons.dds</File>
+    <File md5="C0CAA1F1DF38BCE116675E6D562147A6" import="1">Art/OniIconAtlas128.dds</File>
+    <File md5="265C6B3E9B79E3BC2E045242A052061E" import="1">Art/OniIconAtlas256.dds</File>
+    <File md5="16C649CF0DDC287E36F9348D2886F9F3" import="1">Art/OniIconAtlas32.dds</File>
+    <File md5="7F43CC37249ED2DD4911397C10209BB8" import="1">Art/OniIconAtlas45.dds</File>
+    <File md5="CBD2DF4BB572AB15E2EAF44C26F747E5" import="1">Art/OniIconAtlas64.dds</File>
+    <File md5="24E68D2557EAB7F414AFBEEF9DC3A15E" import="1">Art/OniIconAtlas80.dds</File>
+    <File md5="82FB2E63C26F637699C18AD1693FEE8C" import="1">Art/OniMap.dds</File>
+    <File md5="1249FD9911CA9C22E0672612924157C3" import="1">Art/OniUnitIcons.dds</File>
+    <File md5="51BB2D0541B18E96E56D33961C9D7A1E" import="0">Art/SuikaArtAndMusicCredits.rtf</File>
+    <File md5="5E9C170798535DC72BA5BD612B1AC85C" import="1">Art/SuikaDiplo.dds</File>
+    <File md5="4CE0B5741BE92D89F7C8217D56DC9F40" import="1">Art/SuikaDOM.dds</File>
+    <File md5="D83BBB8D688F206E97F9A1581ABAD51D" import="1">Art/SuikaPeace.mp3</File>
+    <File md5="E90701A7947D2EC9F92963F4D1965B2C" import="1">Art/SuikaWar.mp3</File>
+    <File md5="03E70F751250E37B6BE199B4A1B09C0F" import="1">Art/SV_Kishin.dds</File>
+    <File md5="57EAFAF959B645A1E236EE33B5EDFF40" import="1">Art/UnitArt/black_4x4.dds</File>
+    <File md5="B6B11300AFE8F5C82C875C2B1EFF55BA" import="1">Art/UnitArt/Longswordsman_Japan_gloss.dds</File>
+    <File md5="ECD82BCBCBCEA03E93E07A3DD9D295FF" import="1">Art/UnitArt/Longswordsman_Japan_v2.blend</File>
+    <File md5="314EB920A58D213BDCAAD37DC560EA21" import="1">Art/UnitArt/Longswordsman_Japan_v2.fxsxml</File>
+    <File md5="397599656BA729FA61A6B26E2FFECB31" import="1">Art/UnitArt/Longswordsman_Japan_v2.gr2</File>
+    <File md5="AF43E232901B717E88610F9352D32207" import="1">Art/UnitArt/Oni.dds</File>
+    <File md5="AF44D34225FF9342E1B1A01E318570EB" import="1">Art/UnitArt/Oni.fxsxml</File>
+    <File md5="C88E3A71B7BCB65756ED7AFC75872A9A" import="1">Art/UnitArt/Oni.gr2</File>
+    <File md5="0FD473F2B757F68AA6A96DD281DB95B6" import="1">Art/UnitArt/Orc_Mace.dds</File>
+    <File md5="A06E76438A25918797182E99833B0FBB" import="1">Art/UnitArt/Orc_Mace_sref.dds</File>
+    <File md5="25B3B7FA1D865D305D39F29C7692527A" import="1">Lua/Decisions Support/OniDecisionsNew.lua</File>
+    <File md5="F222190825276F85C1417B5D51C4E6BD" import="1">Lua/Events Support/OniEvents.lua</File>
+    <File md5="65F76E8A161265218317E7A65418BD7A" import="0">Lua/OniClansLua.lua</File>
+    <File md5="5C036E36E0C31A351962423E4ACD76A4" import="0">Lua/SuikaTerrainNames.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="459236BF3011F58E1B21E15FC11FA5C7" import="0">XML/JFD's Piety and Prestige Support/OniPietyFlavour.sql</File>
+    <File md5="97A47DF6EA1FDB2CAA0A115EA0CA2670" import="0">XML/OniBuildings.xml</File>
+    <File md5="07256672E185904AF779DA01BB2006AB" import="0">XML/OniBuildingsBNW.xml</File>
+    <File md5="E9560DBC2CD51701555A457F034322D0" import="0">XML/OniCivilization.xml</File>
+    <File md5="EB98BD816A451A10C81CC3F33E67223F" import="0">XML/OniColors.xml</File>
+    <File md5="F92A16576C64858B9EC8B509CDF41909" import="0">XML/OniDiplomacy.xml</File>
+    <File md5="510B56FFF14887338D9277ED18EB1483" import="0">XML/OniDiplomacy2.xml</File>
+    <File md5="93274274B5EC8D59BBCA8E7014E2FBE0" import="1">XML/OniFontIcons.ggxml</File>
+    <File md5="FDDC2FC97CBBB6D636917F9F3B34CC50" import="0">XML/OniGeneral.sql</File>
+    <File md5="CFF2F8CAB85AD1411FE1F0CFCAD055DA" import="0">XML/OniGeneralArtDefines.xml</File>
+    <File md5="61F6BC2D5CEB2878298AD3FE8F3E81A6" import="0">XML/OniLeader.xml</File>
+    <File md5="990D0F77AD5050DE1EB710F1C7184A75" import="0">XML/OniMusic.xml</File>
+    <File md5="F8144266C783B7D0824484A8BB105C44" import="0">XML/OniResources.xml</File>
+    <File md5="A7DDAD6F45E83B22C668803E11497E8A" import="0">XML/OniText.xml</File>
+    <File md5="C35605E55AE8F265E4AF911722589CF5" import="0">XML/OniTrait.xml</File>
+    <File md5="B129CACAA106FBC3760B86FC0851B66D" import="0">XML/OniUnits.xml</File>
+    <File md5="9880681118714D39C3A33B288D55BD99" import="0">XML/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="08B8DC161AB6B09E753DDABC5BCBFB58" import="1">XML/SuikaScene.xml</File>
+    <File md5="D88F93B946D0FE542FB7F5A069FCC966" import="0">XML/Sukritact's Decisions Support/OniDecisionsSupport.xml</File>
+    <File md5="1EA628F6B83D05574BF501F1F2F9C85D" import="0">XML/Sukritact's Decisions Support/OniDecisionsText.xml</File>
+    <File md5="7E8E74AC790E02A3F48C0CA2138506C0" import="0">XML/Sukritact's Events Support/OniEventsSupport.xml</File>
+    <File md5="858D78CFF8BF1183F93657D8818FED47" import="0">XML/Sukritact's Events Support/OniEventsText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/OniBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniBuildingsBNW.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniDiplomacy2.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniResources.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OniGeneralArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JFD's Piety and Prestige Support/OniPietyFlavour.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Decisions Support/OniDecisionsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Decisions Support/OniDecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Events Support/OniEventsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Events Support/OniEventsText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/OniClansLua.lua">
+      <Name>Oni Clans Lua</Name>
+      <Description>Oni Clans Lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/SuikaTerrainNames.lua">
+      <Name>Dynamic City Names</Name>
+      <Description>Dynamic City Names</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

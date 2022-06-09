@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-10 오전 5:25:28 -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_CJGG_KYOUKO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CJGG_KYOUKO_FIRSTGREETING</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_CJGG_KYOUKO">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CJGG_KYOUKO_POLITE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_CJGG_KYOUKO">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CJGG_KYOUKO_NEUTRAL_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_CJGG_KYOUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CJGG_KYOUKO_HOSTILE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_CJGG_KYOUKO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED%</Response>
+			<Bias>4</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_FIRSTGREETING">
+			<Text>One of Myouren Temple's precepts is "greetings are a mental oasis."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_POLITE_HELLO">
+			<Text>There will be a cherry blossom viewing at the mansion. We will enliven it with music.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_NEUTRAL_HELLO">
+			<Text>Good morning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_HOSTILE_HELLO">
+			<Text>What are you here for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED_1">
+			<Text>Beating me won't help anything, you know...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED_2">
+			<Text>I'm done fooooor! Oh, how this humble yamabiko still lacks training!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CJGG_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now eating your eels and listening to your Rock and Roll. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_FIRSTGREETING">
+			<Text>묘렌사 계율 중 하나. "인사는 마음의 오아시스"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_POLITE_HELLO">
+			<Text>펑크라는 건 말이야. 억압된 불만을 폭발시키는 거야. 영혼의 외침이라고!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_NEUTRAL_HELLO">
+			<Text>안녕하세요</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_HOSTILE_HELLO">
+			<Text>뭐 하러 온거야?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED_1">
+			<Text>나를 쓰러트려 봐야 아무 소용 없다구</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED_2">
+			<Text>당~했~다~ 불초 야마비코 수행이 부족하옵니다!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CJGG_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 당신네 장어구이를 사먹고 당신네 대중음악을 즐기고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_FIRSTGREETING">
+			<Text>命蓮寺の戒律の一つ「挨拶は心のオアシス」</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_POLITE_HELLO">
+			<Text>パンクってのはね。抑圧された不満を爆発させる物よ。魂の叫びなのよー！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_NEUTRAL_HELLO">
+			<Text>おはよーございます</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_HOSTILE_HELLO">
+			<Text>何しに来たの？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED_1">
+			<Text>私を倒しても何にもならないわよー</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_DEFEATED_2">
+			<Text>やーらーれーたー！不肖ヤマビコ、まだまだ修行が足りないわ！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CJGG_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は貴国のヤツメウナギを食べ、流行りの歌を聞いている。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

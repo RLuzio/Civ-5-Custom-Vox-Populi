@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-08 오후 9:54:43 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_DESC'>
+			<Text>Agricultural Cooperative</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_STRATEGY'>
+			<Text>An agricultural cooperative, also known as a farmers' co-op, is a cooperative where farmers pool their resources in certain areas of activity. A broad typology of agricultural cooperatives distinguishes between agricultural service cooperatives, which provide various services to their individually farming members, and agricultural production cooperatives, where production resources (land, machinery) are pooled and members farm jointly. Examples of agricultural production cooperatives include collective farms in former socialist countries, the kibbutzim in Israel, collectively governed community shared agriculture, Longo Mai co-operatives and Nicaraguan production co-operatives.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_HELP'>
+			<Text>Unique building of the Aki Sisters. Replaces the Granary. +4 Food, +2 Food from each source of wheat, bananas and deer worked by this City.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_PEDIA'>
+			<Text>The default meaning of agricultural cooperative in English is usually an agricultural service cooperative, which is the numerically dominant form in the world. There are two primary types of agricultural service cooperatives, supply cooperative and marketing cooperative. Supply cooperatives supply their members with inputs for agricultural production, including seeds, fertilizers, fuel, and machinery services. Marketing cooperatives are established by farmers to undertake transportation, packaging, distribution, and marketing of farm products (both crop and livestock). Farmers also widely rely on credit cooperatives as a source of financing for both working capital and investments.</Text>
+		</Row?>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_DESC'>
+			<Text>Agricultural Bank</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_STRATEGY'>
+			<Text>Unique building of the Aki Sisters. Replaces the Bank. +3 Gold, +2 Food and +50% gold</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_HELP'>
+			<Text>Unique building of the Aki Sisters. Replaces the Bank. +3 Gold, +2 Food and +50% gold</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_PEDIA'>
+			<Text>Farmers, especially in developing countries, can be charged relatively high interest rates by commercial banks, or even not available for farmers to access. When providing loans, these banks are often mindful of high transaction costs on small loans, or may be refused credit altogether due to lack of collateral - something very acute in developing countries. To provide a source of credit, farmers can group together funds that can be loaned out to members. Alternatively, the credit union can raise loans at better rates from commercial banks due to the cooperative having a larger associative size than an individual farmer. Often members of a credit union will provide mutual or peer-pressure guarantees for repayment of loans. In some instances, manufacturing/marketing cooperatives may have credit unions as part of their broader business. Such an approach allows farmers to have a more direct access to critical farm inputs, such as seeds and implements. The loans for these inputs are repaid when the farmer sends produce to the manufacturing/marketing cooperative.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_DESC'>
+			<Text>Farmer</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_HELP'>
+			<Text>Replaces Worker. Instantly builds farm and make improvements 20% faster.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_STRATEGY'>
+			<Text>Replaces Worker. Instantly builds farm and make improvements 20% faster.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_PEDIA'>
+			<Text>A farmer (also called an agriculturer) is a person engaged in agriculture, raising living organisms for food or raw materials. The term usually applies to people who do some combination of raising field crops, orchards, vineyards, poultry, or other livestock. A farmer might own the farmed land or might work as a laborer on land owned by others, but in advanced economies, a farmer is usually a farm owner, while employees of the farm are known as farm workers, or farmhands. However, in the not so distant past a farmer was a person who promotes or improves the growth of (a plant, crop, etc.) by labor and attention, land or crops or raises animals (as livestock or fish).</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_DESC'>
+			<Text>Tractor</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_HELP'>
+			<Text>Replaces Mechanized Infantry. It's weaker than Mechanized Infantry but can build farm and make roads.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_STRATEGY'>
+			<Text>The word tractor was taken from Latin, being the agent noun of trahere "to pull". The first recorded use of the word meaning "an engine or vehicle for pulling wagons or ploughs" occurred in 1901, displacing the earlier term "traction engine" (1859).</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_PEDIA'>
+			<Text>A tractor is an engineering vehicle specifically designed to deliver a high tractive effort (or torque) at slow speeds, for the purposes of hauling a trailer or machinery used in agriculture or construction. Most commonly, the term is used to describe a farm vehicle that provides the power and traction to mechanize agricultural tasks, especially (and originally) tillage, but nowadays a great variety of tasks. Agricultural implements may be towed behind or mounted on the tractor, and the tractor may also provide a source of power if the implement is mechanised.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_DESC'>
+			<Text>Farmers' Market</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_STRATEGY'>
+			<Text>Unique building of the Aki Sisters. Replaces the Market. +2 Golds, Foods and +25% gold and foods. +1 food and +1 gold for every food resources.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_HELP'>
+			<Text>Unique building of the Aki Sisters. Replaces the Market. +2 Golds, Foods and +25% gold and foods. +1 food and +1 gold for every food resources.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_PEDIA'>
+			<Text>A farmers' market is a physical retail marketplace intended to sell foods directly by farmers to consumers. Farmers' markets may be indoors or outdoors and typically consist of booths, tables or stands where farmers sell fruits, vegetables, meats, cheeses, and sometimes prepared foods and beverages. Farmers' markets exist in many countries worldwide and reflect the local culture and economy. The size of the market may be just a few stalls or it may be as large as several city blocks. Due to their nature, they tend to be less rigidly regulated than retail produce shops.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_DESC'>
+			<Text>농협</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_STRATEGY'>
+			<Text>농업협동조합은 대한민국에서 1961년 8월 15일 설립된 농업관련 협동조합으로 농민을 지원하기 위해 조직되었다. 전국의 농업협동조합을 하나로 묶기 위해 농업협동조합중앙회가 조직되어 있다. 슬로건은 "신토불이"이다. 농업협동조합법 제4조에 의하여 중앙회와 각 농축협은 별도의 법인이다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_HELP'>
+			<Text>곡창을 대체하는 아키 자매의 고유 건물입니다. 식량 +4, 밀, 바나나, 사슴 타일에 추가 식량 +2  (유지비 없음)</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_PEDIA'>
+			<Text>대한민국의 최대 금융기관이자 농업 진흥 및 지원목적으로 설립된 조합. 원래는 농업을 중심으로 운영되었으나 2000년 7월 옛 축산업협동조합, 인삼협동조합과 합병하면서 축산업 등도 겸하고 있다. 정식명칭은 농업협동조합중앙회 또는 농업협동조합이며 줄여서 농협이라고 많이들 부른다.[NEWLINE][NEWLINE]참고로, 한국의 농협은 2014년 기준 국제협동조합연맹(ICA)에 가입된 농업관련 협동조합중 세계 1위의 규모를 자랑하며, 이때문에 농협이사장은 ICA 당연직 이사에 자동 선출되는 나름 세계구급 협동조합이다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_DESC'>
+			<Text>농협은행</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_STRATEGY'>
+			<Text>NH농협은행은 NH농협금융지주의 계열사이자 대한민국의 농업계 특수은행으로 예금, 적금, 신용카드, 방카슈랑스 등의 금융 업무를 맡고 있다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_HELP'>
+			<Text>은행을 대체하는 아키 자매의 고유 건물입니다. 골드 +3, 식량 +2, 골드 +50%, 위대한 상인 전문가 슬롯 1개 추가</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_PEDIA'>
+			<Text>농협법 개정에 따라 농협중앙회가 신용사업 부문을 분리하여 2012년 3월 2일부터 영업을 시작한 대한민국의 특수은행. 새로 농협은행이라는 법인이 세워졌으나, SC제일은행과는 달리 바뀐 명칭이 타은행 전산상 반영이 많이 되지 않고 있다. 원래 신경분리 전에는 농협중앙회였고 농협은행이란 존재는 없었으며 정식명칭도 아니었으나, 지금은 농협은행이 공식 명칭이다. 농축협과 구분을 하는 의미도 있다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_DESC'>
+			<Text>농부</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_HELP'>
+			<Text>일꾼을 대신합니다. 농장을 바로 지을 수 있으며, 다른 시설은 20% 빨리 생산합니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_STRATEGY'>
+			<Text>인간이 사는 데 필요한 의식주 중 식은 전적으로 이분들이 없으면 해결할 수 없다. 의도 합성섬유가 나오기 전에는 이분들이 책임졌다. 주 또한 초가지붕 등으로 나름 지분이 있었으니 '농자천하지대본'이란 말이 괜히 나온 게 아님을 알 수 있다. 산업의 단계 구분 중 원재료 생산에 해당하는 1차 산업을 대표한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_PEDIA'>
+			<Text>한국표준직업분류에 의한 직업코드는 61, 정식 명칭은 '농업 숙련 종사자'. 보통 '농부'라고 지칭하는 논이나 밭에서 곡물이나 채소류 등을 재배하는 유형은 직업코드 611인 '전답작물 재배 종사자'라고 한다.[NEWLINE][NEWLINE]산업혁명 이전 상업을 천하게 보던, '경제성장'의 개념이 없던 시절에는 공무원을 제외하고 국가의 동력을 유지하는 가장 중요한 직업으로 인식되었다. 당시 농민은 국민 그 자체였다. 한중일에서 쓰이던 이른바 '사농공상', 즉 선비(일본은 무사) - 농부 - 수공업자 - 상인이라는 사회 계급 분류법만 보아도 농민이 낮지 않은 사회적 위치를 차지했음을 알 수 있다. 그래서 위에 농자천하지대본, 농업은 천하를 살아가는 사람들의 근본이라는 말이 나왔다. 아무리 높은 권력을 가져도, 아무리 잘난 이들이라도 그 사람들이 먹는 밥은 결국 농민들의 노고로 만들어지는 법인 것.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_DESC'>
+			<Text>트랙터</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_HELP'>
+			<Text>기계화보병을 대체합니다. 기계화보병보다 약하지만 도로와 농장을 만들 수 있습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_STRATEGY'>
+			<Text>높은 소류력을 천천히 전달할 목적으로 설계된 차량이며, 농업이나 건설에 쓰이는 트레일러나 기계를 끄는 것이 목적이다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_PEDIA'>
+			<Text>다양한 주변기기를 장착해 여러 작업을 수행하는 농기계로, 많은 국가에서 트랙터라고 하면 바로 이것을 의미한다. 농업 자동화에는 필수적인 장비로 특히나 미국이나 유럽 등의 큰 농장에서는 반드시 가지고 있다고 해도 좋다. 한국에서도 어지간한 마을에서 공동으로 굴리는 트랙터를 최소 몇대는 가지고 있다. 눈이 많이 오면 제설차로 쓰여 지방에선 겨울에 도심에서도 볼수있다. 크게 차륜형과 궤도형으로 분류되는데 차륜형은 우리가 흔히 보는 타이어식 트랙터이며, 궤도형은 중장비의 무한궤도처럼 궤도로 이루어져 있는 트랙터를 말한다. 궤도형 트랙터는 접지압이 작으므로 차륜형에 비해 더 거친 땅에서도 문제없이 작업할 수 있다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_DESC'>
+			<Text>농협 하나로마트</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_STRATEGY'>
+			<Text>시장을 대체하는 아키 자매의 고유 건물입니다. 골드 +2, 식량 +2, 골드 +25%, 위대한 상인 전문가 슬롯 1개 추가. 식량자원에서 금, 식량+1</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_HELP'>
+			<Text>시장을 대체하는 아키 자매의 고유 건물입니다. 골드 +2, 식량 +2, 골드 +25%, 위대한 상인 전문가 슬롯 1개 추가. 식량자원에서 금, 식량+1</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_PEDIA'>
+			<Text>농협 하나로마트는 농협에서 운영하는 할인점이다. 주로 지역농협과 농협의 계열사인 농협유통에 의해 운영된다. 일단 수익성이 낮아 대형 할인점이 들어올 수 없는 지역에서 제법 싼 가격에 물품을 배치하여 판매하고 있어 제법 편리하다. 아무래도 농협이라는 브랜드가 신뢰도도 있고 해서 애용하게 되는 점포. 국내산 농수축산물만큼은 타 마트나 슈퍼마켓에 비해 가성비나 신선도 면에서 압도적 우위다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_DESC'>
+			<Text>農協</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_STRATEGY'>
+			<Text>農業協同組合（のうぎょうきょうどうくみあい、通称：農協〈のうきょう〉）は、日本において農業者（農民又は農業を営む法人）によって組織された協同組合である。農業協同組合法に基づく法人であり、事業内容などがこの法律によって制限・規定されている。なお、全国農業協同組合中央会が組織する農協グループ（総合農協）を、愛称としてJA（ジェイエイ、Japan Agricultural Cooperativesの略）と呼ぶ。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_HELP'>
+			<Text>穀物庫を代替する秋姉妹のUBです。食料+4, 小麦, バナナ, 鹿の資源から食料+2　(維持費なし)</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_COOPERATIVE_PEDIA'>
+			<Text>戦後の農地改革の一環として、GHQは欧米型の農業協同組合（行政から独立しており、自主的に組織できる）を作ろうとした。だが、当時の食料行政は深刻な食糧難の中で、食料を統制・管理する必要があった。そのため、1948年（昭和23年）、既存の農業会を改組する形で農協が発足した[1]。その際に、「協」を図案化した円形の「農協マーク」が制定された（地方の古い農業倉庫などに「農協マーク」が残っている場合がある）。1992年4月から「農協マーク」に代わり、「JA」の名称や「JAマーク」を使い始める。このような設立の経緯から、農民の自主的運営というよりは、上意下達の組織という側面をもっている。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_DESC'>
+			<Text>JAバンク</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_STRATEGY'>
+			<Text>JAバンク（ジェイエイバンク）とは、日本において、農業協同組合（JA）および信用農業協同組合連合会（信連）の信用事業と農林中央金庫（農林中金）の対応する事業によって構成する貯金、貸付け等の金融事業の総称。農林中央金庫がいわゆる系統中央機関となる。キャッチフレーズは「日本の食と農、地域を支える JAバンク」。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_HELP'>
+			<Text>銀行を代替する秋姉妹のUBです。金+3、食+2、金+50%</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AGRICULTURAL_BANK_PEDIA'>
+			<Text>銀行における預金に相当するJA貯金を中心に、個人向けに資産運用（国債、投資信託等の取扱い）や各種ローン（住宅ローン、マイカーローン、カードローンなど）とクレジットカード（JAカード）の取扱い、農業従事者（農家）向けには運転資金や担い手支援などの事業者融資メニューが用意されているのが特徴。最近では遺言信託等の信託業務を扱っているJAもある。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_DESC'>
+			<Text>農家</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_HELP'>
+			<Text>労働者を代替します。農場が即時建設でき、ほかの施設は20%早く建設できます。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_STRATEGY'>
+			<Text>農家（のうか）とは、第一次産業である農業を家業としている世帯や、その家屋のこと。農民（のうみん）、百姓などともいう。農家の定義は、時代や地域によって変わってくる。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_FARMER_PEDIA'>
+			<Text>農家とは農業（農耕）によって生計を立てている人、あるいはその家庭・共同体のことである。狩猟採集民であった人類が農耕を発明したことで誕生し、爆発的な人口増加により増え続け、有史以来の人類の大半が農業従事者だった。現代では工業化社会へ移行し、農業が機械化され、少ない農業従事者でも耕作が行えるようになったためその数を減らしている。一般に先進国では総人口の数%に過ぎない農家が、他の人々のための食料を生産している。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_DESC'>
+			<Text>トラクター</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_HELP'>
+			<Text>機械化歩兵を代替します。機械化歩兵より弱いが道路と農場の建設ができます。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_STRATEGY'>
+			<Text>トラクター（tractor、ラテン語trahere「引く」に由来）は、それ自体で推進できないものを牽引したり、しばしば動力を供給したりする装置である。 トラクターとは被牽引車を引っ張る牽引車の事を指す。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_AKI_TRACTOR_PEDIA'>
+			<Text>古典的な農業用トラクターは、車両中央の運転席の下、わずかに後ろにある軸に二つの非常に大きな駆動輪を備え、運転席の前にエンジンが配置されており、エンジンルーム（ボンネット）の下に二つの操舵輪を備えた、単純な屋根無しの乗り物である。現在使用されている農業用トラクターの大部分は、空気入りタイヤを装着したホイールトラクターと呼ばれるタイプのものである。ホイールトラクターには後輪駆動のものと、全ての車輪を駆動させる四輪駆動のものがある。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_DESC'>
+			<Text>農産物直売所</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_STRATEGY'>
+			<Text>農産物直売所（のうさんぶつちょくばいじょ）とは、その直売所が立地する周辺の農家あるいは農業協同組合（農協、JA）などが設置した、地元の農産物を販売する施設である。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_HELP'>
+			<Text>銀行を代替する秋姉妹のUBです。金と食+2、金と食+50%。食用資源から[ICON_FOOD]+1, [ICON_GOLD]+1。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_AKI_FARMERS_MARKET_PEDIA'>
+			<Text>農産物直売所（以下「直売所」）の形態はさまざまであり、単独の農家が自分の畑や自宅に隣接させて小規模に販売する例、自動販売機を利用して販売する例（卵、米など）、また農業協同組合や複数の農家などが出資して運営する比較的規模の大きい施設や道の駅の核施設または道の駅に併設する施設などがある。農産物直売所について取り上げられる場合、農家単独の直売所よりも農協や複数農家などが設置した比較的規模の大きい施設を指す場合が多い。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

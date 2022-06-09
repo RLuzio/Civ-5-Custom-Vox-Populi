@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-10 오전 5:25:28 -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MINORIKO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_MINORIKO_FIRSTGREETING</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MINORIKO">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MINORIKO_POLITE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MINORIKO">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MINORIKO_NEUTRAL_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MINORIKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MINORIKO_HOSTILE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MINORIKO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_MINORIKO_DEFEATED</Response>
+			<Bias>4</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_FIRSTGREETING">
+			<Text>Gods always put a great deal of care into their odor. Oh, by the way, I'm the harvest god.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_POLITE_HELLO">
+			<Text>How about eating sweet potatoes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_NEUTRAL_HELLO">
+			<Text>I'm just one amongst the multitudes of gods. There are many more here just like me..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_HOSTILE_HELLO">
+			<Text>But you're a human, and humans are supposed to be afraid of youkai!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_DEFEATED">
+			<Text>Pumpkin Sweet Potato!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_AKI_SISTERS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now eating your sweet potato and agricultural products. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_FIRSTGREETING">
+			<Text>신이라면 몸에서 풍기는 향기에도 신경을 써야지. 덧붙여서 난 풍작의 신이야.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_POLITE_HELLO">
+			<Text>고구마 먹고 갈래?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_NEUTRAL_HELLO">
+			<Text>난 그냥 800만 분의 1의 신. 이 앞으로는 신들이 발에 채일 만큼 있어.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_HOSTILE_HELLO">
+			<Text>요괴한테 벌벌 떨며 행동하는 인간족 주제에.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_DEFEATED">
+			<Text>호박고구마!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_AKI_SISTERS_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 당신네 고구마와 농산물을 즐겨 먹고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_FIRSTGREETING">
+			<Text>神様たる物、身に纏う香りも気を付けないと[NEWLINE]あ、ちなみに私は豊穣の神ね</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_POLITE_HELLO">
+			<Text>芋でも食べていったら？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_NEUTRAL_HELLO">
+			<Text>私はただの八百万の一の神[NEWLINE]この先は、神様がごろごろしているんだから</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_HOSTILE_HELLO">
+			<Text>妖怪に怯えながら行動する人間の癖に</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINORIKO_DEFEATED">
+			<Text>かぼちゃいもおぉをぉおおぉぉ!!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_AKI_SISTERS_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は貴国の芋と農産物を食べている。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/28/2019 1:48:18 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SWINDLER_STEAL_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SWINDLER_LOOT_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY">
+			<Text>Stolen Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY_TEXT">
+			<Text>[ICON_GOLD] Gold is being stolen from this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY_STRATEGY">
+			<Text>-1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY_HELP">
+			<Text>-1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY">
+			<Text>Loot Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY_TEXT">
+			<Text>City is receiving [ICON_GOLD] Gold from another city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY_STRATEGY">
+			<Text>+1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY_HELP">
+			<Text>+1 [ICON_GOLD] Gold.</Text>
+		</Row>
+	</Language_en_US>
+	
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SWINDLER_STEAL_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SWINDLER_STEAL_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<GoldMaintenance>1</GoldMaintenance>
+			<Description>TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SWINDLER_STEAL_DUMMY_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_SWINDLER_LOOT_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SWINDLER_LOOT_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SWINDLER_LOOT_DUMMY_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SWINDLER_LOOT_DUMMY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Policies>
+		<Row>
+			<Type>POLICY_LOAN_SHARK_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_LOAN_SHARK_DUMMY</Description>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassYieldModifiers>
+		<Row>
+			<PolicyType>POLICY_LOAN_SHARK_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldMod>10</YieldMod>
+		</Row>
+	</Policy_BuildingClassYieldModifiers>
+</GameData>

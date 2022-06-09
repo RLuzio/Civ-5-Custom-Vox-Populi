@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/17/2014 2:08:00 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_BM_REIMU">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_BM_REIMU_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BM_REIMU">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_BM_REIMU_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BM_REIMU">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_BM_REIMU_DECLAREWAR%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

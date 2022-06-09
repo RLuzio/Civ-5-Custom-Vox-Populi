@@ -1,0 +1,280 @@
+﻿<GameData>
+	<Religions>
+		<Row>
+			<Type>RELIGION_AKISM</Type>
+			<Description>TXT_KEY_RELIGION_AKISM</Description>
+			<Civilopedia>TXT_KEY_RELIGION_AKISM_PEDIA</Civilopedia>
+			<IconAtlas>ICON_RELIGION_AKISM</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<IconString>[ICON_RELIGION_AKISM]</IconString>
+		</Row>
+	</Religions>
+<Beliefs>
+	<Row>
+		<Type>BELIEF_AUTUMN_SKY</Type>
+		<Description>TXT_KEY_BELIEF_AUTUMN_SKY</Description>
+		<ShortDescription>TXT_KEY_BELIEF_AUTUMN_SKY_SHORT</ShortDescription>
+		<Pantheon>true</Pantheon>
+	</Row>
+	<Row>
+		<Type>BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART</Type>
+		<Description>TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART</Description>
+		<ShortDescription>TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART_SHORT</ShortDescription>
+		<Founder>true</Founder>
+	</Row>
+	<Row>
+		<Type>BELIEF_OWOTOSHI_HARVESTER</Type>
+		<Description>TXT_KEY_BELIEF_OWOTOSHI_HARVESTER</Description>
+		<ShortDescription>TXT_KEY_BELIEF_OWOTOSHI_HARVESTER_SHORT</ShortDescription>
+		<Follower>true</Follower>
+	</Row>
+	<Row>
+		<Type>BELIEF_PROMISE_OF_THE_WHEAT_GOD</Type>
+		<Description>TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD</Description>
+		<ShortDescription>TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD_SHORT</ShortDescription>
+		<Follower>true</Follower>
+	</Row>
+	<Row>
+		<Type>BELIEF_WARM_COLOR_HARVEST</Type>
+		<Description>TXT_KEY_BELIEF_WARM_COLOR_HARVEST</Description>
+		<ShortDescription>TXT_KEY_BELIEF_WARM_COLOR_HARVEST_SHORT</ShortDescription>
+		<Enhancer>true</Enhancer>
+		<GreatPersonExpendedFaith>100</GreatPersonExpendedFaith>
+	</Row>
+	<Row>
+		<Type>BELIEF_SWEET_POTATO_ROOM</Type>
+		<Description>TXT_KEY_BELIEF_SWEET_POTATO_ROOM</Description>
+		<ShortDescription>TXT_KEY_BELIEF_SWEET_POTATO_ROOM_SHORT</ShortDescription>
+		<Reformation>true</Reformation>
+		<FaithPurchaseAllGreatPeople>true</FaithPurchaseAllGreatPeople>
+	</Row>
+</Beliefs>
+<Belief_ImprovementYieldChanges>
+	<Row>
+		<BeliefType>BELIEF_AUTUMN_SKY</BeliefType>
+		<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>1</Yield>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART</BeliefType>
+		<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+		<YieldType>YIELD_CULTURE</YieldType>
+		<Yield>1</Yield>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_OWOTOSHI_HARVESTER</BeliefType>
+		<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+		<YieldType>YIELD_SCIENCE</YieldType>
+		<Yield>1</Yield>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_PROMISE_OF_THE_WHEAT_GOD</BeliefType>
+		<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
+	</Row>
+</Belief_ImprovementYieldChanges>
+<Belief_BuildingClassHappiness>
+	<Row>
+		<BeliefType>BELIEF_WARM_COLOR_HARVEST</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+		<Happiness>2</Happiness>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_WARM_COLOR_HARVEST</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+		<Happiness>2</Happiness>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_WARM_COLOR_HARVEST</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+		<Happiness>2</Happiness>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+		<Happiness>4</Happiness>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+		<Happiness>4</Happiness>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_WARM_COLOR_HARVEST</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+		<Happiness>4</Happiness>
+	</Row>
+</Belief_BuildingClassHappiness>
+<Belief_BuildingClassYieldChanges>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<YieldChange>1</YieldChange>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+		<YieldType>YIELD_GOLD</YieldType>
+		<YieldChange>3</YieldChange>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<YieldChange>2</YieldChange>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+		<YieldType>YIELD_GOLD</YieldType>
+		<YieldChange>2</YieldChange>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<YieldChange>1</YieldChange>
+	</Row>
+	<Row>
+		<BeliefType>BELIEF_SWEET_POTATO_ROOM</BeliefType>
+		<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+		<YieldType>YIELD_GOLD</YieldType>
+		<YieldChange>2</YieldChange>
+	</Row>
+</Belief_BuildingClassYieldChanges>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_RELIGION_AKISM'>
+			<Text>Akism</Text>
+		</Row>
+		<Row Tag='TXT_KEY_RELIGION_AKISM_PEDIA'>
+			<Text>Although she is a goddess, she doesn't give off a very dignified air, so she isn't worshiped enough to have shrines built to her.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_SHORT'>
+			<Text>Autumn Sky</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY'>
+			<Text>+1 [ICON_FOOD] Food from Farms</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART_SHORT'>
+			<Text>Autumn Sky and Maiden's Heart</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART'>
+			<Text>+1 [ICON_CULTURE] Culture from Farms</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_OWOTOSHI_HARVESTER_SHORT'>
+			<Text>Owotoshi Harvester</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_OWOTOSHI_HARVESTER'>
+			<Text>+1 [ICON_RESEARCH] Science from Farms</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD_SHORT'>
+			<Text>Promise of the Wheat God</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD'>
+			<Text>+2 [ICON_FOOD] Foods from Farms</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_WARM_COLOR_HARVEST_SHORT'>
+			<Text>Warm Color Harvest</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_WARM_COLOR_HARVEST'>
+			<Text>Granaries and Banks provide +2 [ICON_HAPPINESS_1] Happiness in city</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_SWEET_POTATO_ROOM_SHORT'>
+			<Text>Sweet Potato Room</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_SWEET_POTATO_ROOM'>
+			<Text>Granaries and Banks provide +4 [ICON_HAPPINESS_1] Happiness in city. Granaries more provide +3 [ICON_GOLD] golds and +1 [ICON_FOOD] food. Markets more provide +2 [ICON_GOLD] and [ICON_FOOD] Banks more provide +2 [ICON_GOLD] and +3 [ICON_FOOD] foods.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_RELIGION_AKISM'>
+			<Text>무한아키교</Text>
+		</Row>
+		<Row Tag='TXT_KEY_RELIGION_AKISM_PEDIA'>
+			<Text>신이지만 위엄이 없어서 신사를 지어 신앙하는 사람은 없다. 대부분 개인적인 신앙이지만 미노리코는 많이 일하지 않아도 된다며 기뻐한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_SHORT'>
+			<Text>어텀 스카이</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY'>
+			<Text>농장에서 생산하는 [ICON_FOOD] 식량이 1만큼 증가</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART_SHORT'>
+			<Text>가을 하늘과 소녀의 마음</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART'>
+			<Text>농장에서 생산하는 [ICON_CULTURE] 문화가 1만큼 증가</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_OWOTOSHI_HARVESTER_SHORT'>
+			<Text>오오토시 하베스터</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_OWOTOSHI_HARVESTER'>
+			<Text>농장에서 생산하는 [ICON_RESEARCH] 과학이 1만큼 증가</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD_SHORT'>
+			<Text>곡물신의 약속</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD'>
+			<Text>농장에서 생산하는 [ICON_FOOD] 식량이 2만큼 증가</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_WARM_COLOR_HARVEST_SHORT'>
+			<Text>웜 컬러 하베스트</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_WARM_COLOR_HARVEST'>
+			<Text>곡창, 은행 하나당 도시의 [ICON_HAPPINESS_1] 행복이 2만큼 증가</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_SWEET_POTATO_ROOM_SHORT'>
+			<Text>스위트 포테이토 룸</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_SWEET_POTATO_ROOM'>
+			<Text>곡창, 은행 하나당 도시의 [ICON_HAPPINESS_1] 행복이 4만큼 증가. 곡창의 [ICON_GOLD] 금이 3만큼, [ICON_FOOD] 식량이 1만큼 증가. 시장의 [ICON_GOLD] 금과 [ICON_FOOD] 식량이 2만큼, 은행의 [ICON_GOLD] 금이 2만큼, [ICON_FOOD] 식량이 3만큼 증가합니다. </Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_RELIGION_AKISM'>
+			<Text>秋姉妹教</Text>
+		</Row>
+		<Row Tag='TXT_KEY_RELIGION_AKISM_PEDIA'>
+			<Text>神様だが余り威厳が無いので、神社を建ててまで信仰されるような事は無い。殆どが個人的な信仰ばかりだが、彼女は仕事量が少なく済むと喜んでいるようだ。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_SHORT'>
+			<Text>オータムスカイ</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY'>
+			<Text>農場から生産する[ICON_FOOD]食糧+１</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART_SHORT'>
+			<Text>秋の空と乙女の心</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_AUTUMN_SKY_AND_MAIDENS_HEART'>
+			<Text>農場から生産する[ICON_CULTURE]文化+１</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_OWOTOSHI_HARVESTER_SHORT'>
+			<Text>オヲトシハーベスター</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_OWOTOSHI_HARVESTER'>
+			<Text>農場から生産する[ICON_RESEARCH]科学+１</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD_SHORT'>
+			<Text>穀物神の約束</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_PROMISE_OF_THE_WHEAT_GOD'>
+			<Text>農場から生産する[ICON_FOOD]食糧+２</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_WARM_COLOR_HARVEST_SHORT'>
+			<Text>ウォームカラーハーヴェスト</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_WARM_COLOR_HARVEST'>
+			<Text>穀物庫、市場、銀行ひとつづつ都市の[ICON_HAPPINESS_1]幸福が2増加</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_SWEET_POTATO_ROOM_SHORT'>
+			<Text>スイートポテトルーム</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BELIEF_SWEET_POTATO_ROOM'>
+			<Text>穀物庫、市場、銀行ひとつづつ都市の[ICON_HAPPINESS_1]幸福が4増加。穀物庫の[ICON_GOLD]+３、[ICON_FOOD]+１。市場の[ICON_GOLD]と[ICON_FOOD]+2、銀行の[ICON_GOLD]+２、[ICON_FOOD]+３</Text>
+		</Row>
+	</Language_ja_JP>
+	</GameData>

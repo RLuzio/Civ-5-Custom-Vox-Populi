@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="160534e0-ced7-4c90-b974-e52ee17dc29e" version="1">
+  <Properties>
+    <Name>Touhou - Momoyo's Mining Co.</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>mine is mine. yours is mine too</Teaser>
+    <Description>The giant centipede.
+A youkai that's despised for various reasons, such as its grotesque form and unpleasant toxins.
+Even massive dragons don't dare approach them. In the foothills, they're feared as the most powerful of the dragon-slaying youkai.
+
+UA: Capable of eating dragons
++2 Production from mine and Iron, Coal, Aluminum and Uranium Resources provide 2.5 time quantity.
+
+UU: Miner
+Replaces Worker. They are can build mines ASAP.
+
+UB: Centipede's Workshop
+Replaces Workshop. Makes miners' work faster.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice), KOCOAL</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="unique culture" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9AFAEC2B55FDAE7312C1AA190B6FBAA5" import="1">ART/OOMUKADE_Alpha128.dds</File>
+    <File md5="4F8DB03BB869E4D59354735B2C7B5BB6" import="1">ART/OOMUKADE_Alpha16.dds</File>
+    <File md5="F0C75571DDAD393FC46CF54D0F7A8F09" import="1">ART/OOMUKADE_Alpha24.dds</File>
+    <File md5="5BF514055460DF5BB030C0EE32807F20" import="1">ART/OOMUKADE_Alpha32.dds</File>
+    <File md5="654549DE480D06205507D03577386782" import="1">ART/OOMUKADE_Alpha48.dds</File>
+    <File md5="74D0D8144826383E8C8A8791606D0307" import="1">ART/OOMUKADE_Alpha64.dds</File>
+    <File md5="167AAE0D0938F7910AAA39DDE48769F5" import="1">ART/OOMUKADE_Atlas128.dds</File>
+    <File md5="EB54EF358E844C0B85D1ACD73A0CBF30" import="1">ART/OOMUKADE_Atlas256.dds</File>
+    <File md5="C4E81FC9F1F5DA1DBB1AF3290912F35E" import="1">ART/OOMUKADE_Atlas32.dds</File>
+    <File md5="8230E6FC2588581BC9CBFD8DD9DDE782" import="1">ART/OOMUKADE_Atlas45.dds</File>
+    <File md5="62914A64AE465726EDA846C61D89DEC1" import="1">ART/OOMUKADE_Atlas64.dds</File>
+    <File md5="667CC8B7C223589C615CBE59B1762488" import="1">ART/OOMUKADE_Atlas80.dds</File>
+    <File md5="16B833FBF279BF4E903CFAA43B4FCA68" import="1">ART/OOMUKADE_DOM.dds</File>
+    <File md5="5E61A0D12BADF42096199B5DAB98D7E2" import="1">ART/OOMUKADE_Map.dds</File>
+    <File md5="A25A1F1919D108865652E193405EABEF" import="1">ART/OOMUKADE_Scene.dds</File>
+    <File md5="A1AF0DCF2D5322AF679A2EEA2E530392" import="1">ART/OOMUKADE_Scene.xml</File>
+    <File md5="6C4F8E9A4FADB2DB7E9CD4B19D782430" import="1">MUSIC/OOMUKADE_Peace3.mp3</File>
+    <File md5="519BEE37C6E03E3F94169C0E10752ABB" import="1">MUSIC/OOMUKADE_War1.mp3</File>
+    <File md5="DFA3F5529BD2CB541992595B042104C4" import="1">MUSIC/OOMUKADE_Peace2.mp3</File>
+    <File md5="504D8976764585BECEEBBDBBB03135BB" import="1">MUSIC/OOMUKADE_Peace1.mp3</File>
+    <File md5="4342BEF63A4748AE55355AF52EE8E383" import="1">MUSIC/OOMUKADE_DOM.mp3</File>
+    <File md5="08FE03BEC551C9D96B887E4E75D0C628" import="1">MUSIC/OOMUKADE_War2.mp3</File>
+    <File md5="8D0FEAA912F198634F51081B112B2D21" import="1">MUSIC/OOMUKADE_Peace4.mp3</File>
+    <File md5="89E29CD93273C5530BE3D8DD792D3F45" import="1">MUSIC/OOMUKADE_Peace5.mp3</File>
+    <File md5="D1180C54F83B7D046C38CD33E1B745B9" import="1">MUSIC/OOMUKADE_Peace6.mp3</File>
+    <File md5="EB5BE149121658C431AEB502855B7EF7" import="1">MUSIC/OOMUKADE_War.mp3</File>
+    <File md5="45DF41D392CFDBB1BC1BCA99D89A3917" import="1">MUSIC/OOMUKADE_Peace.mp3</File>
+    <File md5="E40C3F5DABDF84CB28BD2CAAC368F7A5" import="0">XML/OOMUKADE_Civ4.xml</File>
+    <File md5="0C184FACFAD8B596C636CCEB1FE09C00" import="0">XML/OOMUKADE_Building.xml</File>
+    <File md5="60990329F3800514799F898C6AB09B1A" import="0">XML/OOMUKADE_Civ4.sql</File>
+    <File md5="7D38A1E5C0E209BEE7EAB6F7CD14469E" import="0">XML/OOMUKADE_Civilization.xml</File>
+    <File md5="5D239C02F1F81ADA1B7D57E7BADD62AE" import="0">XML/OOMUKADE_Diplomacy.xml</File>
+    <File md5="7692CFD321DD9AC80DF3D0340E2DE946" import="0">XML/OOMUKADE_Icon.xml</File>
+    <File md5="03621666EF9E7F55C6387445E085F51E" import="0">XML/OOMUKADE_Leader.xml</File>
+    <File md5="A08C8805A35DC3D37B6E0933E51736FA" import="0">XML/OOMUKADE_Music.xml</File>
+    <File md5="691442CA9D95ED652F387DB1B23F846F" import="0">XML/OOMUKADE_Music_SD.xml</File>
+    <File md5="8C05F886F88360B77A54F83E1B9EC7B9" import="0">XML/OOMUKADE_Trait.xml</File>
+    <File md5="F6D2DC30A696A87CC9FDE982EE177A9F" import="0">XML/OOMUKADE_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/OOMUKADE_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/OOMUKADE_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="96e0a6a7-7002-4a11-b4a2-405aea8d4452" version="3">
+  <Properties>
+    <Name>Aran's Alice Civ</Name>
+    <Teaser>Adds the Unified Doll Front civilization to the game, led by Alice Margatroid.</Teaser>
+    <Description>Extracted from my Touhou Civ Pack.  A new civ that tries to be interesting and fun to play as, using Touhou characters.
+
+v3.0.11</Description>
+    <Authors>aranicar</Authors>
+    <SpecialThanks>iCeFrEnZy</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>3</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="544F8DFB9F5E7A9675741A2B4F12D8C6" import="1">Art/AliceDiplo.dds</File>
+    <File md5="23E926E5D792C3D9F0951B074BEB93DF" import="1">Art/AliceDOM.dds</File>
+    <File md5="CA5F96FCB0E96E790984843138BE69D4" import="1">Art/AliceMap.dds</File>
+    <File md5="2AFFE2A7E56AA4818B9B0242575BA419" import="1">Art/IconAtlas/DollAlphaAtlas16.dds</File>
+    <File md5="43D7A3B84F430476F6AFFFD29E7CE149" import="1">Art/IconAtlas/DollAlphaAtlas24.dds</File>
+    <File md5="1C6D4D9D345D5D9DDC1CCC1B267CD26B" import="1">Art/IconAtlas/DollAlphaAtlas32.dds</File>
+    <File md5="888B8FD877E678BBB81C4EF85B5E6DF4" import="1">Art/IconAtlas/DollAtlas128.dds</File>
+    <File md5="96565464AE382E778762048E94C4751B" import="1">Art/IconAtlas/DollAtlas256.dds</File>
+    <File md5="DF2F06178E778995F683E6996E529ADC" import="1">Art/IconAtlas/DollAtlas32.dds</File>
+    <File md5="458B523F485A957FC89AAC44456B5D18" import="1">Art/IconAtlas/DollAtlas45.dds</File>
+    <File md5="EFA5379F64FA42D453CB2EDFD067CCE8" import="1">Art/IconAtlas/DollAtlas64.dds</File>
+    <File md5="DABF31DD353CCB07ABDB17C25E6B4D21" import="1">Art/IconAtlas/DollAtlas80.dds</File>
+    <File md5="05A19B434AC5625A18BB7EDAAF86DAB3" import="1">Art/IconAtlas/SV_Dollhouse.dds</File>
+    <File md5="64C8204478EA74D0C6FDD3F12E8B3E46" import="0">Lua/CIV_Doll_Code.lua</File>
+    <File md5="0D484E01FB446CD338A5A023E2B9F78D" import="1">Music/AliceEither1.mp3</File>
+    <File md5="F4836DDBED2BE15C5BFE1903F9C2451D" import="1">Music/AlicePeace1.mp3</File>
+    <File md5="E619FABD6F2109B149FF69ADA2848C9F" import="1">Music/AlicePeace2.mp3</File>
+    <File md5="E9FA8D9C5E450A9D3EE65A9C9DFBA6B1" import="1">Music/AlicePeace3.mp3</File>
+    <File md5="2B1C935915578C79742C0672617F449C" import="1">Music/AliceWar1.mp3</File>
+    <File md5="6F1AC43136A13989BDFDB44600130CB8" import="1">Music/AliceWar2.mp3</File>
+    <File md5="4E6B6F1225FF2DC0FCB14E468BD513FB" import="1">Music/AliceWar3.mp3</File>
+    <File md5="9D7D9144B2E4D4FF82F65597DBE1FE2C" import="0">SQL/CIV_Doll_ArtDefines.sql</File>
+    <File md5="E0AE542D98D684AF6EFD09D0F4AD8684" import="0">SQL/CIV_Doll_Improvement.sql</File>
+    <File md5="68B1FE7D39976A11448589CDC69349DC" import="0">SQL/CIV_Doll_Policies.sql</File>
+    <File md5="B93E82B8A01F437504864A6F75155B3B" import="0">XML/Alice_Music.xml</File>
+    <File md5="F0CCE78656EB32F4351A62D2A0C8611C" import="1">XML/Alice_Scene.xml</File>
+    <File md5="843B0C8FEC834F2BE29E2A44A7E74A45" import="0">XML/CIV_Doll.xml</File>
+    <File md5="DFE611ACAD083945C437D04001EEEF59" import="0">XML/CIV_Doll_Buildings.xml</File>
+    <File md5="B8D983D415E12E5BB1E07546C7ACE6BC" import="0">XML/CIV_Doll_Colors.xml</File>
+    <File md5="8EBB99FAF896B86560ACC4DACF6FCF73" import="0">XML/CIV_Alice_Diplomacy.xml</File>
+    <File md5="1F8FAD3DA6385FD88CB8C90A30AEFCAD" import="0">XML/CIV_Doll_PlayerColors.xml</File>
+    <File md5="EA61E371E169C853D67A65015D8C8C59" import="0">XML/CIV_Doll_Trait.xml</File>
+    <File md5="CFEF9AC41911677F7899173B3DB7B94F" import="0">XML/CIV_Leader_Alice.xml</File>
+    <File md5="2BDE9838CDF809F2A12B0A8F41CF8F17" import="0">XML/Doll_AudioDefines.xml</File>
+    <File md5="6DFEE3B8D5411AE974CC416E65E94EB4" import="0">XML/Doll_AudioScripts.xml</File>
+    <File md5="7AF7E2224B4184A4FA2F2B28755E4F87" import="0">XML/GameText_AliceDiplo.xml</File>
+    <File md5="CFE8C3DBD23356C9DA82EB73AE6DABD6" import="0">XML/GameText_Doll.xml</File>
+    <File md5="AEEEF4CDA2F6561FCB0207071D89585E" import="0">XML/Icon_Atlas_Doll.xml</File>
+    <File md5="310B4656D5532B157FA3FB96D8B9D9E3" import="0">XML/UnitPromotions_Doll.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Alice_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Doll.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Doll_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Doll_Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Alice_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/CIV_Doll_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CIV_Doll_Improvement.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Doll_PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/CIV_Doll_Policies.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Doll_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CIV_Leader_Alice.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText_Doll.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText_AliceDiplo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icon_Atlas_Doll.xml</UpdateDatabase>
+      <UpdateDatabase>XML/UnitPromotions_Doll.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Doll_AudioDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Doll_AudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Alice_Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CIV_Doll_Code.lua">
+      <Name>Doll Code</Name>
+      <Description>Lua that enables Doll Improvement Functionality</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

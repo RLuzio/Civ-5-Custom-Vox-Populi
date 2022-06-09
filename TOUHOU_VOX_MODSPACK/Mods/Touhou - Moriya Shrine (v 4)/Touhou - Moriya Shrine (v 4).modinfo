@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="06486ac0-f40c-4b66-a8e9-bce44e718db4" version="4">
+  <Properties>
+    <Name>Touhou - Moriya Shrine</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Moriya Shrine from the Touhou games as a civilization</Teaser>
+    <Description>Adds the Moriya Shrine from the Touhou games as a civilization</Description>
+    <Authors>BouncyMischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BF618EA308718AB3D97152A591B516ED" import="1">Art/KanakoDiplo.dds</File>
+    <File md5="4E0F03187664F87B3C48C3B0F18B1A70" import="1">Art/KanakoDOM.dds</File>
+    <File md5="2EE63C43B021AF64EE3EFA4140C4EDB4" import="1">Art/KanakoPeace.mp3</File>
+    <File md5="2CF381FB32EA3F1ADB0D60334CF8E507" import="1">Art/KanakoWar.mp3</File>
+    <File md5="3EDA11417835F30126E71A0120E7A477" import="1">Art/MoriyaAlphaAtlas16.dds</File>
+    <File md5="00F5E69CD0589B58A2DB785993A9DAF3" import="1">Art/MoriyaAlphaAtlas24.dds</File>
+    <File md5="BF981E22EF6A4C9E13B3A4B0805B4261" import="1">Art/MoriyaAlphaAtlas32.dds</File>
+    <File md5="60063A904D9B26D5C2D22B20AF202B26" import="1">Art/MoriyaAlphaAtlas48.dds</File>
+    <File md5="ED77A8A770119BE18703A0889925D6B0" import="1">Art/MoriyaAlphaAtlas64.dds</File>
+    <File md5="7860524578A52E26160CA0A762141CC9" import="1">Art/MoriyaIconAtlas128.dds</File>
+    <File md5="BA6BCE0A93E7A2DD133DB8F010A61639" import="1">Art/MoriyaIconAtlas256.dds</File>
+    <File md5="48C10EBC1B84A987FFBA18F70A2BDEFA" import="1">Art/MoriyaIconAtlas32.dds</File>
+    <File md5="4E75AC47FE5F1248CC0389453B0F2731" import="1">Art/MoriyaIconAtlas45.dds</File>
+    <File md5="C9747D2942BE553F6A3800AC15B2D187" import="1">Art/MoriyaIconAtlas64.dds</File>
+    <File md5="B4E4C2F791024D77B4ACDA168B8718BA" import="1">Art/MoriyaIconAtlas80.dds</File>
+    <File md5="3FB1239F5B03B06FF90BEB6D2ED578CE" import="1">Art/MoriyaMap.dds</File>
+    <File md5="A3F585E474EC3539CA66824C3DF86009" import="0">Art/MoriyaShrineCredits.rtf</File>
+    <File md5="6C887C71665C90D9B727F1478E9E5476" import="1">Art/MoriyaUnitIcons.dds</File>
+    <File md5="40436005B745B4C62FDDBBE74B9DBF1D" import="1">Art/UnitArt/Longswordsman_Mongol.blend</File>
+    <File md5="C627E588B87462B45FCA54E1911EB127" import="1">Art/UnitArt/Longswordsman_Mongol.dds</File>
+    <File md5="3B1FF9E96456FCD688067BF6A74BEE81" import="1">Art/UnitArt/Longswordsman_Mongol.fxsxml</File>
+    <File md5="E5ACD1A838D1699C58CF814F98196330" import="1">Art/UnitArt/Longswordsman_Mongol.gr2</File>
+    <File md5="D7C54ED54606183390867D8B50CA69B9" import="1">Art/UnitArt/Longswordsman_Mongol_gloss.dds</File>
+    <File md5="2939353C9313BCD04D2A4E82342525A5" import="1">Lua/Decisions Support/MoriyaDecisions.lua</File>
+    <File md5="FF45C5CE4C33A7DBC0E55B87DB6BC652" import="1">Lua/Events Support/MoriyaEvents.lua</File>
+    <File md5="A626F22DD1912917431DAA89C31FF718" import="0">Lua/MoriyaLua.lua</File>
+    <File md5="B68E782B744AA46440A412DDBCBFA5CE" import="0">XML/JFD's Piety and Prestige Support/MoriyaPietyFlavour.sql</File>
+    <File md5="BBA86CBCC71103446945B72AEA1F78DA" import="1">XML/KanakoScene.xml</File>
+    <File md5="605587D18C31DCB0EA4DD4087B8395A2" import="0">XML/MoriyaBuildingsUpdate.xml</File>
+    <File md5="67FAC6F8D7E57C6E0AD523AF3270A46D" import="0">XML/MoriyaColors.xml</File>
+    <File md5="F1BABAE03E7FA378793C4E2E59975D88" import="0">XML/MoriyaBuildings.xml</File>
+    <File md5="EE88322B758ADF101DFB9A97D3F362A9" import="0">XML/MoriyaCivilization.xml</File>
+    <File md5="33F4D343BFBE9141149969806FB77E51" import="0">XML/MoriyaDiplomacy.xml</File>
+    <File md5="3415DFE0A9E47C37E15C79F3674A4974" import="0">XML/MoriyaLeader.xml</File>
+    <File md5="AFA0DCEA46AD0AF1C60923365C0EA202" import="0">XML/MoriyaMusic.xml</File>
+    <File md5="5CB31203373FC5CC28935FD703B03869" import="0">XML/MoriyaText.xml</File>
+    <File md5="3BE1D172E89C1DAB8E5CBEF29C95C18B" import="0">XML/MoriyaTrait.xml</File>
+    <File md5="5EF311C0E3FD55E30BF942BA94AA1FC1" import="0">XML/MoriyaUnits.xml</File>
+    <File md5="E7BF2CD6151B881B20196FBBD89ABD73" import="0">XML/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="E5032416794F0F24A0984C14C1332A7C" import="0">XML/Sukritact's Decisions Support/MoriyaDecisionsSupport.xml</File>
+    <File md5="DA7E1BACDE15E43EDA7BA54C7E5593DA" import="0">XML/Sukritact's Decisions Support/MoriyaDecisionsText.xml</File>
+    <File md5="296E54734EF36F949C0AD4C150F502F0" import="0">XML/Sukritact's Events Support/MoriyaEventsSupport.xml</File>
+    <File md5="248A6742636A7108FB00E1D9B1F98722" import="0">XML/Sukritact's Events Support/MoriyaEventsText.xml</File>
+    <File md5="DDB72D77738F48B702DBE31A9F97B009" import="0">XML/YamatoSwordsman.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/MoriyaBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaBuildingsUpdate.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/YamatoSwordsman.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MoriyaDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JFD's Piety and Prestige Support/MoriyaPietyFlavour.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Decisions Support/MoriyaDecisionsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Decisions Support/MoriyaDecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Events Support/MoriyaEventsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sukritact's Events Support/MoriyaEventsText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MoriyaLua.lua">
+      <Name>Moriya Lua</Name>
+      <Description>Moriya Civ Lua Code</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

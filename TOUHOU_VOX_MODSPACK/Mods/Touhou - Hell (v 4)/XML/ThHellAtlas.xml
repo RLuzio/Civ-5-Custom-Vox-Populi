@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	-<IconTextureAtlases>
+		-<Row>
+			<Atlas>TH_HELL_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ThHellAtlas256.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ThHellAtlas128.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ThHellAtlas80.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ThHellAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ThHellAtlas45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>ThHellAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ALPHA_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ThHellAlphaAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ALPHA_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>ThHellAlphaAtlas48.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>TH_HELL_ALPHA_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>ThHellAlphaAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>-<Row>
+			<Atlas>TH_HELL_ALPHA_ATLAS</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>ThHellAlphaAtlas24.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>-<Row>
+			<Atlas>TH_HELL_ALPHA_ATLAS</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>ThHellAlphaAtlas16.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-02 오후 1:10:08 -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_SCIENTIST</Class>
+			<Type>UNIT_HIEDA_ARCHIVIST</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Capture>UNITCLASS_SCIENTIST</Capture>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_SCIENTIST</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ARCHIVIST_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_ARCHIVIST_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ARCHIVIST_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_ARCHIVIST_HELP</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<NumFreeTechs>1</NumFreeTechs>
+			<FreePolicies>1</FreePolicies>
+			<BaseCultureTurnsToCount>9</BaseCultureTurnsToCount>
+			<UnitArtInfo>ART_DEF_UNIT_HIEDA_ARCHIVIST</UnitArtInfo>
+			<UnitFlagAtlas>HIEDA_ARCHIVIST_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>AQ_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_HIEDA_ARCHIVIST</UnitType>
+			<UnitAIType>UNITAI_SCIENTIST</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_HIEDA_ARCHIVIST</UnitType>
+			<BuildType>BUILD_ACADEMY</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_HIEDA_ARCHIVIST</UnitType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+</GameData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-27 오후 2:57:17 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_CIV_IV">
+			<Text>Saki Kurokoma [ICON_WAR][ICON_CITY_STATE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_CIV_IV">
+			<Text>쿠로코마 사키 [ICON_WAR][ICON_CITY_STATE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_CIV_IV">
+			<Text>驪駒早鬼 [ICON_WAR][ICON_CITY_STATE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ja_JP>
+</GameData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:42:48 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_ARCHAEOLOGIST</Class>
+			<Type>UNIT_MASQUERADE_MENREIKI</Type>
+			<PrereqTech>TECH_ARCHAEOLOGY</PrereqTech>
+			<Cost>175</Cost>
+			<FaithCost>350</FaithCost>
+			<RequiresFaithPurchaseEnabled>false</RequiresFaithPurchaseEnabled>
+			<Moves>5</Moves>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<Capture>UNITCLASS_ARCHAEOLOGIST</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ARCHAEOLOGIST</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MASQUERADE_MENREIKI</Description>
+			<Civilopedia>TXT_KEY_UNIT_MASQUERADE_MENREIKI_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MASQUERADE_MENREIKI_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_MASQUERADE_MENREIKI_HELP</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>125</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_ARCHAEOLOGIST</UnitArtInfo>
+			<UnitArtInfoEraVariation>true</UnitArtInfoEraVariation>
+			<UnitFlagAtlas>MASQUERADE_ALPHA_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>MASQUERADE_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<UnitAIType>UNITAI_ARCHAEOLOGIST</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<BuildType>BUILD_ARCHAEOLOGY_DIG</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<BuildType>BUILD_LANDMARK</BuildType>
+		</Row>
+	</Unit_Builds>
+	
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<PromotionType>PROMOTION_RIVAL_TERRITORY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+	<Unit_BuildingClassRequireds>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+		</Row>
+	</Unit_BuildingClassRequireds>
+	
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_MASQUERADE_MENREIKI</UnitType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+	</Unit_Flavors>
+</GameData>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/7/2015 2:28:27 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Civilization-->
+
+		<Row Tag="TXT_KEY_KOBITO_SHORT_DESC">
+			<Text>Kobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_DESC">
+			<Text>Kobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_ADJECTIVE">
+			<Text>Kobito</Text>
+		</Row>
+
+		<!-- Trait-->
+		
+		<Row Tag="TXT_KEY_TRAIT_MIRACLE_MALLET_SHORT">
+			<Text>Power of the Miracle Mallet</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_MIRACLE_MALLET">
+			<Text>
+				Receive a special bonus to choose either a free Social Policy, free Technology, or a free Great Person when you advance to a new era. The bonus that was chosen at the previous era can't be selected.
+			</Text>
+		</Row>
+
+		<!-- Civilization Pedia-->
+
+		<Row Tag="TXT_KEY_CIV5_KOBITO_DOM_TEXT">
+			<Text>
+				[NEWLINE] Greetings, Princess Shinmyoumaru Sukuna, the descendant of Kobito. Despite the fact that you are a tiny, tiny Dwarf, you have the blood of Issun-Boushi, who defeated an Oni on his own. You tried to turn Gensokyo upside down so that the weak, like Kobito or tools, are no longer ignored or oppressed by strong people. With the power of your treasure, the “Miracle Mallet“, which can grant the wishes of the wielder, you planned to overthrow society. The mallet re-summoned the Shining Needle Castle and also magically empowered the tools. Although your plan was eventually foiled by a human, your strong will was successfully proven to everyone in Gensokyo.[NEWLINE][NEWLINE]Princess Shinmyoumaru, the people of Kobito want you to come back. They believe only you can lead them to a great world where no one suffers under other, stronger powers. Will you respond to their call? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_TITLE">
+			<Text>Kobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_HEADING_1">
+			<Text>Miracle Mallet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_TEXT_1">
+			<Text>Miracle Mallet is a legendary artifact from the tale of Issun-boushi, a small hammer with the power to change an object's size. The diminutive protagonist steals the mallet from an oni, using its power to grow to the size of a normal human. The mallet's powers function only for members of Issun-bōshi's race, the Kobito, with its primary wielder being Shinmyoumaru Sukuna. it can grant the wishes of the wielder, but at a cost proportional to the scale of the wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_HEADING_2">
+			<Text>Shining Needle Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KOBITO_TEXT_2">
+			<Text>The Shining Needle Castle (Kishinjou) is a castle that's located in the sky near the base of Youkai Mountain. After Issun-Boushi's story, He thought that since the Miracle Mallet was an oni's tool, using it recklessly would cause his own ruin. Several generations later, this particular mindset was all but gone in the minds of most Kobitos. One of his descendants decided to use it again in order to live in luxury, thus breaking the taboo. However, the descendant wished for a grand castle and to rule over the Kobito people. In that moment, the Shining Needle Castle appeared, and the Mallet's power ran out. Shortly after, the price of using the Mallet's power manifested itself: the entire castle turned upside-down, and they presumably descended into Gensokyo afterwards and joined the oni, also leading to the eventual forgetting of the Kobitos by those living in the outside world. Afterwards, the Mallet was never spoken of again.</Text>
+		</Row>
+
+		<!-- City name -->
+
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_01">
+			<Text>Shining Needle Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_02">
+			<Text>Lilliput</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_03">
+			<Text>Blefuscu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_04">
+			<Text>Laputa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_05">
+			<Text>Brobdingnag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_06">
+			<Text>Balnibarbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_07">
+			<Text>Luggnagg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_08">
+			<Text>Glubbdubdrib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_09">
+			<Text>Zipangu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_10">
+			<Text>Wall of Issun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_11">
+			<Text>Tai Gong Wang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_12">
+			<Text>Gnome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_13">
+			<Text>Seongnam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOBITO_14">
+			<Text>Hop-o'-My-Thumb</Text>
+		</Row>
+
+		<!-- Spy Name -->
+
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_0">
+			<Text>Seija Kijin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_1">
+			<Text>Wakasagihime</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_2">
+			<Text>Kagerou Imaizumi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_3">
+			<Text>Sekibanki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_4">
+			<Text>Benben Tsukumo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_5">
+			<Text>Yatsuhashi Tsukumo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_6">
+			<Text>Raiko Horikawa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOBITO_7">
+			<Text>Issunboshi</Text>
+		</Row>
+
+
+		<!-- Leader -->
+
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU">
+			<Text>Shinmyoumaru Sukuna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_LIVED">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_NAME">
+			<Text>Shinmyoumaru Sukuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_SUBTITLE">
+			<Text>Kobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TITLES_1">
+			<Text>Princess of Kobito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_HEADING_1">
+			<Text>Double Dealing Character</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TEXT_1">
+			<Text>
+				Before the main events of Double Dealing Character, Shinmyoumaru was a normal kobito living in the Shining Needle Palace, unaware as to the history of the kobito race, as well as to the Miracle Mallet. However, Seija Kijin eventually approached her with the Mallet she had found, and asked her to use it. By falsifying the history of the kobito and placing the blame for the race's destruction on powerful youkai, Seija was able to convince her to rally to her side, and to use the Mallet for what is ultimately Seija's own ambition.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_HEADING_2">
+			<Text>Impossible Spell Card</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINMYOUMARU_TEXT_2">
+			<Text>
+				Later on when Seija has strong humans and youkai trying to capture her thank to the tengu's newspaper, Shinmyoumaru confronts her and declares that she should return the remainder of the Mallet's magic and that they've lost the war. Seija believing that using her cheaty magic to concur Gensokyo, Shinmyoumaru states that they ought to surrender because she has had enough. Since Seija goes against her will, she goes against Seija and gets others to capture her, becoming one of the many to try and stop Seija. She uses spell cards that are considered impossible to dodge.
+			</Text>
+		</Row>
+		
+		<!-- Unit -->
+
+		<Row Tag="TXT_KEY_UNIT_STINGING_SWORDSMAN">
+			<Text>Stinging Swordsman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STINGING_SWORDSMAN_HELP">
+			<Text>Only Kobito may build it. This unit doesn't require [ICON_RES_IRON]Iron to build. Gain +1 Base Combat Strength per 2 [ICON_CITIZEN]Citizens in [ICON_CAPITAL]Capital, up to +7 at friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_STINGING_SWORDSMAN_STRATEGY">
+			<Text>Stinging Swordsman is unique unit for Kobito, replacing the Swordsman. Unlike Swordsman, it doesn't possess [ICON_RES_IRON]Iron resource to build. And he can get additional combat strength from Capital's population!</Text>
+		</Row>
+
+		<!-- Building -->
+
+		<Row Tag="TXT_KEY_BUILDING_INVERTED_CASTLE">
+			<Text>Inverted Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVERTED_CASTLE_HELP">
+			<Text>
+				+2 [ICON_TOURISM]Toursim and +3 [ICON_CULTURE]Culture after Architecture has been researched. +25% [ICON_PRODUCTION]Production when building Air Units. Air unit based in city heals 5 health per turn.[NEWLINE][NEWLINE]City must have walls.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INVERTED_CASTLE_STRATEGY">
+			<Text>The Inverted Castle is Kobito's unique building, replacing the Castle. It gives you [ICON_CULTURE]culture. And when you finish Architecture research, you can get +2 [ICON_TOURISM]Toursim from it.</Text>
+		</Row>
+
+		<!-- Promotion -->
+
+		<Row Tag="TXT_KEY_PROMOTION_GROW_BIGGER">
+			<Text>Grow Bigger!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GROW_BIGGER_HELP">
+			<Text>+1 Base Combat Strength per 2 Citizens in Capital (up to +8) in friendly territory</Text>
+		</Row>
+
+		<!-- UI -->
+
+		<Row Tag="TXT_KEY_KOBITO_BONUS_01">
+			<Text>[COLOR_POSITIVE_TEXT]Free Social Policy[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_BONUS_02">
+			<Text>[COLOR_POSITIVE_TEXT]Free Technology[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_BONUS_03">
+			<Text>[COLOR_POSITIVE_TEXT]Free Great People[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE">
+			<Text>[COLOR_YELLOW]Special Bonus[/COLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE_DESC">
+			<Text>Miracle Mallet's magical power is completely returned!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSE_KOBITO_BONUS_TITLE_DESC_2">
+			<Text>Select special bonus you want.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_CANNOT_SELECT_BONUS">
+			<Text>You can't choose this bonus because it was already chosen at previous era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_SELECT_BONUS_TOOLTIP">
+			<Text>You can choose {1_v} bonus!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KOBITO_SELECT_BONUS_TOOLTIP_INFO">
+			<Text>The bonus can't be chosen consecutively. If you choose this bonus, You will not be able to choose this bonus again at {1_eraname}.</Text>
+		</Row>
+		
+		<!-- Diplomacy -->
+
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU_FIRSTGREETING_1">
+			<Text>Welcome to my castle! I'm Shinmyoumaru, descendant of Kobito. But don't underestimate me just because I'm small... or you'll be in big trouble!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU_DEFEATED_1">
+			<Text>Aww, I guess I'm just too green compared to you. Instead of leading people, I think I'm going to clean my bowl for once...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINMYOUMARU_DECLAREWAR_1">
+			<Text>It's about time! Prepare to taste the bitterness of defeat!</Text>
+		</Row>
+		
+	</Language_en_US>
+</GameData>

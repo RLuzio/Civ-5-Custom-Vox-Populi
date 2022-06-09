@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="79acb036-9115-4de3-b156-14c305d04474" version="1">
+  <Properties>
+    <Name>Touhou - Hakurei Shrine</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>This mod adds the Hakurei Shrine from the Touhou games to Civ V as a playable civilization</Teaser>
+    <Description>This mod adds the Hakurei Shrine from the Touhou games to Civ V as a playable civilization</Description>
+    <Authors>Bouncymischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4190A1D08296663777F3491B329D9256" import="1">Art/BMTHHakureiShrineAlphaAtlas16.dds</File>
+    <File md5="E2AFC09E674E6931700EF7DB91846548" import="1">Art/BMTHHakureiShrineAlphaAtlas24.dds</File>
+    <File md5="0ECCAD4C52CB0DAA6DDF0B835BA65382" import="1">Art/BMTHHakureiShrineAlphaAtlas32.dds</File>
+    <File md5="E0EF42FC90EC0E4FEE37F0B8D439E111" import="1">Art/BMTHHakureiShrineAlphaAtlas48.dds</File>
+    <File md5="28622AF4CEEF94AE5BEB380DFCF8F353" import="1">Art/BMTHHakureiShrineAlphaAtlas64.dds</File>
+    <File md5="8E4E98C8409156052C5D58CEFC39D256" import="1">Art/BMTHHakureiShrineIconAtlas128.dds</File>
+    <File md5="A469A3D3091F059763257BC0873A3C3B" import="1">Art/BMTHHakureiShrineIconAtlas256.dds</File>
+    <File md5="2B21A3655C1E68BB4310489E0CF7D68E" import="1">Art/BMTHHakureiShrineIconAtlas32.dds</File>
+    <File md5="70994C045892073BF9157BEF6EB77977" import="1">Art/BMTHHakureiShrineIconAtlas45.dds</File>
+    <File md5="620D6A5E61F14BF93202C081DCE58AEF" import="1">Art/BMTHHakureiShrineIconAtlas64.dds</File>
+    <File md5="41A7CAEA90595BF782D0CA94300AF41B" import="1">Art/BMTHHakureiShrineIconAtlas80.dds</File>
+    <File md5="FD90C1FAEAEA1151EB6B15BED49DA93B" import="1">Art/BMTHHakureiShrineDiplo.dds</File>
+    <File md5="66E96DCF848755AF4DC6E6D590402801" import="1">Art/BMTHHakureiShrineDOM.dds</File>
+    <File md5="287DABB575FA88C545F89AD2F50E361B" import="1">Art/BMTHHakureiShrineMap.dds</File>
+    <File md5="4B577597AC2C767EDA1C78F06DEFC8F3" import="1">Art/BMTHHakureiShrinePromotionIconAtlas256.dds</File>
+    <File md5="D8B73910FC33D9C6CA200A7A10BF2CF9" import="1">Art/BMTHHakureiShrinePromotionIconAtlas32.dds</File>
+    <File md5="A451DBCD91D80ACE503D9E32A4876C6D" import="1">Art/BMTHHakureiShrinePromotionIconAtlas45.dds</File>
+    <File md5="34AF5905B6D1D519641FE6DC62F33E45" import="1">Art/BMTHHakureiShrinePromotionIconAtlas64.dds</File>
+    <File md5="C3DA57FE73E778AC17DFDBF66E00B389" import="1">Art/BMTHHakureiShrineUnitIcons.dds</File>
+    <File md5="56DE254FEB8809ADFD94D8789908E546" import="1">Art/Improvements/asiaearly.dds</File>
+    <File md5="11FCDFC9B028045D81B96999907DFABC" import="1">Art/Improvements/asiaearly3.dds</File>
+    <File md5="E6DB7490DD1BE2D8A467B31D2DCFA78A" import="1">Art/Improvements/asialate1.dds</File>
+    <File md5="06007E2BE8BDC87F75F00043EF149C5E" import="1">Art/Improvements/AsianFortress.fxsxml</File>
+    <File md5="5D1B98D14CA47EEDEBF68957F8341272" import="1">Art/Improvements/AsianFortress.gr2</File>
+    <File md5="B5D40526BF80AD17C5E39B2036D3209D" import="1">Art/Improvements/BranchShrine.fxsxml</File>
+    <File md5="3969215D78DC8FCE9AB5C269A0F9C59A" import="1">Art/Improvements/BranchShrine1.gr2</File>
+    <File md5="B4BBBF65E50E53583AC3B6E58DEA3741" import="1">Art/Improvements/BranchShrine_PL.fxsxml</File>
+    <File md5="33633077601E0214215D9499CA72FF6F" import="1">Art/Improvements/fortasia10-1.dds</File>
+    <File md5="05660DC2A35BA516D142D5021757F203" import="1">Art/Improvements/fortasia10-2.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Improvements/no_gloss.dds</File>
+    <File md5="8083466520FE434A0918011CBB941616" import="1">Art/ReimuPeace.mp3</File>
+    <File md5="2051866745EF0A2A6E56E57C8FA7DE48" import="1">Art/ReimuWar.mp3</File>
+    <File md5="9EEE975F37C7A8FA114DB7349A12C2B8" import="1">Art/Units/BMMiko.fxsxml</File>
+    <File md5="C52938058DF94E9C122901509A37CC6F" import="1">Art/Units/BMMiko.gr2</File>
+    <File md5="3BFFAE88622710E51955329B56351451" import="1">Art/Units/Female_Head_64.dds</File>
+    <File md5="2754856201C1573917A7ADBACF124C9F" import="1">Art/Units/Female_Head_64_Gloss.dds</File>
+    <File md5="B3695F315BB715347BC582913F61A2DC" import="1">Art/Units/fx_triggers_hakurei_miko.ftsxml</File>
+    <File md5="4A52C3F789905AA483DEADF1592D3F42" import="1">Art/Units/Miko_128_Alt.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/no_gloss.dds</File>
+    <File md5="7893DD98EF94FA618493AE45D4649AE0" import="0">Lua/HakureiLua.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/MischaIteratingPlotsFunctions.lua</File>
+    <File md5="972EF303862EC28E48B0E8AF7471B0B0" import="0">XML/ReimuDiplomacy.xml</File>
+    <File md5="010910145D91A9B8298EAB124D3222DD" import="0">XML/ReimuImprovements.sql</File>
+    <File md5="95EE04ABC223670175E6D01FD27AB4A4" import="0">XML/ReimuBuildings.xml</File>
+    <File md5="C26F4312D1AB32F7C08E3BCB89D8A2C6" import="0">XML/ReimuCivilization.xml</File>
+    <File md5="525BC11E1957D411A52C115D66E53777" import="0">XML/ReimuColors.xml</File>
+    <File md5="54FB9084A18FA1E3570AC4A080362463" import="0">XML/ReimuImprovements.xml</File>
+    <File md5="D3EB46D3CCDA1976E3ED252F68D709E4" import="0">XML/ReimuLeader.xml</File>
+    <File md5="F1DD11ED07EC020CE798C29FBF6FCFBD" import="0">XML/ReimuMusic.xml</File>
+    <File md5="D49B799D1AEA9D2C8CC231A8E5B669D9" import="1">XML/ReimuScene.xml</File>
+    <File md5="9812D7B02C444F024639689450E08467" import="0">XML/ReimuText.xml</File>
+    <File md5="49033C5EC659DB78DD0426D22F3A69B7" import="0">XML/ReimuTrait.xml</File>
+    <File md5="9C4294B0F3F5F160A788CE0E89C630DC" import="0">XML/ReimuUnitArtDefines.xml</File>
+    <File md5="710D390C7A4327F6390611963CD85698" import="0">XML/ReimuUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/ReimuBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuImprovements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuUnitArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ReimuImprovements.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/HakureiLua.lua">
+      <Name>Hakurei Lua</Name>
+      <Description>Hakurei Lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

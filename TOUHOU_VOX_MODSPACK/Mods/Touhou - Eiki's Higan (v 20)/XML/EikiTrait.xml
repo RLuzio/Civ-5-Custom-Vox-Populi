@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2016 10:15:48 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_YAMA_JUDGEMENT</Type>
+			<Description>TXT_KEY_TRAIT_YAMA_JUDGEMENT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_YAMA_JUDGEMENT_SHORT</ShortDescription>
+			<NoAnnexing>true</NoAnnexing>
+			<FreeUnit>UNITCLASS_SHINIGAMI</FreeUnit>
+			<FreeUnitPrereqTech>TECH_CURRENCY</FreeUnitPrereqTech>
+		</Row>
+	</Traits>
+	<Trait_NoTrain>
+		<Row>
+			<TraitType>TRAIT_YAMA_JUDGEMENT</TraitType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+		</Row>
+	</Trait_NoTrain>
+</GameData>

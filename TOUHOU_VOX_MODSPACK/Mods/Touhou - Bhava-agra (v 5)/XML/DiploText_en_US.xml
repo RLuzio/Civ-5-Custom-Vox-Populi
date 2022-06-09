@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2016 7:36:31 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_FIRSTGREETING_1">
+			<Text>
+				Hi, I&apos;m Tenko... wait, no, no, no, forget that. I&apos;m Hinanawi Tenshi. Welcome to the Celestials&apos; colony.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_FIRSTGREETING_2">
+			<Text>
+				Oh, look who&apos;s over there! Come on here! I&apos;m Tenshi, nice to meet you. Can you spare a moment to play with me?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_FIRSTGREETING_3">
+			<Text>
+				Hello! People call me Tenko, but don&apos;t you dare call me that! Let it be known that I&apos;m Hinanawi Tenshi, NOT TENKO!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_DEFEATED_1">
+			<Text>
+				Well... Uh... Ok. I suppose I will have to go back.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_DEFEATED_2">
+			<Text>
+				Aww... It was just getting fun! Please give me another chance! I don&apos;t want to go back!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_DEFEATED_3">
+			<Text>
+				Well... You beat me. I thought I was good enough for you but it seems like  there are people stronger than me.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_NEUTRAL_1">
+			<Text>Hello! Come here to play again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_NEUTRAL_2">
+			<Text>What would you like to do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_NEUTRAL_3">
+			<Text>You've here to see the Celestials play? Come join us!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_ANGRY_1">
+			<Text>Every time I see you I swear I want to chop you up into little pieces with my sword, but my sword doesn't hurt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_ANGRY_2">
+			<Text>I swear, I want to sneak into your capital and land a huge earthshaker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_ANGRY_3">
+			<Text>You're no fun, and it seems like the others are agreeing on this matter.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_POLITE_1">
+			<Text>Hey! Welcome back!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_POLITE_2">
+			<Text>Hello! Some of the Celestials are in a festival about how you and I are such good friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_GREETING_POLITE_3">
+			<Text>What's up? You've got any fun games we can play?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_DOW_LEADER_MATHALX_TENKO_1">
+			<Text>I&apos;m getting bored, and you look like fun practice opponent. Ready or not, here I come!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_DOW_LEADER_MATHALX_TENKO_2">
+			<Text>No one&apos;s playing with me and I&apos;m getting so bored, so I'll have to challenge you to a game that you can&apos;t refuse. Prepare yourself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_DOW_LEADER_MATHALX_TENKO_3">
+			<Text>You look like you could use some fun, and I&apos;m sure you won&apos;t say no to this!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,1 @@
+ALTER TABLE Traits ADD DreamsOfFantasy INTEGER DEFAULT 0;

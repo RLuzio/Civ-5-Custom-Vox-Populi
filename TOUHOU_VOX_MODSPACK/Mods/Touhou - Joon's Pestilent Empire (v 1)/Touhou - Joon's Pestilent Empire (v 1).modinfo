@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dde1f92f-76fe-4968-b9c8-b4659301b534" version="1">
+  <Properties>
+    <Name>Touhou - Joon's Pestilent Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Pestilent Empire led by Joon from the Touhou Project series</Teaser>
+    <Description>Adds the Pestilent Empire led by Joon from the Touhou Project series</Description>
+    <Authors>Igniszath</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5AA9FF67B13B0650B68BD4DDD2BA2344" import="1">Art/JoonDiplo.dds</File>
+    <File md5="C291AACDE7C648117DD6BD6B8C1FCC19" import="1">Art/JoonDOM.dds</File>
+    <File md5="4E09E4ADA1C6572640DF2FF1463641DF" import="1">Art/JoonMap.dds</File>
+    <File md5="CFF9693A812F478CFAFA6D4A855F6715" import="1">Art/TouhouPestilenceAlphaAtlas16.dds</File>
+    <File md5="A782B2648C72A5920D3024442F3B00F8" import="1">Art/TouhouPestilenceAlphaAtlas24.dds</File>
+    <File md5="B3B4F38C30994E0D9CCF460C524A68B7" import="1">Art/TouhouPestilenceAlphaAtlas32.dds</File>
+    <File md5="12F041FC569AF303BD49AA9BB6B7352B" import="1">Art/TouhouPestilenceAlphaAtlas48.dds</File>
+    <File md5="0BDBE925EDE90C6516E6BD4BD7B4E09B" import="1">Art/TouhouPestilenceAlphaAtlas64.dds</File>
+    <File md5="BDBE3AF97F8496496AA663D4AEDA010B" import="1">Art/TouhouPestilenceIconAtlas128.dds</File>
+    <File md5="99D58B473E08FC14AEFEDDB70BFC224D" import="1">Art/TouhouPestilenceIconAtlas256.dds</File>
+    <File md5="D0E056CBC514D6134ACC49879263897B" import="1">Art/TouhouPestilenceIconAtlas32.dds</File>
+    <File md5="3FEB8EDB4094D81675184B5AD64950CB" import="1">Art/TouhouPestilenceIconAtlas45.dds</File>
+    <File md5="1452236943F45FD6C3CDBFAC872655D8" import="1">Art/TouhouPestilenceIconAtlas64.dds</File>
+    <File md5="2C26F02BF4E8EC07752A8EB8C7F1F709" import="1">Art/TouhouPestilenceIconAtlas80.dds</File>
+    <File md5="33A6D4E4EBA263CC81FB388800611BC1" import="0">Lua/JoonLua.lua</File>
+    <File md5="39CE11274F11A2CE3841964127EC05FA" import="1">Music/JoonPeace.mp3</File>
+    <File md5="A88023D133DC30B821CE9C935CF06FE0" import="1">Music/JoonWar.mp3</File>
+    <File md5="C65F7ADEBA7BE79F9DB664E19E38BCA3" import="0">Special Thanks.txt</File>
+    <File md5="073BC8015B16074B4F47A38DDAFBD8FD" import="1">Support/JoonDecisions.lua</File>
+    <File md5="D4C929A2ECC2B2C3E496EF42B47D6C80" import="0">Support/JoonEventsandDecisions.xml</File>
+    <File md5="2858C1A58461EFB3E9688B9B4C417EA0" import="0">Support/JoonSupport.sql</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Util/Sukritact_SaveUtils.lua</File>
+    <File md5="CD1B59316BDB457C44AF3D4C71D7C59B" import="0">XML/JoonBuildings.xml</File>
+    <File md5="772CA23A7596CCD5CF56095572EE3B3A" import="0">XML/JoonCivilization.xml</File>
+    <File md5="00F4ECB00595D2AD82A732663F033A75" import="0">XML/JoonColors.xml</File>
+    <File md5="D4DEB09E0116EF2E26B9BAB2CBF67274" import="0">XML/JoonDiplomacy.xml</File>
+    <File md5="69746DA7BB2DFB293A8C734936827D15" import="0">XML/JoonDummy.xml</File>
+    <File md5="9F3963984DA29EDCD3F24334D5EC372A" import="0">XML/JoonLeader.xml</File>
+    <File md5="ACCFD744509D5D302A1E4E18ADC4BD97" import="0">XML/JoonMusic.xml</File>
+    <File md5="34969473CA30B31C4FC435871775F938" import="0">XML/JoonPromotions.xml</File>
+    <File md5="589E8676C8DD55A4DAA8B242F3CCAFAF" import="1">XML/JoonScene.xml</File>
+    <File md5="4E86CC2696A811D8DEFC967F292EAA1C" import="0">XML/JoonText.xml</File>
+    <File md5="7AC7C4CF7C2DEC461207A857DC23DE84" import="0">XML/JoonTrait.xml</File>
+    <File md5="A3B82D1887F76869270297F1ED0E88D7" import="0">XML/JoonUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/JoonBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonDummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JoonCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>Support/JoonSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/JoonEventsandDecisions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JoonLua.lua">
+      <Name>JoonLua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/22/2013 2:58:32 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MORIYA_BACKGROUND</Type>
+			<Red>0.375</Red>
+			<Green>0</Green>
+			<Blue>0.9648</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_MORIYA_ICON</Type>
+			<Red>0.8242</Red>
+			<Green>0.0234</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MORIYA</Type>
+			<PrimaryColor>COLOR_PLAYER_MORIYA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MORIYA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

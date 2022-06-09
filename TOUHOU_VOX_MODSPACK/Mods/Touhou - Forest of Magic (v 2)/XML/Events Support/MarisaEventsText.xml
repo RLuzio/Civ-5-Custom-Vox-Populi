@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!--
+						Forest of Magic Events
+		-->
+		<!-- Fairy Pranks -->
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS">
+			<Text>Fairies Cause Trouble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_DESC">
+			<Text>Some of the fairies that occupy the wild parts of the forest have been causing trouble near {1_City}, playing pranks upon citizens and merchants. Something must be done about this![NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_OUTCOME_1">
+			<Text>They're harmless! Leave the fairies alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_OUTCOME_2">
+			<Text>Send out some troops to drive them off as a training exercise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_OUTCOME_3">
+			<Text>I'll show them the power of my lasers!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance of suffering from fairy pranks[ENDCOLOR][NEWLINE]or[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]50% chance of befriending the fairies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The city's garrison gains 10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_FAIRY_PRANKS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOM_FAIRY_PRANKS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>After managing to make off with some food, the fairies seem to have settled down on their own, although the people of {1_City} are unhappy with their pranks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOM_FAIRY_PRANKS_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>Our willingness to tolerate the pranks and mischief of the fairies have endeared us to them, and they have revealed the location of their home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOM_FAIRY_PRANKS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have sent out a garrison to deal with the troublesome fairies.[NEWLINE][NEWLINE]While they've come back a bit battered and bruised, they've at least gotten some basic combat experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FOM_FAIRY_PRANKS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Those fairies didn't know what hit them when you let loose with the Master Spark! You weren't even at full power!</Text>
+		</Row>
+		<!-- Carnivorous Plants -->
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS">
+			<Text>Carnivorous Plants Discovered</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_DESC">
+			<Text>Citizens of {1_City} have reported an infestation of carnivorous plants near their community. While carnivorous plants do grow in areas of the Forest of Magic, this infestation has made the area too dangerous for citizens to venture into. While this means we can't receive any resources from that particular area, it does also pose a hazard to any enemy forces that might try to travel through it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_1">
+			<Text>Pay the citizens to clear out the plants on their own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_2">
+			<Text>Send the garrison to destroy the plants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_3">
+			<Text>This patch of carnivorous plants may be useful for us as they are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The unit garrisoned in {1_City} takes 25 damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_3_DESC">
+			<Text>[ICON_BULLET]Carnivorous Plants appear near {1_City}, removing all yields from the tile but causing damage to any enemies nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_1_NOTIFICATION">
+			<Text>Enticed with a reward of gold, the local citizens have managed to clear away the carnivorous plants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_2_NOTIFICATION">
+			<Text>The soldiers have cleared out the carnivorous plants, although several were wounded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_CARNIVOROUS_PLANTS_OUTCOME_3_NOTIFICATION">
+			<Text>The carnivorous plants remain near {1_City}, and our citizens have learned to stay away from them.</Text>
+		</Row>
+		<!-- Precious Thing -->
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING">
+			<Text>Steal the Precious Thing?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_DESC">
+			<Text>One of our agents has discovered a book in {1_Location} that may be of interest to you. It may cost a bit, but they could smuggle it out of the city before its owners even notice it missing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_OUTCOME_1">
+			<Text>I'll borrow that book, ze!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_OUTCOME_2">
+			<Text>The book doesn't sound THAT interesting...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Work of Writing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_OUTCOME_1_NOTIFICATION">
+			<Text>Our spy has 'borrowed' the book for us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_FOM_PRECIOUS_THING_OUTCOME_2_NOTIFICATION">
+			<Text>We left the book where it was.... for now.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 12:11:57 AM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_BRANCH_SHRINE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_BRANCH_SHRINE</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_BRANCH_SHRINE_TEXT</Civilopedia>
+			<Help>TXT_KEY_IMPROVEMENT_BRANCH_SHRINE_HELP</Help>
+			<BuildableOnResources>true</BuildableOnResources>
+			<PillageGold>30</PillageGold>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_BRANCH_SHRINE</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_BM_TH_HAKUREI_SHRINE</CivilizationType>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>BM_TH_HAKUREI_SHRINE_CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>6</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Improvement_Yields>
+
+	<ArtDefine_Landmarks>
+		<Row>
+			<Era>Any</Era>
+			<State>Constructed</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>BranchShrine.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Pillaged</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>BranchShrine_PL.fxsxml</Model>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>UnderConstruction</State>
+			<Scale>1.0</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+			<Model>BranchShrine.fxsxml</Model>
+		</Row>
+	</ArtDefine_Landmarks>
+
+	<Policy_ImprovementYieldChanges>
+		<Row>
+			<PolicyType>POLICY_THEOCRACY</PolicyType>
+			<ImprovementType>IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_THEOCRACY</PolicyType>
+			<ImprovementType>IMPROVEMENT_BRANCH_SHRINE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Policy_ImprovementYieldChanges>
+</GameData>

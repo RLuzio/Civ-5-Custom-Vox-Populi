@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-10 오전 4:36:57 -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MATARA_DANCE_HALL</Type>
+			<BuildingClass>BUILDINGCLASS_OPERA_HOUSE</BuildingClass>
+			<Cost>200</Cost>
+			<PrereqTech>TECH_ACOUSTICS</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MATARA_DANCE_HALL_DESC</Description>
+			<Help>TXT_KEY_BUILDING_MATARA_DANCE_HALL_HELP</Help>
+			<Civilopedia>TXT_KEY_BUILDING_MATARA_DANCE_HALL_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MATARA_DANCE_HALL_STRATEGY</Strategy>
+			<ArtDefineTag>OPERA_HOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>2</Happiness>
+			<HurryCostModifier>10</HurryCostModifier>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+			<GreatPeopleRateModifier>15</GreatPeopleRateModifier>
+			<IconAtlas>MATARA_COLOR_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MATARA_DANCE_HALL</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MATARA_DANCE_HALL</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_DESC'>
+			<Text>Dance Hall</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_STRATEGY'>
+			<Text>Other structural forms of dance halls include the dance pavilion which has a roof but no walls, and the open-air platform which has no roof or walls. The open air nature of the dance pavilion was both a feature and a drawback. The taxi dance hall is a dance hall with a specific arrangement, wherein the patrons hire hall employees to dance with them.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_HELP'>
+			<Text>Unique building of the Backdoor Land. Replaces the Opera House</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_PEDIA'>
+			<Text>Dance hall in its general meaning is a hall for dancing. From the earliest years of the twentieth century until the early 1960s, the dance hall was the popular forerunner of the discothèque or nightclub. The majority of towns and cities in the West had at least one dance hall, and almost always featured live musicians playing a range of music from strict tempo ballroom dance music to big band, swing and jazz. One of the most famous dance hall musicians was Glenn Miller.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_DESC'>
+			<Text>댄스홀</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_STRATEGY'>
+			<Text>무도장 또는 댄스 홀은 춤을 출 수 있는 공간이다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_HELP'>
+			<Text>후호의 나라의 고유 건물입니다. 오페라 극장을 대체하며 유지비가 없습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_PEDIA'>
+			<Text>댄스홀은 1980년대에 들어서야 자메이카의 주류에서 유행하기 시작하였으며 90년대에는 자메이카 이민자들 사이에서도 큰 인기를 끌었다. 2000년대 전 세계적인 인기를 얻은 댄스홀은 2010년대, 댄스홀을 주류 서양음악에 접목시키고자 하는 서양 아티스트, 뮤지션들에게 지대한 영향을 끼쳤다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_DESC'>
+			<Text>ダンスホール</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_STRATEGY'>
+			<Text>ダンスホール (Dance hall) とは、ダンスを楽しむための場所、またはその場所を提供する店舗をいう。ダンス教室やダンス練習場を兼ねたものもある。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_HELP'>
+			<Text>後戸の国のUBです。オペラハウスを代替します</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_MATARA_DANCE_HALL_PEDIA'>
+			<Text>営業ダンスホールとしては、1918年（大正7年）に花月園（現在の横浜市鶴見区）に開設されたダンスホールが最初である。その後、ダンスの流行と共にダンスホールは徐々に増加し1933年（昭和8年）には全国で約50箇所まで増えたが、太平洋戦争開戦間際の1940年（昭和15年）にダンス禁止令が出され戦時中はダンスホールも閉鎖状態となった。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

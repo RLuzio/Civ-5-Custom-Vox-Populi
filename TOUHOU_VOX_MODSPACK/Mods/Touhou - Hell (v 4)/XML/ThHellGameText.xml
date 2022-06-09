@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	-<Language_en_US>
+		<!--Civ: Hell-->
+		-<Row Tag="TXT_KEY_CIV_TH_HELL_DESC">
+			<Text>Hell</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_TH_HELL_SHORT_DESC">
+			<Text>Hell</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_TH_HELL_ADJECTIVE">
+			<Text>Hell</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_TH_HELL_DOM_TEXT">
+			<Text>We greet you, mighty Hecatia Lapislazuli, governer of three Hells. Yours are the realms of the guilty, the wicked, and the impure, whose karma condemns them to suffering before they might be allowed to live again. In spite of infrastructural troubles, you were responsible for the near-defeat of the Lunarians, whom none could challenge before, and the corruption of the Moon with the essence of life. With powerful allies and subordinates under your command, including the kishin chiefs and the Yama, and three bodies with which to rule your domains, there is no world beyond your reach.[NEWLINE][NEWLINE]Oh Hecatia, the Hells are now in dire need. Lacking finances, manpower, and space, they are now but a shadow of their former terrible glory. The time has come to ressurect them and strike fear and respect into the worlds once more. Will you take responsibility? Will you connect the worlds under your influence? Can you forge in hellfire three civilizations that will stand the test of time?</Text>
+		</Row>
+		<!--Civ: Hell - Pedia-->
+		-<Row Tag="TXT_KEY_CIV5_TH_HELL_HEADING_1">
+			<Text>Hell</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_TH_HELL_TEXT_1">
+			<Text>When the Yama judge a soul to be blackened with sin, it is taken out of the cycle of reincarnation and imprisoned in Hell until such time as its karma has run its course. There are many Hells for many karmic purposes, although they collectively are referred to as a singular Hell. In addition to the Hell of the Earth, there are the Hells of the Moon and the Otherworlds, which includes smaller worlds such as the Dream World and Gensokyo. Each Hell is separately administrated by the Yama and the oni, while Hecatia Lapislazuli governs all three together with her three bodies.[NEWLINE][NEWLINE]The Hell of the Otherworlds used to be located beneath Gensokyo, but due to overcrowding, it was moved to a larger location. Without the finances to run the old location in addition to the new one, it was handed over to Satori Komeiji in the Palace of the Earth Spirits, and is now known as Former Hell.[NEWLINE][NEWLINE]Economic troubles have plagued Hell's administration for many years, and despite efforts such as creating income with condemned labour and stalls along the Road of Liminality, Hell's upkeep has only become more expensive as more souls flow through.</Text>
+		</Row>
+
+		<!--Leader: Hecatia Lapislazuli-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA">
+			<Text>Hecatia Lapislazuli</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Leader: Hecatia Lapislazuli - Pedia-->
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HECATIA_NAME">
+			<Text>Hecatia Lapislazuli</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HECATIA_SUBTITLE">
+			<Text>Goddess of Hell</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HECATIA_TITLES_1">
+			<Text>Goddess of Crossroads</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HECATIA_LIVED">
+			<Text>???-Present</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HECATIA_HEADING_1">
+			<Text>About</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_HECATIA_TEXT_1">
+			<Text>Hecatia Lapislazuli is a goddess who presides over the Hells of Earth, the Moon, and the Otherworlds using her three bodies. She is a mysterious and capricious figure who tends to stay out of the spotlight, letting the Yama be the face of Hell.[NEWLINE][NEWLINE]The only other thing known about her is her grudge against Chang'e, a prisoner in the Lunar Capital. Long ago, Chang'e's husband Houyi shot down the Suns, weaking Hell's power in the process. To get at her, and as a favour to her friend Junko whose grudge was even greater, she forced the Lunarians to flee the Moon by sending her subordinate, a Hell fairy named Clownpiece, to taint the pure surface of the Moon with the power of life. When the Lunarians escaped into the Dream World, Hecatia was waiting for them, and she laid siege to them with Junko until she was defeated by a plan laid by Eirin Yagokoro of Eientei. Since then, Hecatia has resolved to meet more interesting people in Gensokyo.</Text>
+		</Row>
+		<!--Trait: Trinitarian-->
+		-<Row Tag="TXT_KEY_TRAIT_TRINITARIAN">
+			<Text>2 additional Settlers after building the [ICON_CAPITAL] Capital. Cannot build Settlers. [ICON_HAPPINESS_4] Unhappiness from number of Cities reduced by two thirds. Each original City allows airlifting and grants one delegate to whomever controls it.</Text>
+		</Row> -<Row Tag="TXT_KEY_TRAIT_TRINITARIAN_SHORT">
+			<Text>Trinitarian</Text>
+		</Row>
+		<!--Unique Building: Ministry of Right and Wrong-->
+		-<Row Tag="TXT_KEY_BUILDING_TH_HELL_MINISTRY_OF_RIGHT_AND_WRONG">
+			<Text>Ministry of Right and Wrong</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_TH_HELL_MINISTRY_OF_RIGHT_AND_WRONG_HELP">
+			<Text>Replaces the Courthouse. Removes extra [ICON_HAPPINESS_4] Unhappiness from [ICON_OCCUPIED] Occupied Cities and is granted for free in your first three settled Cities. Every three Ministries provide +1 [ICON_HAPPINESS_1] Happiness and [ICON_PEACE] Faith.</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_TH_HELL_MINISTRY_OF_RIGHT_AND_WRONG_PEDIA">
+			<Text>The Ministry of Right and Wrong is the administrative body of Hell and also governs the cycle of reincarnation. It is the seat of power of the Yama, from which they judge the dead and guide them along their appropriate paths. Because it is essential to keeping Hell's affairs running smoothly, its presence can be felt anywhere that Hell has influence.</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_TH_HELL_MINISTRY_OF_RIGHT_AND_WRONG_STRATEGY">
+			<Text>The Ministry of Right and Wrong's presence in [ICON_OCCUPIED] Occupied Cities will inspire [ICON_HAPPINESS_1] Happiness and [ICON_PEACE] Faith, further incentivizing aggressive expansion. By conquering a lot of land early, Hell can get a helpful boost to [ICON_PEACE] Faith production.</Text>
+		</Row>
+		<!--Unique Unit: Yama-->
+		-<Row Tag="TXT_KEY_UNIT_TH_HELL_YAMA">
+			<Text>Yama</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_TH_HELL_YAMA_HELP">
+			<Text>Replaces the Swordsman. 100% [ICON_STRENGTH] Combat Strength bonus against Cities. Cities with a Yama garrisoned in them cannot have other Religions spread to them. (The religious protection is lost on upgrade.)</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_TH_HELL_YAMA_PEDIA">
+			<Text>The Yama are the administrative class of Hell, empowered to judge the dead and decide their fate. Although there used to be few of them, the growing number of human souls necessitated an increase in Yama to match, most of which are statues of Jizo who wished to serve as Yama in order to protect people from being sent to Hell. The majority of Yama are more concerned with management than fighting, but all can serve as able warriors should the need arise.</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_TH_HELL_YAMA_STRATEGY">
+		<Text>The Yama's power to take Cities is useful on offence, and its religious protection on defence. Simply having one stationed in each of your Cities will keep them safe as you spread your own from three separate corners of the map.</Text>
+		</Row>
+
+		<!--Spy Names: Hell-->
+		-<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_0">
+			<Text>Clownpiece</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_1">
+			<Text>Junko</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_2">
+			<Text>Doremy Sweet</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_3">
+			<Text>Hieda no Akyuu</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_4">
+			<Text>Konngara</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_5">
+			<Text>Kikuri</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_6">
+			<Text>Komachi Onozuka</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_7">
+			<Text>Insane Fairy</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_8">
+			<Text>Suiki</Text>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_TH_HELL_9">
+			<Text>Shingyoku</Text>
+		</Row>
+
+		<!--City names: Hell-->
+
+		-<Row Tag="TXT_KEY_CITY_NAME_TH_HELL_1">
+			<Text>Hell of the Earth</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_TH_HELL_2">
+			<Text>Hell of the Moon</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_TH_HELL_3">
+			<Text>Hell of the Otherworlds</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_TH_HELL_4">
+			<Text>Road of Liminality</Text>
+		</Row>
+		<!--Dialogue-->
+		<!--Greeting-->
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_1">
+			<Text>Yeah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_2">
+			<Text>Of course, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_3">
+			<Text>I mean, duh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_4">
+			<Text>Yeah, sure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_5">
+			<Text>Totally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_6">
+			<Text>For sure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_AGREE_SHORT_7">
+			<Text>Uh-huh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_1">
+			<Text>Wow, really? You're gonna regret that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_2">
+			<Text>Wow, that's totally rude, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_3">
+			<Text>Huh. You've got a lot of guts, you know that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DECLAREWAR_1">
+			<Text>Hey, like, I'm declaring war on you. Just so you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DECLAREWAR_2">
+			<Text>That's totally it! I'm declaring war now!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DECLAREWAR_3">
+			<Text>War time! Put up a fight, 'kay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DEFEATED_1">
+			<Text>Aw, shucks. Who would've thought you could beat all three of me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DEFEATED_2">
+			<Text>Wow, you're amazing. I'm gonna bow out now, 'kay? Good luck out there!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DEFEATED_3">
+			<Text>Aw, I totally lost. You're too good at this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DEMANDTRIBUTE_ANGRY">
+			<Text>I think you're gonna want to give me this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DEMANDTRIBUTE_HAPPY">
+			<Text>This is super rude of me, but like, can I have this stuff? I really need it right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Hey, Hell's not doing so hot right now. Shoot me a pick-me-up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_1">
+			<Text>Hell no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_2">
+			<Text>Uh, no?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_3">
+			<Text>Not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_4">
+			<Text>No way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_5">
+			<Text>Nah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_6">
+			<Text>Mmm... Sorry, no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_DISAGREE_SHORT_7">
+			<Text>No dice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_FIRSTGREETING_1">
+			<Text>Woah, hey there! Nice to meet you! Welcome to Hell!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_FIRSTGREETING_2">
+			<Text>Hey, nice t'meetcha. You like my place? I've got two more just like it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_FIRSTGREETING_3">
+			<Text>Name's Hecatia. What's up? You in the ruling business, too?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_1">
+			<Text>Bye!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_2">
+			<Text>Laters!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_3">
+			<Text>See ya!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_4">
+			<Text>Catch you later!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_5">
+			<Text>Drop in whenever, yeah?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_6">
+			<Text>'Kay, see ya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GOODBYE_7">
+			<Text>Uh-huh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_1">
+			<Text>Hey, what's up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_2">
+			<Text>What can I do for ya?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_3">
+			<Text>Hey, don't mind the other mes. I'm a little short of hands right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_4">
+			<Text>Heya. What do you need?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_5">
+			<Text>What's up? You need something?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_6">
+			<Text>Yeah?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_7">
+			<Text>Oh, it's you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_1">
+			<Text>Shoot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_2">
+			<Text>I'm all ears.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_3">
+			<Text>What? You want to talk to a dead spirit or something? I can arrange that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_4">
+			<Text>Yeah? Hang on, talk to this body. This one needs to do something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_5">
+			<Text>Sure, go ahead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_6">
+			<Text>You wanna talk? What about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LETSHEARIT_7">
+			<Text>If it's about Clownpiece, take a number.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_LOSEWAR_1">
+			<Text>Aw, man. You're too good!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Uh, no. Little more, please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Jack it up a bit first.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_ANGRY_3">
+			<Text>Uh, no? I'm not trading with you unless you make it sweet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_HAPPY_1">
+			<Text>Ooh, tempting. How about a little more for me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_HAPPY_2">
+			<Text>I don't know, I could use a bit more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_HAPPY_3">
+			<Text>You can give me more than that, can'tcha?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>I need like, just a little bit more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can you make a little more attractive?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>I totally need more for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NO_ANGRY">
+			<Text>That's gotta be like, the third worst offer I've heard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NO_HAPPY">
+			<Text>Sorry, can't do that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NO_NEUTRAL">
+			<Text>Seriously?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_YES_ANGRY">
+			<Text>Whatever, I guess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_YES_HAPPY">
+			<Text>Super! Thanks for trading!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_YES_NEUTRAL">
+			<Text>Yeah, that's cool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADEREQUEST_ANGRY">
+			<Text>Can we just do this trade? No drama.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADEREQUEST_HAPPY">
+			<Text>Hey, wanna trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRADEREQUEST_NEUTRAL">
+			<Text>You want this stuff? 'Cause I want that stuff.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRIBUTE_NO_ANGRY">
+			<Text>Seriously?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRIBUTE_NO_HAPPY">
+			<Text>Sorry, pal. Can't help ya right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRIBUTE_NO_NEUTRAL">
+			<Text>I can't just like, give stuff away. You know how much it takes to keep three Hells running?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRIBUTE_YES_ANGRY">
+			<Text>Shucks. Well, you win. Here's the stuff you wanted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRIBUTE_YES_HAPPY">
+			<Text>I totally have you covered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_TRIBUTE_YES_NEUTRAL">
+			<Text>Heck, why not? Don't say I never did anything for ya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_WARBLUFF_1">
+			<Text>Man, all right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_WARBLUFF_2">
+			<Text>Aw, fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_WARBLUFF_3">
+			<Text>Heh, I tried.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_WARBLUFF_4">
+			<Text>Ah, well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HECATIA_WINWAR_1">
+			<Text>Don't feel bad or nothing. Hell's kinda famous for this, you know?</Text>
+		</Row>
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_REPEAT_TOO_MUCH">
+			<Text>Totally tuning you out.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_REPEAT_TRADE_1">
+			<Text>No, seriously.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_REPEAT_TRADE_2">
+			<Text>I told you, can't do that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_REPEAT_1">
+			<Text>Huh? You forget something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_REPEAT_2">
+			<Text>Yeah? You need something else?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_REPEAT_1">
+			<Text>Ugh, I thought you were gone.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_REPEAT_2">
+			<Text>Why'd you come back? We had a good thing going, with you leaving and all.</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_POLITE_HELLO_2">
+			<Text>Hi, there.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_POLITE_HELLO_3">
+			<Text>You want a drink or something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_POLITE_HELLO_1">
+			<Text>How's it going?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_NEUTRAL_HELLO_2">
+			<Text>Yo.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_NEUTRAL_HELLO_3">
+			<Text>Hey, what's up?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Oh, hey. You want something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HELLO_2">
+			<Text>Uh, hey.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HELLO_3">
+			<Text>What?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HELLO_1">
+			<Text>Oh, it's you. I'm kinda busy, what do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Man, this totally isn't going how I planned.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Ah ha ha, this is looking super bad for me, isn't it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>So, wanna make peace?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>I'm ready to call it quits. How about you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>I'm so over this war. Can we make peace now?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>If you've come to beg for your life, I'll listen. I won't agree to anything, but I'll listen.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>I'm not done with you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_HOSTILE_3">
+			<Text>You can't fight Hell. Give up now, 'kay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Hey, what's up? Don't worry about that Research Agreement - I've got my three best people on it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>Don't think I'm over you breaking your promise.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_WORKING_WITH_1">
+			<Text>Hey there, comrade!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_WORKING_AGAINST_1">
+			<Text>So, what do you want to do about {1_ThirdPlayerName:textkey}?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_COOP_WAR_1">
+			<Text>We'll crush {1_ThirdPlayerName:textkey} from four sides. Count on it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_COOP_WAR_2">
+			<Text>I almost feel sorry for {1_ThirdPlayerName:textkey}, you know?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Huh? Aren't you, like, fighting someone else right now?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HUMAN_AT_WAR_1">
+			<Text>Yo. How goes the war?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>You trying to say something with all those troops, maybe?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>That's a lot of troops, man. You're making me nervous, or whatever.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>You're taking a lot of land around here. Not a good idea, y'know?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Gee, you're like, on fire with your expansion right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Are you, like, trying to cramp me or something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I had my eye on that land you bought up, y'know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is amazing, you know that? No one's gonna mess with you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Hey, you've got a really super economy. Can I get some pointers?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>Oh, hey. Are you having expansion problems, too?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Maybe it's just me, but isn't your army, like, super tiny?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>So, what's it gonna be? Military threats? Gonna shake a big stick at me?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_BY_AI_1">
+			<Text>Just so you know, my denouncement counts as three.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_BY_AI_2">
+			<Text>I'm not gonna take my denouncement back or anything, if that's what you're here for.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_AI_1">
+			<Text>You're gonna have to denounce me two more times, pal.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Oh, so you're friends with {1_PlayerName} now. I don't want to judge, but bad company.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>You made friends with {1_PlayerName}? Nice. Good choice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>You really shouldn't have denounced {1_PlayerName}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>Seems we have an enemy in common. That's cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TOO_SOON_FOR_DOF_1">
+			<Text>Woah, there. Coming on a little strong right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TOO_SOON_FOR_DOF_2">
+			<Text>Um, maybe later.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>{1_CivName} is going way, waaaay too far. Let's denounce them together.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOF_AI_WAR_REQUEST_1">
+			<Text>I want to teach {1_CivName} a lesson. You want in?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOF_NOT_HONORED_1">
+			<Text>Not cool.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOF_NOT_HONORED_2">
+			<Text>You did so not just do that.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DENOUNCING_FRIEND_1">
+			<Text>I didn't want to do this, but this is where we're at.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Not a good idea there, friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Wow. That's super rude of you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DOFED_FRIEND_1">
+			<Text>I see you made friends with {1_CivName}. Nice move.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DOFED_ENEMY_1">
+			<Text>Seriously? {1_CivName}?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_PlayerName} is a friend of Hell itself. You want to go down that road?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Nice one denouncing {1_CivName}. Someone's gotta teach 'em a lesson.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>You made friends with {1_CivName}, right? I'll do that, too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>Totally with you on {1_CivName}. Tooootally.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Teaming up with {1_CivName}, huh? I got it, I got it. You'll regret it eventually.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>I saw you make friends with {1_CivName}, so I thought, "They must be good people after all!" Thanks for showing me the way.</Text>
+		</Row>
+		<!-- Hecatia Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_EXPANSION_WARNING_1">
+			<Text>Leave me some space, will ya? Hell's cramped enough as it is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_EXPANSION_BROKEN_PROMISE_1">
+			<Text>Oh, geez. You totally broke your promise and settled near us. Bad move.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>No, really. Stop buying all the land.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PLOT_BUYING_WARNING_1">
+			<Text>Hey, could you maybe stop buying up all the land near me? Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>You promised to stop, and then you did it again. Are you trying to make me mad?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Sorry for attacking that City-state, but I'm not sorry.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Oh, we attacked that City-state you were protecting. No big, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WORK_WITH_US_1">
+			<Text>Pacts of Cooperation shouldn't be possible, but here we are.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DEC_FRIENDSHIP_1">
+			<Text>Would it be crazy if I said you should declare your friendship with Hell?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DEC_FRIENDSHIP_2">
+			<Text>I think we're pretty well friends now. Want to make it official?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DENOUNCE_1">
+			<Text>I'm so not okay with you right now.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DENOUNCE_2">
+			<Text>You and me? We're having a disagreement.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_WARMONGER">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_MINORS">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_LAND">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_WONDERS">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_VICTORY">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WORK_AGAINST_SOMEONE_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_COOP_WAR_REQUEST_1">
+			<Text>Want to join me against {1_PlayerName:textkey}? Might be interesting.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_COOP_WAR_REQUEST_2">
+			<Text>Last chance to join me against {1_PlayerName:textkey}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_COOP_WAR_TIME_1">
+			<Text>All right, time's up. Let's do this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_NOW_UNFORGIVABLE_1">
+			<Text>Y'know, it was fun at first, but now I've got a big old grudge with your name on it. No forgiveness!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_NOW_ENEMY_1">
+			<Text>Well, I guess that makes us enemies.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_COMPLIMENT_1">
+			<Text>You're really good at this whole leadership thing, huh?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_BOOT_KISSING_1">
+			<Text>You're super, you know that? I've never met anyone as interesting as you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_BOOT_KISSING_2">
+			<Text>I wish I could manage my cities a third as well as you've done. Props.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WARMONGER_1">
+			<Text>You're a bloodthirsty little oni, aren't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_MINOR_CIV_COMPETITION_1">
+			<Text>I see you're getting in good with {1_MinorCivName:textkey}. They're my friends, okay? Back off if you know what's good for you.</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_LEADER_HECATIA_1">
+			<Text>Your civilization... It's just not very impressive, y'know?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_LEADER_HECATIA_2">
+			<Text>Just want you to know, y'know, your civilization kinda sucks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_LEADER_HECATIA_3">
+			<Text>Wow, you're kinda behind, aren't you? Do you need a handicap?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_MILITARY_1">
+			<Text>Wow, is that your military? It's so... I mean, I'd be totally afraid to live in one of your cities.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_NUKE_1">
+			<Text>I'm just itching to use this nuke. You want to give me a reason?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_BULLY_1">
+			<Text>You're kind of a bully, you know that? You'll go to Hell for sure.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_UNHAPPINESS_1">
+			<Text>Just look at how you treat your people. You know you'll go to Hell if you don't make them happy, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_CITIES_1">
+			<Text>Geez, you're super behind right now. Do you still only have that many cities?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_POPULATION_1">
+			<Text>Are you sure your cities are really cities? They look kind of empty.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_INSULT_CULTURE_1">
+			<Text>I think the reason your civilization is such a failure is because it has, like, basically no cultural identity.</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DONT_SETTLE_YES_1">
+			<Text>Well, I can't really afford to expand with settlers, so yes?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DONT_SETTLE_NO_1">
+			<Text>No. I mean, I can't settle anyway, but no on principle.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WORK_WITH_US_YES_1">
+			<Text>Sure, why not? Let's totally be partners.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DECLINE_1">
+			<Text>Sorry, can't.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DECLINE_2">
+			<Text>I'm gonna pass on that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_COOP_WAR_YES_1">
+			<Text>Hey, why not? It'll be fun, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_COOP_WAR_SOON_1">
+			<Text>Sure, just give us a little bit to get ready. I'll be on it in ten turns!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_YES_1">
+			<Text>You're totally giving me no choice... Well, here you go.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_YES_2">
+			<Text>Ooh, I guess I can't fight you on that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>And I'd do that like, why?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>You're waaaay too puny to be making demands like that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>Ha ha, what? No way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>Okay, there's demanding, and then there's asking me to slit my throat. Be realistic, will ya?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>I'm basically screwed if I give you that much, so no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Again? The answer's still no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>Would it kill you to at least wait a little between demands?</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_OFFER_1">
+			<Text>This is turning out kind of dumb. Can we make up?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_OFFER_2">
+			<Text>I've got better things to do than fight you. Can we end it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DEMAND_1">
+			<Text>Here's my price for leaving you alone. Trust me, you'd better take it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_REQUEST_ITEM_1">
+			<Text>So, um, can you spot me this? I kinda need it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GIFT_ITEM_1">
+			<Text>I got you something. You like?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_OPEN_BORDERS_OFFER_1">
+			<Text>What do you think of opening our borders? Makes things easier on both of us, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>Can we make a Research Agreement later?[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Let's totally make a Research Agreement together. It's like a Declaration of Friendship, but it actually does something!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RENEW_DEAL_1">
+			<Text>This deal was cool for both of us, right? Let's keep it going.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WANT_MORE_RENEW_DEAL_1">
+			<Text>I can't keep doing that deal the way it is. Context changes, right?</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Wow, that's totally sweet of you. I accept!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_GENEROUS_2">
+			<Text>I definitely can't say no to that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_GENEROUS_3">
+			<Text>Are you trying to get on my good side, offering deals like that? 'Cause you should keep doing it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Sounds good to me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That's cool, I guess.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>Fine with me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>You're smart. I like that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>Sweet. Thanks for the loot!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>All right, all right. I forgive you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I can't do that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>That's totally not fair.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>Can't do that, sorry.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_REJECT_INSULTING_1">
+			<Text>Seriously?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_REJECT_INSULTING_2">
+			<Text>Like I'd take that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_DEAL_UNCHANGED_1">
+			<Text>Looks totally okay to me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_DEAL_UNCHANGED_2">
+			<Text>I don't see a problem with it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_AI_MAKES_OFFER_1">
+			<Text>How's this?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_AI_MAKES_OFFER_2">
+			<Text>Does this work for you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I can't make a deal for that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>That's way too unfair for any deal you could make.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_HOSTILE_1">
+			<Text>You're trying to attack me? You've got guts.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_HOSTILE_2">
+			<Text>Not even going to warn me, huh?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Taking advantage of my weakness? I don't blame you, but I'm still going to hate you for it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_WEAK_HOSTILE_2">
+			<Text>I guess it was inevitable you'd do something like this, huh?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_HOSTILE_1">
+			<Text>You're seriously attacking me with that army? This should be interesting.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_HOSTILE_2">
+			<Text>You think that was a good idea?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_HOSTILE_3">
+			<Text>You totally just made the worst decision of your life.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_HOSTILE_4">
+			<Text>You want to die that badly? I'll make sure you end up in Hell!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_EXCITED_1">
+			<Text>I've been waiting for you to do that!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_EXCITED_2">
+			<Text>Interesting. Let's see where this goes!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_EXCITED_3">
+			<Text>Sounds like it's war time. This'll be fun!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_WEAK_EXCITED_1">
+			<Text>Even if you kill one of me, I won't die. Show me everything you've got!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_EXCITED_1">
+			<Text>You actually did it! I totally didn't think you'd be dumb enough to attack me right now!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_SAD_1">
+			<Text>Aw, come on.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_SAD_2">
+			<Text>Really? Did you have to do that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_BETRAYED_1">
+			<Text>We had a good thing going! I'll make sure you regret this.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_LEADER_HECATIA_1">
+			<Text>The Earth, the Moon, or the Otherworlds? Pick which body you want to be killed by!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_LEADER_HECATIA_2">
+			<Text>Sorry, but this is gonna be three-on-one.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_LEADER_HECATIA_3">
+			<Text>All right, the gloves are off. I'm itching to fight!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>People who deceive will fall into Hell.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_LAND_1">
+			<Text>Hell needs more land. I think I'll take yours!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_LAND_2">
+			<Text>"You have land that I want." For that reason alone, I'll drop you into Hell!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_WORLD_CONQUEST_1">
+			<Text>"You're in the way of my victory." For that reason alone, I'll drop you into Hell!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_OPPORTUNITY_1">
+			<Text>"Your land is poorly defended." For that reason alone, I'll drop you into Hell!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_OPPORTUNITY_2">
+			<Text>Hey, where's your army? This is gonna be too easy.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_DESPERATE_1">
+			<Text>Welp, I'm out of options. Time for a last-ditch effort!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_DESPERATE_2">
+			<Text>So it's come to this. C'mon, put 'em up!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_BETRAYAL_1">
+			<Text>Thanks for being my friend, but I'm totally going to kill you now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_BETRAYAL_2">
+			<Text>Guess what? I'm going to kill you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_WEAK_BETRAYAL_1">
+			<Text>Thanks for being my shield. Now I can strike you where you're weakest!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_REGRET_1">
+			<Text>Aw, geez. I wish it didn't come to this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_DOW_REGRET_2">
+			<Text>Sorry, but I gotta do this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WAR_DEMAND_REFUSED_1">
+			<Text>"You didn't give me what I want." For that reason alone, I'll drop you into Hell!</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What're your terms?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>All right, make an offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>Go ahead.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>Sweet. Thanks!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>Nice. Thanks for playing!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_NO_PEACE_1">
+			<Text>Uh, nnno.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_NO_PEACE_2">
+			<Text>Sorry. My grudge is too big for that right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TOO_SOON_NO_PEACE_1">
+			<Text>Seriously? We're just warming up.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Sweet.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_PLEASED_2">
+			<Text>Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Nice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Hey, thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>Thanks a lot.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>Aw, geez.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Really? Aw.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>Aw.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_SO_BE_IT_1">
+			<Text>Whatever, I guess.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_SO_BE_IT_2">
+			<Text>That's the way the cookie crumbles, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_SO_BE_IT_3">
+			<Text>Well, so be it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RETURNED_CIVILIAN_1">
+			<Text>Thanks for returning that worker I lost. You're a sweetie, y'know that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_CULTURE_BOMBED_1">
+			<Text>You take my land, you best be prepared for the consequences.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Yeah, I figured as much.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>You say that, but we both know what you're about to do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>That's a real shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Keep 'em moving, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Deal with it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Wow, nice loyalty.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Well, I can't blame ya.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD_1">
+			<Text>Saw that coming.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD_2">
+			<Text>You and me? We're not friends.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>We're cool, then? Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>We're cool, then? Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>We're cool, then? Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>We're cool, then? Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>We're cool, then? Cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_OUR_WORDS_ARE_BACKED">
+			<Text>Just so you know, Hell has nukes. I mean my Hell, not the old one.</Text>
+		</Row>
+
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_SAME_POLICIES_FREEDOM_1">
+			<Text>You're following Freedom, too? Sweet. Everyone makes their own destiny, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_SAME_POLICIES_ORDER_1">
+			<Text>Cool to see you've put some Order into your civilization. Share the labour, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Looks like you've become an Autocracy. It's a pretty good system, am I right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Hey, get your stupid spies out of Hell before they stay here permanently.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>C'mon, don't be spying on me. Do it to someone else!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>All right, cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>This is gonna give you bad karma, you know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Aw, fine. I'll send my spies somewhere else.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_STOP_SPYING_NO_1">
+			<Text>Who's gonna stop me? Not you, that's who.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Thanks for the warning about {@1_CivAdjective}. I knew they were up to something sneaky.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>Just so you know, {1_PlayerName} is totally plotting against you. Tell me if you hear anything about me, 'kay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Just so you know, {1_PlayerName} is totally planning to attack {2_CityName}. Tell me if you hear anything about me, 'kay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Just so you know, {1_PlayerName} is totally planning to attack you. Tell me if you hear anything about me, 'kay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Just so you know, {1_PlayerName} is totally planning to attack {2_CityName} with a bunch of ships. Tell me if you hear anything about me, 'kay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Just so you know, {1_PlayerName} is totally planning to attack you with a bunch of ships. Tell me if you hear anything about me, 'kay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_KILLED_YOUR_SPY_1">
+			<Text>So, we killed a spy, and turns out he was yours. You got anything to say about that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_KILLED_MY_SPY_1">
+			<Text>Hey, no biggie on the spying thing, right? I mean, the spy's dead now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Ah ha ha, busted.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_SUSPECT_YOU_OF_SPYING_1">
+			<Text>I know you're spying on me. Not cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_STOP_CONVERSIONS_1">
+			<Text>Hey, stop spreading your dumb religion around here. No one's gonna follow you over a real goddess!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Nuts. Well, I get it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>Cool, thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Thanks so much.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>You're gonna regret that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>I mean, I'm an actual goddess, but whatever. I'll stop telling people about it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>You realize I'm a goddess, right? Faith is like, my thing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Ready to give up?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>I might agree to spare you if you make it worth it for me.</Text>
+		</Row>
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>Why don't you do something about it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Good answer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_WE_BULLIED_MINOR_BAD_1">
+			<Text>Whatever. I'm not stopping.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Thanks for understanding. I gotta do what I gotta do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I totally can't match that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_HECATIA_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Woah, that's too much value. I can't make a fair deal for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Nice proposal. You can bet I'll be supporting you at the {1_LeagueName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Just so you know? I think your proposal to the {1_LeagueName} sucks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Hey, thanks for supporting me at the {1_LeagueName}. It means a lot, really!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>Aw, you supported our proposal to the {1_LeagueName}. Thanks!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>You got in the way of my proposal to {1_LeagueName}. I'm, like, super not happy with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>You're seriously going to fight me at the {1_LeagueName}? I hope you know what you're getting into.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Gee, thanks for supporting us as host of the next World Congress. We're gonna be unstoppable!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_RESPONSE_STOP_DIGGINGX_1">
+			<Text>'Scuse me, but that's Hell you're digging up. There's a lot down there you don't want to see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>I'm not going to stop. Why would I do that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>Fine, fine. I'll stop digging up your land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>You really want to disagree over this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Thanks. I really appreciate it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>Hell's inmates want Freedom, and it's all your fault. Do you know what a disaster it would be if I gave them rights?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>The oni are all over me right now about adopting Order. What's productive about socializing Hell?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>The Yama are calling for an Autocracy because of you. I'm waaay too overworked for that!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Isn't it sad that Hell has more Freedom than your civilization? It's like, why even keep trying?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>You should just give in and adopt Order already. Just look at how great Hell is doing with its own inmates running it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Your people are calling for Autocracy 'cause it works. I should know; I've got three of 'em!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_SWITCHED_TO_FREEDOM_1">
+			<Text>Hey, you freed your people from oppression. Good on you for caring.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_SWITCHED_TO_ORDER_1">
+			<Text>Hey, you stopped the exploitation of your people. Good on you for giving them rights and stuff.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_SWITCHED_TO_AUTOCRACY_1">
+			<Text>Hey, you decided to actually be a leader. Good on you for taking responsibility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_INFLUENTIAL_ON_AI_1">
+			<Text>Man, now Hell's full of your pop music and blue jeans. Where did we go so wrong?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HECATIA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Nice to see your people fear Hell like they should. Better keep it that way, right?</Text>
+		</Row>
+	</Language_en_US>
+	-<Diplomacy_Responses>
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_FIRSTGREETING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DEFEATED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_REPEAT_TRADE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_REPEAT_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_REPEAT_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_REPEAT_TRADE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_REPEAT_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_REPEAT_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_REPEAT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_REPEAT%</Response>
+		</Row>
+		<!-- Greetings -->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_POLITE_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_NEUTRAL_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_DESTRUCTION_LOOMS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_DESTRUCTION_LOOMS%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_WANTS_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_WANTS_PEACE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_AT_WAR_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_RESEARCH_AGREEMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_BROKEN_MILITARY_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_BROKEN_MILITARY_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_WORKING_WITH</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_WORKING_WITH%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_WORKING_AGAINST</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_WORKING_AGAINST%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_COOP_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_COOP_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_AT_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HUMAN_AT_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_AGGRESSIVE_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_AGGRESSIVE_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_AGGRESSIVE_EXPANSION%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_AGGRESSIVE_PLOT_BUYING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_FRIENDLY_STRONG_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_ECONOMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_FRIENDLY_STRONG_ECONOMY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_FEW_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_FEW_CITIES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_SMALL_ARMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_SMALL_ARMY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_IS_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_HOSTILE_HUMAN_IS_WARMONGER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_BY_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_BY_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_OUR_DOF_WITH_ENEMY_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_OUR_DOF_WITH_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_DENOUNCED_ENEMY_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TOO_SOON_FOR_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TOO_SOON_FOR_DOF%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOF_AI_DENOUNCE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOF_AI_DENOUNCE_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOF_AI_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOF_AI_WAR_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOF_NOT_HONORED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOF_NOT_HONORED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_AI_DOF_BACKSTAB</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DENOUNCING_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_RESPONSE_TO_BEING_DENOUNCED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_TO_BEING_DENOUNCED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DOFED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DOFED_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DOFED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DOFED_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCED_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCED_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DOF_SO_AI_DOF%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCE_SO_AI_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DOF_SO_AI_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DENOUNCE_SO_AI_DOF%</Response>
+		</Row>
+		<!-- General Diplo Text -->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_PROTECTED_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_PROTECTED_CITY_STATE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_EXPANSION_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_EXPANSION_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_EXPANSION_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_EXPANSION_BROKEN_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PLOT_BUYING_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PLOT_BUYING_SERIOUS_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PLOT_BUYING_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PLOT_BUYING_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PLOT_BUYING_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PLOT_BUYING_BROKEN_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_WE_ATTACKED_YOUR_MINOR%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WE_ATTACKED_YOUR_MINOR%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WORK_WITH_US</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DEC_FRIENDSHIP%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_WARMONGER</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_MINORS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_MINORS</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_LAND</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_WONDERS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_WONDERS</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_VICTORY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_VICTORY</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_DEFAULT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_WITH_US_DEFAULT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_END_WORK_AGAINST_SOMEONE_DEFAULT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_END_WORK_AGAINST_SOMEONE_DEFAULT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_COOP_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_COOP_WAR_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_COOP_WAR_TIME</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_COOP_WAR_TIME%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_NOW_UNFORGIVABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_NOW_UNFORGIVABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_NOW_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_NOW_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_COMPLIMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_LEADER_HECATIA_COMPLIMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_BOOT_KISSING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_BOOT_KISSING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WARMONGER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_MINOR_CIV_COMPETITION</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_MINOR_CIV_COMPETITION%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PLEASED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_THANKFUL</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_THANKFUL%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DISAPPOINTED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_DISAPPOINTED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SO_BE_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_SO_BE_IT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_RETURNED_CIVILIAN</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RETURNED_CIVILIAN%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_CULTURE_BOMBED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_CULTURE_BOMBED%</Response>
+		</Row>
+		<!-- Insults -->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_LEADER_HECATIA</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_LEADER_HECATIA%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_NUKE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_NUKE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_BULLY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_BULLY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_UNHAPPINESS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_UNHAPPINESS%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_CITIES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_POPULATION</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_POPULATION%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_INSULT_CULTURE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_INSULT_CULTURE%</Response>
+		</Row>
+		<!--Public Declarations-->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DECLARATION_PROTECT_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DECLARATION_PROTECT_CITY_STATE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DECLARATION_ABANDON_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DECLARATION_ABANDON_CITY_STATE%</Response>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_REPEAT_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_REPEAT_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DONT_SETTLE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DONT_SETTLE_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DONT_SETTLE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DONT_SETTLE_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WORK_WITH_US_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WORK_WITH_US_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WORK_WITH_US_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WORK_AGAINST_SOMEONE_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_COOP_WAR_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_COOP_WAR_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_COOP_WAR_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_COOP_WAR_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_COOP_WAR_SOON%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_WEAK</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_WEAK%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_TOO_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_DEMAND_REFUSE_TOO_SOON%</Response>
+		</Row>
+		<!-- Deal Offers and related -->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOT_DOT_DOT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOT_DOT_DOT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_LETS_HEAR_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_LETS_HEAR_IT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PEACE_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PEACE_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DEMAND%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_REQUEST_ITEM%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_LUXURY_TRADE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_OPEN_BORDERS_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_OPEN_BORDERS_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PLAN_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PLAN_RESEARCH_AGREEMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_RESEARCH_AGREEMENT_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESEARCH_AGREEMENT_OFFER%</Response>
+		</Row>
+		<!-- Trade Dialogue -->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_GENEROUS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_GENEROUS%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_ACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_ACCEPTABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_AI_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_AI_DEMAND%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_HUMAN_CONCESSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_ACCEPT_HUMAN_CONCESSIONS%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_REJECT_UNACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_REJECT_UNACCEPTABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_REJECT_INSULTING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_REJECT_INSULTING%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_DEAL_UNCHANGED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_DEAL_UNCHANGED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_AI_MAKES_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_AI_MAKES_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_NO_DEAL_POSSIBLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_NO_DEAL_POSSIBLE%</Response>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_WEAK_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_WEAK_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_STRONG_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_SAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_SAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_BETRAYED%</Response>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_LEADER_HECATIA</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_LEADER_HECATIA%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_ATTACKED_MILITARY_PROMISE_BROKEN</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_ATTACKED_MILITARY_PROMISE_BROKEN%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_LAND%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_WORLD_CONQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_WORLD_CONQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_OPPORTUNITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_OPPORTUNITY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_DESPERATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_DESPERATE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_BETRAYAL%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_WEAK_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_WEAK_BETRAYAL%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_DOW_REGRET</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_DOW_REGRET%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WAR_DEMAND_REFUSED</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WAR_DEMAND_REFUSED%</Response>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PEACE_WHAT_WILL_HUMAN_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PEACE_WHAT_WILL_HUMAN_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_PEACE_MADE_BY_HUMAN_GRACIOUS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_PEACE_MADE_BY_HUMAN_GRACIOUS%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_NO_PEACE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TOO_SOON_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TOO_SOON_NO_PEACE%</Response>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_AGGRESSIVE_MILITARY_WARNING_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_AGGRESSIVE_MILITARY_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_WE_ATTACKED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_WE_ATTACKED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WE_ATTACKED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_ATTACKED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_KILLED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_EXPANSION_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_PLOT_BUYING_WARNING_GOOD%</Response>
+		</Row>-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_WE_BULLIED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HOSTILE_WE_BULLIED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_WE_BULLIED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_BULLIED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_GREETING_WILL_ACCEPT_SURRENDER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_GREETING_WILL_ACCEPT_SURRENDER%</Response>
+		</Row>
+		<!--Espionage-->
+		-<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_CAUGHT_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_CAUGHT_YOUR_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_KILLED_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_KILLED_YOUR_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_CONFRONT_YOU_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_CONFRONT_YOU_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SUSPECT_YOU_OF_SPYING</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_CAUGHT_YOUR_SPY_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_CAUGHT_YOUR_SPY_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_STOP_SPYING_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_STOP_SPYING_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_STOP_SPYING_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_STOP_SPYING_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_WARNED_ABOUT_INTRIGUE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_WARNED_ABOUT_INTRIGUE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_DECEPTION</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_DECEPTION%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_STOP_CONVERSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_STOP_CONVERSIONS%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_STOP_CONVERSIONS_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_HUMAN_STOP_CONVERSIONS_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_TRADE_CANT_MATCH_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_TRADE_CANT_MATCH_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE%</Response>
+		</Row> -<Row LeaderType="LEADER_HECATIA">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_HECATIA_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_HECATIA_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_HECATIA_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_HECATIA_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_HECATIA_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_HECATIA_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_AI_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_HECATIA_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_HECATIA_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_HECATIA_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_HECATIA_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_HECATIA_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_HECATIA_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+		<!--Leagues-->
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_HECATIA_WE_LIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_HECATIA_WE_DISLIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_HECATIA_HUMAN_SUPPORTED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_HECATIA_HUMAN_FOILED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="HECATIA">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_HECATIA_HUMAN_SUPPORTED_OUR_HOSTING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

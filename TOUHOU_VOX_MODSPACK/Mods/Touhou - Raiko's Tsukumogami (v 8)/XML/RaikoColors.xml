@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/6/2017 1:11:33 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_TSUKUMOGAMI_BACKGROUND</Type>
+			<Red>0.5216</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_TSUKUMOGAMI_ICON</Type>
+			<Red>0.7922</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TSUKUMOGAMI</Type>
+			<PrimaryColor>COLOR_PLAYER_TSUKUMOGAMI_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_TSUKUMOGAMI_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

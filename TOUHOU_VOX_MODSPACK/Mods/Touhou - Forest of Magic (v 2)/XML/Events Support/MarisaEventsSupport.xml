@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/31/2014 12:59:28 PM -->
+<GameData>
+	<EventsAddin_Support>
+		<Row>
+			<FileName>MarisaEvents.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+</GameData>

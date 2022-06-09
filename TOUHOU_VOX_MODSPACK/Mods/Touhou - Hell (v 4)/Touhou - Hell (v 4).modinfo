@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="946ca5e1-b1a3-4055-a912-ca9e10f397aa" version="4">
+  <Properties>
+    <Name>Touhou - Hell</Name>
+    <Teaser>Adds Hell from Touhou Project as a playable civilization, led by Hecatia Lapislazuli.</Teaser>
+    <Description>Adds Hell from Touhou Project as a playable civilization, led by Hecatia Lapislazuli from Touhou Kanjuuden ~ Legacy of Lunatic Kingdom.</Description>
+    <Authors>Smooglii</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>3</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="924E9CD701BBC5BDA793E0298A0E42B5" import="1">Art/JunkoGrudge.dds</File>
+    <File md5="55C0221896AF9CCF255F613EE66C162C" import="1">Art/Longswordsman_China_v2.blend</File>
+    <File md5="B2DC6C97163D38674AB6A35CDAC76731" import="1">Art/Longswordsman_China_v2.dds</File>
+    <File md5="670504FB6585A572587F06B76716F650" import="1">Art/Longswordsman_China_v2.fxsxml</File>
+    <File md5="32E0CECA32DD2DBF2202C74A3A7F2DAC" import="1">Art/Longswordsman_China_v2.gr2</File>
+    <File md5="5FF361F5C7F6F236EBF41CCF245001A9" import="1">Art/Longswordsman_China_v2_gloss.dds</File>
+    <File md5="E227DEBF59E42EDCCF11D90E7C77EFC1" import="1">Art/ThHellAlphaAtlas16.dds</File>
+    <File md5="24233D796996966B20BDA27180616181" import="1">Art/ThHellAlphaAtlas24.dds</File>
+    <File md5="9B9C21DA82C3AA0C26827A127EC3D7AB" import="1">Art/ThHellAlphaAtlas32.dds</File>
+    <File md5="64FDBA552B990EA60DEB17EC1342972A" import="1">Art/ThHellAlphaAtlas48.dds</File>
+    <File md5="887581AB69C8EE5C2DB3A8483ED81426" import="1">Art/ThHellAlphaAtlas64.dds</File>
+    <File md5="752FEE3CCD2DF4679F1F7CE3DB84E302" import="1">Art/ThHellHecatiamap.dds</File>
+    <File md5="D492C64400FD8C3F0B6E56EC8640ACEA" import="1">Art/ThHellHecatiadiplo.dds</File>
+    <File md5="76958E728556722CA4B27884759BF5D7" import="1">Art/ThHellHecatiaDOM.dds</File>
+    <File md5="4FA1BA329AEB55613DFA74712EED7287" import="1">Art/ThHellAtlas128.dds</File>
+    <File md5="E241A5E0730C58DEA11520130F1D128E" import="1">Art/ThHellAtlas256.dds</File>
+    <File md5="B9C0B80CC19D8B66D3F636449303B507" import="1">Art/ThHellAtlas32.dds</File>
+    <File md5="3A2741326E1529139B313E722C17A08F" import="1">Art/ThHellAtlas45.dds</File>
+    <File md5="6D5321924F5BDFBED96421F167CBC4A7" import="1">Art/ThHellAtlas64.dds</File>
+    <File md5="C8B1F8EC0BCDC0DD17AFAD6D447BF2DC" import="1">Art/ThHellAtlas80.dds</File>
+    <File md5="AAE52D77EC47F394FEB25F7436A11C00" import="1">Art/ThHellSVYama.dds</File>
+    <File md5="269337FE0F28D0A0B8A64CF42577C07C" import="1">Lua/ThHellTrinitarian.lua</File>
+    <File md5="4687B3F40E3894EA157237278A7C909A" import="1">Music/ThHellPeace.mp3</File>
+    <File md5="861A493CF6B1A9B62DCC866B0D30C706" import="1">Music/ThHellWar.mp3</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Support/Sukritact_SaveUtils.lua</File>
+    <File md5="D87A38DB1938E6AA631F2304FB9DC08F" import="1">Support/ThHellDecisions.lua</File>
+    <File md5="40DEDB05A4E81A43DC48740C2CA72C5E" import="1">Support/ThHellEvents.lua</File>
+    <File md5="50A79C58038612733F3A4B7ED00AEAFD" import="0">Support/ThHellEventsandDecisions.xml</File>
+    <File md5="63F659352497D6FCCE4759DA39EC6AD1" import="0">Support/ThHellSupport.sql</File>
+    <File md5="420C8C783D063880951F258F9CFB97B3" import="0">Support/ThHellUniqueCulturalInfluence.xml</File>
+    <File md5="EB848AABA7926D3BBE1F551BE8915DD3" import="0">XML/ThHellGameText.xml</File>
+    <File md5="052BB256E79B862C18C4AAA6B5512611" import="0">XML/ThHellMusic.xml</File>
+    <File md5="0F8317A13A88C5D863D406D0425F79AD" import="0">XML/ThHellAtlas.xml</File>
+    <File md5="BAD25776EED844D0EC5AB29EAAC8F970" import="0">XML/ThHellBuilding.xml</File>
+    <File md5="3B186D5ECB621E33DD2E1A25E81B5697" import="1">XML/ThHellHecatiaScene.xml</File>
+    <File md5="23A3A30330F415E088F490A0BC99439A" import="0">XML/ThHellTrait.xml</File>
+    <File md5="452A27B953353B2F08807EE925176D94" import="0">XML/ThHellCivilization.xml</File>
+    <File md5="9140EF24B48E0F9898BD3D62FB0B66D9" import="0">XML/ThHellLeader.xml</File>
+    <File md5="49DF7D36A11CB70CDD3B1EA062780FE1" import="0">XML/ThHellUnit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/ThHellCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellBuilding.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellUnit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellHecatiaScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ThHellGameText.xml</UpdateDatabase>
+      <UpdateDatabase>Support/ThHellSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/ThHellUniqueCulturalInfluence.xml</UpdateDatabase>
+      <UpdateDatabase>Support/ThHellEventsandDecisions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ThHellTrinitarian.lua">
+      <Name>Trinitarian</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2017 11:22:54 PM -->
+<GameData>
+	<Audio_Sounds>
+
+		<!--Raiko Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_RAIKO_PEACE</SoundID>
+			<Filename>IllusionaryJoururi</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_RAIKO_WAR</SoundID>
+			<Filename>PrimordialBeat</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Raiko Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Raiko Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_RAIKO_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_RAIKO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_RAIKO_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_RAIKO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Raiko Music-->
+	</Audio_2DSounds>
+</GameData>

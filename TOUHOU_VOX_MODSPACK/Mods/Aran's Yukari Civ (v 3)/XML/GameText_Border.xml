@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 2:17:57 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Border Civ Texts-->
+		<Row Tag="TXT_KEY_CIV_BORDER_DESC">
+			<Text>Formless Domain of the Boundary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BORDER_SHORT_DESC">
+			<Text>Boundary&apos;s Domain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BORDER_ADJECTIVE">
+			<Text>Border</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BORDER_DAWN_TEXT">
+			<Text>The Domain is formless, endless, and within it lie all that has happened, that is happening, and that will happen.  Everything inside is both unique and identical at once, just as everything on Earth is different, yet part of the same world.  This split but singular aspect is what defines the Domain.  This is what the youkai Yakumo Yukari holds.  Within the chaos and disorder in this world, she has decided to call forth the Domain to unify those that are now separate.  It grows daily, accepting tens of thousands of beings from across all borders and all dimensions, garnering followers even here on Earth.[NEWLINE][NEWLINE]Now you, Yakumo Yukari, leader and creator of the Domain, are tasked with building and directing them towards their victory.  Now is the time; tear every border down.  There shall only be one, unified boundary.</Text>
+		</Row>
+
+		<!-- Border Civ Pedia Texts-->
+		<Row Tag="TXT_KEY_CIV_BORDER_PEDIA_HEADING_1">
+			<Text>The Domain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BORDER_PEDIA_TEXT_1">
+			<Text>The game has begun!  Yukari has started yet another one of her many games and has invited all in Gensokyo to join in the quest for glory and prestige.  Joining is simple, applicants create their own nation by filling out their form and posting it on their front door/porch/hill/cave/tree.  The purpose for this game is again, unknown, but who cares?  The prize for winning this competition of strategy, wit, and leadership is a favor from Yukari herself!  With that incentive, it seems few will be left out of the game.[NEWLINE][NEWLINE]Created by the gap youkai Yakumo Yukari, the Domain of the Boundary has sit dormant for hundreds of years, silently watching and waiting.  Now, the time has come for them to rise up to fulfill their duty under their leader.</Text>
+		</Row>
+
+		<!-- Leader Yukari Yakumo-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI">
+			<Text>Yakumo Yukari</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Leader Yukari Yakumo Pedia Texts-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_NAME">
+			<Text>Yakumo Yukari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_SUBTITLE">
+			<Text>Youkai That Lurks in the Boundary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_TITLES_1">
+			<Text>Border of Phantasm</Text>
+		</Row>
+		<!-- Changed to Legacy of a Different Gensokyo -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_TITLES_2">
+			<Text>The Dragon of the West</Text>
+		</Row>
+		<!-- Based on my headcanon (LoaDG), it's actually 2002(Meribel) -> 1021(Mari [Dragon of the West]) - present(Yukari) -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_LIVED">
+			<Text>???-???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_TEXT_1">
+			<Text>The being that manipulates the borders of anything and everything.  Uncanny and enigmatic, the actions of Yukari and her two shikigami rarely seem to make sense at first glance.  Extremely secretive in her elaborate plans and strategies, she may appear friendly and cooperative, until you find yourself consumed without warning by her boundaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_HEADING_2">
+			<Text>Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUKARI_TEXT_2">
+			<Text>Her age is not canon, but probably true.  Additional information or flavor text is influenced by my headcanon and story, Legacy of a Different Gensokyo, or is made up on the spot XD.</Text>
+		</Row>
+
+		<!-- Border Civ Trait Text-->
+		<Row Tag="TXT_KEY_TRAIT_YOUKAI_OF_THE_BORDER">
+			<Text>All units gain +2% [ICON_STRENGTH] Strength for every 3 tiles that border a foreign civilization/city state.  Takes 1 turn to update.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_YOUKAI_OF_THE_BORDER_SHORT">
+			<Text>Great Youkai of the Boundaries</Text>
+		</Row>
+
+		<!-- Border Civ Promotions Text -->
+		<Row Tag="TXT_KEY_PROMOTION_GAPPORTALS">
+			<Text>Gap Portals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAPPORTALS_HELP">
+			<Text>Can jump 5 tiles away from friendly territory.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_BLESSINGS_OF_THE_BORDER">
+			<Text>Blessings of the Border Youkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLESSINGS_OF_THE_BORDER_HELP">
+			<Text>+__% [ICON_STRENGTH] Strength.  Currently [COLOR_POSITIVE_TEXT]__[ENDCOLOR] tiles border other nations.</Text>
+		</Row>
+
+		<!-- Border Civ Gap Generator Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_GAP_GENERATOR">
+			<Text>Gap Generator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GAP_GENERATOR_PEDIA">
+			<Text>The entire basis of the Domain centers around the Gap, so it was obvious that the Domain would take control of such a powerful tool.  Previously only usable by Yakumo Yukari, Gaps were used for instantaneous movement throughout the known reality, providing gateways to many different dimensions and universes.  Eventually, under the supervision of the border youkai herself, many enlightened beings learned to produce Gaps themselves.  This lead to the construction of the Gap Generators, enormous Gaps built in the heart of every city that linked up to form the Gap Transportation Network, allowing all to benefit from the Gaps’ power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GAP_GENERATOR_STRATEGY">
+			<Text>The Gap Generator is the Domain&apos;s second unique building, replacing the Airport.  The Generator provides instant transportation and communication between cities, increasing [ICON_CULTURE] Culture and [ICON_GREAT_PEOPLE] Great People generation by 10% and allowing most units to Airdrop to other Generators/Airports.  Through this portal, the boundaries of the Domain spread ever outwards, reducing the amount of [ICON_CULTURE] Culture required to acquire the next city tile by 50%.  It also provides +2 [ICON_HAPPINESS_1] Happiness because instant transportation is amazing.  After the discovery of Radar, the Gap Generator serves as the focal point for an actual airport, providing +2 [ICON_CULTURE] Culture and +1 [ICON_TOURISM] Tourism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GAP_GENERATOR_HELP">
+			<Text>Transportation building that increases [ICON_HAPPINESS_1] Happiness, [ICON_CULTURE] Culture, and [ICON_GREAT_PEOPLE] Great People generation while allowing certain units to Airdrop to other Generators/Airports.  Lowers [ICON_CULTURE] Culture cost of new tiles by 50%.  After Radar, also grants additional [ICON_CULTURE] Culture and some [ICON_TOURISM] Tourism.</Text>
+		</Row>
+
+		<!-- Border Civ Gap Armory Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_GAP_ARMORY">
+			<Text>Gap Armory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GAP_ARMORY_PEDIA">
+			<Text>At first only usable by Yakumo Yukari, the Gap was something that many enlightened beings in the Domain strove to achieve.  With the development of reliable research methods, these beings succeeded in creating the first Gaps made by someone other than Yukari herself.  They then produced the portable self-Gapping device.  Drawing on the spirit energy of the user, this allowed any member of the Domain access to a transportation Gap link to wherever they pleased, provided that their destination was somewhere not too far away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GAP_ARMORY_STRATEGY">
+			<Text>The Gap Armory is the Domain&apos;s first unique building, replacing the Armory.  The Gap Armory is very expensive compared to the regular Armory, costing vastly more [ICON_PRODUCTION] Production and [ICON_GOLD] Gold to build and maintain, even though it gives only half the experience.  Regardless of its cost, granting every unit the ability to jump from friendly lands into advanced combat positions or hard-to-reach enemy territories is extremely useful.  This building spreads the Domain&apos;s influence, reducing the [ICON_CULTURE] Culture cost of new tiles by 15%.  Build only in your unit production cities to mitigate its cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GAP_ARMORY_HELP">
+			<Text>+7 exp to all units.  Grants the Gap Portals promotion to all units.  Lowers [ICON_CULTURE] Culture cost of new tiles by 15%.</Text>
+		</Row>
+
+		<!-- Border Civ City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_1">
+			<Text>Yukari&apos;s Domain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_2">
+			<Text>The Yakumo Family Domain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_3">
+			<Text>Boundary of Day and Night</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_4">
+			<Text>Boundary of Reality and Fantasy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_5">
+			<Text>Boundary of Humans and Youkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_6">
+			<Text>Boundary of 2D and 3D</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_7">
+			<Text>Boundary of Form and Emptiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_8">
+			<Text>Boundary of Wave and Particle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_9">
+			<Text>Boundary of Strong and Weak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_10">
+			<Text>Boundary of Energy and Mass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_11">
+			<Text>Boundary of Hot and Cold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_12">
+			<Text>Boundary of Long and Short</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_13">
+			<Text>Boundary of Water and Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_14">
+			<Text>Boundary of Feeling and Numbness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_15">
+			<Text>Boundary of Life and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_16">
+			<Text>Boundary of Male and Female</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_17">
+			<Text>Boundary of Dreams and Reality</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_18">
+			<Text>Boundary of the Mind and Soul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_19">
+			<Text>Boundary of Good and Evil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BORDER_20">
+			<Text>Boundary of Victory and Defeat</Text>
+		</Row>
+
+		<!-- Border Civ Spy Names -> Generally shout outs (don't sue me), breaking the border between universes :D.  Ran and Chen aren't here because I'm thinking about making a civ for them way in the future.-->
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_0">
+			<Text>Sukuwa Reta</Text>
+			<Gender>feminine</Gender>
+			<!-- Legacy of a Different Gensokyo -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_1">
+			<Text>Rikka Takanashi</Text>
+			<Gender>feminine</Gender>
+			<!--  Love, Chunibyo & Other Delusions! -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_2">
+			<Text>Homura Akemi</Text>
+			<Gender>feminine</Gender>
+			<!-- Puella Magi Madoka Magica -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_3">
+			<Text>Shiro</Text>
+			<Gender>feminine</Gender>
+			<!-- No Game No Life -->
+			<!-- Replaced Keiko "Silica" Ayano from Sword Art Online -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_4">
+			<Text>Saginomiya Isumi</Text>
+			<Gender>feminine</Gender>
+			<!-- Hayate the Combat Butler -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_5">
+			<Text>Kazari Uiharu</Text>
+			<Gender>feminine</Gender>
+			<!-- A Certain Scienific Railgun -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_6">
+			<Text>Tenri Ayukawa</Text>
+			<Gender>feminine</Gender>
+			<!-- The World God Only Knows -->
+			<!-- Replaced Ayumi Takahara -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_7">
+			<Text>Momiji Binboda</Text>
+			<Gender>feminine</Gender>
+			<!-- Binbougami-Ga! -->
+			<!-- Replaced Haruna from Arpeggio of Blue Steel-->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_8">
+			<Text>Ryuko Matoi</Text>
+			<Gender>feminine</Gender>
+			<!-- Kill la Kill -->
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BORDER_9">
+			<Text>Chiyo Sakura</Text>
+			<Gender>feminine</Gender>
+			<!-- Monthly Girls' Nozaki-kun -->
+			<!-- Replaced Akatsuki from Log Horizon-->
+		</Row>
+	</Language_en_US>
+</GameData>

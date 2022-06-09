@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/20/2015 1:15:47 PM -->
+<GameData>
+	<Audio_2DSounds>
+		<!-- Normal Music -->
+		<Row>
+			<ScriptID>SONG_BORDER_PEACE_1</ScriptID>
+			<SoundID>SND_BORDER_PEACE_01</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_BORDER_PEACE_2</ScriptID>
+			<SoundID>SND_BORDER_PEACE_02</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_BORDER_PEACE_3</ScriptID>
+			<SoundID>SND_BORDER_EITHER_01</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_BORDER_WAR_1</ScriptID>
+			<SoundID>SND_BORDER_WAR_01</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>55</MinVolume>
+			<MaxVolume>55</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_BORDER_WAR_2</ScriptID>
+			<SoundID>SND_BORDER_WAR_02</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>47</MinVolume>
+			<MaxVolume>47</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>SONG_BORDER_WAR_3</ScriptID>
+			<SoundID>SND_BORDER_EITHER_01</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

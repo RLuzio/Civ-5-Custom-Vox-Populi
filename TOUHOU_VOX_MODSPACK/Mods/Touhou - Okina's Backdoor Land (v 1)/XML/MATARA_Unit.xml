@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2019-03-12 오전 1:41:26 -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_PIKEMAN</Class>
+			<Type>UNIT_MATARA_DANCER_GAP</Type>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<Combat>16</Combat>
+			<Cost>90</Cost>
+			<FaithCost>180</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MATARA_DANCER_GAP_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_MATARA_DANCER_GAP_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MATARA_DANCER_GAP_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_MATARA_DANCER_GAP_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>3</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_U_ZULU_IMPI_WARRIOR</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>10</UnitFlagIconOffset>
+			<IconAtlas>MATARA_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_GREAT_GENERAL</Class>
+			<Type>UNIT_MATARA_DANCER_EUL</Type>
+			<Cost>-1</Cost>
+			<Moves>5</Moves>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_GENERAL</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MATARA_DANCER_EUL_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_MATARA_DANCER_GAP_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MATARA_DANCER_EUL_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_MATARA_DANCER_EUL_HELP</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<GoldenAgeTurns>8</GoldenAgeTurns>
+			<UnitArtInfo>ART_DEF_UNIT_GENERAL_KHAN</UnitArtInfo>
+			<IconAtlas>MATARA_COLOR_ATLAS</IconAtlas>
+			<UnitFlagIconOffset>90</UnitFlagIconOffset>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_EUL</UnitType>
+			<UnitAIType>UNITAI_GENERAL</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_EUL</UnitType>
+			<BuildType>BUILD_CITADEL</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MAI_LIFE_DANCE</Type>
+			<Description>TXT_KEY_PROMOTION_MAI_LIFE_DANCE</Description>
+			<Help>TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<EnemyHealChange>20</EnemyHealChange>
+			<NeutralHealChange>20</NeutralHealChange>
+			<FriendlyHealChange>20</FriendlyHealChange>
+			<AdjacentTileHealChange>20</AdjacentTileHealChange>
+			<GreatGeneralModifier>20</GreatGeneralModifier>
+			<GreatGeneral>true</GreatGeneral>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MAI_LIFE_DANCE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SATONO_SPIRIT_DANCE</Type>
+			<Description>TXT_KEY_PROMOTION_SATONO_SPIRIT_DANCE</Description>
+			<Help>TXT_KEY_PROMOTION_MEDIC_GENERAL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<EnemyHealChange>10</EnemyHealChange>
+			<NeutralHealChange>10</NeutralHealChange>
+			<FriendlyHealChange>10</FriendlyHealChange>
+			<AdjacentTileHealChange>10</AdjacentTileHealChange>
+			<GreatGeneral>true</GreatGeneral>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SATONO_SPIRIT_DANCE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<PromotionType>PROMOTION_MAI_LIFE_DANCE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<PromotionType>PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_EUL</UnitType>
+			<PromotionType>PROMOTION_SATONO_SPIRIT_DANCE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_MATARA_DANCER_GAP</UnitType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>100</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_DESC">
+			<Text>Dancer Alpha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_DESC">
+			<Text>Dancer Beta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_HELP">
+			<Text>Specialized in defeating Knights and other mounted units. Only the Backdoor may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_HELP">
+			<Text>Replace Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_STRATEGY">
+			<Text>Capable of drawing out people's vitality by dancing behind them</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_STRATEGY">
+			<Text>Capable of drawing out people's mental energy by dancing behind them</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_PEDIA">
+			<Text>A pair whose purpose is to draw out the latent abilities of all things. Okina's subordinates. They used to be regular human children, but due to Okina's magic power, they're becoming less and less human. They hardly have any memory of their time as humans, and they dance in joyful madness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAI_LIFE_DANCE">
+			<Text>Dance of Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SATONO_SPIRIT_DANCE">
+			<Text>Dance of Spirit</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_DESC">
+			<Text>댄서 갑</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_DESC">
+			<Text>댄서 을</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_HELP">
+			<Text>장창병을 대신하는 후호의 고유유닛입니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_HELP">
+			<Text>위대한 장군을 대신하는 후호의 고유유닛입니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_STRATEGY">
+			<Text>뒤에서 춤추는 것으로 생명력을 끌어내는 정도의 능력</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_STRATEGY">
+			<Text>뒤에서 춤추는 것으로 정신력을 끌어내는 정도의 능력</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_PEDIA">
+			<Text>모든 것의 잠재력을 끌어내기 위한 두 사람. 오키나의 부하이다. 그들은 원래 인간의 자식이었지만 오키나의 마력에 의해 사람이 아니게 되었다. 인간이었던 시절의 기억은 거의 없으며 즐겁게 춤출뿐이다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAI_LIFE_DANCE">
+			<Text>생명의 춤</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SATONO_SPIRIT_DANCE">
+			<Text>정신의 춤</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_DESC">
+			<Text>ダンサー‎甲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_DESC">
+			<Text>ダンサー‎乙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_HELP">
+			<Text>長槍兵に代わる後戸の国のUUです。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_HELP">
+			<Text>大将軍に代わる後戸の国のUUです。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_STRATEGY">
+			<Text>後ろで踊る事で生命力を引き出す程度の能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_EUL_STRATEGY">
+			<Text>後ろで踊る事で精神力を引き出す程度の能力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATARA_DANCER_GAP_PEDIA">
+			<Text>あらゆるものの潜在能力を引き出すための二人。隠岐奈の部下である。彼女達は元は普通の人間の子供だが、隠岐奈の魔力により人間では無くなっている。人間だった頃の記憶は殆ど無く、楽しく踊り狂っている。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAI_LIFE_DANCE">
+			<Text>命の舞</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SATONO_SPIRIT_DANCE">
+			<Text>精神の舞</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

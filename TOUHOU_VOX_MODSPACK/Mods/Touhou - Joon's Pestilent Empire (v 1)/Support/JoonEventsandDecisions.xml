@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/2/2019 6:06:19 PM -->
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>JoonDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_PESTILENCE_LOAN_SHARK">
+			<Text>Implement Loan Sharking Methods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PESTILENCE_LOAN_SHARK_DESC">
+			<Text>
+				Our debts are too easily paid off. We should add a ridiculously high interest rate to unpaid debts, so that more people will be stuck in poverty hell![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Pestilence
+				[NEWLINE][ICON_BULLET]Must have researched Economics
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your unique ability now has a 20% interest rate for debts that were not paid
+				[NEWLINE][ICON_BULLET]+10% [ICON_GOLD] Gold from Swindlers&apos; Guilds
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PESTILENCE_LOAN_SHARK_ENACTED_DESC">
+			<Text>
+				Our debts are too easily paid off. We should add a ridiculously high interest rate to unpaid debts, so that more people will be stuck in poverty hell![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your unique ability now has a 20% interest rate for debts that were not paid
+				[NEWLINE][ICON_BULLET]+10% [ICON_GOLD] Gold from Swindlers&apos; Guilds
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_LOAN_SHARK_DUMMY">
+			<Text>Implemented Loan Sharking Methods</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_DECISIONS_PESTILENCE_WELCOME">
+			<Text>Welcome Everyone to the World of Destitution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PESTILENCE_WELCOME_DESC">
+			<Text>
+				Now that we have met with every civilization in the world, let us welcome them to the world of destitution![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Pestilence
+				[NEWLINE][ICON_BULLET]Must have met every civilization currently in the game
+				[NEWLINE][ICON_BULLET]May not be enacted after the end of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All other civilizations currently in the game will give you all of their [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PESTILENCE_WELCOME_ENACTED_DESC">
+			<Text>
+				Now that we have met with every civilization in the world, let us welcome them to the world of destitution![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All other civilizations currently in the game will give you all of their [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_WELCOME_TEXT">
+			<Text>
+				[COLOR_NEGATIVE_TEXT]Welcome to the World of Destitution[ENDCOLOR]
+				[NEWLINE][NEWLINE]Yorigami Joon greets you to the world of destitution by taking all of your [ICON_GOLD] Gold!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_WELCOME_TITLE">
+			<Text>Welcome to the World of Destitution</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

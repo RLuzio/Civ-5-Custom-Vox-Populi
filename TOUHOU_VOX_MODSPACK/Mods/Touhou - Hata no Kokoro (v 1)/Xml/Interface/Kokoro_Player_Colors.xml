@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:37:35 PM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MASQUERADE</Type>
+			<PrimaryColor>COLOR_MASQUERADE_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_MASQUERADE_LAND</SecondaryColor>
+			<TextColor>COLOR_MASQUERADE_BORDER</TextColor>
+		</Row>
+	</PlayerColors>
+
+</GameData>

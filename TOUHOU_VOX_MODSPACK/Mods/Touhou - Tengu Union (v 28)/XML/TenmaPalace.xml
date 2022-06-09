@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2017 3:50:10 PM -->
+<GameData>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TOUHOU_TENGU</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<BuildingType>BUILDING_PALACE_TENMA</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/17/2016 1:07:10 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_WORKER</Class>
+			<Type>UNIT_CENTIPEDE_MINER</Type>
+			<Cost>50</Cost>
+			<Moves>3</Moves>
+			<Capture>UNITCLASS_WORKER</Capture>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CENTIPEDE_MINER_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_CENTIPEDE_MINER_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CENTIPEDE_MINER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_CENTIPEDE_MINER_HELP</Help>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<WorkRate>150</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__WORKER</UnitArtInfo>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<UnitArtInfoEraVariation>false</UnitArtInfoEraVariation>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>OOMUKADE_COLOR_ATLAS</IconAtlas>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Builds>
+		<Row>
+			<Type>BUILD_MINE_ASAP</Type>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<Description>TXT_KEY_BUILD_MINE</Description>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_N</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>22</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CENTIPEDE_BLAST</Type>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Description>TXT_KEY_BUILD_CENTIPEDE_BLAST</Description>
+			<Help>TXT_KEY_BUILD_REMOVE_FEATURE_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_REMOVE_FEATURE_HELP</Recommendation>
+			<EntityEvent>ENTITY_EVENT_CHOP</EntityEvent>
+			<HotKey>KB_C</HotKey>
+			<OrderPriority>50</OrderPriority>
+			<AltDown>1</AltDown>
+			<IconIndex>31</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_CENTIPEDE_BLAST</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Production>60</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CENTIPEDE_BLAST</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Production>60</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CENTIPEDE_BLAST</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Production>60</Production>
+			<Remove>true</Remove>
+		</Row>
+
+		<Row>
+			<BuildType>BUILD_MINE_ASAP</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Production>60</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MINE_ASAP</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Production>60</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MINE_ASAP</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Production>60</Production>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_ROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_RAILROAD</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_FARM</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_MINE_ASAP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_TRADING_POST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_LUMBERMILL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_PASTURE</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_CAMP</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_PLANTATION</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_QUARRY</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_WELL</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_FORT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_CENTIPEDE_BLAST</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_SCRUB_FALLOUT</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_REPAIR</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<BuildType>BUILD_REMOVE_ROUTE</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<PromotionType>PROMOTION_ALTITUDE_TRAINING</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CENTIPEDE_MINER</UnitType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_DESC'>
+			<Text>Miner</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_STRATEGY'>
+			<Text>Mining engineers use the principles of math and science to develop economical solutions to technical problems for miners. In most cases, a bachelor's degree in engineering, mining engineering or geological engineering is required. Because technology is constantly changing, miners and mining engineers need to continue their education. </Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_HELP'>
+			<Text>Replaces Worker. They are can build mines ASAP.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_PEDIA'>
+			<Text>A miner is a person who extracts ore, coal, chalk, clay, or other minerals from the earth through mining. There are two senses in which the term is used. In its narrowest sense, a miner is someone who works at the rock face; cutting, blasting, or otherwise working and removing the rock. In a broader sense, a "miner" is anyone working within a mine, not just a worker at the rock face.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILD_CENTIPEDE_BLAST'>
+			<Text>Blast</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_DESC'>
+			<Text>광부</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_STRATEGY'>
+			<Text>광산에서 광물을 캐는 채광일을 직업으로 하는 사람을 말한다. 직접 탄을 생산하는 인원에 대하여 '채탄부'나 탄부라고 부르기도 한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_HELP'>
+			<Text>노동자를 대체합니다. 광산을 즉시 건설할 수 있습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_PEDIA'>
+			<Text>노천 광산의 작업과 달리 땅 속에 갱도를 뚫어 작업하는 광부들의 경우 갱도가 무너지거나, 가스 폭발로 인하여 매몰될 위험에 항상 노출된다. 또한 석탄 광산의 광부들은 석탄 가루에 의한 진폐의 일종인 탄광부폐증에 노출되어있다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILD_CENTIPEDE_BLAST'>
+			<Text>발파</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_DESC'>
+			<Text>坑夫</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_STRATEGY'>
+			<Text>落盤も鉱山の安全性の大きな問題の1つである。地下坑道を木材で補強することで落盤事故の危険性は低減されるが、偶発的な事故は発生しうる。狭い坑道で重機を使うことも危険を伴い、安全対策が改善されてきたにも関わらず、採掘作業は相対的に危険な仕事と言える。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_HELP'>
+			<Text>労働者を代替する大百足専用ユニットです。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_CENTIPEDE_MINER_PEDIA'>
+			<Text>鉱業、特に地下掘りの鉱山は常に危険と隣り合わせだったが、現在はかなり安全性が向上している。しかし、鉱山事故が発生すると注目を集める。坑夫にとっては坑道の換気が重要である。地下掘りの鉱山で換気が不十分だと、有毒ガス、熱、塵などの危険にさらされることになり、人体に悪影響を及ぼし、最悪の場合は死に至ることもある。メタンなどの坑道内の空気汚染物質は一般に、換気によって希釈するか、坑道内の空気に混じる前に捕らえて排出するか、遮断壁などで混じらないようにする。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILD_CENTIPEDE_BLAST'>
+			<Text>発破</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

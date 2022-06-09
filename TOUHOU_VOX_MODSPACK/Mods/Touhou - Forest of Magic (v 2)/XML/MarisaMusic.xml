@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2014 12:31:35 PM -->
+<GameData>
+  	<Audio_Sounds>
+
+		<!--Marisa Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_MARISA_PEACE</SoundID>
+			<Filename>MarisaPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_MARISA_WAR</SoundID>
+			<Filename>MarisaWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Marisa Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Marisa Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_MARISA_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MARISA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_MARISA_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MARISA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Marisa Music-->
+	</Audio_2DSounds>
+
+</GameData>

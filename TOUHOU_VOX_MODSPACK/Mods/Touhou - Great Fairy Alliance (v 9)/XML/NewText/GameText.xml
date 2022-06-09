@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2013 3:33:01 AM -->
+<GameData>
+	-<Language_en_US>
+	<!--Civ: Fairy Alliance-->
+	-<Row Tag="TXT_KEY_CIV_FAIRY_DESC">
+		<Text>The Great Fairy Alliance</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_FAIRY_SHORT_DESC">
+		<Text>Fairy Alliance</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_FAIRY_ADJECTIVE">
+		<Text>Fairy</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV_FAIRY_DAWN_TEXT">
+		<Text>All hail Cirno! All hail the strongest and smartest of the fairies![NEWLINE][NEWLINE]Fairies are everywhere in Gensokyo: simple, carefree spirits of nature and seasons who spend their days playing games, pulling pranks on humans, dressing up in silly costumes, or goofing off with their magical powers. When an incident occurs and shrine maidens and magicians start careening through the sky blasting everything, fairies shout "I wanna play too!" and leap into the air, joyously spraying danmaku everywhere. Then they get shot, explode, reassemble a few seconds later, and dash a bit further ahead on the path to do it again! Their childish sense of joy and carefree nature causes most of the humans and youkai of Gensokyo to not take fairies seriously, regarding them as silly at best, nuisances at worst.[NEWLINE][NEWLINE]Well, you&apos;re gonna put a stop to that! It&apos;s high time fairies got some respect around here, and as the strongest fairy, you&apos;re just the one to see it happen! Will the youkai cower in fear at your armies that never stay dead, or will the humans ooh and aah at the beauty of your ice sculptures and nature art? To build a civilization that will stand the test of time, everything is 1, 2, 9!</Text>
+	</Row>
+	<!--Civ: Fairy Alliance - Pedia-->
+	-<Row Tag="TXT_KEY_CIV5_FAIRY_HEADING_1">
+		<Text>The Great Fairy Alliance</Text>
+	</Row> -<Row Tag="TXT_KEY_CIV5_FAIRY_TEXT_1">
+		<Text>Made up, as the name implies, of fairies of all shapes and sizes from around Gensokyo, the Great Fairy Alliance can at times look less like a civilization and more like... like just a random gaggle of fairies that keep happening to run into each other. One might think that a society composed of immortal beings, like fairies are, would accumulate experience and expertise much faster than mortal societies and as such skyrocket ahead of their peers in technological, cultural, and military advancement. However, fairies spend almost all their time playing around and trying to directly command them for any length of time is like herding cats with attention-deficit disorder, so it all balances out. [NEWLINE][NEWLINE] The Alliance is led by Cirno, the self-proclaimed strongest fairy, but not alone: she often gets assistance from her fairy or non-fairy friends, treating the task of leading a civilization as a creative group activity. With assistance from her friends, the youkai firefly Wriggle Nightbug, youkai sparrow Mystia Lorelei, and youkai something-or-other Rumia, the Great Fairy Alliance hopes to bring respect to fairies, bugs, small birds, and whatever-Rumia-ises. [NEWLINE][NEWLINE]The secret of the Alliance, reflecting either great wisdom or great luck on Cirno&apos;s part, is that their society is structured in such a way as to accommodate fairies&apos; childishness; leaving important projects open for them to work on whenever it looks like fun. And really: if someone else conquers most of the planet, or launches a mission to the Moon, or creates a culture that will define the arc of history, and the fairies don&apos;t because they were spending too much time having fun... aren&apos;t they the real winners?</Text>
+	</Row>
+	-<Row Tag="TXT_KEY_RESOURCE_CRAYON">
+		<Text>Crayons</Text>
+	</Row>-<Row Tag="TXT_KEY_CIV5_RESOURCE_CRAYON_TEXT">
+		<Text>Crayons are art utensils made of colored paraffin, beeswax, charcoal, or other material. They are usually safe, non-toxic, cheap, and easy to work with, making them ideal for art projects for children and childlike fairies. They are generated only by the Great Fairy Alliance&apos;s Art Center unique building.</Text>
+	</Row>
+	<!--Leader: Cirno-->
+	-<Row Tag="TXT_KEY_LEADER_CIRNO">
+		<Text>Cirno</Text>
+		<Gender>feminine</Gender>
+	</Row>
+	<!--Leader: Cirno - Pedia-->
+	-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_NAME">
+		<Text>Cirno</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_SUBTITLE">
+		<Text>Ice Fairy Of The Lake</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_TITLES_1">
+		<Text>Unnatural Chill</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_TITLES_2">
+		<Text>Nine-Ball</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_LIVED">
+		<Text>TH06 ~ TH12.8</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_HEADING_1">
+		<Text>About</Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_TEXT_1">
+		<Text>The strongest fairy (she is powerful enough to be a stage 2 boss) as well as the smartest fairy (she can read and knows what fractions are), Cirno is the big metaphorical fish in a very, very small metaphorical pond. Her hobbies mostly center around freezing things with her ice powers and playing with them -- especially flowers and frogs, the latter of which thaw out and start hopping again two thirds of the time! Older beyond her looks and far less wise than her years, Cirno often gets into fights out of boredom or to prove she is, indeed, the strongest. After her house was destroyed by the Three Mischevious Fairies Sunny Milk, Luna Child and Star Sapphire, Cirno got the idea to bring the fairies together to prove the humans shouldn&apos;t take them lightly. She often forgets she&apos;s leading a civilization and just plays around with her ice powers, but that&apos;s okay, because her fairies often forget they&apos;re supposed to be a civilization. </Text>
+	</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_HEADING_2">
+		<Text>Cirno&apos;s Friends</Text>
+	</Row>-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CIRNO_TEXT_2">
+		<Text>Daiyousei (&apos;Big Fairy&apos;) [NEWLINE] Lily White (Fairy of Spring) [NEWLINE] Sunny Milk (Fairy of Light) [NEWLINE] Luna Child (Fairy of Sound) [NEWLINE] Star Sapphire (Fairy of Motion) [NEWLINE] Wriggle Nightbug (Youkai Firefly) [NEWLINE] Mystia Lorelei (Youkai Sparrow) [NEWLINE] Rumia (Youkai of Darkness) [NEWLINE] Letty Whiterock (Yuki-Onna Of Winter)</Text>
+	</Row>
+	<!--Trait: Great Fairy Wars-->
+	-<Row Tag="TXT_KEY_TRAIT_FAIRY_WARS">
+		<Text>Doubles production speed and upkeep cost of land and naval units.</Text>
+	</Row> -<Row Tag="TXT_KEY_TRAIT_FAIRY_WARS_SHORT">
+		<Text>Great Fairy Wars</Text>
+	</Row>
+	<!--Unique Building: Art Supplies moved to respective XML files to keep straight easier-->
+
+	<!--Unique Unit: Spring Herald-->
+	-<Row Tag="TXT_KEY_UNIT_FAIRY_HERALD">
+		<Text>Spring Herald</Text>
+	</Row> -<Row Tag="TXT_KEY_UNIT_FAIRY_HERALD_HELP">
+		<Text>Announces the coming of spring with a shower of danmaku bullets, blasting anyone not quick enough to get out of the way. It has an extended range of 2 hexes, unlike the Gatling Gun, which it replaces.</Text>
+	</Row> --<Row Tag="TXT_KEY_UNIT_FAIRY_HERALD_PEDIA">
+		<Text>The joyous tradition of announcing spring with a spray of bullets began with the fairy Lily White, who became known for doing so no matter what kind of incident or duel she was jumping into. Since spring followed Lily White wherever she went, she had a lot of heralding to do, a job she leapt into with gusto! Spring Heralds love their jobs as much as Lily does, and even on turns when they don&apos;t attack anything, they are still spraying off pretty danmaku patterns into empty sky.</Text>
+	</Row> --<Row Tag="TXT_KEY_UNIT_FAIRY_HERALD_STRATEGY">
+		<Text>The Spring Herald is Cirno&apos;s unique unit, replacing the Gatling Gun. Normally, an empire using ranged units like Archers and Crossbowmen for its city garrisons must reduce the range at which those garrisons can defend the city when they modernize their units with Industrialization. The Spring Herald has no such drawback, allowing it to defend as ably as it did before, combining the range of the Crossbowman with the firepower of the Gatling Gun!</Text>
+	</Row>
+
+	<!--Fairy Warriors-->
+	-<Row Tag="TXT_KEY_BUILDING_FAIRY_COMMAND">
+		<Text>Great Fairy Warriors</Text>
+	</Row>-<Row Tag="TXT_KEY_BUILDING_FAIRY_COMMAND_HELP">
+		<Text>The good news is, fairies don&apos;t die, so your fairy ground and naval units build at double speed. The bad news is, fairies have short attention spans, so you have to spend twice as much to keep their units active.</Text>
+	</Row>-<Row Tag="TXT_KEY_BUILDING_FAIRY_COMMAND_PEDIA">
+		<Text>Cirno&apos;s fairies can re-arm military units faster than anyone, because any "dead" unit can just come back to base and get some more weapons or paper boats. The bonus doesn&apos;t apply to planes, because you still have to rebuild a whole plane and that takes a long time.</Text>
+	</Row>-<Row Tag="TXT_KEY_BUILDING_FAIRY_COMMAND_STRATEGY">
+		<Text>You can scare up an army faster than anyone, so you can join, start, or defend against a war at the drop of a hat. Just end it decisively before upkeep costs bankrupt you!</Text>
+	</Row>
+	<!--Spy Names-->
+	-<Row Tag="TXT_KEY_SPY_NAME_FAIRY_0">
+		<Text>Luna Child</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_1">
+		<Text>Sunny Milk</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_2">
+		<Text>Star Sapphire</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_3">
+		<Text>Lily White</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_4">
+		<Text>Daiyousei</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_5">
+		<Text>Wriggle Nightbug</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_6">
+		<Text>Mystia Lorelei</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_7">
+		<Text>Rumia</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_8">
+		<Text>Letty Whiterock</Text>
+		<Gender>feminine</Gender>
+	</Row> -<Row Tag="TXT_KEY_SPY_NAME_FAIRY_9">
+		<Text>Chen</Text>
+		<Gender>feminine</Gender>
+	</Row>
+
+	-<Row Tag="TXT_KEY_CITY_NAME_CIRNO">
+		<Text>Cirnopolis</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_DAIYOUSEI">
+		<Text>Daiyouseiville</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_SUNNY_MILK">
+		<Text>Sunnydale</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_LUNA_CHILD">
+		<Text>Lunaberg</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_STAR_SAPPHIRE">
+		<Text>Star City</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_LETTY_WHITEROCK">
+		<Text>White Rock</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_WRIGGLE_NIGHTBUG">
+		<Text>Wrigglington</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_LILY_WHITE">
+		<Text>Lily Whitefield</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_MYSTIA_LORELEI">
+		<Text>Mystia Crossing</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_RUMIA">
+		<Text>Whatever Rumia Wanted To Name Her Town</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_AUTUMN">
+		<Text>Autumn Falls</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_SUMMER">
+		<Text>Summer Meadows</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_SPRING">
+		<Text>Spring Forest</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_WINTER">
+		<Text>Winter Mountain</Text>
+	</Row> -<Row Tag="TXT_KEY_CITY_NAME_CHEN">
+		<Text>Chen Valley</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_RAIN">
+		<Text>Drizzle Cove</Text>
+	</Row> -<Row Tag="TXT_KEY_CITY_NAME_CLOUDS">
+		<Text>Cirrus</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_WIND">
+		<Text>Blustery Village</Text>
+	</Row> -<Row Tag="TXT_KEY_CITY_NAME_MIST">
+		<Text>Misty Lake</Text>
+	</Row> -<Row Tag="TXT_KEY_CITY_NAME_FLOWERS">
+		<Text>Petal Grove</Text>
+	</Row>-<Row Tag="TXT_KEY_CITY_NAME_TREES">
+		<Text>Syracuse</Text>
+	</Row>
+
+	<!--Dialogue-->
+	<!--Greeting-->
+	-<Row Tag="TXT_KEY_LEADER_CIRNO_FIRSTGREETING_1">
+		<Text>Ah-ha! I told you guys there was a weirdo around here! Hello, weirdo. I&apos;m Cirno!</Text>
+	</Row>-<Row Tag="TXT_KEY_LEADER_CIRNO_FIRSTGREETING_2">
+		<Text>I&apos;m Cirno! I&apos;m the ice fairy who can pound nails in with a banana! Who are you and what do YOU do with fruit?</Text>
+	</Row>-<Row Tag="TXT_KEY_LEADER_CIRNO_FIRSTGREETING_3">
+		<Text>Hello there! I&apos;m Cirno, and I&apos;m the boss of these fairies, because I&apos;m the strongest!</Text>
+	</Row>
+	<!--Reacts to her bluff being called -->
+	<Row Tag="TXT_KEY_LEADER_CIRNO_WARBLUFF_1">
+		<Text>Boo! Booooo!</Text>
+	</Row> - <Row Tag="TXT_KEY_LEADER_CIRNO_WARBLUFF_2">
+			<Text>...What was I doing?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_WARBLUFF_3">
+			<Text>Grrr...</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_WARBLUFF_4">
+			<Text>You&apos;re playing with fire, buddy. And you forget that ice melts fire!</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_WINWAR_1">
+			<Text>Check it out! That&apos;s why I&apos;m the strongest!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_WINWAR_2">
+			<Text>Now you know not to take fairies so lightly!</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LOSEWAR_1">
+			<Text>Owowowowowow!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LOSEWAR_2">
+			<Text>Okay, okay, uncle, uncle!</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DEFEATED_1">
+			<Text>Noooo! What have you done, you foolish child? I&apos;m melting, meeelllllting! Oh, what a world, what a world!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DEFEATED_2">
+			<Text>You may think you have defeated me, but you just fell into my cunning trap! Secret Fairy Ninja Ambush Team! ...Did any fairies come out? No? I got nothin&apos;, then.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DEFEATED_3">
+			<Text>That&apos;s okay. I was bored of being a civilization leader anyway. I&apos;m gonna throw snowballs at Suwako&apos;s shrine!</Text>
+		</Row>
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_1">
+			<Text>Huh? Where&apos;d you come from?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_2">
+			<Text>Oh, hello there.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello again! Come back to play with us fairies some more?</Text>
+		</Row>
+		<!--Goodbye -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GOODBYE_1">
+			<Text>Seeya.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GOODBYE_2">
+			<Text>Shoo! I&apos;m doing important fairy business.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_YES_NEUTRAL">
+			<Text>I&apos;ll take it!</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Hmm, nah.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>I&apos;m not getting enough stuff.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>I&apos;m giving away too much for that!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Maybe for a little more...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NO_NEUTRAL">
+			<Text>No way.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRIBUTE_YES_NEUTRAL">
+			<Text>What? Oh, okay, I think I have some stuff for you.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRIBUTE_NO_NEUTRAL">
+			<Text>No, I&apos;m not giving you that!</Text>
+		</Row>
+		<!--Requests a trade -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADEREQUEST_NEUTRAL">
+			<Text>Hey, can we trade resources? If I make 20 trades, then I get a free one!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_REQUEST_1">
+			<Text>I kinda froze some of our supplies and I need replacements before Daiyousei finds out.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LUXURY_TRADE_1">
+			<Text>Want to trade? Trade one luxury, get a free fried lamprey, guaranteed to cure night blindness! Mystia makes &apos;em.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Say, can we open our borders? It&apos;s dumb to have to keep track of where we&apos;re not allowed to fly around.</Text>
+		</Row>
+		<!--Demands tribute -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>I kinda froze some of our supplies and I need replacements before Daiyousei finds out.</Text>
+		</Row>
+		<!--Agrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_AGREE_SHORT_1">
+			<Text>Okay.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_AGREE_SHORT_2">
+			<Text>Alright.</Text>
+		</Row>
+		<!--Disagrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_1">
+			<Text>Nine! I mean, nein!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_2">
+			<Text>No.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_1">
+			<Text>Fairies invented snow cones! You can mix in fruit juice for flavor, but I like the &apos;plain&apos; kind the best.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_2">
+			<Text>You can freeze a whole field of flowers and then lay on them like a bed! But don&apos;t fall asleep in the sun, or they&apos;ll melt.</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_3">
+			<Text>Hey, it&apos;s my favorite big person!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_4">
+			<Text>Oh, hello again! Want a frogsicle?</Text>
+		</Row>- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_POLITE_HELLO_1">
+			<Text>There you are! I was hoping you&apos;d come back. We made you a waterslide, but half of it melted.</Text>
+		</Row>
+		<!--Goodbye -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GOODBYE_3">
+			<Text>See ya!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GOODBYE_4">
+			<Text>Laters!</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_YES_HAPPY">
+			<Text>Sure thing!</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I need some more.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Eh, you can do better.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>Just a smidge more?</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NO_HAPPY">
+			<Text>No can do, pal.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRIBUTE_YES_HAPPY">
+			<Text>Take, we were barely using it!</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRIBUTE_NO_HAPPY">
+			<Text>Hey! If you think you can take advantage of me just because I&apos;m a fairy you got another think comin&apos;!</Text>
+		</Row>
+		<!--Requests a trade -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADEREQUEST_HAPPY">
+			<Text>Oh, this would be great for Lily&apos;s thing collection! She collects... some kind of things, and this is a thing, it&apos;s perfect!</Text>
+		</Row>
+		<!--Demands tribute -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DEMANDTRIBUTE_HAPPY">
+			<Text>Hey, did you know that it&apos;s impossible to kiss your own elbow? Because long story short, Letty did, and now I need to pay off a pretty big bet with her.</Text>
+		</Row>
+		<!--Agrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_AGREE_SHORT_3">
+			<Text>Great!</Text>
+		</Row>
+		<!--Disagrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_3">
+			<Text>No, sorry.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_4">
+			<Text>Nah.</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_3">
+			<Text>Do you know why kappa love cucumbers so much? I tried one once, didn&apos;t seem that great. I want to spread a rumor that fairies like ice cream, so everyone who goes into the woods will carry some!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_4">
+			<Text>Fishing is too much work. Why do they keep throwing out one worm at a time on a string? Just keep all the worms in the boat, make the fish come to you!</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_5">
+			<Text>Oh, as soon as the big thing disappears, this small thing appears. What do you want?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_6">
+			<Text>You again? Shouldn&apos;t you have fallen in a hole by now?</Text>
+		</Row>- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HELLO_1">
+			<Text>Oh great, as if I didn&apos;t have enough to deal with now that Wriggle&apos;s bugs are on strike, now you show up!</Text>
+		</Row>
+		<!--Goodbye -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GOODBYE_5">
+			<Text>Buzz off.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_GOODBYE_6">
+			<Text>Scram!</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_YES_ANGRY">
+			<Text>That&apos;s a fair deal. Wait, aren&apos;t we supposed to be mad at each other? Or am I thinking of someone else?</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>I&apos;m not going to be that generous for you!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>Ha ha, very funny, what&apos;s your real offer?</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>No. This is completely unfair.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NEEDMORE_ANGRY_4">
+			<Text>I need more than that.</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NO_ANGRY">
+			<Text>What, you think I&apos;m some kind of moron who would take that deal? The real moron is you!</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRIBUTE_YES_ANGRY">
+			<Text>Fine. Fine! Take it. I didn&apos;t want it anyway.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRIBUTE_NO_ANGRY">
+			<Text>The only tribute you get from me is a giant ice ball, right in your stupid face!</Text>
+		</Row>
+		<!--Requests a trade -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_TRADEREQUEST_ANGRY">
+			<Text>Oh man, I just had the best idea, but I need some of this from you. And if you know where I can find eight tons of confetti, that would be great too.</Text>
+		</Row>
+		<!--Demands tribute -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DEMANDTRIBUTE_ANGRY">
+			<Text>I need this stuff. I&apos;m making a giant, mobile snowman. Give me the parts I need, and it will conquer you last!</Text>
+		</Row>
+		<!--Agrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_AGREE_SHORT_4">
+			<Text>Yeah, whatever.</Text>
+		</Row>
+		<!--Disagrees -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_5">
+			<Text>Pffffft.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_6">
+			<Text>No.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DISAGREE_SHORT_7">
+			<Text>Nine! I mean, nein!</Text>
+		</Row>
+		<!--Let&apos;s hear it -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_5">
+			<Text>If you&apos;re going to pickle veggies, do it before you eat them! But you don&apos;t have to pickle a rock.</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_6">
+			<Text>Not many fairies know about this, but if you set out just at the crack of dawn, when the animals are still asleep, and you head due north into the forest, going as fast as you can, for a whole hour... you get completely lost!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_LETSHEARIT_7">
+			<Text>According to Wriggle, insects can sing any kind of song! Except they can&apos;t do the vocals, so they mostly have to be the backup.</Text>
+		</Row>
+		<!-- Warnings -->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Are you moving your armies in to start a fight with me? Because fairies never back down from a fight! We might forget what we were doing or get bored and wander off, but we don&apos;t back down!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Quit founding new cities where I want to go! It&apos;s hard enough to get a bunch of fairies to lug around enough supplies to start a town, now I have to tell them the spot they wanted is taken?</Text>
+		</Row>
+		<!--Declare war-->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DECLAREWAR_1">
+			<Text>No youkai, god, or army scares me! I&apos;ll show you that recklessness is bravery! Attack!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DECLAREWAR_2">
+			<Text>I challenge your civilization to danmaku battle! Fairies will fill the sky with bullets!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_DECLAREWAR_3">
+			<Text>It&apos;s time I cleaned the weaklings and the weirdos out of here, starting with you!</Text>
+		</Row>
+		<!--Attacked-->
+		- 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_1">
+			<Text>You want to challenge Cirno, the freezer of crybabies? Bring it on!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_2">
+			<Text>Hahaha! I&apos;ll freeze you solid!</Text>
+		</Row> - 
+			<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_3">
+			<Text>If it&apos;s a fight you want, I&apos;ll be happy to oblige!</Text>
+		</Row>
+		<!--Misc-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_QUOTE_1">
+			<Text>...</Text>
+		</Row>
+	
+</Language_en_US>
+</GameData>

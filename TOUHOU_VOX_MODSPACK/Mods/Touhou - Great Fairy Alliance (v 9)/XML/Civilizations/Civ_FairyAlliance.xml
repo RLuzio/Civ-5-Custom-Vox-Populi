@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:16:54 AM -->
+<GameData>
+	-<Civilizations>
+		 -<Row>
+			<Type>CIVILIZATION_FAIRY</Type>
+			<Description>TXT_KEY_CIV_FAIRY_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_FAIRY_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_FAIRY_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_FAIRY</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_FAIRY</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_ENGLAND</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>FAIRY_ATLAS</IconAtlas>
+			<AlphaIconAtlas>FAIRY_ALPHA_ATLAS</AlphaIconAtlas>
+			<MapImage>cirnomap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV_FAIRY_DAWN_TEXT</DawnOfManQuote>
+			<DawnOfManImage>cirnoDOM.dds</DawnOfManImage>
+			<SoundtrackTag>Fairy</SoundtrackTag>
+		</Row>
+	</Civilizations>-<Civilization_FreeBuildingClasses>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses> -<Civilization_FreeTechs>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs> -<Civilization_FreeUnits>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits> -<Civilization_Leaders>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<LeaderheadType>LEADER_CIRNO</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<ReligionType>RELIGION_SHINTO</ReligionType>
+		</Row>
+	</Civilization_Religions>-<Civilization_Start_Region_Priority>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority> -<Civilization_UnitClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<UnitClassType>UNITCLASS_GATLINGGUN</UnitClassType>
+			<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides> -<Civilization_BuildingClassOverrides>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AMPHITHEATER</BuildingClassType>
+			<BuildingType>BUILDING_FAIRY_ART_SUPPLIES</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	-<Civilization_CityNames>
+	-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_CIRNO</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_DAIYOUSEI</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_SUNNY_MILK</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_LUNA_CHILD</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_STAR_SAPPHIRE</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_LETTY_WHITEROCK</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_WRIGGLE_NIGHTBUG</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_LILY_WHITE</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_MYSTIA_LORELEI</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_RUMIA</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_AUTUMN</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_SUMMER</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_SPRING</CityName>
+	</Row>-<Row>
+		<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+		<CityName>TXT_KEY_CITY_NAME_WINTER</CityName>
+	</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CHEN</CityName>
+		</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_RAIN</CityName>
+		</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CLOUDS</CityName>
+		</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_WIND</CityName>
+		</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MIST</CityName>
+		</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FLOWERS</CityName>
+		</Row>-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_TREES</CityName>
+		</Row>
+	-</Civilization_CityNames>-<Civilization_SpyNames>
+		-<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_0</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_1</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_2</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_3</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_4</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_5</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_6</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_7</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_8</SpyName>
+		</Row> -<Row>
+			<CivilizationType>CIVILIZATION_FAIRY</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FAIRY_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+</GameData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2014 11:38:47 AM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_FOM_ATELIER"/>
+			<Set AllowsProductionTradeRoutes="true"/>
+	
+	</Buildings>
+</GameData>

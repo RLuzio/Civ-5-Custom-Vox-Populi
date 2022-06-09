@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 10:21:54 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_BM_TH_HAKUREI_SHRINE_ADJECTIVE">
+			<Text>Hakurei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BM_TH_HAKUREI_SHRINE_DESC">
+			<Text>Hakurei Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BM_TH_HAKUREI_SHRINE_SHORT_DESC">
+			<Text>Hakurei Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU">
+			<Text>Reimu Hakurei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FANTASY_NATURE">
+			<Text>Cannot gain settlers nor annex cities. May purchase in puppeted cities. Units gain combat strength as they increase in level and provide [ICON_GOLD] Gold when they kill an enemy unit. A Shrine Maiden appears after researching Philosophy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FANTASY_NATURE_SHORT">
+			<Text>Fantasy Nature</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BM_TH_HAKUREI_SHRINE_TITLE">
+			<Text>Hakurei Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BM_TH_HAKUREI_SHRINE_TEXT">
+			<Text>
+				Greetings to you, Reimu, the renowned miko of the Hakurei Shrine![NEWLINE][NEWLINE]Since inheriting the position of the Hakurei Shrine Maiden, you have been responsible for both maintaining the Hakurei Barrier that surrounds Gensokyo, and resolving the various incidents that troublesome youkai cause. You've been blessed with the incredible power of the Yin-Yang Orbs, as well as your own innate abilities, you are also hindered by a reputation for being lazy when not performing your duties. Furthermore, you treat everyone equally, whether human, god, or youkai, and thus have inadvertantly befriended many of those who would terrify or awe others, something that has given your shrine a somewhat negative reputation amongst the humans of Gensokyo. As a result, despite your efforts at resolving numerous incidents in Gensokyo, you are better known as a friend to youkai than as their nemesis.[NEWLINE][NEWLINE]Hakurei miko, can you resolve the incidents that will confront you in this new world, and gather the donations you need for your shrine to prosper?[NEWLINE][NEWLINE]Can you protect a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BRANCH_SHRINE">
+			<Text>Hakurei Holy Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BRANCH_SHRINE_TEXT">
+			<Text>Hakurei Holy Sites are small subsidiary shrines associated with a larger shrine that serves as the centre for its faith. Constructed in places that may be more easily accessible for followers than the main shrine, they can help encourage the spread of faith, as well as make it easier to collect donations to support the shrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BRANCH_SHRINE_HELP">
+			<Text>The Hakurei Holy Site provides 6 [ICON_PEACE] Faith, 3 [ICON_GOLD] Gold and 3 [ICON_CULTURE] Culture to the tile it's built on. Any trade unit that is within 2 tiles of a Hakurei Holy Site at the start of the turn will provide 2 [ICON_GOLD] Gold and 2 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BM_TH_HS_MIKO">
+			<Text>Shrine Maiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BM_TH_HS_MIKO_TEXT">
+			<Text>The term 'miko', or 'shrine maiden', refers to priestesses and attendants of the Shinto religion. They both live and work in the shrine that they serve, and are responsible for both performing various ceremonies, as well as physical and mental training. They also practice sealing and purification rituals, which are highly form-based and symbolic, and are typically use to bless, purify, or exorcise evil spirits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BM_TH_HS_MIKO_STRATEGY">
+			<Text>The Shrine Maiden is a unique unit for the Hakurei Shrine, replacing the Great General. It ignores terrain costs, and its combat strength is 25% more than the strongest gun or melee unit that can be trained. Can build Holy Sites as well as Citadels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BM_TH_HS_MIKO_HELP">
+			<Text>Great General unit. Only the Hakurei Shrine may produce them. More mobile than the Great General, it has a variety of combat bonuses, and can build Holy Sites.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_DONATION_BOX">
+			<Text>Donation Box</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_DONATION_BOX_STRATEGY">
+			<Text>The Donation Box is the Hakurei Shrine's unique building, replacing the Temple. It provides [ICON_GOLD] Gold and points towards a Shrine Maiden for each religious follower in the city and each trade route connected to the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_DONATION_BOX_TEXT">
+			<Text>The saisenbako (or donation box) is a feature common to Shinto shrines and Buddhist temples. Made of wood and placed at the entrance to the main building, it is a box that collects donations from visitors. One of the common rituals to perform at a Shinto shrine is to stand straight in front of the box, bow once, throw money into the box, ring the bell, clap your hands twice, and bow again.[NEWLINE][NEWLINE] As shrines are not publicly funded, they must use various methods to obtain funds to both maintain the shrine and support its attendants. The saisenbako is one of these, along with fees to perform various rituals, as well as the sale of charms and other goods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_DONATION_BOX_HELP">
+			<Text>Trade routes and religious followers produce additional [ICON_GOLD] Gold and points towards Shrine Maidens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HAKUREI_SHRINE">
+			<Text>Hakurei Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HAKUREI_SHRINE_STRATEGY">
+			<Text>The Hakurei Shrine is a unique building for the Hakurei Shrine civilization, replacing the Palace. It provides a free Shrine, but produces less [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HAKUREI_SHRINE_TEXT">
+			<Text>The Hakurei Shrine is a small, run-down Shinto shrine located on the Great Hakurei Barrier on the east side of Gensokyo. It's a key location that has appeared in many of the official games' prologues, stages, in character endings and in other official literature by ZUN. It's the home of the Touhou Project's protagonist: Reimu Hakurei.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HAKUREI_SHRINE_HELP">
+			<Text>Provides a free Shrine, but generates less [ICON_GOLD] Gold. Replaces the Palace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_HONDEN">
+			<Text>Honden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_HONDEN_STRATEGY">
+			<Text>The Honden is a unique building for the Hakurei Shrine civilization, replacing the Grand Temple. It provides an additional Bomb Spell Card to Shrine Maiden units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_HONDEN_TEXT">
+			<Text>
+				The honden is the most sacred building at a Shinto shrine, intended purely for the use of the enshrined kami, usually symbolized by a mirror or sometimes by a statue. The building is normally in the rear of the shrine and closed to the general public. Physically, the honden is the heart of the shrine complex, connected to the rest of the shrine but usually raised above it, and protected from public access by a fence called tamagaki. It usually is relatively small and with a gabled roof. Its doors are usually kept closed, except at religious festivals. Shinto priests themselves enter only to perform rituals. The rite of opening those doors is itself an important part of the shrine's life. Inside the honden is kept the go-shintai, literally, "the sacred body of the kami". The go-shintai is actually not divine, but just a temporary repository of the enshrined kami. In the Touhou games, the go-shintai for the Hakurei Shrine are the Yin-Yang Orbs that serve as Reimu Hakurei's primary weapon when fighting youkai.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BM_TH_HS_HONDEN_HELP">
+			<Text>Provides an additional Bomb Spell Card to Shrine Maiden units. Replaces the Grand Temple.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_HAKUREI_MIKO">
+			<Text>Hakurei Shrine Maiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKUREI_MIKO_HELP">
+			<Text>Base combat strength is 25% greater than that of the strongest melee or gun unit that can be trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_HAKUREI_MIKO">
+			<Text>Base combat strength is 25% greater than that of the strongest melee or gun unit that can be trained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YIN_YANG_ORB">
+			<Text>Yin Yang Orb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_YIN_YANG_ORB_HELP">
+			<Text>33% bonus against ranged attacks. Can gain Bomb Spell Card promotions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_YIN_YANG_ORB">
+			<Text>33% bonus against ranged attacks. Can gain Bomb Spell Card promotions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKUREI_MIKO_BOMB">
+			<Text>Bomb Spell Card</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKUREI_MIKO_BOMB_HELP">
+			<Text>Heals this unit 50 HP and damages adjacent enemy units for 25 HP when used. Used automatically when this unit starts the turn below 25 HP, or is killed by an enemy attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_HAKUREI_MIKO_BOMB">
+			<Text>Heals this unit 50 HP and damages adjacent enemy units for 25 HP when used. Used automatically when this unit starts the turn below 25 HP, or is killed by an enemy attack.[NEWLINE][NEWLINE]Shrine Maiden units receive a Bomb Spell card with the adoption of the Organized Religion and Reformation policies, and upon construction of the Honden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKUREI_LEVEL_BONUS_1">
+			<Text>Power Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HAKUREI_LEVEL_BONUS_1_HELP">
+			<Text>+5% increase to Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_HAKUREI_LEVEL_BONUS_1">
+			<Text>+5% increase to Combat Strength.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BM_TH_HS_BRANCH_SHRINE_NOTIFICATION">
+			<Text>Our Holy Sites have received {1_Bonus} [ICON_GOLD] Gold and {2_Bonus} [ICON_PEACE] Faith in donations!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_0">
+			<Text>SinGyoku</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_1">
+			<Text>Kana Anaberal</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_2">
+			<Text>Genjii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_3">
+			<Text>Sunny Milk</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_4">
+			<Text>Star Sapphire</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_5">
+			<Text>Luna Child</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_6">
+			<Text>Ibaraki Kasen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BM_TH_HAKUREI_SHRINE_7">
+			<Text>The Hakurei God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BM_TH_HAKUREI_SHRINE_1">
+			<Text>Hakurei Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BM_TH_HAKUREI_SHRINE_2">
+			<Text>Genbu Ravine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BM_TH_HAKUREI_SHRINE_3">
+			<Text>Cherry Tree Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BM_TH_HAKUREI_SHRINE_4">
+			<Text>Geyser Hot Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BM_TH_HAKUREI_SHRINE_5">
+			<Text>Silk Road</Text>
+		</Row>
+
+		<!--Leader: Reimu - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_REIMU_NAME">
+			<Text>Reimu Hakurei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_REIMU_SUBTITLE">
+			<Text>Hakurei Miko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_REIMU_LIVED">
+			<Text>TH1.0 ~ TH14.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_REIMU_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_REIMU_TEXT_1">
+			<Text>Reimu Hakurei is the current shrine maiden of the Hakurei Shrine. In this role, she she manages the Hakurei Border of Gensokyo and exterminates troublesome youkai. As such, she is one of the major protagonists of the Touhou Project series of games, present in nearly every game as she tries to resolve whatever situation is occuring.[NEWLINE][NEWLINE]Her personality is straightforward, optimistic, and a bit curious. She's quick to anger if offended, but just as quick to offer help to those in need. According to Komachi, Reimu has an innocent heart that can't truly hate anyone. While rather lazy in her free time, she's highly devoted to her duties as the Hakurei Shrine Maiden, resulting in a "shoot first and ask questions later" attitude to youkai extermination. This makes her known to exterminate youkai indiscriminately, regardless of how much of a threat they represent to her or others. One example is Tokiko, who was ambushed by Reimu while she was, in Reimu's own words, "reading and minding her own business". She has also demonstrated a willingness to plunder her victims, as during the events of Perfect Cherry Blossom she planned to take items home from Mayohiga, believing they would bring her luck.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_FIRSTGREETING_1">
+			<Text>Welcome to the Hakurei Shrine!  I'm the shrine maiden here, Hakurei Reimu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_FIRSTGREETING_2">
+			<Text>Greetings... I'm the miko of this shrine, Hakurei Reimu. Please leave a donation at the box near the entrance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_FIRSTGREETING_3">
+			<Text>Oh!  I didn't expect to see someone actually here... I'm the miko of this shrine, Hakurei Reimu. You wouldn't be able to spare a small donation, would you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_DECLAREWAR_1">
+			<Text>Hmmm... I've heard some of the items in your empire can give you luck if you take them home!  You don't mind if I take a few, do you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_DECLAREWAR_2">
+			<Text>Hmm... I don't know who's responsible for this latest incident, so I'm just going to have to start with beating up you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_DECLAREWAR_3">
+			<Text>There haven't been many donations lately... so I figure hunting down a few youkai and other miscreants might attract some attention, and your next on my list!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_DEFEATED_1">
+			<Text>Hmph... I can't believe I lost!  Well, I suppose you'll be wanting some tea now...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_DEFEATED_2">
+			<Text>Heh, the joke's on you!  Now you can take care of this shrine!  I'll just relax over here with some sake...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BM_REIMU_DEFEATED_3">
+			<Text>Hmph, fine... I guess YOU can go resolve this latest incident, then.  I'm just going to relax under the kotatsu. Kotatsu, kotatsu~</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

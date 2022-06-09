@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2021-05-17 05:20:57 PM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_NEO_SUPER_EXPRESS_DUMMY" />
+			<Set>
+				<!-- Hides the building from view -->
+				<GreatWorkCount>-1</GreatWorkCount>
+			</Set>
+		</Update>
+	</Buildings>
+</GameData>

@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	-<Language_en_US>
+		<!--Civ: Netherworld-->
+		-<Row Tag="TXT_KEY_CIV_NETHERWORLD_DESC">
+			<Text>The Netherworld</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_NETHERWORLD_SHORT_DESC">
+			<Text>The Netherworld</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV_NETHERWORLD_ADJECTIVE">
+			<Text>Ghost</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_NETHERWORLD_DOM_TEXT">
+			<Text>Blessings of all the worlds upon you, noble and graceful Yuyuko Saigyouji, ghost of flawless, immaculate beauty! You are the princess of Hakugyokurou, domain of artists and seat of power in the Netherworld. Your rule is just, your people without sin, and your retainers legendary in their skill with the blade. Though others believe you a fool, your cunning struck a blow upon the egos of the Lunarians, discovered the secret behind a number of incidents, and stole away Gensokyo's spring. With over a thousand years of wisdom and absolute power over death, the mortal world trembles in your presence.[NEWLINE][NEWLINE]Gentle Yuyuko, the souls of the dead now look to you for guidance. Will you answer them? Will you once again strike awe into the land of the living? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Civ: Netherworld - Pedia-->
+		-<Row Tag="TXT_KEY_CIV5_NETHERWORLD_HEADING_1">
+			<Text>The Netherworld</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_NETHERWORLD_TEXT_1">
+			<Text>When a soul is judged by the Yama to be without such sin as to send it to Hell, it is taken instead to the Netherworld, where it is managed by the princess of Hakugyokurou and spends its time surrounded by the beauty of nature until the time comes for it to reincarnate. The Netherworld is vast and residence is especially transient, so it has few problems with maintaining its population, unlike the Hells, and much of the land is taken up by massive natural gardens, including the famed cherry blossom garden of Hakugyokurou. Travel between the Netherworld and the world of the living used to be almost impossible, but after the border between the Netherworld and Gensokyo was weakened by the princess, ghosts and youkai began to move between the two worlds at their leisure.[NEWLINE][NEWLINE]If the border were to collapse, and the Netherworld were to be thrust into the land of the living, Hakugyokurou's princess may be forced to shape the Netherworld into a true civilization...</Text>
+		</Row>
+
+		<!--Leader: Yuyuko Saigyouji-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO">
+			<Text>Yuyuko Saigyouji</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Leader: Yuyuko Saigyouji - Pedia-->
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUYUKO_NAME">
+			<Text>Yuyuko Saigyouji</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUYUKO_SUBTITLE">
+			<Text>Ghost Girl in the Netherworld Tower</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUYUKO_TITLES_1">
+			<Text>Dreaming Ghost[NEWLINE]Ghost of the Snow[NEWLINE]Enlightened Ghost</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUYUKO_LIVED">
+			<Text>~1000 AD</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUYUKO_HEADING_1">
+			<Text>About</Text>
+		</Row> -<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_YUYUKO_TEXT_1">
+			<Text>Yuyuko is the ghost princess of the Netherworld, having been in her position for over a thousand years. After being driven to suicide by her own power over death, the Yama appointed her as eternal ruler of the Netherworld, removing her from the Wheel of Life. Having forgotten the time when she was alive, she spends her days leisurely in the mansion of Hakugyokurou, occasionally going out to cause trouble out of boredom. Her personality is playful and carefree, which sometimes gives others the impression of being airheaded, but she is a cunning leader with a knack for seeing through the schemes of others. Her closest friends are Yukari Yakumo, the ancient youkai of boundaries who knew her even when she was alive, and her beleaguered half-phantom servant, Youmu Konpaku.</Text>
+		</Row>
+		<!--Trait: Deadly Butterfly-->
+		-<Row Tag="TXT_KEY_TRAIT_DEADLY_BUTTERFLY">
+			<Text>Gain Samurai Poets 60% faster, and Great Artists and Musicians 15% faster during [ICON_GOLDEN_AGE] Golden Ages. Units gain +33% [ICON_STRENGTH] Combat Strength during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row> -<Row Tag="TXT_KEY_TRAIT_DEADLY_BUTTERFLY_SHORT">
+			<Text>Deadly Butterfly</Text>
+		</Row>
+		<!--Unique Building: Cherry Blossom Garden-->
+		-<Row Tag="TXT_KEY_BUILDING_NETHERWORLD_CHERRY_BLOSSOM_GARDEN">
+			<Text>Cherry Blossom Garden</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_NETHERWORLD_CHERRY_BLOSSOM_GARDEN_HELP">
+			<Text>Provides 3 [ICON_GREAT_PEOPLE] Great Person Points (GPP) towards a Samurai Poet. Add up to two specialists to this building to gain [ICON_CULTURE] Culture and increase the rate of Samurai Poet acquisition (3 [ICON_CULTURE] Culture and 3 [ICON_GREAT_PEOPLE] GPP per specialist).</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_NETHERWORLD_CHERRY_BLOSSOM_GARDEN_PEDIA">
+			<Text>The cherry blossom garden of Hakugyokurou is amongst the most beautiful in all the worlds. Cherry blossom trees have long been a source of inspiration for poets and artists, and the almost 3,000 kilometer garden, hidden away in the realm of the dead, is more inspiring than most. Stretching out so far as to seem endless, and said to contain a youkai cherry blossom tree that could once tempt a human to death with its beauty, it attracts ghosts, phantoms, and even youkai from the world of the living to participate in flower viewings.</Text>
+		</Row> -<Row Tag="TXT_KEY_BUILDING_NETHERWORLD_CHERRY_BLOSSOM_GARDEN_STRATEGY">
+			<Text>The Cherry Blossom Garden is the unique building of the Netherworld. It provides 3 [ICON_GREAT_PEOPLE] Great Person Points (GPP) towards a Samurai Poet instead of 1, and also provides 5 Happiness to keep the empire stable. Replaces the Writers' Guild.</Text>
+		</Row>
+		<!--Unique Unit: Samurai Poet-->
+		-<Row Tag="TXT_KEY_UNIT_NETHERWORLD_SAMURAI_POET">
+			<Text>Samurai Poet</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_NETHERWORLD_SAMURAI_POET_HELP">
+			<Text>Powerful Unit that can attack twice in one turn and generates [ICON_CULTURE] Culture upon killing an enemy. Can also be consumed to create a Great Work of Writing.</Text>
+		</Row> -<Row Tag="TXT_KEY_CIV5_NETHERWORLD_SAMURAI_POET_PEDIA">
+			<Text>Japanese nobles, faced with impending death, would often compose one final tanka poem as a reflection on life and death. Many samurai, after first arriving in the Netherworld, would see the cherry blossoms of Hakugyokurou and be reminded of their death poems, becoming inspired to write further on the nature of death.[NEWLINE][NEWLINE]It may be that the cherry blossoms of the Netherworld are the source of its power, for with so many warriors skilled in both pen and sword, the princess of Hakugyokurou has great powers of culture and war at her command.</Text>
+		</Row> -<Row Tag="TXT_KEY_UNIT_NETHERWORLD_SAMURAI_POET_STRATEGY">
+			<Text>The Samurai Poet is the Netherworld's unique unit, replacing the Great Writer. Although they can be used to create Great Works of Writing like normal, they are also strong warriors who can generate a lot of [ICON_CULTURE] Culture on their own by going to war. Since the Netherworld produces a lot of Samurai Poets, you can use them effectively with any playstyle.</Text>
+		</Row><Row Tag="TXT_KEY_PROMOTION_SAMURAI_POET">
+			<text>Samurai Poet</text>
+		</Row> 	<Row Tag="TXT_KEY_PROMOTION_SAMURAI_POET_HELP">
+			<text>Base [ICON_STRENGTH] Combat Strength is 30% greater than that of the strongest Melee or Gun Unit that can be trained.</text>
+		</Row>
+
+		<!--Spy Names: Netherworld-->
+		-<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_0">
+			<Text>Youmu Konpaku</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_1">
+			<Text>Lyrica Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_2">
+			<Text>Lunasa Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_3">
+			<Text>Merlin Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_4">
+			<Text>Youki Konpaku</Text>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_5">
+			<Text>Hungry Ghost</Text>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_6">
+			<Text>Sneaky Ghost</Text>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_7">
+			<Text>Loyal Ghost</Text>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_8">
+			<Text>Doofy Ghost</Text>
+		</Row> -<Row Tag="TXT_KEY_SPY_NAME_NETHERWORLD_9">
+			<Text>Layla Prismriver</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--City names: Netherworld-->
+
+		-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_1">
+			<Text>Hakugyokurou</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_2">
+			<Text>Saionji</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_3">
+			<Text>Gyoi</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_4">
+			<Text>Ise</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_5">
+			<Text>Jien</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_6">
+			<Text>Kisen</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_7">
+			<Text>Nakatsukasa</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_8">
+			<Text>Akazome</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_9">
+			<Text>Semimaru</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_10">
+			<Text>Sei</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_11">
+			<Text>Henjo</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_12">
+			<Text>Sagami</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_13">
+			<Text>Kojiju</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_14">
+			<Text>Ukon</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_15">
+			<Text>Kujo</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_16">
+			<Text>Juntoku</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_17">
+			<Text>Shikishi</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_18">
+			<Text>Koga</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_19">
+			<Text>Yamabe</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_20">
+			<Text>Oshikochi</Text>
+		</Row>-<Row Tag="TXT_KEY_CITY_NAME_NETHERWORLD_21">
+			<Text>Saigyou</Text>
+		</Row>
+
+
+		<!--Dialogue-->
+		<!--Greeting-->
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_1">
+			<Text>Certainly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_2">
+			<Text>Of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_3">
+			<Text>Why, yes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_4">
+			<Text>Oh, why not?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_5">
+			<Text>Well, okay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_6">
+			<Text>Oh, yes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_AGREE_SHORT_7">
+			<Text>Indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_1">
+			<Text>Oh, my. Whatever did I do to provoke such violence?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_2">
+			<Text>Oh dear, you're finally attacking. Youmu, take care of this for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_3">
+			<Text>My, but you are a bold one. Well, I won't disappoint you if you want to fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLAREWAR_1">
+			<Text>You'll have to excuse me, but I think your subjects would prefer living in my realm. So, what's the quickest way to move them...?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLAREWAR_2">
+			<Text>Youmu is going to slash you now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLAREWAR_3">
+			<Text>Sorry, but you're a little bit in my way. Don't worry, I'll treat you kindly when you're dead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DEFEATED_1">
+			<Text>Oh, dear. And I was having so much fun playing war with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DEFEATED_2">
+			<Text>Youmu, we're out of a home. Build us a new one with a nice garden, okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DEFEATED_3">
+			<Text>Oh, my. Now who will look after all the ghosts?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DEMANDTRIBUTE_ANGRY">
+			<Text>I think it would be in your best interest to give me this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DEMANDTRIBUTE_HAPPY">
+			<Text>I would appreciate it a lot if you could lend me some support. I'm running low on all kinds of... essential items.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DEMANDTRIBUTE_NEUTRAL">
+			<Text>Could I ask you for a small provision? Someone spent all of my budget on private banquets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_1">
+			<Text>Oh, my, no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_2">
+			<Text>Certainly not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_3">
+			<Text>I must disagree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_4">
+			<Text>Of course not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_5">
+			<Text>I'm afraid not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_6">
+			<Text>Not at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_DISAGREE_SHORT_7">
+			<Text>I can't agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_FIRSTGREETING_1">
+			<Text>Well, if it isn't someone new! I am Lady Yuyuko Saigyouji, princess of Hakugyokurou. Let's have a feast to celebrate our meeting!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_FIRSTGREETING_2">
+			<Text>Pleased to meet you. I am Yuyuko Saigyouji, and this is my gardener, Youmu. Shall we have some sake together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_FIRSTGREETING_3">
+			<Text>My, I didn't expect a visitor today. I am Lady Yuyuko Saigyouji of Hakugyokurou. Youmu, please offer our guest some tea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_1">
+			<Text>Goodbye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_2">
+			<Text>Have a wonderful day!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_3">
+			<Text>Bye, now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_4">
+			<Text>Have a pleasant day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_5">
+			<Text>Show our guest out, won't you, Youmu?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_6">
+			<Text>Ta ta!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GOODBYE_7">
+			<Text>I hope you can find your own way out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_1">
+			<Text>Hello, again. Is this business, or have you come for the party in the garden?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_2">
+			<Text>Hello, there. Have you come to view the cherry blossoms?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_3">
+			<Text>Well, hello there. Won't you join me for an early dinner?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_4">
+			<Text>Welcome. Will you be staying for lunch?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_5">
+			<Text>You're looking lively. What can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_6">
+			<Text>Welcome to Hakugyokurou. Tea?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_7">
+			<Text>Oh, welcome. Can I help you with anything?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_1">
+			<Text>Is this about the unseasonal snow? I had nothing to do with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_2">
+			<Text>Oh! Let's talk over brunch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_3">
+			<Text>If you're looking to hire the Prismrivers, you'll have to ask them yourself. They don't really work for me, you see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_4">
+			<Text>Do you know any scary stories? I'm taking Youmu to another hundred ghost stories event, but I'm running out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_5">
+			<Text>I know there's a tree in the garden that doesn't bloom. It can't be helped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_6">
+			<Text>Is there a loved one you'd like to visit? I might be able to arrange it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LETSHEARIT_7">
+			<Text>If you're looking to borrow my Youmu, I'm afraid her schedule is booked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_LOSEWAR_1">
+			<Text>Ah, I give up. It seems we can't beat you right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_ANGRY_1">
+			<Text>Oh, no. We'll need much more for this deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_ANGRY_2">
+			<Text>I think we need more for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_ANGRY_3">
+			<Text>It might be fair if you offered more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_HAPPY_1">
+			<Text>I'd love to, but I need just a little bit more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_HAPPY_2">
+			<Text>I'm not sure this deal is good for me...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_HAPPY_3">
+			<Text>I'm afraid I just can't do that. I have to ask for more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>Youmu would be cross with me if I didn't ask for more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>I don't think that's quite fair for me, do you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>Maybe if you offered a little more...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NO_ANGRY">
+			<Text>Now, that's just not fair, is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NO_HAPPY">
+			<Text>I can't make that deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NO_NEUTRAL">
+			<Text>That's hardly a fair deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_YES_ANGRY">
+			<Text>Well, I suppose that's all right with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_YES_HAPPY">
+			<Text>A wonderful agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_YES_NEUTRAL">
+			<Text>I think that's a good deal. I accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADEREQUEST_ANGRY">
+			<Text>I was wondering if you would agree to a trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADEREQUEST_HAPPY">
+			<Text>I'd so like to have this. You'll trade for it, won't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADEREQUEST_NEUTRAL">
+			<Text>I was wondering if you wanted to trade with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRIBUTE_NO_ANGRY">
+			<Text>Oh, my. You're going to make Youmu upset.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRIBUTE_NO_HAPPY">
+			<Text>I'm sorry, but I can't help you right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRIBUTE_NO_NEUTRAL">
+			<Text>I don't think I can just give that away, do you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRIBUTE_YES_ANGRY">
+			<Text>It can't be helped. I'll send it to you now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRIBUTE_YES_HAPPY">
+			<Text>Of course, I'd be glad to help! I'll even throw in some... oh dear, someone's eaten it - never mind!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_TRIBUTE_YES_NEUTRAL">
+			<Text>I don't see why I can't be a little bit charitable. I hope you make good use of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_WARBLUFF_1">
+			<Text>Oh, dear. Am I bad at bluffing?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_WARBLUFF_2">
+			<Text>I just remembered, it's dinner time. Let's wrap this up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_WARBLUFF_3">
+			<Text>Well, it was worth a try.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_WARBLUFF_4">
+			<Text>Hmm. Oh, well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUYUKO_WINWAR_1">
+			<Text>Ah, doesn't it feel good to win a battle once in a while? Oh, yes, I'll leave you alone now.</Text>
+		</Row>
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_REPEAT_TOO_MUCH">
+			<Text>No, really, I can't do that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_REPEAT_TRADE_1">
+			<Text>I don't think we're getting anywhere.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_REPEAT_TRADE_2">
+			<Text>Why don't we relax under the cherry blossoms? That sounds better than arguing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_REPEAT_1">
+			<Text>You're back. Did you forget something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_REPEAT_2">
+			<Text>We have got to stop running into each other like this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_REPEAT_1">
+			<Text>You're back already?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_REPEAT_2">
+			<Text>Hmm. I wonder what you came back for?</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_POLITE_HELLO_2">
+			<Text>Hello again. Can I get you anything?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_POLITE_HELLO_3">
+			<Text>Youmu, some sake for our guest. You take a drink, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_POLITE_HELLO_1">
+			<Text>Welcome. Are you here to trade, or is this a social call?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_NEUTRAL_HELLO_2">
+			<Text>Why, hello.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_NEUTRAL_HELLO_3">
+			<Text>Welcome. Take a look around the gardens, if you like.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_NEUTRAL_HELLO_1">
+			<Text>Welcome to Hakugyokurou. Here for some sightseeing?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HELLO_2">
+			<Text>Oh my, it's you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HELLO_3">
+			<Text>Welcome to Hakugyokurou. Pardon Youmu's manner; she doesn't like you very much.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HELLO_1">
+			<Text>You've come back? I wonder what for?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Promise me you'll spare the cherry blossoms?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>No, no, Youmu. It won't do to fight in a conference. Please, go on.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>You've come to make peace, I hope?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>I don't think this war is very productive, do you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>Don't you think we can live together in peace? Although, I'm dead.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Oh, hello. Sorry, I'm not ready for peace right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_HOSTILE_2">
+			<Text>This war business is sort of fun, isn't it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Hello, there. I hope the war is going well for you, too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Welcome. It's so much fun to work together on a Research Agreement, don't you agree?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>It isn't good to tell lies. Youmu can slash those, too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_WORKING_WITH_1">
+			<Text>Ah, if it isn't our good friend!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_WORKING_AGAINST_1">
+			<Text>Do you think {1_ThirdPlayerName:textkey} will discover our plan?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_COOP_WAR_1">
+			<Text>Youmu had some good ideas about the war with {1_ThirdPlayerName:textkey}. They're all sword-based, but you should have a look at them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_COOP_WAR_2">
+			<Text>I have Youmu working around the clock against {1_ThirdPlayerName:textkey} - three o'clock snacks are suspended until we win!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Oh, you're here? Shouldn't you be at war or something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HUMAN_AT_WAR_1">
+			<Text>Hello, there. Is your war going well?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Oh, my. Could you be trying to intimidate me, perhaps?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>You have an awful lot of soldiers near my border. I'm afraid they'll have to disarm before I can let them view the cherry blossoms.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I hope you know how to use that land you're grabbing. I would hate to see you bite off more than you can chew.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You're claiming an awful lot of land. Can you really use it all?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You really should be careful about buying so much land. Someone might get upset.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You must be very wealthy to afford so much land.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>You've got quite a strong military. I hope you're feeding them well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I'm glad to see you're doing well. Budgets are so hard to manage.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>I forgot that you were an empire, with how small you are.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>You should think about building a bigger army. Do you need Youmu to help train your troops?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>You've been quite violent lately. Do you need to de-stress?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_BY_AI_1">
+			<Text>Oh, hello. Would you like some perfectly undoctored tea?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_BY_AI_2">
+			<Text>Is this about the denouncement?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_AI_1">
+			<Text>Oh? You want to talk to me now?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>I think your friendship with {1_PlayerName} is admirable. They're very tolerant.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>What do you say to inviting {1_PlayerName} over for a flower viewing party? I'll bring sake.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>Do you dislike {1_PlayerName}? Or is it just political?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>I heard you share my opinion on certain people. Not that I'm that serious.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TOO_SOON_FOR_DOF_1">
+			<Text>We should get to know each other first, don't you think?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TOO_SOON_FOR_DOF_2">
+			<Text>Oh, but it's too soon for that. Let's think about it later.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>I think we should denounce {1_CivName} together. Don't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOF_AI_WAR_REQUEST_1">
+			<Text>{1_CivName} is in the way right now. Won't you join me against them?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOF_NOT_HONORED_1">
+			<Text>You have been very dishonest with me.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOF_NOT_HONORED_2">
+			<Text>I suppose I should have seen it coming. Oh, well.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DENOUNCING_FRIEND_1">
+			<Text>I didn't want to have to do this, but needs must. I, princess of Hakugyokurou, do formally uninvite you from our flower viewings.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Oh, dear. Are you mad about something?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>What's wrong? Are you jealous?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DOFED_FRIEND_1">
+			<Text>Oh, you're friends with {1_CivName} now? How wonderful! We should get together sometime.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DOFED_ENEMY_1">
+			<Text>Oh, you've made friends with {1_CivName}. Well, I won't hold it against you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I was going to invite you to a party with {1_PlayerName}, too... Oh, what should I do?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} aren't very nice, are they? Well, as long as we agree.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Oh, I should be friends with {1_CivName}, too. How wonderful! We should all drink and eat dumplings together!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I suppose we agree on {1_CivName}. It is a little sad, isn't it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>You're teaming up with {1_CivName}? My, I wonder what you could be thinking.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Someone has to side with {1_CivName}, don't they? I suppose I will.</Text>
+		</Row>
+		<!-- Yuyuko Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_EXPANSION_WARNING_1">
+			<Text>Excuse me, but you're expanding a bit close to my borders. Could I ask you to leave me some space?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_EXPANSION_BROKEN_PROMISE_1">
+			<Text>Oh, dear. You didn't mean it at all when you said you wouldn't settle near us, did you? This is going to hurt our relationship.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I really did mean it about the land-buying. If you keep this up, it will hurt our relationship.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PLOT_BUYING_WARNING_1">
+			<Text>Sorry to ask, but you're buying a lot of land near me. I'd like it if we could share the land.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>You promised to stop buying land near us. What can I do if you break your promise, I wonder?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Oh, is that city-state under your protection? How rude of me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I have to attack one of your friends. You understand.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WORK_WITH_US_1">
+			<Text>Pacts of Cooperation shouldn't be possible, but here we are.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DEC_FRIENDSHIP_1">
+			<Text>I think it's time the two of us made a Declaration of Friendship, don't you? I'll have Youmu handle all the paperwork.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DEC_FRIENDSHIP_2">
+			<Text>Shall we make a Declaration of Friendship? You'll be invited to all of our flower viewings... as long as you bring food.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DENOUNCE_1">
+			<Text>I think that you are rude.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DENOUNCE_2">
+			<Text>I must condemn your recent behaviour. At least, I think that's what I should do.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_WARMONGER">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_MINORS">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_LAND">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_WONDERS">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_VICTORY">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WORK_AGAINST_SOMEONE_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_COOP_WAR_REQUEST_1">
+			<Text>I think you should join me against {1_PlayerName:textkey}. Don't you think it might be fun?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_COOP_WAR_REQUEST_2">
+			<Text>Please join me in war against {1_PlayerName:textkey}. We simply cannot let them do as they please.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_COOP_WAR_TIME_1">
+			<Text>Our preparation time is up. Shall we begin?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_NOW_UNFORGIVABLE_1">
+			<Text>Are we now past the point of forgiveness? Well, that's the way it is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_NOW_ENEMY_1">
+			<Text>I suppose we are enemies now. It can't be helped.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_COMPLIMENT_1">
+			<Text>I'm quite impressed with your empire. Won't you tell me your secret?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_BOOT_KISSING_1">
+			<Text>I've begun to hear poems written about your civilization. It sounds like you've become quite great indeed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_BOOT_KISSING_2">
+			<Text>Won't you come over for a visit sometime? We'll throw a feast to celebrate your success as a leader.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WARMONGER_1">
+			<Text>Are you feeling all right? Too much aggression can be bad for your health. Well, I don't have to worry about that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_MINOR_CIV_COMPETITION_1">
+			<Text>The leaders of {1_MinorCivName:textkey} have been coming to visit my garden less often lately. Would you happen to know why that might be the case?</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_LEADER_YUYUKO_1">
+			<Text>Could you tell me your name again? I just keep forgetting.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_LEADER_YUYUKO_2">
+			<Text>I'm impressed with the progressiveness of your society for electing such a... Oh, I shouldn't say that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_LEADER_YUYUKO_3">
+			<Text>Youmu, there's a barbarian there. Please slash them.[NEWLINE]...What? It's not? Oh, my mistake.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_MILITARY_1">
+			<Text>A poorly-defended civilization is easily taken advantage of. I just thought you should know that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_NUKE_1">
+			<Text>If I use these nuclear weapons, the Netherworld will get a lot busier. Should I, or shouldn't I...?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_BULLY_1">
+			<Text>You catch more flies with honey than with vinegar, you know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_UNHAPPINESS_1">
+			<Text>Your people seem so unhappy. Are you sure you don't want me to take them to a better place?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_CITIES_1">
+			<Text>Youmu, let's try and gain influence with that city-state.[NEWLINE]...What? It's an empire? Oh, how unfortunate.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_POPULATION_1">
+			<Text>I tried to eat at one of your city's restaurants, but they ran out of food to serve in no time. Are you sure you're providing enough for your citizens?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_INSULT_CULTURE_1">
+			<Text>A lot of your citizens have been coming to view the cherry blossoms lately. They're so awestruck every time, it's as if they have no culture of their own.</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DONT_SETTLE_YES_1">
+			<Text>Very well. It would be inappropriate of me to take your land from you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DONT_SETTLE_NO_1">
+			<Text>Oh, I can't agree to that. There are so many ghosts coming in all the time, and I have to make sure they can live somewhere nice. In a manner of speaking.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WORK_WITH_US_YES_1">
+			<Text>I accept. Youmu, pour some sake. Let's drink to our new alliance!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLINE_1">
+			<Text>I am afraid I must decline.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DECLINE_2">
+			<Text>Oh, no. I can't do that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>Oops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_COOP_WAR_YES_1">
+			<Text>How can I turn down an invitation like that? Let's get started.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_COOP_WAR_SOON_1">
+			<Text>Hmm... Give us ten turns to get ready, and I'll have Youmu put together a war effort.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_YES_1">
+			<Text>Well, if you insist.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_YES_2">
+			<Text>Oh, dear. I suppose it can't be helped; I'll give you what you want.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>Oh? Don't you normally raise an army before demanding something like that?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>I'm sorry, but I simply cannot just give you something like that. Not even out of pity.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>Your jokes are in poor taste.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>Oh, I can't part with that much. You should demand something more reasonable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>I'm sorry, I'm no good at haggling. Can't you just make a reasonable demand first?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>I'm afraid the answer is still no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>If you ask twice, I say no twice. Then three, four, and five thousand eight hundred seventy three times.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_OFFER_1">
+			<Text>I'm tired of fighting. May we have peace now?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_OFFER_2">
+			<Text>I think it's time we stopped the violence.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DEMAND_1">
+			<Text>If you don't mind, I'd like to have something of yours. If you do mind, I'd like it anyway.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_REQUEST_ITEM_1">
+			<Text>Might I trouble you for this?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GIFT_ITEM_1">
+			<Text>Since we're such good friends, I got you a gift. No need to get me anything in return.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_OPEN_BORDERS_OFFER_1">
+			<Text>Might we open our borders to one another? It's so much easier to import exotic foods that way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>Can we make a Research Agreement later?[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Let's make a Research Agreement together. I'm sure I have some scientists floating around the place.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RENEW_DEAL_1">
+			<Text>Let's renew this deal, shall we? I think it's good for us both.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WANT_MORE_RENEW_DEAL_1">
+			<Text>I'm afraid I have to ask for more in order to keep this deal going.</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_GENEROUS_1">
+			<Text>That's very generous of you. I happily accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_GENEROUS_2">
+			<Text>Oh, my. I can't say no to that deal.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_GENEROUS_3">
+			<Text>I'm pleased that we could come to this agreement.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>That sounds fair.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>I humbly accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>I think that looks fair. Pleasure doing business with you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>I knew I could count on your wisdom.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>Excellent. You may stand down, Youmu.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>You're quite gracious. I accept your apology.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>Oh, no. I must ask for more.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>Well, that just isn't fair at all.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>I cannot accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_INSULTING_1">
+			<Text>I'm afraid that just isn't reasonable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_INSULTING_2">
+			<Text>I can't possibly accept that deal.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_DEAL_UNCHANGED_1">
+			<Text>We don't need to change it, do we?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_DEAL_UNCHANGED_2">
+			<Text>It looks perfectly fair to me. Don't you agree, Youmu?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_AI_MAKES_OFFER_1">
+			<Text>What do you think about this?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_AI_MAKES_OFFER_2">
+			<Text>I think this would be fair.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>Oh, I don't think I can make a deal for that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>That's unfair from the start, isn't it?</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_HOSTILE_1">
+			<Text>Oh, my. I think I owe Youmu some money now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_HOSTILE_2">
+			<Text>An ambush? How rude.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Oh, dear. Do I look weak to you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_WEAK_HOSTILE_2">
+			<Text>How unfortunate. I should have expected this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_HOSTILE_1">
+			<Text>You're quite bold, aren't you? I think this will be fun.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Youmu, someone is attacking us. I'll be in the tea room.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_HOSTILE_3">
+			<Text>Oh, my. What should I do about this?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_HOSTILE_4">
+			<Text>You can't enter the Netherworld if you commit suicide. Was that your intention?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_EXCITED_1">
+			<Text>Oh, my. This will be fun.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_EXCITED_2">
+			<Text>You want to play war with me? How novel! I accept.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_EXCITED_3">
+			<Text>Is there anything more beautiful than danmaku amidst the cherry blossoms?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_WEAK_EXCITED_1">
+			<Text>Did you think I didn't see this coming? This will be a fun game.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_EXCITED_1">
+			<Text>It makes me happy that we can get together and play games like this every now and then. Youmu, please crush them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_SAD_1">
+			<Text>Oh, dear. I truly expected more from you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_SAD_2">
+			<Text>Did you have to do that? I'm highly disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_BETRAYED_1">
+			<Text>We could have stayed friends, you know. Well, not that I didn't see this coming.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_LEADER_YUYUKO_1">
+			<Text>I have a great idea! Let's go to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_LEADER_YUYUKO_2">
+			<Text>Shall we dance in the falling danmaku together?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_LEADER_YUYUKO_3">
+			<Text>I think I will have Youmu teach you a lesson.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>Liars should be punished, shouldn't they?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_LAND_1">
+			<Text>There's no more space in the Netherworld. People just don't stop dying.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_LAND_2">
+			<Text>I'm out of land. Could I borrow some of yours?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_WORLD_CONQUEST_1">
+			<Text>Your life -[NEWLINE]How much more of it remains?[NEWLINE]The night is brief.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_OPPORTUNITY_1">
+			<Text>Oh, I just can't help myself. Your empire is like a big dumpling without anyone around to guard it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_OPPORTUNITY_2">
+			<Text>You really should be defending your lands. Otherwise, this happens.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_DESPERATE_1">
+			<Text>Whatever should I do now? I suppose this is my only option.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_DESPERATE_2">
+			<Text>Ah, I think I'm losing. I might as well fight then, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_BETRAYAL_1">
+			<Text>Excuse me, but could you please die?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_BETRAYAL_2">
+			<Text>It's quite relaxing in the Netherworld, isn't it? I'll do you a favour and make you a permanent resident.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_WEAK_BETRAYAL_1">
+			<Text>Your protection was appreciated, but I never liked you that much.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_REGRET_1">
+			<Text>I'm terribly sorry, but I must fight you now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_DOW_REGRET_2">
+			<Text>Ah, I wish I didn't have to do this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WAR_DEMAND_REFUSED_1">
+			<Text>Perhaps I was too subtle with my demand.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>By all means, state your terms.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>What do you have to offer?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>Please, make an offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>I think that works wonderfully.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>How nice. Well then, Youmu, you can stop now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_NO_PEACE_1">
+			<Text>Oh, but I'm having so much fun.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_NO_PEACE_2">
+			<Text>Oh, no. We can't do that right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TOO_SOON_NO_PEACE_1">
+			<Text>Now? But we've only just begun.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_PLEASED_1">
+			<Text>How nice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_PLEASED_2">
+			<Text>Oh, Youmu, isn't that nice?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Excellent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>I appreciate it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>My thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>What a shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Hmm. How disappointing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>Oh, dear.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_SO_BE_IT_1">
+			<Text>I suppose it can't be helped.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_SO_BE_IT_2">
+			<Text>If that's the way it has to be.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_SO_BE_IT_3">
+			<Text>That is how it will be, then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RETURNED_CIVILIAN_1">
+			<Text>Thank you for returning my workers. I always get in trouble when ghosts get out.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_CULTURE_BOMBED_1">
+			<Text>Grabbing my land? That won't win you any favours.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>I'm glad you are at least honest about it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Then by all means, pass on.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Well, at least you are honest about it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>In that case, feel free. Just be careful, okay?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I suppose we'll both have to live with that. Well, you will. I'm dead.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Well then, it's all fine now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I understand your feelings, but I hope you will look past it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD_1">
+			<Text>I can't say I didn't anticipate that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD_2">
+			<Text>Unfortunately, that means we cannot be friends.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>Well then, the matter is put to rest.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>Well then, the matter is put to rest.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>Well then, the matter is put to rest.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>Well then, the matter is put to rest.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Well then, the matter is put to rest.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_OUR_WORDS_ARE_BACKED">
+			<Text>It's so much fun having nuclear weapons. Everyone is so polite to me now!</Text>
+		</Row>
+
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_SAME_POLICIES_FREEDOM_1">
+			<Text>You're following Freedom, too? How nice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_SAME_POLICIES_ORDER_1">
+			<Text>I see you've adopted Order. I'm glad we agree on that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Autocracy is such a convenient way to rule, isn't it? I think it was a good choice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Youmu caught one of your people in my garden the other night. Do you have anything to say for yourself?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>If you want to view the cherry blossoms, you should come to the garden openly. Youmu slashes people who sneak about.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Well, I'm glad that's settled.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>That's unfortunate. Well, not for Youmu. She likes slashing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_STOP_SPYING_YES_1">
+			<Text>Very well. I'll send my ghosts elsewhere.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_STOP_SPYING_NO_1">
+			<Text>Oh, but I can't. My ghosts protect me from everyone, including you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Thank you for your warning. I shall have some choice words for the {@1_CivAdjective} leader.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>I happen to know that {1_PlayerName} is plotting against you. You'll share any more gossip you hear with me, won't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>I happen to know that {1_PlayerName} is planning to attack {2_CityName}. You'll share any more gossip you hear with me, won't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>I happen to know that {1_PlayerName} is planning to attack you. You'll share any more gossip you hear with me, won't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>I happen to know that {1_PlayerName} is planning to attack {2_CityName} by sea. You'll share any more gossip you hear with me, won't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>I happen to know that {1_PlayerName} is planning to attack you by sea. You'll share any more gossip you hear with me, won't you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_KILLED_YOUR_SPY_1">
+			<Text>Youmu slashed someone in the garden, and it turns out they were your spy. I'll take care of them if they end up here as a ghost, but really shouldn't have been here in the first place, should they?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_KILLED_MY_SPY_1">
+			<Text>I hope you'll forgive my spying. I was just playing a little game.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Ah, you caught me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_SUSPECT_YOU_OF_SPYING_1">
+			<Text>Would you happen to know where our scientists went? It wasn't time for them to reincarnate, and they took all of their research with them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_STOP_CONVERSIONS_1">
+			<Text>Could I ask you to stop converting my people? It's confusing to hear someone preaching in the afterlife.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Such bold words. Well, I understand how you feel.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>I appreciate your understanding.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Thank you for your understanding.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>I see. That is unfortunate.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Very well. I wouldn't want to overstep my bounds.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>And why should I do that, I wonder? Your people seem to prefer my religion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Have you come to surrender?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>Ah, are you getting bored? Do you want to surrender now?</Text>
+		</Row>
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>Oh? And how are you going to stop me?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>I'm glad we understand one another.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_WE_BULLIED_MINOR_BAD_1">
+			<Text>Well, I suppose I can understand your feelings.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>I'm glad you can overlook my indiscretion.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_CANT_MATCH_OFFER_1">
+			<Text>Oh, dear. I don't think I have anything that could match that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_YUYUKO_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Hmm... I'm not sure. What do you think it's worth?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>I'm quite pleased with your proposal to the {1_LeagueName}. Let's have a toast to our mutual interest!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>That was a very interesting proposal you made to the {1_LeagueName}. Is there something you want to tell me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>I'm pleased by your support of our proposal to the {1_LeagueName} Shall we drink to our mutual interest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>I appreciate your support of our proposal to the {1_LeagueName}. It's so good to have friends, isn't it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>While I understand why you might have opposed our proposal to the {1_LeagueName}, such contrarianism won't lead anywhere good for either of us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>I'm disappointed by your opposition to our proposal to the {1_LeagueName}. Surely we can be above petty rivalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>I'm thankful for your vote for us to host the next World Congress. By working together, the world will be made a little bit more beautiful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_RESPONSE_STOP_DIGGINGX_1">
+			<Text>You're digging in my territory. Could I ask you to stop?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>But what if I find something fun? I can't stop now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>Ah, I thought I could get some nice-looking artifacts. I'll leave them for you, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Oh, my. Such defiance over something like this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>I'm pleased we can get along like this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>It seems that I have a resistance on my hands. Do they really think Freedom will solve their problems? Once you're dead, you can only be here or in Hell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>I thought "socialism" meant "have more parties," but it appears that what my people really want is Order. You really shouldn't be putting such ideas in their heads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>Are you aware that my people are calling for Autocracy? Being Supreme Leader sounds like too much work... I wonder if Youmu can do it instead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>It looks as though your people are unhappy without the Freedom of the Netherworld. What a shame that they had to witness it before they died, and know that there was something better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>It looks as though your people are unhappy without the Order of the Netherworld. What a shame that they had to witness it before they died, and know that there was something better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>It looks as though your people are unhappy without the stability provided by the Autocracy of the Netherworld. What a shame that they had to witness it before they died, and know that there was something better..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_SWITCHED_TO_FREEDOM_1">
+			<Text>I see you've made the decision to free your people. Isn't it so much better when we can all be nice to each other?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_SWITCHED_TO_ORDER_1">
+			<Text>I see you've made the decision to stop exploiting your people. Isn't it so much better when we can all work together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_SWITCHED_TO_AUTOCRACY_1">
+			<Text>I see you've made the decision to provide firm guidance to your people. Isn't it so much better to rule without restrictions?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_INFLUENTIAL_ON_AI_1">
+			<Text>Oh, dear. No one's coming to visit the gardens anymore, and they're all listening to your pop music and wearing your blue jeans. I just hope kimonos never go out of fashion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YUYUKO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>The Netherworld is so lively all of a sudden. So many people are coming from the outside! I'm happy that your people can appreciate the beauty of cherry blossoms and poetry.</Text>
+		</Row>
+	</Language_en_US>
+	-<Diplomacy_Responses>
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_FIRSTGREETING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DEFEATED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_REPEAT_TRADE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_REPEAT_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_REPEAT_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_REPEAT_TRADE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_REPEAT_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_REPEAT_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_REPEAT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_REPEAT%</Response>
+		</Row>
+		<!-- Greetings -->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_POLITE_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_NEUTRAL_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_DESTRUCTION_LOOMS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_DESTRUCTION_LOOMS%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_WANTS_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_WANTS_PEACE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_AT_WAR_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_RESEARCH_AGREEMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_BROKEN_MILITARY_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_BROKEN_MILITARY_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_WORKING_WITH</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_WORKING_WITH%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_WORKING_AGAINST</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_WORKING_AGAINST%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_COOP_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_COOP_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_AT_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HUMAN_AT_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_AGGRESSIVE_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_AGGRESSIVE_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_AGGRESSIVE_EXPANSION%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_AGGRESSIVE_PLOT_BUYING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_FRIENDLY_STRONG_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_ECONOMY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_FRIENDLY_STRONG_ECONOMY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_FEW_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_FEW_CITIES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_SMALL_ARMY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_SMALL_ARMY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_IS_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_HOSTILE_HUMAN_IS_WARMONGER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_BY_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_BY_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_OUR_DOF_WITH_ENEMY_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_OUR_DOF_WITH_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_DENOUNCED_ENEMY_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TOO_SOON_FOR_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TOO_SOON_FOR_DOF%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOF_AI_DENOUNCE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOF_AI_DENOUNCE_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOF_AI_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOF_AI_WAR_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOF_NOT_HONORED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOF_NOT_HONORED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_AI_DOF_BACKSTAB</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DENOUNCING_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_RESPONSE_TO_BEING_DENOUNCED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_TO_BEING_DENOUNCED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DOFED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DOFED_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DOFED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DOFED_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCED_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCED_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DOF_SO_AI_DOF%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCE_SO_AI_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DOF_SO_AI_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DENOUNCE_SO_AI_DOF%</Response>
+		</Row>
+		<!-- General Diplo Text -->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_PROTECTED_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_PROTECTED_CITY_STATE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_EXPANSION_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_EXPANSION_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_EXPANSION_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_EXPANSION_BROKEN_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PLOT_BUYING_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PLOT_BUYING_SERIOUS_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PLOT_BUYING_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PLOT_BUYING_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PLOT_BUYING_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PLOT_BUYING_BROKEN_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_ATTACKED_YOUR_MINOR%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WE_ATTACKED_YOUR_MINOR%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WORK_WITH_US</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DEC_FRIENDSHIP%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_WARMONGER</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_MINORS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_MINORS</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_LAND</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_WONDERS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_WONDERS</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_VICTORY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_VICTORY</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_DEFAULT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_WITH_US_DEFAULT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_END_WORK_AGAINST_SOMEONE_DEFAULT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_END_WORK_AGAINST_SOMEONE_DEFAULT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_COOP_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_COOP_WAR_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_COOP_WAR_TIME</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_COOP_WAR_TIME%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_NOW_UNFORGIVABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_NOW_UNFORGIVABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_NOW_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_NOW_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_COMPLIMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_LEADER_YUYUKO_COMPLIMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_BOOT_KISSING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_BOOT_KISSING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WARMONGER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_MINOR_CIV_COMPETITION</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_MINOR_CIV_COMPETITION%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PLEASED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_THANKFUL</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_THANKFUL%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DISAPPOINTED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_DISAPPOINTED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SO_BE_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_SO_BE_IT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_RETURNED_CIVILIAN</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RETURNED_CIVILIAN%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_CULTURE_BOMBED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_CULTURE_BOMBED%</Response>
+		</Row>
+		<!-- Insults -->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_LEADER_YUYUKO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_LEADER_YUYUKO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_NUKE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_NUKE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_BULLY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_BULLY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_UNHAPPINESS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_UNHAPPINESS%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_CITIES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_POPULATION</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_POPULATION%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_INSULT_CULTURE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_INSULT_CULTURE%</Response>
+		</Row>
+		<!--Public Declarations-->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DECLARATION_PROTECT_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DECLARATION_PROTECT_CITY_STATE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DECLARATION_ABANDON_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DECLARATION_ABANDON_CITY_STATE%</Response>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_REPEAT_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_REPEAT_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DONT_SETTLE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DONT_SETTLE_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DONT_SETTLE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DONT_SETTLE_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WORK_WITH_US_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WORK_WITH_US_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WORK_WITH_US_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WORK_AGAINST_SOMEONE_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_COOP_WAR_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_COOP_WAR_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_COOP_WAR_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_COOP_WAR_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_COOP_WAR_SOON%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_WEAK</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_WEAK%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_TOO_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_DEMAND_REFUSE_TOO_SOON%</Response>
+		</Row>
+		<!-- Deal Offers and related -->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOT_DOT_DOT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOT_DOT_DOT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_LETS_HEAR_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_LETS_HEAR_IT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PEACE_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PEACE_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DEMAND%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_REQUEST_ITEM%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_LUXURY_TRADE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_OPEN_BORDERS_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_OPEN_BORDERS_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PLAN_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PLAN_RESEARCH_AGREEMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_RESEARCH_AGREEMENT_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESEARCH_AGREEMENT_OFFER%</Response>
+		</Row>
+		<!-- Trade Dialogue -->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_GENEROUS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_GENEROUS%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_ACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_ACCEPTABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_AI_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_AI_DEMAND%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_HUMAN_CONCESSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_ACCEPT_HUMAN_CONCESSIONS%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_REJECT_UNACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_UNACCEPTABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_REJECT_INSULTING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_REJECT_INSULTING%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_DEAL_UNCHANGED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_DEAL_UNCHANGED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_AI_MAKES_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_AI_MAKES_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_NO_DEAL_POSSIBLE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_NO_DEAL_POSSIBLE%</Response>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_WEAK_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_WEAK_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_STRONG_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_SAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_SAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_BETRAYED%</Response>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_LEADER_YUYUKO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_LEADER_YUYUKO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_ATTACKED_MILITARY_PROMISE_BROKEN</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_ATTACKED_MILITARY_PROMISE_BROKEN%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_LAND%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_WORLD_CONQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_WORLD_CONQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_OPPORTUNITY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_OPPORTUNITY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_DESPERATE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_DESPERATE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_BETRAYAL%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_WEAK_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_WEAK_BETRAYAL%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_DOW_REGRET</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_DOW_REGRET%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WAR_DEMAND_REFUSED</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WAR_DEMAND_REFUSED%</Response>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PEACE_WHAT_WILL_HUMAN_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PEACE_WHAT_WILL_HUMAN_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_PEACE_MADE_BY_HUMAN_GRACIOUS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_PEACE_MADE_BY_HUMAN_GRACIOUS%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_NO_PEACE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TOO_SOON_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TOO_SOON_NO_PEACE%</Response>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_AGGRESSIVE_MILITARY_WARNING_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_AGGRESSIVE_MILITARY_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_ATTACKED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_ATTACKED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WE_ATTACKED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_ATTACKED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_KILLED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_EXPANSION_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_PLOT_BUYING_WARNING_GOOD%</Response>
+		</Row>-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_BULLIED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HOSTILE_WE_BULLIED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_WE_BULLIED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_BULLIED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_GREETING_WILL_ACCEPT_SURRENDER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_GREETING_WILL_ACCEPT_SURRENDER%</Response>
+		</Row>
+		<!--Espionage-->
+		-<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_CAUGHT_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_CAUGHT_YOUR_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_KILLED_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_KILLED_YOUR_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_CONFRONT_YOU_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_CONFRONT_YOU_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SUSPECT_YOU_OF_SPYING</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_CAUGHT_YOUR_SPY_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_CAUGHT_YOUR_SPY_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_STOP_SPYING_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_STOP_SPYING_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_STOP_SPYING_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_STOP_SPYING_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_WARNED_ABOUT_INTRIGUE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_WARNED_ABOUT_INTRIGUE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_DECEPTION</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_DECEPTION%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_STOP_CONVERSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_STOP_CONVERSIONS%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_STOP_CONVERSIONS_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_HUMAN_STOP_CONVERSIONS_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_TRADE_CANT_MATCH_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_TRADE_CANT_MATCH_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE%</Response>
+		</Row> -<Row LeaderType="LEADER_YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_YUYUKO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_YUYUKO_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_YUYUKO_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_YUYUKO_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_YUYUKO_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_YUYUKO_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_AI_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_YUYUKO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_YUYUKO_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_YUYUKO_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_YUYUKO_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_YUYUKO_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_YUYUKO_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+		<!--Leagues-->
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUYUKO_WE_LIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUYUKO_WE_DISLIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUYUKO_HUMAN_SUPPORTED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_YUYUKO_HUMAN_FOILED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="YUYUKO">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_YUYUKO_HUMAN_SUPPORTED_OUR_HOSTING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="92a9795b-72c6-4b83-865c-0c7a541c4a85" version="28">
+  <Properties>
+    <Name>Touhou - Tengu Union</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Tengu from the Touhou Project series ruled under Tenma.</Teaser>
+    <Description>Adds the Tengu from the Touhou Project series ruled under Tenma.</Description>
+    <Authors>Igniszath</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>28</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DFF0C4861AD44D3CB5F8D112B3530418" import="1">Art/TenmaDiplo.dds</File>
+    <File md5="982E4112F8CCCB938D8DF49CE8575350" import="1">Art/TenmaDOM.dds</File>
+    <File md5="9AF3EC9E1879FA648A08D65936F84C2B" import="1">Art/TenmaMap.dds</File>
+    <File md5="DACF172CEEAE39CA9F1501FF7E815821" import="1">Art/TenmaNewsBackground.dds</File>
+    <File md5="DF575C05CF7075BD83CB4FA79B16F905" import="1">Art/TouhouTenguAlphaAtlas16.dds</File>
+    <File md5="D6471867794665C32913C7D44BCB249D" import="1">Art/TouhouTenguAlphaAtlas24.dds</File>
+    <File md5="76F59ADF40A4EEA1AA24972D92C1E522" import="1">Art/TouhouTenguAlphaAtlas32.dds</File>
+    <File md5="13AC23E7AE393FA10E3E9AE8AA5AC534" import="1">Art/TouhouTenguAlphaAtlas48.dds</File>
+    <File md5="4CBA929535D193ACE78A73B069054D9A" import="1">Art/TouhouTenguAlphaAtlas64.dds</File>
+    <File md5="D9881D59F1F90C9498685ECAA57B310B" import="1">Art/TouhouTenguIconAtlas128.dds</File>
+    <File md5="009A1148E72EB128F4C3FBE693D7C227" import="1">Art/TouhouTenguIconAtlas256.dds</File>
+    <File md5="3A00EC70445B120B1DC9179598BD6802" import="1">Art/TouhouTenguIconAtlas32.dds</File>
+    <File md5="40D19ACF09EDDC6D2D1639E91123FE8B" import="1">Art/TouhouTenguIconAtlas45.dds</File>
+    <File md5="3B8095A29B53F490B75F4E4BFF475367" import="1">Art/TouhouTenguIconAtlas64.dds</File>
+    <File md5="40291650170B43D4D6654B4069916527" import="1">Art/TouhouTenguIconAtlas80.dds</File>
+    <File md5="BDC81847AA324C7F276BAEFAC61AEB60" import="1">Art/YoukaiMountainIncident.dds</File>
+    <File md5="1B0179BF1B359952A425A0264594E00E" import="0">Lua/TenmaLua.lua</File>
+    <File md5="A14B40850A8946B14ABF92C286C98771" import="1">Music/Either/InfiniteNightmare.mp3</File>
+    <File md5="B43DF5E9ED51FFB5E736044D3D22C11A" import="1">Music/Either/WindGodsYawn.mp3</File>
+    <File md5="6F23CD52868818ABC4648CCD8FBB3701" import="1">Music/Either/YoukaiModernColony.mp3</File>
+    <File md5="6E7288C1571B5CA853648658A4F854D8" import="1">Music/Peace/FallOfFall.mp3</File>
+    <File md5="83EEAEBC394EF9EE707E6CAA20DC9FA5" import="1">Music/Peace/MessengerToTheEasternCountry.mp3</File>
+    <File md5="FD3B5044C4117537BCF2A638F8566387" import="1">Music/Peace/MysteryInYourTown.mp3</File>
+    <File md5="EF0FA36EB7FF522B2A907AEEE9DD63C2" import="1">Music/Peace/RetrospectivePeace.mp3</File>
+    <File md5="A1DD5261D621A47F021B69074FD3783C" import="1">Music/Peace/YoukaiMountain.mp3</File>
+    <File md5="00A09E87AB8A4ED037BCBDA76A45FDD0" import="1">Music/War/NemesisStronghold.mp3</File>
+    <File md5="7EEEDDF32D07E96F39EDC9D71F6ADF94" import="1">Music/War/NeverMoreEndlessNight.mp3</File>
+    <File md5="F3C0B98CC460AAC637ABCBACC357D783" import="1">Music/War/RetrospectiveWar.mp3</File>
+    <File md5="64B93A8DFAF990384D23840A2FA6ACB2" import="1">Music/War/TenguIsWatching.mp3</File>
+    <File md5="3327E32D537A0557346BFCB9F78F4E0F" import="1">Music/War/WindGodGirl.mp3</File>
+    <File md5="2B2B44C5330EDAC8C79426F63966CFC9" import="0">Special Thanks.txt</File>
+    <File md5="3428D3EEC77B001FCCED81BEC1C024A3" import="0">Support/TenguSupport.sql</File>
+    <File md5="7E06F59FEE965A68EFCF456FBEFF1BC7" import="1">Support/TenguDecisions.lua</File>
+    <File md5="C65FEE1DD45A55368BD3F2FCE4BE55D7" import="1">Support/TenguEvents.lua</File>
+    <File md5="8735E57FFDCEDB8AFF28623151FD94FE" import="0">Support/TenguEventsandDecisions.xml</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Util/Sukritact_SaveUtils.lua</File>
+    <File md5="C10FA28A1BF270246B6FE21F0C25627D" import="0">XML/TenguAudioDefines.xml</File>
+    <File md5="37D9E297E968FCE33367564FB01ACBF4" import="0">XML/TenguAudioScripts.xml</File>
+    <File md5="AD2DAC63274A474A43B183AEB2FBFA7D" import="0">XML/TenmaBuildings.xml</File>
+    <File md5="26983EED36953CC2A21901E7E0EFF63E" import="0">XML/TenmaDummy.xml</File>
+    <File md5="BBCBB7B62F27BC608E135922EB8C4098" import="0">XML/TenmaCivilization.xml</File>
+    <File md5="F0F02605DEBF6FB4BD4FD0EE9BEC0198" import="0">XML/TenmaColors.xml</File>
+    <File md5="5E0032FC35F597FDA3DA0203D0783197" import="0">XML/TenmaDiplomacy.xml</File>
+    <File md5="E89B45AA2995BB9D132CA8E192F01C99" import="0">XML/TenmaLeader.xml</File>
+    <File md5="06E96F764A93A30C4A69F367D1C4272A" import="0">XML/TenmaMusic.xml</File>
+    <File md5="7D70B1FD1362187644A8893B8CCDDC27" import="0">XML/TenmaPromotions.xml</File>
+    <File md5="4F1E698626C2E3290C4B49231462C293" import="1">XML/TenmaScene.xml</File>
+    <File md5="BD304E1F7350B901F4A9C61045055D51" import="0">XML/TenmaPalace.xml</File>
+    <File md5="88DF559D67C3CC54FDB3CB8FB0923AB7" import="0">XML/TenmaText.xml</File>
+    <File md5="EF93AD2D4ABC60C13701F4303485A9D5" import="0">XML/TenmaTrait.xml</File>
+    <File md5="6FBA00B76AC97B8F8762FFBB4C12A873" import="0">XML/TenmaUnitArtDefines.xml</File>
+    <File md5="321ED095891AAACB91ABF5611BF12993" import="0">XML/TenmaUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/TenmaBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaDummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaUnitArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaPalace.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenguAudioDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenguAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TenmaText.xml</UpdateDatabase>
+      <UpdateDatabase>Support/TenguSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/TenguEventsandDecisions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/TenmaLua.lua">
+      <Name>TenmaLua</Name>
+      <Description>Tenma's Script for Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

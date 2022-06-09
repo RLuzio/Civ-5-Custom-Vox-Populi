@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/19/2016 3:08:47 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_FIRST_GREETING">
+			<Text>Heh-heh-heh. Beg your pardon. The name's Momoyo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_DEFEATED">
+			<Text>...That... felt AWESOME!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_OOMUKADE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now become to miner. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_FIRST_GREETING">
+			<Text>큭큭큭, 실례. 나는 모모요.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_DEFEATED">
+			<Text>......기, 기분 좋아!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_OOMUKADE_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 광부가 되어가고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_FIRST_GREETING">
+			<Text>くっくっく、失礼。俺は百々世</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_DEFEATED">
+			<Text>……き、気持ちいい！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_OOMUKADE_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は坑夫になっている。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_HIMEMUSHI_MOMOYO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_FIRST_GREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_HIMEMUSHI_MOMOYO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d7e45648-190b-46f1-8a5b-082ba869e136" version="2">
+  <Properties>
+    <Name>Touhou - Kobito</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the kobito civilization led by Shinmyouamru Sukuna from Touhou games.</Teaser>
+    <Description>Adds the kobito civilization led by Shinmyouamru Sukuna from Touhou games.</Description>
+    <Authors>BoringDuck</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7365018531BB575EE0E6583CD3ACEF5A" import="1">Art/KobitoAtlas128.dds</File>
+    <File md5="621CA93E902FF773B88D8F005D053870" import="1">Art/KobitoAtlas256.dds</File>
+    <File md5="7AC7FD15A701C76FA00A74AE5AFE2DDE" import="1">Art/KobitoAtlas32.dds</File>
+    <File md5="8FD6E634B26B0F1116F705162CBE7117" import="1">Art/KobitoAtlas45.dds</File>
+    <File md5="A78D9DB6CD341B87F87AE6FCEB03889E" import="1">Art/KobitoAtlas64.dds</File>
+    <File md5="570CABCED5DEC163BC106B8C699C3FDA" import="1">Art/KobitoAtlas80.dds</File>
+    <File md5="B8D7749EE5FB362FA459B67F19BEBF66" import="1">Art/KobitoAtlasAlpha16.dds</File>
+    <File md5="825EEBA1BB102F6C4601051578EEFDBC" import="1">Art/KobitoAtlasAlpha24.dds</File>
+    <File md5="BCEE6E484DC7E4F4C4651716A4643FE8" import="1">Art/KobitoAtlasAlpha32.dds</File>
+    <File md5="6D181DE60AC87203BFD3E223A8F534CB" import="1">Art/KobitoAtlasAlpha48.dds</File>
+    <File md5="B818D89438A0A4EEC9F5C16CFB8A7E8C" import="1">Art/KobitoAtlasAlpha64.dds</File>
+    <File md5="9C663C1E195AF8792170F37D392C14D0" import="1">Art/KobitoDiplo.dds</File>
+    <File md5="EA67B3BE79A05B82344E9708429AA02B" import="1">Art/KobitoMap.dds</File>
+    <File md5="D064BC52F18A8D5B7B52B9E90C98B7E2" import="1">Art/KobitoMiracleMallet.dds</File>
+    <File md5="737029718DB8856C1ABC0D324BFD00AE" import="1">Art/KobitoPromotion256.dds</File>
+    <File md5="9CC6DDF54A8AEC81ABF663ADB536F981" import="1">Art/KobitoPromotion32.dds</File>
+    <File md5="4F6BF2E11AA685EBF8865347D8A72F29" import="1">Art/KobitoPromotion45.dds</File>
+    <File md5="04C9BE42F8AB069A52A1C7BDF322E7D7" import="1">Art/KobitoPromotion64.dds</File>
+    <File md5="DF6F6C749D2F5EBA4E6A8AFBC5F3B2FF" import="1">Art/Leader/KobitoDiplo.dds</File>
+    <File md5="8AA42DA18D411AB392DFEAEF133CD1BF" import="1">Art/Leader/KobitoDiploAfraid.dds</File>
+    <File md5="24D990345A1AC26088FDEFAC5C89B99B" import="1">Art/Leader/KobitoDiploDefeat.dds</File>
+    <File md5="24F6D1701F2D03DABD3C7851434E3161" import="1">Art/Leader/KobitoDiploFriendly.dds</File>
+    <File md5="D3C61E5607B4E52ADC92A037A400F879" import="1">Art/Leader/KobitoDiploGuarded.dds</File>
+    <File md5="D37BE9578DC2EA70FE01A5C479E61825" import="1">Art/Leader/KobitoDiploHostile.dds</File>
+    <File md5="CD37C8959C89F7FA80902222381864AE" import="1">Art/Leader/KobitoDiploWar.dds</File>
+    <File md5="137503D2B1FBF5E98020828AB6831A58" import="1">Art/Music/KobitoPeace.mp3</File>
+    <File md5="56E3B9E2E9F87B9953BE88F3081419DA" import="1">Art/Music/KobitoWar.mp3</File>
+    <File md5="5B64BA1A685B2A5BE6B1455CF934A54D" import="1">Art/ShinmyoumaruDOM.dds</File>
+    <File md5="35984D881EC5AB8F778351F5CA15349D" import="1">Art/StingingSwordsmanUnitflag.dds</File>
+    <File md5="928C790948FEC7A44796B92FCF2083A6" import="1">Art/SV_StingingSwordsmanUnitflag.dds</File>
+    <File md5="F4C74D94925FDF20E8EEB2D7E29E7345" import="1">Art/Unit/Scout_Japan.dds</File>
+    <File md5="8C2334D3753DFBD6926AEB4AE54823D4" import="1">Art/Unit/Scout_Japan.fxsxml</File>
+    <File md5="26A6C307BDB26866C841ACFBDF60F597" import="1">Art/Unit/Scout_Japan.gr2</File>
+    <File md5="B1BCF2502812C1A06859F4398412F4B1" import="1">Art/Unit/Scout_Japan_gloss.dds</File>
+    <File md5="7A19FD14E8409ECF563E48A40A84601E" import="0">Lua/KobitoTraits.lua</File>
+    <File md5="CE5D96EAD41F8E9D9C276DBA3E07A77D" import="0">Lua/KobitoTraitsForAI.lua</File>
+    <File md5="F07DC32A5B623728B0AB026955388704" import="1">Lua/KobitoUtil.lua</File>
+    <File md5="C22F032205680BA05389B26A146E51B5" import="0">Lua/Util/VVLeaderHeadImageOverride.lua</File>
+    <File md5="01326AAA3F03CDF6CD96CB0DB9A2A4FB" import="0">Lua/Util/VVLeaderHeadImageOverride.xml</File>
+    <File md5="72DD0AFD5AFC86E80E6A52D82C552A5E" import="0">Lua/Util/VV_LeaderSceneChanger.sql</File>
+    <File md5="F1049AD8406A2B9E77FBB4DFD83D6121" import="1">Support/Events and Decisions/KobitoDecisions.lua</File>
+    <File md5="B828CE77CC7A5AC55C6220C986A02424" import="0">Support/Events and Decisions/KobitoDescionsSupport.xml</File>
+    <File md5="92A0520B6766ECD8741302F7E62E1DA3" import="0">Support/Events and Decisions/NewText/EnDText_EN.xml</File>
+    <File md5="A857AFF745563021D2CA173010CB6DB5" import="0">Support/Events and Decisions/NewText/EnDText_KR.xml</File>
+    <File md5="E63EDB9E58D465EFCFAB14E5A567F43D" import="0">Support/TouhouKobitoModSupport.sql</File>
+    <File md5="E2A759C5E811FB4D9298FB37D225A5FA" import="0">Support/Unique Culture Influence/TouhouKobitoUCI.xml</File>
+    <File md5="90438C6EA895BB9A141F286E1F04F588" import="0">UI/KobitoSelectBonus.lua</File>
+    <File md5="F2D5BBFD5D51FC7BE00A72AAFF9F7D07" import="0">UI/KobitoSelectBonus.xml</File>
+    <File md5="628974834C6EA9D199E6F81C5AA4EB2D" import="0">UI/MessagePopup_edit.lua</File>
+    <File md5="71015AD340938F1E2FDD0EA06BA41FFB" import="0">UI/MessagePopup_edit.xml</File>
+    <File md5="8A34DBDF94C74158AB2E6996E46B75E8" import="0">XML/KobitoUnitArtDefines.xml</File>
+    <File md5="DD5C4D5A9D8B7766944098DB939C1463" import="0">XML/NewText/KobitoCivText_KR.xml</File>
+    <File md5="764F3318E9BD256FC92531D1CB7A2435" import="0">XML/NewText/KobitoCivText_EN.xml</File>
+    <File md5="4DF1C54492F4B10C31690DB7CC01AD2D" import="1">XML/SukunaScene.xml</File>
+    <File md5="3ECC8FD7FF23C2426C446BDEA743EEDD" import="0">XML/KobitoBuildings.xml</File>
+    <File md5="FF7CF38FFEFA68755E8AB56E881DD1D1" import="0">XML/KobitoCivilizations.xml</File>
+    <File md5="50770379B0A3085AD097196C43EF6E5F" import="0">XML/Kobitodiplomacy.xml</File>
+    <File md5="74538E1B3A79DF70692703D549761DDA" import="0">XML/KobitoIconAtlas.xml</File>
+    <File md5="F1EC4561FA47B6DE96572A0EC41D9FAE" import="0">XML/KobitoLeader.xml</File>
+    <File md5="E0D0E81C067C5BA00418E07470243332" import="0">XML/KobitoMusic.xml</File>
+    <File md5="38E6B4E83B28794406F25F3FCA1353BD" import="0">XML/KobitoTraits.xml</File>
+    <File md5="4A77D4599B672AA0363824ED28CCF63C" import="0">XML/KobitoUnitPromotions.xml</File>
+    <File md5="3A3CBA0CBEB53B952C958CB447009553" import="0">XML/KobitoUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Lua/Util/VV_LeaderSceneChanger.sql</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoUnitArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoCivilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoTraits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoUnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KobitoMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Kobitodiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/KobitoCivText_EN.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/KobitoCivText_KR.xml</UpdateDatabase>
+      <UpdateDatabase>Support/Unique Culture Influence/TouhouKobitoUCI.xml</UpdateDatabase>
+      <UpdateDatabase>Support/Events and Decisions/KobitoDescionsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Support/Events and Decisions/NewText/EnDText_EN.xml</UpdateDatabase>
+      <UpdateDatabase>Support/Events and Decisions/NewText/EnDText_KR.xml</UpdateDatabase>
+      <UpdateDatabase>Support/TouhouKobitoModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="UI/KobitoSelectBonus.xml">
+      <Name>KobitoCitySelect</Name>
+      <Description>KobitoCitySelect</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/KobitoTraits.lua">
+      <Name>KobitoTraits</Name>
+      <Description>KobitoTraits</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="UI/MessagePopup_edit.xml">
+      <Name>MessagePopup_edit</Name>
+      <Description>MessagePopup_edit</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/KobitoTraitsForAI.lua">
+      <Name>AIKobitoTraits</Name>
+      <Description>AIKobitoTraits</Description>
+    </EntryPoint>
+    <EntryPoint type="DiplomacyUIAddin" file="Lua/Util/VVLeaderHeadImageOverride.xml">
+      <Name>VVDynamicLeaderForKobito</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 9:45:15 AM -->
+<GameData>
+	-<Units>
+		-<Row>
+			<Class>UNITCLASS_GATLINGGUN</Class>
+			<Type>UNIT_FAIRY_HERALD</Type>
+			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+			<Combat>30</Combat>
+			<RangedCombat>30</RangedCombat>
+			<Cost>225</Cost>
+			<Moves>3</Moves>
+			<Range>1</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_FAIRY_HERALD</Description>
+			<Civilopedia>TXT_KEY_UNIT_FAIRY_HERALD_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_FAIRY_HERALD_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_FAIRY_HERALD_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_BALLISTICS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_MACHINE_GUN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_GATLINGGUN</UnitArtInfo>
+			<UnitFlagAtlas>FAIRY_ALPHA_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>FAIRY_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+</Units>-<Unit_AITypes>
+	-<Row>
+		<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		<UnitAIType>UNITAI_RANGED</UnitAIType>
+	</Row>-<Row>
+		<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+	</Row>
+</Unit_AITypes>
+	-<Unit_FreePromotions>
+	-<Row>
+		<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		<PromotionType>PROMOTION_RANGE</PromotionType>
+	</Row><Row>
+		<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+	</Row>
+</Unit_FreePromotions><Unit_ClassUpgrades>
+	<Row>
+		<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		<UnitClassType>UNITCLASS_MACHINE_GUN</UnitClassType>
+	</Row>
+</Unit_ClassUpgrades>
+	-<Unit_Flavors>
+	-<Row>
+		<UnitType>UNIT_FAIRY_HERALD</UnitType>
+		<FlavorType>FLAVOR_DEFENSE</FlavorType>
+		<Flavor>5</Flavor>
+	</Row>
+		-<Row>
+			<UnitType>UNIT_FAIRY_HERALD</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		-<Row>
+			<UnitType>UNIT_FAIRY_HERALD</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+</Unit_Flavors>
+</GameData>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<!--Define all sizes of the icon atlas (16, 24, 32, 48, 64, 80, 128, 214, and 256).-->
+		<!--Conventionally, only up to 128 seemed to be needed, but for whatever reason the mod would not function without 214 and 256.-->
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored16_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored24_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored32_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored48_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored64_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored80_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored128_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>214</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored214_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CALYPSO_RELIGIONS_ATLAS_MOD_BASIC</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>CalypsoReligiousSymbolsColored256_basic.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>3</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<IconFontTextures>
+		<!--Define the modded font icons file.-->
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconFontTextureFile>CalypsoReligiousSymbolsFontIcons_basic</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<!--Direct each modded icon to its respective spot on the mod's font icon file.-->
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_PANTHEON</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>7</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_BUDDHISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_CHRISTIANITY</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>2</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_CONFUCIANISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>3</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_HINDUISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>4</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_ISLAM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>5</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_JUDAISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>6</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_SHINTO</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>8</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_SIKHISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>9</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_TAOISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>10</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_TENGRIISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>11</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_ZOROASTRIANISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>12</IconMapping>
+		</Row>
+		<!--Direct the scenario religions to their font icons.-->
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_ORTHODOXY</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>13</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_CALYPSO_RELIGION_PROTESTANTISM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC</IconFontTexture>
+			<IconMapping>14</IconMapping>
+		</Row>
+		<!--Even though the font icons for each religion have been redirected and will now be featured when hovering over cities, religious icons already used in game text will not be changed. This only applies to the Papal Primacy scenario belief, which uses the Christianity font icon. Updating the base icon fixes that.-->
+		<Update>
+			<Where IconName="ICON_RELIGION_CHRISTIANITY"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="2"/>
+		</Update>
+		<!--Update the rest just because it's good practice.-->
+		<!--Actually, this makes sure that if anyone runs this mod with another mod that has text that uses base game religious font icons, these will be replaced accordingly.-->
+		<Update>
+			<Where IconName="ICON_RELIGION_PANTHEON"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="7"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_BUDDHISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="1"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_CONFUCIANISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="3"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_HINDUISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="4"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_ISLAM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="5"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_JUDAISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="6"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_SHINTO"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="8"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_SIKHISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="9"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_TAOISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="10"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_TENGRIISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="11"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_ZOROASTRIANISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="12"/>
+		</Update>
+		<!--It's unlikely somebody makes and uses a mod with the Renaissance Scenario that also features something new that uses the other scenario font icons, but you never know.-->
+		<Update>
+			<Where IconName="ICON_RELIGION_ORTHODOXY"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="13"/>
+		</Update>
+		<Update>
+			<Where IconName="ICON_RELIGION_PROTESTANTISM"/>
+			<Set IconFontTexture="ICON_FONT_TEXTURE_CALYPSO_RELIGION_MOD_BASIC" IconMapping="14"/>
+		</Update>
+	</IconFontMapping>
+</GameData>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/18/2017 9:19:44 PM -->
+<GameData>
+	<EventsAddin_Support>
+		<Row>
+			<FileName>HiganEvents.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>HiganDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_HIGAN_LECTURE">
+			<Text>Lecture City-States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HIGAN_LECTURE_DESC">
+			<Text>
+				It is a new era and city states have started to lose their way, we must give them a lecture so that they do not stray away from the path of enlightenment.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Higan
+				[NEWLINE][ICON_BULLET]Player must know at least 4 City-States
+				[NEWLINE][ICON_BULLET]Must have researched Theology
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive +30 [ICON_INFLUENCE] Influence with all met City-States
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HIGAN_LECTURE_ENACTED_DESC">
+			<Text>
+				It is a new era and city states have started to lose their way, we must give them a lecture so that they do not stray away from the path of enlightenment.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive +30 [ICON_INFLUENCE] Influence with all met City-States
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_HIGAN_MUENZUKA">
+			<Text>Build Muenzuka in {1_MinorCiv}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HIGAN_MUENZUKA_DESC">
+			<Text>
+				The citizens of {1_MinorCiv} wants us to build a graveyard for the dead who do not have any relatives. We should build this graveyard to extend our infleunce's reach.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Higan
+				[NEWLINE][ICON_BULLET]Must have researched Philosophy
+				[NEWLINE][ICON_BULLET]Must be allies with {1_MinorCiv}
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain control of {1_MinorCiv} and their units
+				[NEWLINE][ICON_BULLET]Muenzuka is built in {1_MinorCiv}
+				[NEWLINE][ICON_BULLET]A Shinigami appears in {1_MinorCiv}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HIGAN_MUENZUKA_ENACTED_DESC">
+			<Text>
+				Citizens of {1_MinorCiv} wants to build a graveyard for the dead who do not have any relatives. We should build this graveyard to extend our influence's reach.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain control of {1_MinorCiv} and their units
+				[NEWLINE][ICON_BULLET]Muenzuka is built in {1_MinorCiv}
+				[NEWLINE][ICON_BULLET]A Shinigami appears in {1_MinorCiv}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI">
+			<Text>The Slacking Shinigami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_DESC">
+			<Text>
+				It appears some of our shinigami have been slacking off in their duties of ferrying the dead. We must do something about this!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_1">
+			<Text>
+				Have them do some field work instead.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]A Shinigami appears at the [ICON_CAPITAL] Capital[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_1_NOTIFICATION">
+			<Text>
+				The slacking shinigami has their old job replaced and is now doing some field work.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_2">
+			<Text>
+				Give a lecture to get them working.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 1 [ICON_MAGISTRATES] Magistrate.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_GoldenAge} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_2_NOTIFICATION">
+			<Text>
+				The slacking shinigami is now back on track. Your other shinigami have also been inspired to work hard as well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_3">
+			<Text>
+				Leave them be, they need to have a break once in a while.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD] Gold.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a permanent +3 [ICON_HAPPINESS_1] Happiness in the [ICON_CAPITAL] Capital. This dissappears on capture.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SLACKING_SHINIGAMI_OUTCOME_3_NOTIFICATION">
+			<Text>
+				The shinigami were impressed by your leniency, permanently increasing your [ICON_CAPITAL] Capital's [ICON_HAPPINESS_1] Happiness!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

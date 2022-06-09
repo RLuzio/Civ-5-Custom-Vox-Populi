@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/3/2017 10:52:58 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_PRISTINE_BEATS</Type>
+			<Description>TXT_KEY_TRAIT_PRISTINE_BEATS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_PRISTINE_BEATS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

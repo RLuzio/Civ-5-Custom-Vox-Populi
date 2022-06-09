@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="52f2b47e-bb8a-440b-9992-863781d43136" version="3">
+  <Properties>
+    <Name>Touhou - Choujuu Gigaku</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Choujuu Gigaku("Dance of Bird and Beast") is a punk rock band consisting of Kyouko Kasodani (vocals) and Mystia Lorelei (guitar</Teaser>
+    <Description>Choujuu Gigaku("Dance of Bird and Beast") is a punk rock band consisting of Kyouko Kasodani (vocals) and Mystia Lorelei (guitar), who hold night concerts on the road between the Human Village and the Hakurei Shrine. Its name is derived from Choujuu Giga and gigaku. The level of dissatisfaction has undeniably proven popular with the youth and their concerts have already gathered impressive crowds of excited fairies and disaffected youkai.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4 trait" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="unique culture" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="23DECFD2E92CFD23B7F9673721D35526" import="1">ART/CJGG_Alpha128.dds</File>
+    <File md5="4B1348C06A52EC513B0F9DBAF8023A48" import="1">ART/CJGG_Alpha16.dds</File>
+    <File md5="5DDC6D93FAB3545658AC377C5E4158C5" import="1">ART/CJGG_Alpha24.dds</File>
+    <File md5="384CDDEF85CB1DFE930469C3F1D576FC" import="1">ART/CJGG_Alpha32.dds</File>
+    <File md5="10BDF2FD1B2234E3DD27B1C2B267951C" import="1">ART/CJGG_Alpha48.dds</File>
+    <File md5="10BDF2FD1B2234E3DD27B1C2B267951C" import="1">ART/CJGG_Alpha64.dds</File>
+    <File md5="5A9876B1A5104FCE73BAD8484AB5FF17" import="1">ART/CJGG_Atlas128.dds</File>
+    <File md5="7E67AD634C9C75E2F1131456C1672343" import="1">ART/CJGG_Atlas256.dds</File>
+    <File md5="05E5C9A84709CCDD747331C59B8B2009" import="1">ART/CJGG_Atlas32.dds</File>
+    <File md5="9FF52D7ACC7B0F7035065AF511A710BC" import="1">ART/CJGG_Atlas45.dds</File>
+    <File md5="0181B3192D1A5FBCEAE83A01B9A3BD60" import="1">ART/CJGG_Atlas64.dds</File>
+    <File md5="73D96C5C66284F782F1AF7F062E80C22" import="1">ART/CJGG_Atlas80.dds</File>
+    <File md5="36A6949C98DACDB01082ABAA507D69F7" import="1">ART/CJGG_DOM.dds</File>
+    <File md5="D3E4392FACC7FB8B0EC0EB6EAB973F42" import="1">ART/CJGG_Map.dds</File>
+    <File md5="E2CDB0CB6501D49C56B2D2309EAE052C" import="1">ART/CJGG_Scene.dds</File>
+    <File md5="E19249EF99295E1BA2DC0C6592B7B3B8" import="1">ART/CJGG_Scene.xml</File>
+    <File md5="8E0149081FC678F592F4819A77FD8F1F" import="1">MUSIC/BYSG.mp3</File>
+    <File md5="DE3A021570E621034903A047BB9A218C" import="1">MUSIC/CJGG_Peace1.mp3</File>
+    <File md5="4832A4734C5E3CE0A8FE8099C449CCA6" import="1">MUSIC/CJGG_Peace2.mp3</File>
+    <File md5="91383521E161D3EE3F53938D662EFD25" import="1">MUSIC/CJGG_Peace3.mp3</File>
+    <File md5="5E348314C5C5384242205037D38C2A18" import="1">MUSIC/CJGG_Peace4.mp3</File>
+    <File md5="790A40A46D48AF75772A2A2FF1203465" import="1">MUSIC/CJGG_War.mp3</File>
+    <File md5="8FC33EA127FE37286CF3B39456C8979A" import="1">MUSIC/CJGG_Peace.mp3</File>
+    <File md5="CB71C7E869CDB548642E9BD5931DA2D3" import="1">MUSIC/CJGG_War1.mp3</File>
+    <File md5="C423F7F9ECC86D01CED8D401D3EC0DA4" import="1">XML/CJGG_Building.xml</File>
+    <File md5="6D590413625553BB42E67409B76840FA" import="1">XML/CJGG_Civ4.sql</File>
+    <File md5="D6FE3F65879745AEF9AF9480D00CDE46" import="1">XML/CJGG_Civ4.xml</File>
+    <File md5="1C582204C1BCB40DDE810FCF79E216B1" import="1">XML/CJGG_Civilization.xml</File>
+    <File md5="436024AE868DB6C36BB3C5EADFF7CC06" import="1">XML/CJGG_Diplomacy.xml</File>
+    <File md5="21E27618ECE7E7EBF115D4BCEE5F6B54" import="1">XML/CJGG_Icon.xml</File>
+    <File md5="1E8713584CD95E0999CC932C8066791A" import="1">XML/CJGG_Leader.xml</File>
+    <File md5="1B10888F912BE50FEEAFF9D272B3C8FD" import="1">XML/CJGG_Music.xml</File>
+    <File md5="DB951F7850104E46ABE1344D49476713" import="1">XML/CJGG_Music_SD.xml</File>
+    <File md5="FC486A049817B7B824C54F51294175EE" import="1">XML/CJGG_Text.xml</File>
+    <File md5="A801232D560E157B4797DBE374925A69" import="1">XML/CJGG_Trait.xml</File>
+    <File md5="FF53244C2B97DD967395DB42D2C31964" import="1">XML/CJGG_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/CJGG_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/CJGG_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_DIVE_I">
+      <Text>Dive I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIVE_I_HELP">
+			<Text>+10% [ICON_STRENGTH] Defense against [COLOR_POSITIVE_TEXT]Ranged[ENDCOLOR] attacks and 10% Withdraw chance</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_DIVE_II">
+      <Text>Dive II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DIVE_II_HELP">
+			<Text>+20% [ICON_STRENGTH] Defense against [COLOR_POSITIVE_TEXT]Ranged[ENDCOLOR] attacks and 20% Withdraw chance</Text>
+		</Row>
+		
+		<Replace Tag="TXT_KEY_PROMOTION_WOLFPACK_3_HELP">
+			<Text>+30% [ICON_RANGE_STRENGTH] Ranged Combat Strength when attacking.[NEWLINE]20% chance to withdraw from Melee combat.</Text>
+		</Replace>
+
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_I_HELP">
+			<Text>Attack vs Submarines +33% [ICON_STRENGTH][NEWLINE]Defense vs Submarines +25% [ICON_STRENGTH]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_SUBMARINE_II_HELP">
+			<Text>Attack vs Submarines +66% [ICON_STRENGTH][NEWLINE]Defense vs Submarines +50% [ICON_STRENGTH]</Text>
+		</Row>
+	</Language_en_US>
+
+	
+</GameData>

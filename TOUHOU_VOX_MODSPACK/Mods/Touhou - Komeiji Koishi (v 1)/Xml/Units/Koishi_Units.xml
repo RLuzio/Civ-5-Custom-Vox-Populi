@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:42:48 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_COMPOSITE_BOWMAN</Class>
+			<Type>UNIT_ANIMISM_SATORI</Type>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<Combat>9</Combat>
+			<RangedCombat>13</RangedCombat>
+			<Cost>75</Cost>
+			<FaithCost>150</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ANIMISM_SATORI</Description>
+			<Civilopedia>TXT_KEY_UNIT_ANIMISM_SATORI_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ANIMISM_SATORI_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_ANIMISM_SATORI_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MACHINERY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_CROSSBOWMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_COMPOSITE_BOWMAN</UnitArtInfo>
+			<UnitFlagAtlas>ANIMISM_ALPHA_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>ANIMISM_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<PromotionType>PROMOTION_INDIRECT_FIRE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ANIMISM_SATORI</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Unit_Flavors>
+</GameData>

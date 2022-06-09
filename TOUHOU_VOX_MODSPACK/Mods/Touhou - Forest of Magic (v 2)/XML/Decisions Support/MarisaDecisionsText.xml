@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!--
+						Civ Specific Decisions
+-->
+		<!-- Forest of Magic -->
+		<Row Tag="TXT_KEY_DECISIONS_MARISAGRIMOIRE">
+			<Text>Write a Grimoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MARISAGRIMOIRE_DESC">
+			<Text>
+				The creation of a magical grimoire, which catalogs the capabilities of both our friends and enemies, would be of inestimable assistance to our studies.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Forest of Magic
+				[NEWLINE][ICON_BULLET]Player must have researched Education
+				[NEWLINE][ICON_BULLET]There must be a Great Writer in the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The Great Writer is disbanded
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Learn technologies known by other civilizations you have met 10% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MARISAGRIMOIRE_ENACTED_DESC">
+			<Text>
+				The creation of a magical grimoire, which catalogs the capabilities of both our friends and enemies, would be of inestimable assistance to our studies.[NEWLINE]
+				[NEWLINE][ICON_BULLET]Learn technologies known by other civilizations you have met 10% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MINIHAKKERO">
+			<Text>Obtain a Mini-Hakkero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MINIHAKKERO_DESC">
+			<Text>
+				The mini-hakkero is a magical furnace capable of producing a potent amount of heat and magical energy. It can be quite useful as both a tool for research, and as a weapon.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Forest of Magic
+				[NEWLINE][ICON_BULLET]Player must have researched Physics		
+				[NEWLINE][ICON_BULLET]Must have an Atelier built in the Capital	
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+20% Ranged Strength for Seige Units
+				[NEWLINE][ICON_BULLET]1 Witch Unit appears near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MINIHAKKERO_ENACTED_DESC">
+			<Text>
+				The mini-hakkero is a magical furnace capable of producing a potent amount of heat and magical energy. It can be quite useful as both a tool for research, and as a weapon.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+20% Ranged Strength for Seige Units
+				[NEWLINE][ICON_BULLET]1 Witch Unit appears near the Capital
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

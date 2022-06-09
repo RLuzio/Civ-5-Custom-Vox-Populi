@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 2:18:48 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Yukari Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_FIRST_GREETING_1">
+			<Text>Hello there.  Another contender in this game?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_FIRST_GREETING_2">
+			<Text>Well well.  What do we have here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_FIRST_GREETING_3">
+			<Text>Hello.  I&apos;ve been waiting for you to show up.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DEFEATED_1">
+			<Text>This was getting stale.  Nof if you would excuse me, I have more important tasks to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DEFEATED_2">
+			<Text>You may have defeated me, but you have yet to win the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DEFEATED_3">
+			<Text>Oh?  Time&apos;s up, let&apos;s go see what Ran is doing.</Text>
+		</Row>
+		<!-- REPEAT_TRADE_TOO_MUCH-->
+		<!-- GREETING_REPEAT_TOO_MUCH-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_REPEAT_TOO_MUCH_1">
+			<Text>Listening to you speak is such a bore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_REPEAT_TRADE_1">
+			<Text>No matter what you say, you won&apos;t get it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_REPEAT_TRADE_2">
+			<Text>Whatever you are trying right then, won&apos;t convince me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_REPEAT_1">
+			<Text>Hello there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_REPEAT_2">
+			<Text>Do you need something?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_REPEAT_1">
+			<Text>Hmm, it&apos;s you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_POLITE_HELLO_1">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_NEUTRAL_HELLO_1">
+			<Text>Well?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_HELLO_1">
+			<Text>I was hoping you would be gone by now.</Text>
+		</Row>
+		<!-- AI is about to lose-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Oh?  Come over to finish the job?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>This war ceases to benefit me any longer.  How about an end to the fighting?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>If it wern&apos;t for international law, you would be floating in some cool dark matter right about now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Hello, we&apos;ve been having some fun sending your scientists to different dimensions these last few months.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>Oh my, I was prepared for this.</Text>
+		</Row>
+		<!-- Human is working with AI-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_WORKING_WITH_1">
+			<Text>How have you been doing?  Well?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_WORKING_AGAINST_1">
+			<Text>Hello again.  {1_ThirdPlayerName:textkey} has become quite bothersome as of late.  The sooner they go the better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_COOP_WAR_1">
+			<Text>Stopping by for a quick update?  Just to let you know, when we go to war against {1_ThirdPlayerName:textkey} try to keep your head on your shoulders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Well, it&apos;s you again.  Has your war ended yet?  Your armies destroyed?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HUMAN_AT_WAR_1">
+			<Text>Oh, I&apos;m surprised you are here.  That war going smoothly for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>You again?  You hope to stand any chance against me with your army?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Being the Youkai of Boundaries, I find your military actions near our borders disrespectful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Eh, more land?  Your boundaries there won&apos;t last much longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Prepare that military of yours.  You will only serve as a stepping stone for your enemies with all that easy land for the picking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>The tile buying mechanic annoys me; you abuse it way too much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Have lots of money but nowhere to spend it eh?  At least buy tiles away from us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Hello, some nice troops you have there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Well well, I&apos;m surprised you&apos;re doing so well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Oh dear.  Your boundary lines are quite pathetic.  It would be such a pity if someone were to take it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>You have such a nice lack of troops.  I&apos;m tempted to just pop over there for a few resources here and there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Oh, you.  You seem to have an unhealthy obsession with war human.</Text>
+		</Row>
+		<!-- AI has denouced Human-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_DENOUNCED_BY_AI_1">
+			<Text>Let&apos;s get this over with, quickly.</Text>
+		</Row>
+		<!-- Human has denounced AI-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_DENOUNCED_AI_1">
+			<Text>Oh, why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Oh, it&apos;s you.  {1_PlayerName} has been making too many friends lately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>Hello there, {1_PlayerName} has been mentioning you as a reliable ally for our plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>Well, I can already tell how you&apos;ll be like, seeing how you&apos;ve denounced {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>Hello, it seems like you hate {1_PlayerName} too.  Good for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TOO_SOON_FOR_DOF_1">
+			<Text>Really now?  Don&apos;t you feel like you&apos;re jumping the gun a bit?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>Wish to join me in denouncing {1_CivName}?  We have cookies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOF_AI_WAR_REQUEST_1">
+			<Text>{1_CivName} has been a pain and needs to be removed from the game.  It would be great if you were to lend a hand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOF_NOT_HONORED_1">
+			<Text>I knew you would turn on me.  Let the world know of your treachery[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI_DOF_BACKSTAB-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DENOUNCING_FRIEND_1">
+			<Text>I wonder why I even added you as a friend.  Everything pointed to this line of action.  Be gone![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Ha, you&apos;re denouncing one of the most powerful youkai that ever existed.  Have you really put any effort in writing your plans?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DOFED_FRIEND_1">
+			<Text>Oh good, it&apos;s nice to see another friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DOFED_ENEMY_1">
+			<Text>Oh?  Do you think joining with {1_CivName} will do you any good?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Well, exactly on cue.  It was obvious you would denounce my friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>It is nice to see some observant leaders out there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Your partnership with {1_CivName} would suit my plans well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>Oh?  So you also understand my feelings towards {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Allying yourself with {1_CivName} won&apos;t help you towards the end.</Text>
+		</Row>
+		<!-- Human denounces {1_CivName}, so AI DOFs them-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>I won&apos;t let you achieve much in your plans against {1_CivName}.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text></Text>
+		</Row>
+		KILLED_PROTECTED_CITY_STATE
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_ATTACKED_PROTECTED_CITY_STATE_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Now, that expansion rate is too much.  Cease at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_EXPANSION_WARNING_1">
+			<Text>You are expanding quite rapidly.  It is troublesome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_EXPANSION_BROKEN_PROMISE_1">
+			<Text>You dare settle near me even after our agreement?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Cease your endless plot grabbing at once, or be prepared face the consequences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLOT_BUYING_WARNING_1">
+			<Text>As the Youkai of Boundaries, your purchases of land near by borders disrespects me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>Breaking your promise?  Your precious new land won&apos;t be yours much longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Just coming by to tell you of your failure and inadequacy of protecting your City-States from me and my forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>It appears that I have overlooked your protection of your City-State while drafting my plans.  I apologize, it surely is a shame.</Text>
+		</Row>
+		<!-- WORK_WITH_US-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DEC_FRIENDSHIP_1">
+			<Text>Will you be willing to join together to forward our plans?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_WARMONGER_1">
+			<Text>Coop Terminated : WARMONGER ([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_WARMONGER_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_MINORS_1">
+			<Text>Coop Terminated : CITY-STATES ([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_MINORS_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_LAND_1">
+			<Text>Coop Terminated : LAND-GRAB ([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_LAND_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_WONDERS_1">
+			<Text>Coop Terminated : WONDERS ([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_WONDERS_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_VICTORY_1">
+			<Text>Coop Terminated : VICTORY ([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_VICTORY_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Coop Terminated : FIN ([COLOR_WARNING_TEXT]Oops.  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_DEFAULT_1[ENDCOLOR])</Text>
+		</Row>
+		<!-- WORK_AGAINST_SOMEONE-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DENOUNCE_1">
+			<Text>You must be labeled as someone who cannot be trusted.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DENOUNCE_2">
+			<Text>I denounce you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>Hidden Pact end ([COLOR_WARNING_TEXT]Ehh...  If you see this and know what is happening, comment back with this line:[NEWLINE]TXT_KEY_LEADER_YUKARI_END_WORK_WITH_US_DEFAULT_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has to go.  Would you like the honors of destroying them with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_COOP_WAR_TIME_1">
+			<Text>It is time for war with {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_NOW_UNFORGIVABLE_1">
+			<Text>I gave you a chance, but now I know never to trust you ever again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_NOW_ENEMY_1">
+			<Text>It seems that we cannot come to terms together.  You are now our enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_COMPLIMENT_1">
+			<Text>Impressive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_BOOT_KISSING_1">
+			<Text>This mod is lame.  The mod creator didn&apos;t give me any good buildings or units, and my trait doesn&apos;t help me much.  I should be dominating right now!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WARMONGER_1">
+			<Text>You like seeing animated models kill each other a bit too much for a sane person, unless you have animations turned off.  In that case you are even more messed up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_MINOR_CIV_COMPETITION_1">
+			<Text>My influence with {1_MinorCivName:textkey} is much more valuable to them than yours are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLEASED_1">
+			<Text>Great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLEASED_2">
+			<Text>This will greatly benefit the plan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLEASED_3">
+			<Text>Excellent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_THANKFUL_1">
+			<Text>Thanks, I appreciate it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_THANKFUL_2">
+			<Text>I am grateful for your actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DISAPPOINTED_1">
+			<Text>Oh well, I should have seen that coming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DISAPPOINTED_2">
+			<Text>Eh?  Such a shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SO_BE_IT_1">
+			<Text>Fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SO_BE_IT_2">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_RETURNED_CIVILIAN_1">
+			<Text>My thanks for returning the worker.  I will make sure they are more careful in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_CULTURE_BOMBED_1">
+			<Text>Oh?  You wish to fight my boundaries?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_LEADER_YUKARI_1">
+			<Text>Your stupidity and insolence knows no boundaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_MILITARY_1">
+			<Text>Your lack of a military shows how tactically inept you really are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_NUKE_1">
+			<Text>Your nuclear weapons cannot weaken my boundaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_BULLY_1">
+			<Text>You only beat up those weaker then you, pathetic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_UNHAPPINESS_1">
+			<Text>How can you win if you can&apos;t even keep your own people happy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_CITIES_1">
+			<Text>You like clumping all your people in singular places, like animals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_POPULATION_1">
+			<Text>How can you have a civilization if you don&apos;t even have people?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_INSULT_CULTURE_1">
+			<Text>Your culture is the only culture that spawns undesirables.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now guaranteeing the borders of {1_MinorCivName:textkey}. Attacking this City-State will greatly damage relations with this civilization and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it has taken back its guarantee of {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_REPEAT_NO_1">
+			<Text>Never.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_REPEAT_NO_2">
+			<Text>Absolutely not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DONT_SETTLE_YES_1">
+			<Text>I accept.  The land near you will never become useful to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DONT_SETTLE_NO_1">
+			<Text>Eh?  Stop my expansion?  Impossible, you cannot resist the expansion of the boundary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WORK_WITH_US_YES_1">
+			<Text>Of course.  Working with you has its benefits.</Text>
+		</Row>
+		<!-- WORK_WITH_US_NO-->
+		<!-- WORK_AGAINST_SOMEONE_NO-->
+		<!-- COOP_WAR_NO-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DECLINE_1">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DECLINE_2">
+			<Text>Absolutely not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>I will work against someone, yes.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]This should not appear.  Something went wrong.  If you want, you can send TXT_KEY_LEADER_YUKARI_WORK_AGAINST_SOMEONE_YES to me and I will write up something for this.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_COOP_WAR_YES_1">
+			<Text>Having this conflict would forward my plans.  I accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_COOP_WAR_SOON_1">
+			<Text>I accept, but wait ten turns.  I need time to gather my forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DEMAND_YES_1">
+			<Text>Fine.  You can have it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>I am not afraid of you, why will I consent?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>You must be stupid if you believe I would give you what you want given our relations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>Giving you all this will benefit you too much.  No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>I believe I have already answered no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOT_DOT_DOT_1">
+			<Text>Dot Dot Dot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_LETS_HEAR_IT_1">
+			<Text>Oh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PEACE_OFFER_1">
+			<Text>It is time to end this conflict.  How will this suit you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DEMAND_1">
+			<Text>Sorry, but my plans require some supplies from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_REQUEST_1">
+			<Text>It seems that you have something I would like.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_LUXURY_TRADE_1">
+			<Text>This item would be very useful for me.  What would you like in exchange?</Text>
+		</Row>
+		<!--
+		EMBASSY_EXCHANGE
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		EMBASSY_OFFER
+		</Row>
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I don&apos;t like sharing open boundaries with someone else, but I guess I have to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_OPEN_BORDERS_OFFER_1">
+			<Text>I can&apos;t seem to get past your borders.  I have to make some sort of Open Borders offer first, annoyingly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>We may have a breakthrough soon, so I might ask for some of your scientists later.  Okay?[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>We have quite a scientific breakthrough over here.  I would like some extra scientists, to further our research a bit more.  You can have some of our extra data as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_ACCEPT_GENEROUS_1">
+			<Text>Great, I couldn&apos;t have asked for anything better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Well, fine.  It&apos;s good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>I expected as much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>Hmm, I&apos;ll keep this in mind for when I deal with you in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>Unacceptable!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_REJECT_INSULTING_1">
+			<Text>How foolish of you to think that I would accept such a skewed proposition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_DEAL_UNCHANGED_1">
+			<Text>This is fine as it is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_AI_MAKES_OFFER_1">
+			<Text>This should go well for both our plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>No amount of talk will convince me to take that deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_HOSTILE_1">
+			<Text>I&apos;ve been expecting this much.  Prepare to be beaten past the boundaries of recognition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_WEAK_HOSTILE_1">
+			<Text>I have a plan for this.  Just wait and see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_STRONG_HOSTILE_1">
+			<Text>I&apos;ve been wanting to remove you for some time, and now I can do it without being called a warmonger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_EXCITED_1">
+			<Text>This is going to be quite amusing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_WEAK_EXCITED_1">
+			<Text>Excellent, prepared to be defeated by our city defenses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_STRONG_EXCITED_1">
+			<Text>I&apos;ve been testing out some gaps for our troops.  Let me know if they are effective or not after you lose, ok?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_SAD_1">
+			<Text>So it seems that our plans must clash together in the end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_BETRAYED_1">
+			<Text>You&apos;ve been on the back of my head for some time.  I have already prepared for the worst.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_LEADER_YUKARI_1">
+			<Text>Your boundaries are to be removed from this game, effective immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>I knew you wouldn&apos;t keep your word.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_LAND_1">
+			<Text>All your land are belong to us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_WORLD_CONQUEST_1">
+			<Text>It is time for the boundaries of the Domain to have no end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_OPPORTUNITY_1">
+			<Text>This wasn&apos;t in the plan, but it was so tempting I had to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_DESPERATE_1">
+			<Text>I follow this saying, &quot;If you are trying to go somewhere, sitting still will lead you nowhere&quot;, so I decided to spice things up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_BETRAYAL_1">
+			<Text>Time for your destruction.  Don&apos;t worry, it was nothing personal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_WEAK_BETRAYAL_1">
+			<Text>Time to put my plan into action.  Taking you out from behind was my first priority.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_DOW_REGRET_1">
+			<Text>Unfortunately, my plans run headlong into you, so you will have to go, despite your neutral existance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WAR_DEMAND_REFUSED_1">
+			<Text>You expect me not to just go over and take it?  I even asked for it politely.  Well, fine by me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What do you have to offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>This ties in nicely to my plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_NO_PEACE_1">
+			<Text>Oh, you finally see the eventual outcome and beg for mercy?  You shall have none of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TOO_SOON_NO_PEACE_1">
+			<Text>I&apos;ve just started this war with you.  You want to pull out already?</Text>
+		</Row>
+		<!-- Human chooses the angry response-->
+		<!-- HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>You won&apos;t get away with that.</Text>
+		</Row>
+		<!-- Human chooses the ok response-->
+		<!-- HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Oh? Really?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>You&apos;re words have no effect on me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Don&apos;t make an enemy of me.</Text>
+		</Row>
+		<!-- WE_ATTACKED_MINOR_GOOD-->
+		<!-- WE_BULLIED_MINOR_GOOD-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Good.</Text>
+		</Row>
+		<!-- HUMAN_ATTACKED_MINOR_BAD-->
+		<!-- HUMAN_KILLED_MINOR_BAD-->
+		<!-- HUMAN_SERIOUS_EXPANSION_WARNING_BAD-->
+		<!-- HUMAN_EXPANSION_WARNING_BAD-->
+		<!-- HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD-->
+		<!-- HUMAN_PLOT_BUYING_WARNING_BAD-->
+		<!-- HUMAN_BULLIED_MINOR_BAD-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_RESPONSE_BAD_1">
+			<Text>Exactly how I predicted.</Text>
+		</Row>
+		<!-- HUMAN_ATTACKED_MINOR_GOOD-->
+		<!-- HUMAN_KILLED_MINOR_GOOD-->
+		<!-- HUMAN_SERIOUS_EXPANSION_WARNING_GOOD-->
+		<!-- HUMAN_EXPANSION_WARNING_GOOD-->
+		<!-- HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD-->
+		<!-- HUMAN_PLOT_BUYING_WARNING_GOOD-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_GOOD_1">
+			<Text>Excellent.</Text>
+		</Row>
+		<!--
+		SAME_POLICIES_FREEDOM
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		SAME_POLICIES_ORDER
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		SAME_POLICIES_AUTOCRACY
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		BULLIED_PROTECTED_CITY_STATE
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		HOSTILE_WE_BULLIED_YOUR_MINOR
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		WE_BULLIED_YOUR_MINOR
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		RENEW_DEAL
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		WANT_MORE_RENEW_DEAL
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>You can do nothing to halt our plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Scared to leave your borders?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WE_BULLIED_MINOR_BAD_1">
+			<Text>I hope in the future my plans won&apos;t displease you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Excellent, that will wrap up several things in my plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_CAUGHT_YOUR_SPY_1">
+			<Text>I found this shady person loitering around one of my gaps.  Seems like they were your spy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_KILLED_YOUR_SPY_1">
+			<Text>Someone was looking into my gaps without permission.  They received a face-full of danmaku as a consolation prize.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SUSPECT_YOU_OF_SPYING_1">
+			<Text>I&apos;ve been noticing some more eyes in my gaps lately, and they arn&apos;t mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_KILLED_MY_SPY_1">
+			<Text>A pity my spy died in this dimension.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Sorry, I gapped some others here and didn&apos;t expect them to stay in your cities for so long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>I am fine with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Your words mean nothing to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_STOP_SPYING_YES_1">
+			<Text>I will gap them back.  They were getting bored too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_STOP_SPYING_NO_1">
+			<Text>They are having fun.  Just let them be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_WARNED_ABOUT_INTRIGUE_1">
+			<Text>I already knew, but thanks for the info.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>{1_PlayerName} wants you gone.  Just letting you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Just so you know, {1_PlayerName} plans involve {2_CityName}, and something about it being in flames.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Just so you know, {1_PlayerName} plans involve blood being shed, most likely yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>{1_PlayerName} has been distributing lots of maps to their ships, all with arrows pointing at {2_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>I saw through one of my gaps that {1_PlayerName} has been producing lots of posters with ships on them and a big X over your face.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>A pity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>That works out fine for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_STOP_CONVERSIONS_1">
+			<Text>I don&apos;t like how your prophets and missionaries trample over my borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Finally my borders will know some peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>The bounds of your faith are limited.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I don&apos;t have anything else to give for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>I&apos;m sure my religion bonuses would benefit you in some way, but if you wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YUKARI_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>My religion is beautiful, and your people will follow it.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

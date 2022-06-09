@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="638f1246-2494-4c34-b990-7ab80d3dc117" version="3">
+  <Properties>
+    <Name>Touhou - Toyosatomimi no Miko</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds Toyosatomimi no Miko from Touhou Project to the game as a leader</Teaser>
+    <Description>Adds Toyosatomimi no Miko from Touhou Project to the game as a leader</Description>
+    <Authors>Bismuth</Authors>
+    <SpecialThanks>Tryhard Trevor for troubleshooting</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>3</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="39778F96465365C30047419B21440E15" import="1">Art/TMikoAtlas128.dds</File>
+    <File md5="CE69E2C0DD3BE124D472D1EC9C400A7A" import="1">Art/TMikoAtlas256.dds</File>
+    <File md5="88866C8FCB332B886D19ADB77BA09CDE" import="1">Art/TMikoAtlas32.dds</File>
+    <File md5="1203345410C8227C1DA2DC26A27698CE" import="1">Art/TMikoAtlas45.dds</File>
+    <File md5="7609CDD2D44BCBB58518290A2881951F" import="1">Art/TMikoAtlas64.dds</File>
+    <File md5="50E6352134CF2393171267624611359A" import="1">Art/TMikoAtlas80.dds</File>
+    <File md5="EDC191C12508FFF783BE197FEAA9D65A" import="1">Art/TMikoDoM.dds</File>
+    <File md5="D38FFDB308B9EBC00A23D76603E3EBED" import="1">Art/TMikoLeader.dds</File>
+    <File md5="C7F6F5619EF9720333827BA5BCDB7492" import="1">Art/SenkaiAlpha.dds</File>
+    <File md5="E7319A53C7678D5ABD029584A334FFA7" import="1">Art/SenkaiAlpha128.dds</File>
+    <File md5="01F3FFE7C9119BD23B874B286501CDD2" import="1">Art/SenkaiAlpha256.dds</File>
+    <File md5="EC529DFAF1D08A616BF011BC13F9E8C8" import="1">Art/SenkaiAlpha32.dds</File>
+    <File md5="B0ABA7BDE0F127055087C6DED7AE650B" import="1">Art/SenkaiAlpha48.dds</File>
+    <File md5="24E3F2FE013B228E2534C2ADE8662BC4" import="1">Art/SenkaiAlpha64.dds</File>
+    <File md5="2937DC14D794BF903D75DD4162095C78" import="1">Art/SenkaiAlpha80.dds</File>
+    <File md5="344BB710D62BD85EA74A5DE85B36B3BA" import="1">Art/SenkaiMap.dds</File>
+    <File md5="4E8DE90BA948E8BE72CA45082FDFE645" import="1">Art/Senkai_Scene.xml</File>
+    <File md5="44D42C4A5EBECF8257ABFC8AF8BAFD88" import="1">Art/ShikaisenAlpha.dds</File>
+    <File md5="19A5620F665EF9B019FE7D323E87FCF2" import="0">LUA/Trait.lua</File>
+    <File md5="1833D8E46B58381D92D061FFA9948E17" import="1">Sound/SenkaiPeace.mp3</File>
+    <File md5="001DFA247D4F4D5E79DBD64C37B39B19" import="1">Sound/SenkaiWar.mp3</File>
+    <File md5="39CBD19CD5D8EC45B52DAF5471FD99EB" import="1">Sound/Sound.xml</File>
+    <File md5="0391A485D1FD7E56F7B35016B9D59C93" import="0">XML/DipResponses.xml</File>
+    <File md5="3454AE6F620D7F273E8BA8308AD2EE13" import="0">XML/DivineMausoleum.xml</File>
+    <File md5="9A105AF2617F2E8C5A1FC6479FA20D37" import="0">XML/Leader.xml</File>
+    <File md5="FFACD642BD76A76AE91857144362CCA0" import="0">XML/Shikaisen.xml</File>
+    <File md5="8E7A79FF44C391D266CF9D345FCD7380" import="0">XML/Trait.xml</File>
+    <File md5="B00F51A69FB383824DA1051028B80C9B" import="0">XML/Civilization.xml</File>
+    <File md5="4F416AB14EC5498AB47E86F1211CDCFF" import="0">XML/TraitBuild.xml</File>
+    <File md5="B6DC80645597B8DDF3394B5B61D3D0F8" import="1">XML/TraitBuildB.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Shikaisen.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DivineMausoleum.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TraitBuild.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DipResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Senkai_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Sound/Sound.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TraitBuildB.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Trait.lua">
+      <Name>Trait</Name>
+      <Description>Miko Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

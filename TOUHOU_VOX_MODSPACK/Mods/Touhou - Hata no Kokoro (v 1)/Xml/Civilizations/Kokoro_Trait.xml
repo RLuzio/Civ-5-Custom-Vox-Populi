@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:27:27 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_ART_OF_HOPE</Type>
+			<Description>TXT_KEY_TRAIT_ART_OF_HOPE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_ART_OF_HOPE_SHORT</ShortDescription>
+			<FreeUnit>UNITCLASS_ARTIST</FreeUnit>
+			<FreeUnitPrereqTech>TECH_GUILDS</FreeUnitPrereqTech>
+		</Row>
+	</Traits>
+	
+	
+	<Trait_SpecialistYieldChanges>
+		<Row>
+			<TraitType>TRAIT_ART_OF_HOPE</TraitType>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_ART_OF_HOPE</TraitType>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_ART_OF_HOPE</TraitType>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Trait_SpecialistYieldChanges>
+
+
+</GameData>

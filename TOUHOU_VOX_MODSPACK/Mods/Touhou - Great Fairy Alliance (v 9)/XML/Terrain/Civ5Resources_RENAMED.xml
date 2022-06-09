@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2013 3:00:43 PM -->
+<GameData>
+	-<Resources>
+		-<Row>
+			<Type>RESOURCE_CRAYON</Type>
+			<Happiness>4</Happiness>
+			<TechCityTrade>TECH_DRAMA</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_CRAYON</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_CRAYON_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_GEMS</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<GroupRange>3</GroupRange>
+			<GroupRand>15</GroupRand>
+			<IconString>[ICON_RES_CRAYON]</IconString>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>FAIRY_ATLAS</IconAtlas>
+		</Row>
+</Resources>
+	-<Resource_Flavors>
+	-<Row>
+		<ResourceType>RESOURCE_CRAYON</ResourceType>
+		<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+		<Flavor>10</Flavor>
+	</Row>
+</Resource_Flavors>
+	-<IconFontMapping>
+		-<Row>
+			<IconName>ICON_RES_CRAYON</IconName>
+			<IconFontTexture>FAIRY_ICON_FONT_TEXTURE</IconFontTexture>
+			<IconMapping>0</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

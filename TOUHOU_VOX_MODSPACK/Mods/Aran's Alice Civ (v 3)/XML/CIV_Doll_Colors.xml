@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 4:57:23 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_DOLL_LAND</Type>
+			<Red>0.39</Red>
+			<Green>0.39</Green>
+			<Blue>0.72</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_DOLL_BORDER</Type>
+			<Red>0.98</Red>
+			<Green>0.73</Green>
+			<Blue>0.82</Blue>
+			<Alpha>0.7</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_DOLL_TEXT</Type>
+			<Red>0.98</Red>
+			<Green>0.73</Green>
+			<Blue>0.82</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

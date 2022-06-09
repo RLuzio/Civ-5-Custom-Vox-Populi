@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a65b86fa-acfd-4961-ab76-c2de97abf1cb" version="6">
+  <Properties>
+    <Name>Touhou - Hieda no Akyuu</Name>
+    <Teaser>Hieda no Akyuu is the current "Child of Miare", who is born in the Hieda family once in every 120 to 180 years</Teaser>
+    <Description>Hieda no Akyuu is the current "Child of Miare", who is born in the Hieda family once in every 120 to 180 years with the ability to "not forget anything she sees" and records Gensokyo's history. She seems to like red tea and FM Synthesis music.
+
+Trait : Child of Are
+start with Writing and Calendar Technology. also, academy yields more science and scientist yields science and culture.
+
+UB : Hieda Archive
+Unique building of the Hieda civilization. Replaces the Library. It provides 1 Scientist slots.
+
+UU : Archivist
+Replaces Great Scientist. Can Receive a free Technology and Policy. Also, can build an Academy.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice)</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="U2QC1" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="73F7FD5A81425EC6BB35F61E9C735F4F" import="1">ART/AQ_Alpha128.dds</File>
+    <File md5="3ACD9DF886E795C24804C8654DF80396" import="1">ART/AQ_Alpha16.dds</File>
+    <File md5="5AEFF865C5F8F86258E4B3A45F49BA72" import="1">ART/AQ_Alpha24.dds</File>
+    <File md5="52D1CF955ADB5CDC5B2E8AC0F8A1D47B" import="1">ART/AQ_Alpha32.dds</File>
+    <File md5="2EBE219E78E3A65765FC09BBD65C2BA1" import="1">ART/AQ_Alpha48.dds</File>
+    <File md5="6C440EC0056FCDC097026BC54D818364" import="1">ART/AQ_Alpha64.dds</File>
+    <File md5="A5FAB9C7003DA77FEA227C9A1561D884" import="1">ART/AQ_Atlas128.dds</File>
+    <File md5="957DEC9092B6AB7EE19E0F67A04DB28F" import="1">ART/AQ_Atlas256.dds</File>
+    <File md5="1F7DD4478CA9E43863BE52D2C751D151" import="1">ART/AQ_Atlas32.dds</File>
+    <File md5="CC1453D7D3CE2FCB7A6C61797B41412F" import="1">ART/AQ_Atlas45.dds</File>
+    <File md5="20239DF0410CFA73D4220F8E6943A027" import="1">ART/AQ_Atlas64.dds</File>
+    <File md5="35CF8A86ACC1760094CFCBB903048BC4" import="1">ART/AQ_Atlas80.dds</File>
+    <File md5="FE61FE182D3DAA4C586C5640A4F9F8DD" import="1">ART/AQ_DOM.dds</File>
+    <File md5="5EABF21C20F2A4C6FA57FA9F52A6548D" import="1">ART/AQ_Map.dds</File>
+    <File md5="8A41DEA3048D804A2F39E7C80A50B83B" import="1">ART/AQ_Scene.dds</File>
+    <File md5="156C34DDD26C50855BAE61732D9229B2" import="1">ART/AQ_Scene.xml</File>
+    <File md5="23097764D531F5A34A3FF9EEEBED4BCE" import="1">ART/AQ_SceneDefeat.dds</File>
+    <File md5="52148F7ACB711C82B8952349FEFA1E53" import="1">MUSIC/Ah_Q.mp3</File>
+    <File md5="1F1CA6EC5FE9570F782227712DCA0622" import="1">MUSIC/AQ_Peace.mp3</File>
+    <File md5="301E1767A68FAE46A2BAE1B46EB27A64" import="1">MUSIC/AQ_War.mp3</File>
+    <File md5="B8F2BBB2A4E26DD73B7057192ACF4986" import="1">XML/AQ_Artdef.xml</File>
+    <File md5="E10D1047A4494768187C43CE4A9EFBF6" import="1">XML/AQ_Building.xml</File>
+    <File md5="238A440CFC36BFD715A8DEB20EA1E013" import="1">XML/AQ_Civ4.sql</File>
+    <File md5="0189848853AC1813747A1E3C1A23AF45" import="1">XML/AQ_Civ4.xml</File>
+    <File md5="F080D9E953BEA696063D9454F519F8DF" import="1">XML/AQ_Civilization.xml</File>
+    <File md5="6CC8C035ABCB22D20807F88086354217" import="1">XML/AQ_Diplomacy.xml</File>
+    <File md5="F0F95833F556B0B9509F81D5F7C7B33D" import="1">XML/AQ_Icon.xml</File>
+    <File md5="5037CA3263EFA83CB48C2C217BA56AF9" import="1">XML/AQ_Leader.xml</File>
+    <File md5="E49AA2825C1C2E970B185E2E70E8A04D" import="1">XML/AQ_Music.xml</File>
+    <File md5="98E1D162C050F05490F08CDB257C8381" import="1">XML/AQ_Text.xml</File>
+    <File md5="BB6A53D0847F515FAE290FB398EC36E9" import="1">XML/AQ_Trait.xml</File>
+    <File md5="21AD940E01D68694B95F0476764656C6" import="1">XML/AQ_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/AQ_Artdef.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/AQ_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/18/2013 7:34:45 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_ONI_BACKGROUND</Type>
+			<Red>0.37</Red>
+			<Green>0.05</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_ONI_ICON</Type>
+			<Red>1</Red>
+			<Green>0.08</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TOUHOU_ONI</Type>
+			<PrimaryColor>COLOR_PLAYER_TOUHOU_ONI_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_TOUHOU_ONI_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

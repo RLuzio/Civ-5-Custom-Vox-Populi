@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/16/2013 5:35:31 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Traits>
+		<Row>
+			<Type>TRAIT_AGRARIAN_SOCIETY</Type>
+			<Description>TXT_KEY_TRAIT_AGRARIAN_SOCIETY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_AGRARIAN_SOCIETY_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_AGRARIAN_SOCIETY</TraitType>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_AGRARIAN_SOCIETY</TraitType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>
+</GameData>

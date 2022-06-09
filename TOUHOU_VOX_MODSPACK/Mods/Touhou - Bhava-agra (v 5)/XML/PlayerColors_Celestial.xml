@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2016 12:41:24 AM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MATHALX_CELESTIAL</Type>
+			<PrimaryColor>COLOR_PLAYER_MATHALX_CELESTIAL_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MATHALX_CELESTIAL_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLACK_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MATHALX_CELESTIAL_ICON</Type>
+			<Red>1</Red>
+			<Green>.3</Green>
+			<Blue>.3</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MATHALX_CELESTIAL_BACKGROUND</Type>
+			<Red>0</Red>
+			<Green>.5</Green>
+			<Blue>1</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+</GameData>

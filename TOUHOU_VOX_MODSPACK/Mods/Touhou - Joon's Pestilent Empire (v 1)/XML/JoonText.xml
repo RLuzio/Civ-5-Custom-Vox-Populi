@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2019 4:39:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_PESTILENCE_ADJECTIVE">
+			<Text>Pestilent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_PESTILENCE_DESC">
+			<Text>Pestilent Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TOUHOU_PESTILENCE_SHORT_DESC">
+			<Text>Pestilence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON">
+			<Text>Yorigami Joon</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOUHOU_PESTILENCE">
+			<Text>Steal 10% of an empire's total [ICON_GOLD] Gold income while you are at war with them and have a city within 10 tiles of their city, increasing to 25% if you have a military unit that is adjacent to their city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TOUHOU_PESTILENCE_SHORT">
+			<Text>Extortioner of the Eighties</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_PESTILENCE_TITLE">
+			<Text>Pestilence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TOUHOU_PESTILENCE_TEXT">
+			<Text>
+				Greetings to you, Joon, the most-despicable and disastrous god of pestilence!
+				[NEWLINE][NEWLINE]The people of Gensokyo fear you. Those who do not fear you would soon known true terror in the form of financial ruin. Yet, even knowing this, these fools would still welcome you to their homes. It&apos;s like they want to be robbed! Perhaps they do enjoy spending their entire wealth, living as a spendthrift. In that case, it would be a pleasure to give them that lifestyle!
+				[NEWLINE][NEWLINE]The fools are still calling out to you, begging for you to bring them financial ruin. Will you bring them the financial ruin they seek? Can you build a civilzation that would continue to grant these fools their wish, and would stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QUEEN_OF_BUBBLE">
+			<Text>Queen of Bubble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QUEEN_OF_BUBBLE_STRATEGY">
+			<Text>The Queen of Bubble is a unique unit for the Pestilent Empire, replacing the Paratrooper. Along with the normal Paratrooper abilities, it is naturally stronger, and grants you [ICON_GOLD] Gold when damaging cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QUEEN_OF_BUBBLE_TEXT">
+			<Text>Joon is also known as the Queen of Bubble. The bubble this is referring to was an economic period in Japan in which asset prices grows drastically, but would later burst like a bubble, and prices began to drop. The years following this incident would later be known as the Lost Decade, in which many lost their wealth, and thus, financial assets were consumed by pestilence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QUEEN_OF_BUBBLE_HELP">
+			<Text>Paratrooper unit. Only the Pestilent Empire may produce them. It is as strong as an Infantry, and steals [ICON_GOLD] Gold equal to 300% of the damage inflicted on a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_DEN">
+			<Text>Swindlers&apos; Guild</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_DEN_STRATEGY">
+			<Text>The Swindlers&apos; Guild is the Pestilent Empire&apos;s unique building, replacing the Bank. Although it provides less [ICON_GOLD] Gold, it steals 1 [ICON_GOLD] Gold per turn from neighboring cities, 10 tiles of range. It also provides military units trained in this city a promotion which grants additional [ICON_STRENGTH] Combat Strength when attacking wounded units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_DEN_TEXT">
+			<Text>Pestilence gods are responsible for the consumption of financial assets. They are essentially swindlers, and would often use similar tricks to deprive a victim of their fortune. It is only natural that swindlers would often work with pestilence gods, as they also enjoy consuming financial assets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SWINDLER_DEN_HELP">
+			<Text>+25% [ICON_GOLD] Gold. 1 [ICON_GOLD] Gold per turn is stolen from cities within 10 tiles. Military units trained in this city gain +33% [ICON_STRENGTH] Combat Strength when attacking wounded units.</Text>
+		</Row>
+
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_TOUHOU_PESTILENCE">
+			<Text>Absolute Loser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TOUHOU_PESTILENCE_HELP">
+			<Text>+33% [ICON_STRENGTH] Combat Strength VS [COLOR_POSITIVE_TEXT]Wounded Units[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QUEEN_OF_BUBBLE">
+			<Text>Queen of Bubble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QUEEN_OF_BUBBLE_HELP">
+			<Text>Steals [ICON_GOLD] Gold equal to 300% of the damage inflicted on a city.</Text>
+		</Row>
+
+		<!--Notifications-->
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_DEBT_PAYMENT_TEXT">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Debt Payment[ENDCOLOR]
+				[NEWLINE][NEWLINE]You have received {1_Num} [ICON_GOLD] Gold from {2_PlayerName}!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_DEBT_PAYMENT_CANNOT_PAY_TEXT">
+			<Text>
+				[COLOR_POSITIVE_TEXT]Debt Payment[ENDCOLOR]
+				[NEWLINE][NEWLINE]You have received {1_Num} [ICON_GOLD] Gold from {2_PlayerName}! They still need to pay {3_Num} [ICON_GOLD] Gold!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_DEBT_PAYMENT_TITLE">
+			<Text>Debt Payment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_DEBT_TEXT">
+			<Text>
+				[COLOR_NEGATIVE_TEXT]Debt of Pestilence[ENDCOLOR]
+				[NEWLINE][NEWLINE]You have lost {1_Num} [ICON_GOLD] Gold!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_DEBT_CANNOT_PAY_TEXT">
+			<Text>
+				[COLOR_NEGATIVE_TEXT]Debt of Pestilence[ENDCOLOR]
+				[NEWLINE][NEWLINE]You have lost {1_Num} [ICON_GOLD] Gold! In addition, you still have a {2_Num} [ICON_GOLD] Gold debt!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_TOUHOU_PESTILENCE_DEBT_TITLE">
+			<Text>Debt of Pestilence</Text>
+		</Row>
+		
+		
+		<!--Spy Names: Named after flowers, in Japanese. Since both her and her sister are named after flowers.-->
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_0">
+			<Text>Shion</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_1">
+			<Text>Tsubaki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_2">
+			<Text>Sumire</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_3">
+			<Text>Kuchinashi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_4">
+			<Text>Suisen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_5">
+			<Text>Ajisai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_6">
+			<Text>Sakurasou</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_7">
+			<Text>Ayame</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_8">
+			<Text>Sayuri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TOUHOU_PESTILENCE_9">
+			<Text>Himawari</Text>
+			<Gender>feminine</Gender>
+		</Row>
+ 
+		<!--City Names: Named after currencies, both historic and current. They probably won't make any sense when translated.-->
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_YEN">
+			<Text>Yenkyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_MON">
+			<Text>Monshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RYO">
+			<Text>Ryokohama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_DOLLAR">
+			<Text>Dollarton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RUBLE">
+			<Text>Rublegrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_PESO">
+			<Text>Pesolona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_YUAN">
+			<Text>Yuanzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_WON">
+			<Text>Wonneung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_SHEKEL">
+			<Text>Shekelsalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RUPEE">
+			<Text>Rupeeabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_FRANC">
+			<Text>Francsbourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_BAHT">
+			<Text>Bahtkok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_PATACA">
+			<Text>Patacau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_POUND">
+			<Text>Poundston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_DINAR">
+			<Text>Dinardad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RIYAL">
+			<Text>Riyaldh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_LIRA">
+			<Text>Liran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_DONG">
+			<Text>Saidong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_KIP">
+			<Text>Kiptiane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RUPIAH">
+			<Text>Rupiahkarta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_KRONA">
+			<Text>Kronaholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_REAL">
+			<Text>Real de Janeiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_QUETZAL">
+			<Text>Quetzamala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_DRACHMA">
+			<Text>Drachmapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_WEN">
+			<Text>Wenjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_MUN">
+			<Text>Munju</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_MARK">
+			<Text>Marksfurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_BIRR">
+			<Text>Birrar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_ZLOTY">
+			<Text>Zlokrow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_DIRHAM">
+			<Text>Dirraham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RIGSDALER">
+			<Text>Rigshagen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_DRAM">
+			<Text>Yeredram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_LEV">
+			<Text>Levfia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_TUGRIK">
+			<Text>Tugrikbaatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_CORDOBA">
+			<Text>Cordogua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_OUGUIYA">
+			<Text>Nouaguiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_TAKA">
+			<Text>Thaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RAND">
+			<Text>Ranbamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_ESCUDO">
+			<Text>Porto Escudo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_RINGGIT">
+			<Text>Kota Ringgit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_APSAR">
+			<Text>Aphumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_NGULTRUM">
+			<Text>Ngulshuling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_KUNA">
+			<Text>Kunagreb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_HRYVNIA">
+			<Text>Kievnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_COLON">
+			<Text>San Colon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TOUHOU_PESTILENCE_BOND">
+			<Text>Bondarare</Text>
+		</Row>
+
+		<!--Leader: Joon - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_JOON_NAME">
+			<Text>Yorigami Joon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JOON_SUBTITLE">
+			<Text>The Most-Despicable and Disastrous Younger Twin Sister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JOON_LIVED">
+			<Text>TH15.5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JOON_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JOON_TEXT_1">
+			<Text>Joon is a pestilence god and one of the main antagonists of Antinomy of Common Flowers. Together with her older sister, Shion, she robs innocent residents of Gensokyo of their wealth by bringing them financial ruin.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+		<Row Tag="TXT_KEY_LEADER_JOON_FIRSTGREETING_1">
+			<Text>Oh, I wasn&apos;t expecting visitors. If you&apos;ve got something, my assistant is over there. Oh, where are my manners? I&apos;m Yorigami Joon. I look forward to working with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_FIRSTGREETING_2">
+			<Text>You&apos;ve come to the right place. I&apos;m Yorigami Joon, and these are my little friends. I trust you will get along with them, yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_FIRSTGREETING_3">
+			<Text>Oh, a new face? ...I'm Yorigami Joon, and I run this place. You can do anything. But never go against the family.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_DECLAREWAR_1">
+			<Text>A shame that it has to come to this. It&apos;s not personal, it&apos;s strictly business.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_DECLAREWAR_2">
+			<Text>Even if you leave it alone the bills add up. I&apos;m just taking what is rightfully mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_DECLAREWAR_3">
+			<Text>What do you think about this offer, to settle your bills? I don&apos;t think you can refuse this one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_DEFEATED_1">
+			<Text>Revenge is a dish best served cold. I don&apos;t mind having it as long as my sister is safe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_DEFEATED_2">
+			<Text>I regret nothing, except not being able to make my sister happy. I hope you&apos;ll take good care of her.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JOON_DEFEATED_3">
+			<Text>All that&apos;s left for you is my sister. Please take good care of her.</Text>
+		</Row>
+
+		<!-- Unique Cultural Influence Support-->
+		<Row Tag="TXT_KEY_GENERIC_TOUHOU_PESTILENCE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now spending money like no tomorrow. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

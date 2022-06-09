@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/2/2015 2:18:49 PM -->
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>KobitoDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+
+
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_KOBITO_DUMMY_GP</Type>
+			<DefaultBuilding>BUILDING_KOBITO_DUMMY_GP</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_GP</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_KOBITO_DUMMY_GP</Type>
+			<BuildingClass>BUILDINGCLASS_KOBITO_DUMMY_GP</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_GP</Description>
+			<GreatPeopleRateModifier>15</GreatPeopleRateModifier>
+		</Row>
+	</Buildings>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_KOBITO_DUMMY_GP">
+			<Text>Kobito Dummy GP</Text>
+		</Row>
+	</Language_en_US>
+	
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SHINING_NEEDLE_SWORD</Type>
+			<Description>TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD</Description>
+			<Help>TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SHINING_NEEDLE_SWORD</PediaEntry>
+			<CombatPercent>20</CombatPercent>
+		</Row>
+	</UnitPromotions>
+	
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SHINING_NEEDLE_SWORD</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SHINING_NEEDLE_SWORD</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+
+	<Policies>
+		<Row>
+			<Type>POLICY_DECISIONS_SHINING_NEEDLE_SWORD</Type>
+			<CultureCost>-1</CultureCost>
+		</Row>
+	</Policies>
+
+	<Policy_FreePromotions>
+		<Row>
+			<PolicyType>POLICY_DECISIONS_SHINING_NEEDLE_SWORD</PolicyType>
+			<PromotionType>PROMOTION_SHINING_NEEDLE_SWORD</PromotionType>
+		</Row>
+	</Policy_FreePromotions>
+</GameData>

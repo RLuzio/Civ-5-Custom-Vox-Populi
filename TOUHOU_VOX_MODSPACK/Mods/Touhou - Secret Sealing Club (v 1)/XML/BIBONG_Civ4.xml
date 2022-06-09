@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-26 오후 8:57:05 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_CIV_IV">
+			<Text>Sumireko Usami [ICON_RESEARCH][ICON_GREAT_PEOPLE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_CIV_IV">
+			<Text>우사미 스미레코 [ICON_RESEARCH][ICON_GREAT_PEOPLE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_CIV_IV">
+			<Text>宇佐見菫子 [ICON_RESEARCH][ICON_GREAT_PEOPLE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ja_JP>
+</GameData>

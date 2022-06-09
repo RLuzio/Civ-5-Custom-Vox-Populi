@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2016-09-17 오후 11:55:38 -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SAKI_HIPPODROME</Type>
+			<BuildingClass>BUILDINGCLASS_STABLE</BuildingClass>
+			<Cost>75</Cost>
+			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_SAKI_HIPPODROME_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SAKI_HIPPODROME_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SAKI_HIPPODROME_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SAKI_HIPPODROME_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_CIRCUS_MAXIMUS</ArtDefineTag>
+			<UnmoddedHappiness>2</UnmoddedHappiness>
+			<TrainedFreePromotion>PROMOTION_JRA_HORSE_RACE</TrainedFreePromotion>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>KEIGA_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_UnitCombatFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Experience>25</Experience>
+		</Row>
+	</Building_UnitCombatFreeExperiences>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Building_UnitCombatProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>50</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_JRA_HORSE_RACE</Type>
+			<Description>TXT_KEY_PROMOTION_JRA_HORSE_RACE</Description>
+			<Help>TXT_KEY_PROMOTION_MYSTIC_BLADE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>3</OrderPriority>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JRA_HORSE_RACE</PediaEntry>
+			<HasPostCombatPromotions>true</HasPostCombatPromotions>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_JRA_BEST</Type>
+			<Description>TXT_KEY_PROMOTION_JRA_BEST</Description>
+			<Help>TXT_KEY_PROMOTION_JRA_BEST_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>3</PortraitIndex>
+			<MovesChange>2</MovesChange>
+			<OpenAttack>25</OpenAttack>
+			<RoughAttack>25</RoughAttack>
+			<OpenDefense>25</OpenDefense>
+			<RoughDefense>25</RoughDefense>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JRA_BEST</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<GreatGeneral>true</GreatGeneral>
+		</Row>
+		<Row>
+			<Type>PROMOTION_JRA_BETTER</Type>
+			<Description>TXT_KEY_PROMOTION_JRA_BETTER</Description>
+			<Help>TXT_KEY_PROMOTION_JRA_BETTER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<MovesChange>1</MovesChange>
+			<OpenAttack>10</OpenAttack>
+			<RoughAttack>10</RoughAttack>
+			<OpenDefense>10</OpenDefense>
+			<RoughDefense>10</RoughDefense>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JRA_BETTER</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_JRA_GOOD</Type>
+			<Description>TXT_KEY_PROMOTION_JRA_GOOD</Description>
+			<Help>TXT_KEY_PROMOTION_JRA_GOOD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>3</OrderPriority>
+			<VisibilityChange>1</VisibilityChange>
+			<OpenAttack>5</OpenAttack>
+			<RoughAttack>5</RoughAttack>
+			<OpenDefense>5</OpenDefense>
+			<RoughDefense>5</RoughDefense>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JRA_GOOD</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_JRA_DARKHORSE</Type>
+			<Description>TXT_KEY_PROMOTION_JRA_DARKHORSE</Description>
+			<Help>TXT_KEY_PROMOTION_AMBITION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JRA_DARKHORSE</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<Invisible>INVISIBLE_SUBMARINE</Invisible>
+			<OpenAttack>50</OpenAttack>
+			<RoughAttack>50</RoughAttack>
+			<OpenDefense>-20</OpenDefense>
+			<RoughDefense>-20</RoughDefense>
+		</Row>
+		<Row>
+			<Type>PROMOTION_JRA_CHALLENGED</Type>
+			<Description>TXT_KEY_PROMOTION_JRA_CHALLENGED</Description>
+			<Help>TXT_KEY_PROMOTION_JRA_CHALLENGED_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_JRA_CHALLENGED</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<VisibilityChange>1</VisibilityChange>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+			<OpenAttack>-5</OpenAttack>
+			<RoughAttack>-5</RoughAttack>
+			<OpenDefense>-5</OpenDefense>
+			<RoughDefense>-5</RoughDefense>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_JRA_HORSE_RACE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_SAKI_HIPPODROME</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>15</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<UnitPromotions_PostCombatRandomPromotion>
+		<Row>
+			<PromotionType>PROMOTION_JRA_HORSE_RACE</PromotionType>
+			<NewPromotion>PROMOTION_JRA_BEST</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_JRA_HORSE_RACE</PromotionType>
+			<NewPromotion>PROMOTION_JRA_BETTER</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_JRA_HORSE_RACE</PromotionType>
+			<NewPromotion>PROMOTION_JRA_DARKHORSE</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_JRA_HORSE_RACE</PromotionType>
+			<NewPromotion>PROMOTION_JRA_GOOD</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_JRA_HORSE_RACE</PromotionType>
+			<NewPromotion>PROMOTION_JRA_CHALLENGED</NewPromotion>
+		</Row>
+	</UnitPromotions_PostCombatRandomPromotion>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_DESC'>
+			<Text>경마장</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_HELP'>
+			<Text>경마장은 마구간의 기능에 더해 목장의 [ICON_GOLD] 금 생산량을 1만큼 늘려주고 도시에서 생산하는 기병 유닛의 경험치를 25만큼 올려주며 경마 승급을 부여합니다. 경아파만 건설할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAKI_HIPPODROME_STRATEGY">
+			<Text>경마장은 경마를 시행할 목적으로 만든 시설이다. 경마장에는 경주를 직접 시행하는 경주로, 경주를 관제하고 관람객을 수용하기 위한 관람대, 경주마를 일시 수용하기 위한 마구간 등의 시설이 설치된다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_PEDIA'>
+			<Text>대한민국 내에서는 경마장이라는 명칭이 도박을 하는 곳이라는 좋지 않은 이미지를 가지고 있음에 따라 1998년부터 경마공원이라는 명칭을 사용하고 있으며, 현재 한국마사회에서 과천, 부산, 제주 등 3개소의 경마공원을 운영하고 있다. </Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_HORSE_RACE'>
+			<Text>경마</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BEST'>
+			<Text>최우수</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BEST_HELP'>
+			<Text>전투력+25%. 이동력+2. 위대한 장군처럼 주변에 있는 유닛에 전투력 보너스를 줍니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BETTER'>
+			<Text>우수</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BETTER_HELP'>
+			<Text>전투력+10%. 이동력+1</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_GOOD'>
+			<Text>양호</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_GOOD_HELP'>
+			<Text>전투력+5%</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_DARKHORSE'>
+			<Text>복병</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_CHALLENGED'>
+			<Text>도전</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_CHALLENGED_HELP'>
+			<Text>전투력이 5% 감소하지만 시야가 1 증가하며 지형비용을 무시합니다</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_DESC'>
+			<Text>Hippodrome</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_HELP'>
+			<Text>In addition to the regular abilities of the Stable, the Hippodrome increases [ICON_GOLD] Gold on Pasture tiles and +25 XP and Horse Racing promotion for Mounted Units. Only the Keigagumi may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAKI_HIPPODROME_STRATEGY">
+			<Text>Horse races vary widely in format and many countries have developed their own particular traditions around the sport. Variations include restricting races to particular breeds, running over obstacles, running over different distances, running on different track surfaces and running in different gaits.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_PEDIA'>
+			<Text>Horse racing is an equestrian performance sport, typically involving two or more horses ridden by jockeys (or sometimes driven without riders) over a set distance for competition. It is one of the most ancient of all sports, as its basic premise – to identify which of two or more horses is the fastest over a set course or distance – has been unchanged since at least classical antiquity.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_HORSE_RACE'>
+			<Text>Horse Racing</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BEST'>
+			<Text>Best</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BEST_HELP'>
+			<Text>Combat+25%. Movement+2. Provides a 15% combat bonus to all player-owned land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BETTER'>
+			<Text>Better</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BETTER_HELP'>
+			<Text>Combat+10%. Movement+1</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_GOOD'>
+			<Text>Good</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_GOOD_HELP'>
+			<Text>Combat+5%</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_DARKHORSE'>
+			<Text>Darkhorse</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_CHALLENGED'>
+			<Text>Challenged</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_CHALLENGED_HELP'>
+			<Text>-5% combat // +1 sight and ignore terrain cost</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_DESC'>
+			<Text>競馬場</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_HELP'>
+			<Text>厩舎のボーナスに加え、競馬場は牧草地タイルの[ICON_GOLD]ゴールドを増やし、騎乗ユニットに25XPと「競馬」レベルアップをもたらす。ポーランドだけが築ける。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAKI_HIPPODROME_STRATEGY">
+			<Text>競馬場には競馬の競走を行うに当たって必要な馬場や競馬を円滑に行うための各設備のほか、観客が来場ならびに観戦に必要な設備がそなえつけられていることが多い。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_SAKI_HIPPODROME_PEDIA'>
+			<Text>競馬場（けいばじょう）とは競馬を行う施設である。 狭義の競馬場は競走馬による競走（レース）を行うための馬場（コース）そのものを意味するが多くの場合、レース観戦のためのスタンドなどコース周辺に設置されるさまざまな施設をも含めた総称を競馬場という。 </Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_HORSE_RACE'>
+			<Text>競馬</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BEST'>
+			<Text>本命</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BEST_HELP'>
+			<Text>戦闘力+25%、移動+2。付近のユニットに戦闘ボーナスをもたらす。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BETTER'>
+			<Text>対抗</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_BETTER_HELP'>
+			<Text>戦闘力+10%、移動+1</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_GOOD'>
+			<Text>連穴</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_GOOD_HELP'>
+			<Text>戦闘力+5%</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_DARKHORSE'>
+			<Text>単穴</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_CHALLENGED'>
+			<Text>穴</Text>
+		</Row>
+		<Row Tag='TXT_KEY_PROMOTION_JRA_CHALLENGED_HELP'>
+			<Text>戦闘力-5% // 視程+1、地形による消費ポイントを無視</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

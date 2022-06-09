@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/11/2013 9:16:31 AM -->
+<GameData>
+	-<Language_en_US>
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_REPEAT_TOO_MUCH">
+			<Text>Are you still going on?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_REPEAT_TRADE_1">
+			<Text>What part of &apos;uh-uh&apos; didn&apos;t you understand?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_REPEAT_TRADE_2">
+			<Text>You keep asking, I&apos;ll keep saying no.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_REPEAT_TRADE_3">
+			<Text>I said no already!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_REPEAT_1">
+			<Text>Hello again!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_REPEAT_2">
+			<Text>Welcome back!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_REPEAT_1">
+			<Text>Ugh, you again.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_REPEAT_2">
+			<Text>Spit it out already.</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_POLITE_HELLO_2">
+			<Text>Hey, it&apos;s my favorite big person!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_POLITE_HELLO_3">
+			<Text>Hey again! Care for a frogsicle?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_POLITE_HELLO_4">
+			<Text>There you are! Have you seen my white scarf? It blew off in the snow and now I can&apos;t find it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_NEUTRAL_HELLO_2">
+			<Text>Huh? Where&apos;d you come from?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_NEUTRAL_HELLO_3">
+			<Text>What brings you here today?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_NEUTRAL_HELLO_4">
+			<Text>Oh, hello there.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HELLO_2">
+			<Text>Oh, as soon as the big thing disappears, this small thing appears. What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HELLO_3">
+			<Text>You again? Shouldn&apos;t you have fallen in a hole by now?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HELLO_4">
+			<Text>Great, it&apos;s my least favorite big person.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>Come to gloat, have you? Well, we can still turn this around! Soon you&apos;ll be gloating out of the other side of your face!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Oh, we&apos;re building up a counterattack. A really cool one. Like you won&apos;t even believe how great it is. But if you want to declare peace so you don&apos;t have to defend against it, we&apos;ll go along with you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>This war is getting really boring.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>Can we go back to peace so I can go back to goofing off instead of worrying about you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>What, we&apos;re still at war? Aren&apos;t you over whatever it was? Because if we started this one, then we&apos;re totally over it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Give up yet?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Ha! Here for peace? I&apos;m not even winded!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AT_WAR_HOSTILE_3">
+			<Text>Come to say uncle?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>Hey. How&apos;s our Research Agreement going?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>Oh, did you come by to make more promises you don&apos;t plan to keep?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_WORKING_WITH_1">
+			<Text>Hey pal! Here to plan some more mischief?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_WORKING_AGAINST_1">
+			<Text>That {1_ThirdPlayerName:textkey} weirdo is getting on our nerves.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_WORKING_AGAINST_2">
+			<Text>We ready to wreck {1_ThirdPlayerName:textkey} yet?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_COOP_WAR_1">
+			<Text>With you and me together, {1_ThirdPlayerName:textkey} is going down!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_COOP_WAR_2">
+			<Text>Ready to divvy up {1_ThirdPlayerName:textkey}&apos;s stuff? I got first dibs on anything ice cream-related.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>What, are you bored of losing the war you&apos;re already in, so now you want to lose one against us?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HUMAN_AT_WAR_1">
+			<Text>Hey. How&apos;s your whole war going? Because it looks really pretty from over here.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Hey, are you here to quit pretending and declare war already? Bring it on!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I hope you&apos;re here to talk about why you think our borders need, like, a zillion of your army guys hanging around them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>What is it now, greedy?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>What do you want to talk about? Because I want to talk about why you keep jumping all up in my land!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Buddy, you keep buying land like that, we&apos;re going to have to buy it back with a danmaku discount! If you get what I mean. Do you get what I mean? I mean we&apos;re gonna go to war and I&apos;ll conquer it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Stop buying up all that land! My fairies keep trying to go there and they just get lost.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>I may still be the strongest, but you&apos;re easily a close second. What can I do ya for?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Oh man, you have got so much money! Can I have that hat your attendant&apos;s wearing? I bet you have like twenty more of them!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>Here for advice? My tip: you&apos;re supposed to be building cities, instead of whatever dumb thing you&apos;re doing.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Where&apos;s your army? Were you just planning to pull one out at the last second when you need it? Because that&apos;s what we do, not you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Ooh, ooh, are you here to pick a fight?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DENOUNCED_BY_AI_1">
+			<Text>What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DENOUNCED_BY_AI_2">
+			<Text>Make it snappy, I got stuff to do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DENOUNCED_AI_1">
+			<Text>What, now you want to talk? Are you confused? ...Wait, now I&apos;m confused.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Oh great, that weirdo {1_PlayerName} brought a friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>Hi! {1_PlayerName} told me you&apos;d be coming, but I forgot to do anything about it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>Why did you denounce {1_PlayerName}? I can think of like nine people who deserve it more.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>You hate {1_PlayerName}? Me too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TOO_SOON_FOR_DOF_1">
+			<Text>I don&apos;t even know you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TOO_SOON_FOR_DOF_2">
+			<Text>I know everyone wants to be friends with the strongest fairy, but I need to know at least a little about you first.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>{1_CivName} are jerks and we&apos;re telling everyone about it. You on board?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOF_AI_WAR_REQUEST_1">
+			<Text>I&apos;m totally wrecking face on {1_CivName}. Want to come along? (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOF_NOT_HONORED_1">
+			<Text>Oh. Oh, I see how it is. You thought just because I was a fairy, I&apos;d forget your promise. Well I wrote it down, jerk, and now I&apos;m telling everyone about you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOF_NOT_HONORED_2">
+			<Text>I&apos;m going to tell everyone about your betrayal, so nobody&apos;s dumb enough to try and help you when I get my revenge![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DENOUNCING_FRIEND_1">
+			<Text>I don&apos;t know why I ever thought we were friends. No, really. Do you remember?[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Ha ha... Is that so?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Oh, you are gonna wish you hadn&apos;t badmouthed the strongest fairy!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DOFED_FRIEND_1">
+			<Text>I saw you allied with {1_CivName}. I like those guys too. Would you recommend it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DOFED_ENEMY_1">
+			<Text>I wouldn&apos;t get too chummy with {1_CivName} if I was you. But then again if I was you I wouldn&apos;t be the smartest fairy, so I might make really bad decisions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Hey, we like {1_CivName}! Lay off!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Oh, I totally hate {1_CivName} too.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>You&apos;re allies with {1_CivName}? Me too! We should plan some kind of party.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>We denounced {1_CivName} too. Glad to see someone around here respects fairies&apos; opinions!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>So you teamed up with {1_CivName}? Perfect! Bundling arrows together just means I can break them all faster!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>You pick a fight with {1_CivName}, you pick a fight with me. And if you pick a fight with me, you get beaten up!</Text>
+		</Row>
+		<!-- LEADER_CIRNO Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_EXPANSION_WARNING_1">
+			<Text>Stop snorking up all my land! Just because I wasn&apos;t doing anything with it then doesn&apos;t mean I didn&apos;t want it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_EXPANSION_BROKEN_PROMISE_1">
+			<Text>Does "Okay, Cirno, I&apos;ll stop expanding near you because I respect you so much since you are the strongest in the world and also your hair is very nice" mean something different in your language? Because that&apos;s exactly what I recall you saying!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Stop buying up all those plots of land! Mystia had her grilled lamprey stand set up for two months before she figured out you&apos;d expanded your territory around her!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PLOT_BUYING_WARNING_1">
+			<Text>Stop buying up all that land, or at least give me first crack at it. Rumia likes to wander around there, and she can't see out of her little darkness ball, so if you start claiming land and moving things she just bumps into trees for hours.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>Did I not just tell you to stop buying up all that land? </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Just so you know, I&apos;m turning one of your little toadies into an ice sculpture. Then we&apos;re all gonna draw on them with crayons.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Letty says that the small fry we&apos;re attacking was your friend. We&apos;re still cool though, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WORK_WITH_US_1">
+			<Text>Wait a second, Pacts of Cooperation were patched out of the game! Hax! I call hax!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DEC_FRIENDSHIP_1">
+			<Text>Want to sign a Declaration of Friendship? With the strongest fairy on your side, you&apos;ll do great!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DEC_FRIENDSHIP_2">
+			<Text>Can we make a Declaration of Friendship? We found a bunch of yarn the other day, and now a lot of us fairies want to make friendship bracelets out of it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DENOUNCE_1">
+			<Text>You suck, and now everyone else knows it. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DENOUNCE_2">
+			<Text>I&apos;m warning all the other leaders what a weirdo you are. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_WITH_US_WARMONGER">
+			<Text>Pact of Cooperation end - Warmonger (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_WITH_US_MINORS">
+			<Text>Pact of Cooperation end - Citystates (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_WITH_US_LAND">
+			<Text>Pact of Cooperation end - Taking all the land (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_WITH_US_WONDERS">
+			<Text>Pact of Cooperation end - Wonders (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_WITH_US_VICTORY">
+			<Text>Pact of Cooperation end - Victory Conditions (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Pact of Cooperation end - Timeout (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WORK_AGAINST_SOMEONE_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy (shouldn&apos;t appear) [NEWLINE][NEWLINE](Will not cause you to declare war)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>{1_PlayerName:textkey} Pact of Secrecy end (shouldn&apos;t appear)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_COOP_WAR_REQUEST_1">
+			<Text>If you&apos;re as sick of {1_PlayerName:textkey} as I am, then you&apos;ll join the war I&apos;m starting. You in?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_COOP_WAR_REQUEST_2">
+			<Text>We&apos;re all getting ready to beat up {1_PlayerName:textkey}. You&apos;re welcome to come along!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_COOP_WAR_TIME_1">
+			<Text>Hey, guess what time it is? Time to run a war on {1_PlayerName:textkey}!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_NOW_UNFORGIVABLE_1">
+			<Text>I try to be a nice fairy. I try to take it easy. But you keep pushing my buttons, and now you&apos;ve gone too far!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_NOW_ENEMY_1">
+			<Text>Now we&apos;re enemies. And that means danmaku!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_COMPLIMENT_1">
+			<Text>Thanks to our alliance, now everyone knows not to take fairies so lightly! And they think you&apos;re pretty cool as well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_BOOT_KISSING_1">
+			<Text>I got my fingers stuck in this weird finger-trap-straw-thing. I tried freezing it, but that just made it worse.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_BOOT_KISSING_2">
+			<Text>All the fairies like my igloo. I tried telling them how to make their own, but most of them just melt overnight.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WARMONGER_1">
+			<Text>I like a good war as much as the next fairy, but geez, tone it down a bit, would ya?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_MINOR_CIV_COMPETITION_1">
+			<Text>Are you trying to squeeze us out of {1_MinorCivName:textkey}? After we gave them that macaroni drawing of their prime minister? </Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_LEADER_CIRNO_1">
+			<Text>All you shrine maidens look alike.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_LEADER_CIRNO_2">
+			<Text>You have a big nose. Everyone&apos;s thinking it, and I said it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_LEADER_CIRNO_3">
+			<Text>Are you guys barbarians? I always wanted to ask you guys how you kept making huts out of nothing in the middle of nowhere.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_MILITARY_1">
+			<Text>I think I&apos;ll go for a stroll and beat up your whole army today. Then once I&apos;m warmed up, I&apos;ll actually start my workout!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_NUKE_1">
+			<Text>Guess who has nuclear weapons? Go on, guess. Give up? It&apos;s us! Fairies have nukes!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_BULLY_1">
+			<Text>You pushed Daiyousei into a puddle and made her cry, you bully!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_UNHAPPINESS_1">
+			<Text>Man, everyone in your civilization is so miserable all the time. You stopped badmouthing fairies, now you wish you were fairies!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_CITIES_1">
+			<Text>Hey, Letty wants us to have a Fairy Fun Run. Can we use the borders of your empire for our start and finish lines? We don&apos;t want to be running for too long.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_POPULATION_1">
+			<Text>Where did all your people go? There&apos;s barely anyone to play pranks on!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_INSULT_CULTURE_1">
+			<Text>I just showed a crayon drawing of my igloo to one of your citizens and she started gasping in awe at it. I think I&apos;m gonna have it framed now!</Text>
+		</Row>
+		<!--Public Declarations-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_REPEAT_NO_1">
+			<Text>No.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DONT_SETTLE_YES_1">
+			<Text>Okay, we&apos;ll try and keep out of your yard.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DONT_SETTLE_NO_1">
+			<Text>No! Fairies need to fly free! Also we can&apos;t tell what land is yours from up in the air anyway.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WORK_WITH_US_YES_1">
+			<Text>Great, let&apos;s shake on it! Don&apos;t do a spit shake though. Your spit will freeze our hands together.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DECLINE_1">
+			<Text>Pass.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DECLINE_2">
+			<Text>Eh, I don&apos;t feel like it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>This is a Pact of Secrecy line so it shouldn&apos;t appear.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_COOP_WAR_YES_1">
+			<Text>Fairies are always ready to throw down! Let&apos;s do this!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_COOP_WAR_SOON_1">
+			<Text>Of course the fairies are behind your war! Just gimme, like, ten turns to herd everyone together.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_YES_1">
+			<Text>Ugh, all right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_YES_2">
+			<Text>I could beat you up for this, but I would much rather take a nap, so I&apos;ll give you what you want.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>Ha! You think a little crybaby pipsqueak like you can make demands of the strongest fairy in Gensokyo?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>Sorry, I can&apos;t hear it when weaklings talk, so all I see is big goofy lips flapping and nothing coming out.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>Oh, if you want it that bad, why don&apos;t you come and try and take it? I&apos;ll even tell the first two waves of fairies to make it Easy Mode for you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+			<Text>No! In fact, I&apos;m probably going to declare war over this! ...If I find my official war-declaring paper before I forget to. </Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_HOSTILE_3">
+			<Text>No!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_HOSTILE_4">
+			<Text>Get bent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>What, were you going to ask for the fillings in my teeth too, but figured you&apos;d be realistic? No! Also, my teeth don&apos;t have fillings. Joke&apos;s on you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>No way, if I make a deal I want a fair one.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Again with this? I said no already!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>Quit bugging me!</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_OFFER_1">
+			<Text>How about we call this war a draw?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_OFFER_2">
+			<Text>I&apos;m bored of this war. Will this end it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DEMAND_1">
+			<Text>I need this stuff. I&apos;m making a giant, mobile snowman. Give me the parts I need, and it will conquer you last!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_REQUEST_ITEM_1">
+			<Text>Hey, did you know that it&apos;s impossible to kiss your own elbow? Because long story short, Letty did, and now I need to pay off a pretty big bet with her.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_REQUEST_ITEM_2">
+			<Text>Oh, this would be great for Lily&apos;s thing collection! She collects... some kind of things, and this is a thing, it&apos;s perfect!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_REQUEST_ITEM_3">
+			<Text>Surely you can&apos;t be using these, right? They look like a lot of fun to mess with!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GIFT_ITEM_1">
+			<Text>Hey, want some of our spare resources? There&apos;s only a little bit of pudding on them, you can hardly notice.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GIFT_ITEM_2">
+			<Text>Surprise, here&apos;s a gift for you! We all picked it out together. Wriggle wrapped it, so if there&apos;s any bugs in the paper, that&apos;s why.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_OPEN_BORDERS_OFFER_1">
+			<Text>We need to pass through your borders on our way to do important fairy business. You know.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I want to plan to make a Reasearch Agreement later. But I don&apos;t think this text ever actually appears.[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>Hey, can we make an official Research Agreement? Before you laugh, I assure you that fairies are very helpful in a science lab!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RENEW_DEAL_1">
+			<Text>Our deal&apos;s about to run out, but I&apos;d rather it kept going. Less work that way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal&apos;s running out, but I want more on my end if I&apos;m gonna renew it.</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_GENEROUS_1">
+			<Text>I&apos;ll take it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_GENEROUS_2">
+			<Text>Why, thank you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_GENEROUS_3">
+			<Text>Thanks! Generosity to fairies has a way of being rewarded.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>That checks out. I think. I didn&apos;t quite do all the math.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That&apos;ll do.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>Good enough.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>Yeah, you&apos;re darn right you accept!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_AI_DEMAND_2">
+			<Text>That&apos;s what I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>Deal. Now let&apos;s put this whole confusing mess behind us.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_ACCEPT_HUMAN_CONCESSIONS_2">
+			<Text>How generous!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I need more than that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>Those two sides don&apos;t look even at all!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>No way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_REJECT_INSULTING_1">
+			<Text>What, do you think I&apos;m some kind of moron who&apos;ll accept that? Well the one saying "moron" is the real moron, so that means the real moron is you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_REJECT_INSULTING_2">
+			<Text>Ha ha, real funny, what was your real offer?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_DEAL_UNCHANGED_1">
+			<Text>That looks fine to me already.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_DEAL_UNCHANGED_2">
+			<Text>That works for me if it works for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_AI_MAKES_OFFER_1">
+			<Text>Okay, how&apos;s abouuuut... this?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_AI_MAKES_OFFER_2">
+			<Text>Does this look good? I can throw in some more grilled lampreys if you need.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_AI_MAKES_OFFER_3">
+			<Text>How&apos;s this look?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I can&apos;t think of any way to make that work.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>Nothing can make that work.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_HOSTILE_1">
+			<Text>You wanna challenge Cirno, freezer of crybabies? Bring it on!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_HOSTILE_2">
+			<Text>If it&apos;s a fight you want, I&apos;ll be happy to oblige!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_HOSTILE_3">
+			<Text>Fight! Fight! Fight!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_WEAK_HOSTILE_1">
+			<Text>All right, it&apos;s a real challenge! I was getting bored beating up these weaklings!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_WEAK_HOSTILE_2">
+			<Text>Oh, someone who thinks the fairies will roll over just because our army is way smaller? We&apos;ll see who does the rolling, and who gets rolled up into a ball!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_WEAK_HOSTILE_3">
+			<Text>You want to exploit our weakness? Fairies have no weaknesses! Insects and sparrows have a couple, but fairies cover for them!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Cirno&apos;s the strongest, and you&apos;re getting clobbered!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Once I freeze the puny army you have now, that&apos;s when you bring out the REAL threat, right?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_STRONG_HOSTILE_3">
+			<Text>Ohhhhhh, buddy, you are not going to like the part that comes after this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_STRONG_HOSTILE_4">
+			<Text>Come on, if you think you can take the fairies on!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_EXCITED_1">
+			<Text>It&apos;s a fight! I won&apos;t back down!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_EXCITED_2">
+			<Text>Finally, some action! Let&apos;s do this!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_EXCITED_3">
+			<Text>At last, we will meet on the battlefield! Well. Like, above the battlefield, like thirty feet or so. You know what I meant!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_WEAK_EXCITED_1">
+			<Text>Don&apos;t take fairies so lightly! We&apos;ll beat you back!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_STRONG_EXCITED_1">
+			<Text>Oh good, I felt like beating the snot out of someone today!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_SAD_1">
+			<Text>What? I thought we were friends! Unless... you&apos;re attacking me as a favor so I can beat some big people up, in which case, thanks, buddy!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_SAD_2">
+			<Text>Oh man, I told the others you were cool!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_BETRAYED_1">
+			<Text>I knew it! I knew you couldn&apos;t be trusted! That&apos;s why I made an icicle dagger back when we first met, and hid it in... No, wait, never mind, I just realized why that won&apos;t work.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_LEADER_CIRNO_1">
+			<Text>I challenge your civilization to danmaku battle! Fairies will fill the sky with bullets!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_LEADER_CIRNO_2">
+			<Text>It&apos;s time I cleaned the weaklings and the weirdos out of here, starting with you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_LEADER_CIRNO_3">
+			<Text>In case you were wondering, now&apos;s the part of the story where Cirno beats you up and kicks you out of your house!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>You lied to us! Well, I can do that too. I am NOT sending armies of fairies to counterattack you right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_LAND_1">
+			<Text>You&apos;re cramping our style, and that won&apos;t end well for you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_LAND_2">
+			<Text>We can&apos;t be penned in any more! I claim your kingdom in the name of fairies everywhere! Also bugs, sparrows and whatever Rumia is.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_WORLD_CONQUEST_1">
+			<Text>Knock knock. Who&apos;s there? Cirno, here to conquer the world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_WORLD_CONQUEST_2">
+			<Text>Once I take all you losers out, I&apos;ll be the Extra Stage boss for the whole world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_WORLD_CONQUEST_3">
+			<Text>This is it! This is our chance to prove once and for all that fairies aren't to be taken lightly, we'll show the whole world how serious we can be! Let the Great Fairy War... BEGIN!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_OPPORTUNITY_1">
+			<Text>I see an opportunity, I jump on it! Just like I do for snacks and trampolines!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_OPPORTUNITY_2">
+			<Text>And now here comes Cirno to mop up what&apos;s left of you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_OPPORTUNITY_3">
+			<Text>You didn&apos;t think I&apos;d just ignore how open you made yourself, did you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_DESPERATE_1">
+			<Text>No youkai, god, or army scares me! I&apos;ll show you that recklessness is bravery! Attack!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_DESPERATE_2">
+			<Text>Nobody else thinks I can beat you... which means that when I do, I&apos;ll get your stuff AND a bunch of bet money!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_BETRAYAL_1">
+			<Text>So long, sucker!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_BETRAYAL_2">
+			<Text>Cirno the ice fairy always fights fair, but you were too dumb to notice and walked into a trap anyway!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_WEAK_BETRAYAL_1">
+			<Text>You thought I was cozying up to you because you were bigger than us... but I was really getting close to your heart, so I could stab it with an icicle! Attack!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_REGRET_1">
+			<Text>Aw man, we gotta go to war now. I kinda liked you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_DOW_REGRET_2">
+			<Text>After I blow up your stuff and stop your plans, can we still be friends? That&apos;s usually how it goes in Gensokyo.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WAR_DEMAND_REFUSED_1">
+			<Text>Oh. So you want to be conquered first, then! A-ha-ha!</Text>
+		</Row> 
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What do you got?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>Go ahead.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>Make me an offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>Okay, that&apos;s cool with me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>This looks like more fun than fighting you would be, so I&apos;ll take it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_NO_PEACE_1">
+			<Text>No! I still have plenty of motivation!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_NO_PEACE_2">
+			<Text>No way, not when I&apos;m winning!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TOO_SOON_NO_PEACE_1">
+			<Text>No. We just started, give me a few turns to enjoy it!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Excellent.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_PLEASED_2">
+			<Text>This is good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_PLEASED_3">
+			<Text>Neat.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thank you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Appreciate it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>Thanks.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>That&apos;s a shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Well, that&apos;s no good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>I&apos;m not mad, but I am disappointed.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_SO_BE_IT_1">
+			<Text>All right then.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_SO_BE_IT_2">
+			<Text>Very well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_SO_BE_IT_3">
+			<Text>You will regret this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RETURNED_CIVILIAN_1">
+			<Text>Thanks for the workers back! You would think they could just fly over everything like Remilia&apos;s maids, but Remilia&apos;s maids don&apos;t stop and get distracted by every rock, river and tree.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RETURNED_CIVILIAN_2">
+			<Text>Cool! Those workers are throwing a parade in your honor. The parade is just half a wagon and a dog, but it&apos;s the thought that counts.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_CULTURE_BOMBED_1">
+			<Text>Hey. HEY! That was our land! Give that back! And stop putting spiky things all over it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_CULTURE_BOMBED_2">
+			<Text>If you wanna start a war, there&apos;s easier ways to do it!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Joke&apos;s on you, fairies don&apos;t die!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>...Okay... but I got my eye on you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Joke&apos;s on you, fairies don&apos;t die!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>...Okay... but I got my eye on you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Ha ha, is that so? ...Rumia was right. That IS fun to say.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Yes. That&apos;s right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Oh, don&apos;t be like that, they&apos;re just pipsqueaks!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_BAD_1">
+			<Text>How predictable.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_RESPONSE_BAD_2">
+			<Text>Then we&apos;re done with you. No more fairy stuff, you&apos;re cut off!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Did you decide?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Okay, good. Glad we got that out of the way.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_OUR_WORDS_ARE_BACKED">
+			<Text>We have nukes now! It&apos;s a good thing fairies don&apos;t get cancer because I will be honest, we spend a lot of time playing around on them.</Text>
+		</Row>
+		
+		<!--G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_SAME_POLICIES_FREEDOM_1">
+			<Text>Hooray! It&apos;s good to see someone else following the path of Freedom. What&apos;s the point of anything if you can&apos;t mess around and have fun?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_SAME_POLICIES_ORDER_1">
+			<Text>Greetings comrade! I&apos;m pleased to see you also have chosen to follow the path of Order. Because, uh, trying to keep order with fairies is really hard, and I could use some help.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Ah, someone else who picked the path of Autocracy! We&apos;re probably going to end up fighting each other by the end of all this, but it&apos;ll be a good, clean, fun fight!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Did you actually steal technology from me? Really? I don&apos;t know what makes me madder, that you would try or that you could pull it off.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>Okay, this is getting silly. Could you just pull your spies out of my cities? It&apos;s really obvious that the only person around taller than two and a half feet is your spy, but everyone is too nice to say anything, and it&apos;s getting really awkward.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>See, that wasn&apos;t that hard!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>I should have known you&apos;d be dumb enough to keep trying.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_STOP_SPYING_YES_1">
+			<Text>All right, fine, I&apos;ll call them back. But I bet you&apos;ll miss us when we&apos;re gone!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_STOP_SPYING_NO_1">
+			<Text>No! Fairies bring joy and seasons and danmaku wherever they go, you can&apos;t stop that just because of a little bit of espionage!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Oh-ho-ho! Now we&apos;ll be ready for whatever that {@1_CivAdjective} plan can throw at us. It&apos;s gonna be great!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>Hey, the bug message service just told me {1_PlayerName} is plotting against you. If you find out anything juicy, I hope you&apos;ll tell me about it too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Hey, the bug message service just told me {1_PlayerName} is gearing up to attack {2_CityName}. If you find out something juicy, I hope you&apos;ll tell me about it too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Hey, the bug message service just told me {1_PlayerName} is getting ready to attack you. They didn&apos;t say where the army was going, bugs aren&apos;t very good with directions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Hey, the bug message service just told me {1_PlayerName} is loading up a bunch of boats to go attack {2_CityName}. If you find out something juicy, I hope you&apos;ll tell me about it too!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Hey, the bug message service just told me {1_PlayerName} is loading up a bunch of boats to attack you. They didn&apos;t say where the navy was going, bugs aren&apos;t very good with directions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_KILLED_YOUR_SPY_1">
+			<Text>I caught your spy tring to steal from us. Because I&apos;m nice, I&apos;ll give you the ice sculpture I made out of &apos;em.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_KILLED_MY_SPY_1">
+			<Text>So, apparently you killed one of my fairies in your city? She just came back and told me it was a big misunderstanding, she thought your lab was a candy store. No hard feelings?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Oh, this is gonna be about that whole spying thing, isn&apos;t it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_SUSPECT_YOU_OF_SPYING_1">
+			<Text>A big person just broke into one of my labs during fairy naptime, stole some technology, and drew all over my science fairies&apos; faces with a magic marker. You wouldn&apos;t have anything to do with that, would you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_STOP_CONVERSIONS_1">
+			<Text>Quit spreading your religion in my empire! We already have one, and two religions is just confusing. Everyone just starts praying in the wrong direction, eating incense, it&apos;s a mess!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Yeah, that&apos;s fair, I guess.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>No harm, no foul.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Good. We need a separation of church and... other church, I guess.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>Ugh, you&apos;re a religious weirdo.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Well, okay, I&apos;ll tell everyone to stop spreading the Good News in your territory, but they&apos;ll be pretty confused.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>No! Fairies will spread the gospel whether you like it or not. Why don&apos;t you want your people to be happy, huh?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>Say uncle! Say it! Say uncle!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>I&apos;m willing to accept your surrender instead of having to go to all the trouble of smooshing every last bit of resistance.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_GREETING_WILL_ACCEPT_SURRENDER_3">
+			<Text>Give up yet? Because if you don&apos;t give up soon, you won&apos;t have many more chances!</Text>
+		</Row>
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>Is that so?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Darn right.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_WE_BULLIED_MINOR_BAD_1">
+			<Text>Oh, come on, it was just a pipsqueak!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Okay, we cool.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I&apos;d make an offer, but anything I could give would be a rip-off for you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_TRADE_CANT_MATCH_OFFER_2">
+			<Text>I can&apos;t give you what that&apos;s worth.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_EMBASSY_EXCHANGE_1">
+			<Text>We&apos;d like to establish an embassy in your capital. Well, okay, it&apos;s not so much an &apos;embassy&apos; as it is a &apos;pillow fort&apos;.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_CIRNO_EMBASSY_OFFER_1">
+			<Text>We&apos;d like to establish an embassy in your capital. Well, okay, it&apos;s not so much an &apos;embassy&apos; as it is a &apos;pillow fort&apos;.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

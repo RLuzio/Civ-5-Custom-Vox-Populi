@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/5/2016 1:00:00 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_TENGU_BACKGROUND</Type>
+			<Red>0.8</Red>
+			<Green>0.2118</Green>
+			<Blue>0.06275</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_TENGU_ICON</Type>
+			<Red>1</Red>
+			<Green>0.5529</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TOUHOU_TENGU</Type>
+			<PrimaryColor>COLOR_PLAYER_TOUHOU_TENGU_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_TOUHOU_TENGU_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

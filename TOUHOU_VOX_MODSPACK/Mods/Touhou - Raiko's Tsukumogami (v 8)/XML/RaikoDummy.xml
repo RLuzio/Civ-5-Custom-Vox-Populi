@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/9/2017 9:14:55 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_WANTED_AMANOJAKU_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ACCEPTED_AMANOJAKU_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY</Description>
+		</Row>
+	</BuildingClasses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_SEARCHED_FOR_AMANOJAKU_DUMMY">
+			<Text>Searched for Seija Kijin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AMANOJAKU_ASYLUM_DUMMY">
+			<Text>Gave Seija Kijin Asylum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_INSPIRATION_DUMMY">
+			<Text>Inspired the Hopeless</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SEARCH_ARTIFACTS_DUMMY">
+			<Text>Searched for Lost Tsukumogami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY">
+			<Text>Search Parties</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY_TEXT">
+			<Text>People are searching for the wanted amanojaku.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY_STRATEGY">
+			<Text>Reduces enemy spy stealing rate in the city by 15%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY_HELP">
+			<Text>Reduces enemy spy stealing rate in the city by 15%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY">
+			<Text>Reverse Ideology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY_TEXT">
+			<Text>The weak now has the power to stand up against the strong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY_STRATEGY">
+			<Text>+10% [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture in all cities while you do not have the most score.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY_HELP">
+			<Text>+10% [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture in all cities while you do not have the most score.</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_SEARCHED_FOR_AMANOJAKU_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_SEARCHED_FOR_AMANOJAKU_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>POLICY_AMANOJAKU_ASYLUM_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_AMANOJAKU_ASYLUM_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>POLICY_INSPIRATION_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_INSPIRATION_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>POLICY_SEARCH_ARTIFACTS_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_SEARCH_ARTIFACTS_DUMMY</Description>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_INSPIRATION_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_AMPHITHEATER</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_INSPIRATION_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_WANTED_AMANOJAKU_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_WANTED_AMANOJAKU_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_WANTED_AMANOJAKU_DUMMY_HELP</Help>
+			<EspionageModifier>-15</EspionageModifier>
+			<Espionage>true</Espionage>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_ACCEPTED_AMANOJAKU_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_ACCEPTED_AMANOJAKU_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_ACCEPTED_AMANOJAKU_DUMMY_HELP</Help>
+			<CultureRateModifier>10</CultureRateModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_ACCEPTED_AMANOJAKU_DUMMY</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ACCEPTED_AMANOJAKU_DUMMY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ACCEPTED_AMANOJAKU_DUMMY</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ACCEPTED_AMANOJAKU_DUMMY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+</GameData>

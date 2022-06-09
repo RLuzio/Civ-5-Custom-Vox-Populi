@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 10:21:54 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_MAKAI_ADJECTIVE">
+			<Text>Makai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAKAI_DESC">
+			<Text>Demons of Makai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAKAI_SHORT_DESC">
+			<Text>The Demons of Makai</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI">
+			<Text>Shinki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_TO_MAKAI">
+			<Text>Tundra and Snow generate +1 [ICON_PRODUCTION] Production, and cities start with improved defense and strength. Starting in the Renaissance, unique Demon units will begin to appear in the capital, depending on how high your Tourism level is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GATEWAY_TO_MAKAI_SHORT">
+			<Text>Gateway to the Demon Realm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MAKAI_TITLE">
+			<Text>Demons of Makai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MAKAI_TEXT">
+			<Text>
+				Greetings to you, Shinki, goddess of the demon world of Makai![NEWLINE][NEWLINE]A being of incredible power, you were the creator of the entire demonic realm of Makai, a land with a harsh and unearthly nature, characterized by its frozen fields, crystalline forests, and a toxic miasma that can both harm and aid those exposed to it. This realm is populated both by those that seek to strengthen themselves by training in its harsh environment, as well as demons of your own creation.[NEWLINE][NEWLINE]In the recent past, some of the denizens of Makai decided to establish a travel agency and arrange tours for demons curious to see the sights of the human world. However, upset by the sudden mobs of demons appearing in Gensokyo, several individuals entered Makai to confront you in turn, in an effort to stem the tide of demons. Eventually, you relented and offered to look into the issue of the demonic tourists, although only after punishing the intruders for causing so many disruptions in your realm.[NEWLINE][NEWLINE]Fantastic and powerful Shinki, the time has come to spread your power to the land of Gensokyo and beyond. Your creations and followers are eager to explore this strange, new world. Will your power be enough to spread the beauty and harshness of Makai to the human realm?[NEWLINE][NEWLINE]Can you create a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CRYSTAL_FOREST">
+			<Text>Crystal Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CRYSTAL_FOREST_TEXT">
+			<Text>Some of the most beatiful sights in Makai are its extensive fields of crystalline forests and frozen fields. Not just a source of beauty, however, these materials are magically powerful, and some even contain their own will, making them extremely valuable in creating magical items.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CRYSTAL_FOREST_HELP">
+			<Text>The Crystal Forest provides 1 [ICON_CULTURE] Culture, 1 [ICON_PRODUCTION] Production, and 1 [ICON_GOLD] to the tile it's built on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CRYSTAL_FOREST">
+			<Text>Build a Crystal Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CRYSTAL_FOREST_HELP">
+			<Text>Constructs a Crystal Forest which increases the Culture, Production, and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CRYSTAL_FOREST_REC">
+			<Text>It will increase the Culture, Production, and Gold yield of the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_1">
+			<Text>Lesser Demon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_1_TEXT">
+			<Text>A variety of demons exist in the realm of Makai, all creations of their goddess, Shinki. While their realm is one of unearthly beauty and harshness, many are curious of the human world, and eager to take advantage of the gateways to travel there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_1_STRATEGY">
+			<Text>The Lesser Demon is a unique unit for the demons of Makai. Unable to be trained normally, it appears randomly in the Renaissance and Industrial eras, depending on the level of Tourism. It can gain powerful promotions after defeating an enemy, but these are selected at random, and may be harmful as well as beneficial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_1_HELP">
+			<Text>Unique unit. Appears randomly in the Renaissance and Industrial eras. Gains unique but random promotions from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_2">
+			<Text>Demon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_2_TEXT">
+			<Text>A variety of demons exist in the realm of Makai, all creations of their goddess, Shinki. While their realm is one of unearthly beauty and harshness, many are curious of the human world, and eager to take advantage of the gateways to travel there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_2_STRATEGY">
+			<Text>The Demon is a unique unit for the demons of Makai. Unable to be trained normally, it appears randomly in the Industrial and later eras, depending on the level of Tourism. It can gain powerful promotions after defeating an enemy, but these are selected at random, and may be harmful as well as beneficial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_2_HELP">
+			<Text>Unique unit. Appears randomly in the Industrial and later eras. Gains unique but random promotions from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_3">
+			<Text>Greater Demon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_3_TEXT">
+			<Text>A variety of demons exist in the realm of Makai, all creations of their goddess, Shinki. While their realm is one of unearthly beauty and harshness, many are curious of the human world, and eager to take advantage of the gateways to travel there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_3_STRATEGY">
+			<Text>The Greater Demon is a unique unit for the demons of Makai. Unable to be trained normally, it appears randomly in the Industrial and later eras, depending on the level of Tourism. It can gain powerful promotions after defeating an enemy, but these are selected at random, and may be harmful as well as beneficial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MAKAI_DEMON_3_HELP">
+			<Text>Unique unit. Appears randomly in the Modern and later eras. Gains unique but random promotions from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TA">
+			<Text>Travel Agency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TA_TEXT">
+			<Text>33% of the [ICON_CULTURE] Culture from World Wonders, Natural Wonders, and Improvements (Landmarks, Crystal Forests) is added to the [ICON_TOURISM] Tourism output of the city. [ICON_TOURISM] Tourism output from Great Works +33%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TA_STRATEGY">
+			<Text>The Travel Agency is the unique building of the demons of Makai, replacing the Hotel. It provides a smaller increase in Tourism, but is available much earlier, and also enables you to airlift units between cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TA_HELP">
+			<Text>33% of the [ICON_CULTURE] Culture from World Wonders, Natural Wonders, and Improvements (Landmarks, Crystal Forests) is added to the [ICON_TOURISM] Tourism output of the city. [ICON_TOURISM] Tourism output from Great Works +33%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TRAIT">
+			<Text>Gateway to the Demon Realm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TRAIT_TEXT">
+			<Text>Increases the defense of the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TRAIT_STRATEGY">
+			<Text>At least one gateway between Gensokyo and Makai exists in the mountains behind the Hakurei Shrine, but there may very well be others. Certainly this gateway would offer a place of refuge for the citizens of a community if it came under attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAKAI_TRAIT_HELP">
+			<Text>Increases the defense of the city.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_0">
+			<Text>Yumeko</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_1">
+			<Text>Sariel</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_2">
+			<Text>Sara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_3">
+			<Text>Yuki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_4">
+			<Text>Mai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_5">
+			<Text>Louise</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_6">
+			<Text>Elis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TH_MAKAI_7">
+			<Text>Yuugen Magan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_1">
+			<Text>Pandaemonium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_2">
+			<Text>Ruins of Vina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_3">
+			<Text>Hokkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_4">
+			<Text>Dis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_5">
+			<Text>Limbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_6">
+			<Text>Erebus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_7">
+			<Text>Oblivion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_8">
+			<Text>Slough of Despair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_9">
+			<Text>Unholy Cathedral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_10">
+			<Text>House of Pain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_11">
+			<Text>The Warrens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_12">
+			<Text>Inferno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_13">
+			<Text>Styx</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_14">
+			<Text>Phlegethon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_15">
+			<Text>Malebolge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_16">
+			<Text>Cocytus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TH_MAKAI_17">
+			<Text>Hell Keep</Text>
+		</Row>
+		<!--Leader: Cirno - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SHINKI_NAME">
+			<Text>Shinki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINKI_SUBTITLE">
+			<Text>Goddess of Makai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINKI_LIVED">
+			<Text>TH5.0 ~ TH14.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV6_SHINKI_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SHINKI_TEXT_1">
+			<Text>Shinki is the goddess and creator of Makai.[NEWLINE][NEWLINE]Makai is a world that exists in an alternate dimension to Gensokyo, although there is at least one gateway between the two worlds, if not more. It is a land with a harsh and unearthly nature that makes it difficult to survive in, but youkai and some humans live there to train their powers, despite the hazards. Notable features of Makai include its crystalline forests, whose materials were used to construct Pandaemonium, Shinki's fortress, and the toxic miasma which is physically harmful, but also strengthens magical spells and seals.[NEWLINE][NEWLINE]However, most, if not all, of the denizens of Makai are the creations of Shinki.  The majority of these denizens are minor demons, bearing a vague resemblance to the fairies of Gensokyo, although some take on more exotic or angelic forms. Others resemble humans and youkai, with the most powerful of Shinki's creations being Yumeko, her maid. Despite being created by Shinki, however, the demons of Makai have a wide range of temperments and personalities. Sara is quite belligerent, viewing those who try to pass through the gateway as her prey, while Louise is curious to see the outside world and its magic.[NEWLINE][NEWLINE]At one point in the past, some of the citizens of Makai decided to create a travel agency, and offered tours of the human world to demons curious to see Gensokyo. This proved troublesome for Reimu, who had to constantly battle the demons as she encountered them, and ultimately forced her and some of the other residents of Gensokyo to enter Makai in an effort to stop the constant stream of demons. After causing much chaos and disturbance, they finally reached Shinki (largely by accident), and convinced her to try and stop the demons from passing through the gateway. The gateway remains open, however, and there are instances of both demons coming from Makai, as well as people from Gensokyo entering Makai.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_SHINKI_FIRSTGREETING_1">
+			<Text>Greetings, I am Shinki, goddess and creator of Makai. What might you be here for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_FIRSTGREETING_2">
+			<Text>Well, well, it would seem I have a visitor. What brings you before Shinki, the goddess of Makai?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_FIRSTGREETING_3">
+			<Text>Hello there... I am Shinki, the goddess of Makai. What brings you to my palace today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_DECLAREWAR_1">
+			<Text>The price for disturbing my realm is steep. I absolutely cannot overlook this. The time for war has come!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_DECLAREWAR_2">
+			<Text>Such impudence. Do you think you can really stand up to me? I'll show you what real magic is like!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_DECLAREWAR_3">
+			<Text>You seek to challenge a goddess? Very well, let us see who is more powerful between us!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_DEFEATED_1">
+			<Text>Hmm... and here I was confident I could defeat you. The people of the outside world are stronger than I expected!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_DEFEATED_2">
+			<Text>Hmph! Ah well, I suppose it was not to be. I'll just have to try it again someday!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHINKI_DEFEATED_3">
+			<Text>Well, well, you ARE quite strong, aren't you? Tell you what, I'll ask Yumeko to make some tea, and we can talk about your plans to conquer the rest of the world, shall we?</Text>
+		</Row>
+		<!--Misc-->
+
+	</Language_en_US>
+</GameData>

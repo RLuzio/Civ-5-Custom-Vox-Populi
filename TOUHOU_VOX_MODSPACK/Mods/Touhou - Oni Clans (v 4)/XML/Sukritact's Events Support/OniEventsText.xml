@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Night Parade of 100 Oni-->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE">
+			<Text>Night Parade of 100 Oni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_DESC">
+			<Text>The youkai Nurarihyon has come to us, desiring to lead a night parade of oni through nearby lands. Any humans that were to come across his procession would surely be killed or spirited away.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Night Parade: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_1">
+			<Text>Let's provide him with funds, so that he may recruit oni for the parade!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_GoldCost} [ICON_GOLD] Gold.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free melee unit in each city.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have provided Nurarihyon with funds, and he has recruited a large number of oni for his procession!</Text>
+		</Row>
+		<!-- Night Parade: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_2">
+			<Text>Nurarihyon will have to recruit for his parade on his own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Each city with more than 3 population has a 50% chance of gaining a free untrained melee unit.[ENDCOLOR]
+			[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 1 population from each city that produces a free unit.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Nurarihyon has recruited oni interested in joining his procession from some of our cities.</Text>
+		</Row>
+		<!-- Night Parade: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_3">
+			<Text>We should just have a celebration here instead!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Start a golden age.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have decided to celebrate here instead!</Text>
+		</Row>
+		<!-- Goliath: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_NIGHT_PARADE_OTHERS_ALERT">
+			<Text>Rumor has it that the youkai Nurarihyon is recruiting oni for a night parade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NURARIHYON">
+			<Text>Nurarihyon</Text>
+		</Row>
+
+		<!-- More Alcohol-->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_MORE_ALCOHOL">
+			<Text>New Ingredients Found!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_MORE_ALCOHOL_DESC">
+			<Text>The brewers in {1_City} claim to have found some new ingredients for brewing alcohol. While not as good as the sake from a sake bug, it may at least provide some variety in our drink![NEWLINE]
+			</Text>
+		</Row>
+		<!-- More Alcohol: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_MORE_ALCOHOL_OUTCOME_1">
+			<Text>What are we waiting for? Let's get brewing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_MORE_ALCOHOL_OUTCOME_RESULT_1">
+			<Text>
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A source of [ICON_RES_WINE] Wine, [ICON_RES_CITRUS] Citrus, or [ICON_RES_SUGAR] Sugar appears near {1_City}.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_MORE_ALCOHOL_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A new source of {1_Icon} {2_Res} has been found near {3_City}!</Text>
+		</Row>
+
+		<!-- Kishin Chief -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF">
+			<Text>A Kishin Chief Appears!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_DESC">
+			<Text>The powers that be have determined that {1_Name}, the ruler of {2_Civ}, has extended their lifespan to an unnatural degree. A kishin chief has been assigned to send them on to the afterlife, and has requested our assistance.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Kishin Chief: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_OUTCOME_1">
+			<Text>We should assist the kishin, and help uphold the natural order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Be denounced by {1_Civ}.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a Kishin Chief unit in the capital.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have offered our assistance to the kishin chief, although we have been denounced for it.</Text>
+		</Row>
+		<!-- Kishin Chief: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_OUTCOME_2">
+			<Text>The kishin chief will have to perform their mission on their own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_ONI_KISHIN_CHIEF_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The kishin chief has left to continue their mission on their own.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

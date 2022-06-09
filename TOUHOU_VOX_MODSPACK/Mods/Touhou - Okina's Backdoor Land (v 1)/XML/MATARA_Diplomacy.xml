@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/11/2015 4:14:55 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MATARA_OKINA">
+			<ResponseType>
+				RESPONSE_FIRST_GREETING
+			</ResponseType>
+			<Response>
+				TXT_KEY_LEADER_MATARA_OKINA_FIRSTGREETING%
+			</Response>
+			<Bias>
+				500
+			</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATARA_OKINA">
+			<ResponseType>
+				RESPONSE_DEFEATED
+			</ResponseType>
+			<Response>
+				TXT_KEY_LEADER_MATARA_OKINA_DEFEATED%
+			</Response>
+			<Bias>
+				500
+			</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MATARA_OKINA_DEFEATED_1">
+			<Text>How very foolish. Let me declare this! Victory against me is impossible in your current state. As long as you have that door of the seasons on your back, any battle between us will be nothing more than a farce.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATARA_OKINA_FIRSTGREETING_1">
+			<Text>I am the god of the back door, a god of hindrances, a god of noh performance, a god of outcasts, a god of stars... And I am one of the sages who created our Gensokyo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BACKDOOR_LAND_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now dancing like crazy. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_MATARA_OKINA_DEFEATED_1">
+			<Text>단언하마! 지금의 네가 날 이기는 것은 불가능하다. 네 등 뒤에 사계절의 문이 있는 한 승부 따위 장난에 지나지 않아.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATARA_OKINA_FIRSTGREETING_1">
+			<Text>뒷문의 신이며, 장애의 신이며, 노가쿠의 신이며, 별자리의 신이며, 별의 신이며, 이 환상향을 만든 현자 중 한 명이기도 하지.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BACKDOOR_LAND_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 미친듯이 춤추고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_MATARA_OKINA_DEFEATED_1">
+			<Text>断言しよう！ 今のお前が私に勝つことは不可能だ。お前の背中に四季の扉がある限り、勝負など茶番でしか無い。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATARA_OKINA_FIRSTGREETING_1">
+			<Text>後戸の神であり、障碍の神であり、能楽の神であり、宿神であり、星神であり、この幻想郷を創った賢者の一人でもある。
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BACKDOOR_LAND_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は狂おしく踊り続けている。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

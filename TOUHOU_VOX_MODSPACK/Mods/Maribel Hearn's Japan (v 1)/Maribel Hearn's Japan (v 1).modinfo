@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0c29715e-5d47-4afc-b1e6-9f140019b7be" version="1">
+  <Properties>
+    <Name>Maribel Hearn's Japan</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Maribel Hearn from Touhou Project as leader of Japan</Teaser>
+    <Description>Adds Maribel Hearn from Touhou Project as leader of Japan
+[NEWLINE][NEWLINE]
+UA: Dreams of Fantasy
+[NEWLINE]
+During [ICON_FLOWER] We Love the King Day cities generate an additional 25% [ICON_CULTURE] Culture and the rate of [ICON_GREAT_PEOPLE] Great People is increased by 50%.
+[NEWLINE][NEWLINE]
+UU: Shikigami
+[NEWLINE]
+Replaces Workers. They are 25% more efficient than regular Workers.
+[NEWLINE][NEWLINE]
+UB: Occult Library
+[NEWLINE]
+Replaces Libraries. Provides +2 [ICON_CULTURE] Culture and 1 Great work of Writing slot in addition to [ICON_RESEARCH] Science bonuses.</Description>
+    <Authors>Wifi_LC</Authors>
+    <SpecialThanks>ZUN (Team Shanghai Alice), Dariri</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D21770F233F763B88D0B4A2150B29733" import="1">assets/art/Maribel_Hearn_Alpha128.dds</File>
+    <File md5="FEAE10392E333E753B044094F73F1600" import="1">assets/art/Maribel_Hearn_Alpha16.dds</File>
+    <File md5="E8F975E8FCF6DB777168DC0AABE0D6CB" import="1">assets/art/Maribel_Hearn_Alpha24.dds</File>
+    <File md5="A8CEB1D9E38693B58DD7B74123DEAB49" import="1">assets/art/Maribel_Hearn_Alpha32.dds</File>
+    <File md5="F0D517D83C5F269B0D02401AF646DAD7" import="1">assets/art/Maribel_Hearn_Alpha48.dds</File>
+    <File md5="BB7E044D2EAA39CD6CDA541D83084B8B" import="1">assets/art/Maribel_Hearn_Alpha64.dds</File>
+    <File md5="A71287D12E820669D891C763CC98DD00" import="1">assets/art/DOM_MaribelHearn.dds</File>
+    <File md5="1F5A2AEC43F1011889DF531F1C3324DE" import="1">assets/art/Maribel_Hearn_IconAtlas128.dds</File>
+    <File md5="AF16D16CD2C1DFABE9898396A45DF966" import="1">assets/art/Maribel_Hearn_IconAtlas256.dds</File>
+    <File md5="9EF2D51E07461B3A1E400D4E98748610" import="1">assets/art/Maribel_Hearn_IconAtlas32.dds</File>
+    <File md5="2DADA057D35EC5070C5FABC7E557FBA1" import="1">assets/art/Maribel_Hearn_IconAtlas45.dds</File>
+    <File md5="23EEBB8FDA839A6E231806CD3F49967E" import="1">assets/art/Maribel_Hearn_IconAtlas64.dds</File>
+    <File md5="1C07138F1D388DAA6A38BDA18E90FD12" import="1">assets/art/Maribel_Hearn_IconAtlas80.dds</File>
+    <File md5="9D588337B39F3DEAD26545C94E8CE9FD" import="1">assets/art/Maribel_Hearn_MapJapan.dds</File>
+    <File md5="1CF777F332D45F54B35C842EC952E172" import="1">assets/art/MaribelHearn_Scene.dds</File>
+    <File md5="8F907F99BC9F02107EFAC7C42B0F7F09" import="1">assets/art/MaribelHearn_Scene_Defeat.dds</File>
+    <File md5="F691F8C5CE82F4BB6FDBC6D5997192F8" import="1">assets/art/MaribelHearn_Scene_Friendly.dds</File>
+    <File md5="CC7F42F61FD9D7BBF7A84B8B165EF8BC" import="1">assets/art/MaribelHearn_Scene_Guarded.dds</File>
+    <File md5="190913E0DEAC82A369D3EC9FA6A0F3F4" import="1">assets/art/MaribelHearn_Scene_Hostile.dds</File>
+    <File md5="190913E0DEAC82A369D3EC9FA6A0F3F4" import="1">assets/art/MaribelHearn_Scene_War.dds</File>
+    <File md5="A703C91F371979F22E7E38A29BC3DFEB" import="1">assets/art/Shikigami_SSC_UnitFlag32.dds</File>
+    <File md5="181CAFFDA2CE68D0407F16C445569CA6" import="1">assets/music/SSC_Peace1.mp3</File>
+    <File md5="27551B28F8E5B9A420ADC627884DF59F" import="1">assets/music/SSC_Peace2.mp3</File>
+    <File md5="B4356F45E6D018E12420532BE2B55647" import="1">assets/music/SSC_Peace3.mp3</File>
+    <File md5="41241EB348AD6EDAEB2A772D81530938" import="1">assets/music/SSC_Peace4.mp3</File>
+    <File md5="83F8F4D321224F0DD28CD24ABF01AB08" import="1">assets/music/SSC_Peace5.mp3</File>
+    <File md5="5CC6FF6690879C3543A05B11440D9F3E" import="1">assets/music/SSC_Peace6.mp3</File>
+    <File md5="83BC54E7B97AF9E8E5306DD7F0CB1716" import="1">assets/music/SSC_Peace7.mp3</File>
+    <File md5="9FF475F348FF1C96B2D977F2916BE7F3" import="1">assets/music/SSC_Peace8.mp3</File>
+    <File md5="8FA888AB555874E7DFB8E42AF0574680" import="1">assets/music/SSC_Peace9.mp3</File>
+    <File md5="0D2337ED9BFC7B1B87746F0E0E87EDFB" import="1">assets/music/SSC_War1.mp3</File>
+    <File md5="7C21784B247246CAE5B46E8D283BA5F2" import="1">assets/music/SSC_War2.mp3</File>
+    <File md5="324D6EE07243B5EF1E62A9AF1973768D" import="1">assets/music/SSC_War3.mp3</File>
+    <File md5="E4115A2CC6B80E256D6E15587A79B619" import="1">assets/music/SSC_War4.mp3</File>
+    <File md5="57FAA1BA80638A17AEEA6983385B364E" import="1">assets/music/SSC_War5.mp3</File>
+    <File md5="00AC79D3CDC169860AB4EA027F0FF391" import="1">assets/music/SSC_War6.mp3</File>
+    <File md5="302134E6228AED2F98025EB1E1867193" import="1">assets/music/SSC_War7.mp3</File>
+    <File md5="7E24FFE4CE532F97E535D77B91F2478D" import="0">src/lua/Events.lua</File>
+    <File md5="30D06DB6FE2B8E7BBBDBE4A4A6C12442" import="0">src/lua/Trait.lua</File>
+    <File md5="2DAA50456CDC5A75740268D2299884B5" import="0">src/lua/VVLeaderHeadImageOverride.lua</File>
+    <File md5="A0F4D10153946A4C0B1234422518BF58" import="0">src/xml/BNW_Updates.xml</File>
+    <File md5="B5142FEEE2DC1CA6E29F47135862F0BB" import="0">src/xml/Civilization.xml</File>
+    <File md5="D497448DF1821733FB1434060DC8F24D" import="0">src/xml/Diplomacy.sql</File>
+    <File md5="DDBCD884CBBE9DD36D9566CBBFCC0C0F" import="0">src/xml/Diplomacy.xml</File>
+    <File md5="B8D37F369D559FEEF524BF0A98F65DCA" import="0">src/xml/IconAtlas.xml</File>
+    <File md5="6303D4BF1AED2E881F7B2725F4660909" import="0">src/xml/Leader.xml</File>
+    <File md5="EED061F9C59BD548A8E70FDFBB7E174C" import="0">src/xml/Music.xml</File>
+    <File md5="A7365E60C828D597DC88D3A155400B0C" import="0">src/xml/Trait.sql</File>
+    <File md5="7D941B2AB8A693C25B2F3333D1F10751" import="0">src/xml/Trait.xml</File>
+    <File md5="4B8CD6DD7CDBB0FA80C0BA287612E0C6" import="0">src/xml/Trait_Building.xml</File>
+    <File md5="CA1AA2C6A2B0CC7752AE657D88E1FC2F" import="0">src/xml/UB_Building.xml</File>
+    <File md5="EDCC86EF0EE91AB0498E04E375D6562E" import="0">src/xml/Unit.xml</File>
+    <File md5="42972DDCB337561B9F80883EF5DC2363" import="0">src/xml/MaribelHearn_Scene.xml</File>
+    <File md5="01326AAA3F03CDF6CD96CB0DB9A2A4FB" import="0">src/xml/VVLeaderHeadImageOverride.xml</File>
+    <File md5="72DD0AFD5AFC86E80E6A52D82C552A5E" import="0">src/xml/VV_LeaderSceneChanger.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>src/xml/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Music.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Trait.sql</UpdateDatabase>
+      <UpdateDatabase>src/xml/Trait_Building.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/VV_LeaderSceneChanger.sql</UpdateDatabase>
+      <UpdateDatabase>src/xml/MaribelHearn_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Unit.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/UB_Building.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>src/xml/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>src/xml/Diplomacy.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="DiplomacyUIAddin" file="src/xml/VVLeaderHeadImageOverride.xml">
+      <Name>VVLeaderHeadImageOverride</Name>
+      <Description>Dynamic Leader Scenes</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="src/lua/Trait.lua">
+      <Name>Dreams of Fantasy</Name>
+      <Description>Dreams of Fantasy trait</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="src/lua/Events.lua">
+      <Name>GoldenAgeEvents</Name>
+      <Description>Adds lua events for golden ages</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0ff43d3b-7ce8-4ea2-83bd-333723f5f9e0" version="9">
+  <Properties>
+    <Name>Touhou - Great Fairy Alliance</Name>
+    <Teaser>Adds a civilization of fairies, led by the strongest of them all, Cirno!</Teaser>
+    <Description>This mod adds a civilization of Touhou fairies led by Cirno. Lead fairykind to rule Gensokyo and gain the respect they deserve!</Description>
+    <Authors>Paul "Huitzil"  Durant</Authors>
+    <SpecialThanks>bouncymischa</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="93bb9f13-2952-4d7c-bc63-1ee5097cfce8" minversion="0" maxversion="999" title="Strange Religions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3BBF9898FF5CA8B0C20A41FEB8D68FF2" import="1">Art/cirnodiplo.dds</File>
+    <File md5="64A432D64F1F4BA40D1BDA110D955891" import="1">Art/cirnoDOM.dds</File>
+    <File md5="2A2ECE9325774EE0CE11AADCC35BCBC5" import="1">Art/cirnomap.dds</File>
+    <File md5="151261BD4CF82F8699BA31FFD954DB0D" import="1">Art/IconAtlas/FairyAlphaAtlas16.dds</File>
+    <File md5="09675EF325CC4632C254BA854228EC41" import="1">Art/IconAtlas/FairyAlphaAtlas24.dds</File>
+    <File md5="9A139512D40A455FD2FA1C704F20BECA" import="1">Art/IconAtlas/FairyAlphaAtlas32.dds</File>
+    <File md5="2D4480F35765DA418315049DF7EBF1A8" import="1">Art/IconAtlas/FairyAtlas128.dds</File>
+    <File md5="42F6BC13F5820C3FDFE7A70FAD94615D" import="1">Art/IconAtlas/FairyAtlas256.dds</File>
+    <File md5="5AB61777A3FEF254B36C63186EFEA259" import="1">Art/IconAtlas/FairyAtlas32.dds</File>
+    <File md5="CDBFED778239D121F772BD9660A83862" import="1">Art/IconAtlas/FairyAtlas45.dds</File>
+    <File md5="AA9A68A0847357776DEF22E263B4671D" import="1">Art/IconAtlas/FairyAtlas64.dds</File>
+    <File md5="D9DA6A298AADDB76EFAEE6B6BF57FA65" import="1">Art/IconAtlas/FairyAtlas80.dds</File>
+    <File md5="6B28EBD79F333B4D1E336FD9363B504E" import="1">Art/IconAtlas/FairyFontIcons.dds</File>
+    <File md5="BC5D2039FBF4B31083DBF0FD9E96B7B0" import="0">fairycivcredits.txt</File>
+    <File md5="434A024888FBE38B324885A1CFD8EDFA" import="1">Music/Cirno/Cirno_Peace.mp3</File>
+    <File md5="4B910C46673805C4C22EB8B979A177D7" import="1">Music/Cirno/Cirno_Peace_2.mp3</File>
+    <File md5="7049B8DA62EBC66122211A731F7158AC" import="1">Music/Cirno/Cirno_Peace_3.mp3</File>
+    <File md5="773884BA566EFDE8F643A7B04972C89B" import="1">Music/Cirno/Cirno_War.mp3</File>
+    <File md5="E84FA0CD3CEAC1A8738BD18B752DE40C" import="1">Music/Cirno/Cirno_War_2.mp3</File>
+    <File md5="73EB987A53CA9DC9DCBA2ADC8954830D" import="1">Music/Cirno/Cirno_War_3.mp3</File>
+    <File md5="215D66B8FAC634C1E0A8FD77EBD71A3F" import="1">Music/Either/Sound_Fairy_Either_01.mp3</File>
+    <File md5="3188F6B31CFE926D6E2EA04C44CCFD37" import="1">Music/Either/Sound_Fairy_Either_02.mp3</File>
+    <File md5="F35B8DC85E89951A5BE73FDDEDD82696" import="1">Music/Peace/Sound_Fairy_Peace_04.mp3</File>
+    <File md5="CB027D1A1F68D51589D5CDF62224EA21" import="1">Music/Peace/Sound_Fairy_Peace_05.mp3</File>
+    <File md5="B95020C0C9BADAE38A25FAC33AF5A287" import="1">Music/War/Sound_Fairy_War_04.mp3</File>
+    <File md5="4E0EE8EE9775610BF1BC522D78FC018E" import="1">Music/War/Sound_Fairy_War_05.mp3</File>
+    <File md5="D1BA9372574DEF2E9C95343E0B59969C" import="0">XML/Buildings/Civ5BuildingsGK.xml</File>
+    <File md5="6EB26F2B036320FE6721D624498E4D90" import="0">XML/Buildings/Civ5BuildingsBNW.xml</File>
+    <File md5="22C4A1C45307CE9B3985A6AFB60356E7" import="0">XML/Civilizations/Civ5Traits.xml</File>
+    <File md5="47858B582B7895B3751338680FFB9FD7" import="0">XML/Civilizations/Civ_FairyAlliance.xml</File>
+    <File md5="DC54D3995E7C027A4F8AA7E119008081" import="0">XML/Civilizations/Civ5TraitsBNW.xml</File>
+    <File md5="6C783559169DFD752A42C1E85C285853" import="0">XML/GameInfo/Icon_Atlas.xml</File>
+    <File md5="30392660A4F0039A09309E67F05F85A9" import="0">XML/Interface/Civ5Colors.xml</File>
+    <File md5="5DB4C09FC88A051E6DD80E05A2D2BE25" import="0">XML/Interface/Civ5PlayerColors.xml</File>
+    <File md5="611FF9245F44977001F218491D14A334" import="0">XML/Leaders/Cirno.xml</File>
+    <File md5="67E35D276C922E5FFE51B9B156A8455B" import="1">XML/Leaders/Cirno_Scene.xml</File>
+    <File md5="B1682C222CA3EB82C887FCED9E197C4C" import="0">XML/Music/Cirno_Music.xml</File>
+    <File md5="AA33FF54AE2F835B81CF26D79A3F987B" import="0">XML/Music/FairyAudioDefines.xml</File>
+    <File md5="359101EB5A8FD80B1FF6511797DCC8F8" import="0">XML/Music/FairyAudioScripts.xml</File>
+    <File md5="D8F9D2E0B2732E447B7E7F3437196792" import="0">XML/NewText/Diplomacy.xml</File>
+    <File md5="02571E3A4311EB49EBA63B6E4794D824" import="0">XML/NewText/ExtendedDiploText.xml</File>
+    <File md5="47F1A66F343616053FBB9401579253FE" import="0">XML/NewText/BNWDiplomacy.xml</File>
+    <File md5="D15107E2E349DA8C227EA96898D57325" import="0">XML/NewText/GameText.xml</File>
+    <File md5="2B5DFA61B033FFD6BDFE2DDB9A9E031D" import="0">XML/Terrain/Civ5Resources.xml</File>
+    <File md5="94BD53D6FFADCEE5E6C90DA367E6A3C3" import="1">XML/Terrain/FairyFontIcons.ggxml</File>
+    <File md5="7BEA78C8789FA0E6879483EBBE85FEF9" import="0">XML/Units/Civ5Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameInfo/Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/ExtendedDiploText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/FairyAudioDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/FairyAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/Cirno_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Civ5Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Civ5BuildingsGK.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Interface/Civ5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Civ5Resources.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Cirno.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Civ5BuildingsBNW.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/BNWDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5TraitsBNW.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_FairyAlliance.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

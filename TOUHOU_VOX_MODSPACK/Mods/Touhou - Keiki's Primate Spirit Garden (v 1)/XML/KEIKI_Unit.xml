@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2022-05-10 오후 10:15:53 -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_MECH</Class>
+			<Type>UNIT_KEIKI_HANIWA</Type>
+			<PrereqTech>TECH_ROBOTICS</PrereqTech>
+			<Combat>150</Combat>
+			<Cost>325</Cost>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_KEIKI_HANIWA</Description>
+			<Civilopedia>TXT_KEY_UNIT_KEIKI_HANIWA_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_KEIKI_HANIWA_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_KEIKI_HANIWA_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>80</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_MECH</UnitArtInfo>
+			<UnitFlagIconOffset>83</UnitFlagIconOffset>
+			<IconAtlas>KEIKI_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+			<MoveRate>ROBOT</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KEIKI_HANIWA</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA'>
+			<Text>Giant Death Haniwa</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_STRATEGY'>
+			<Text>The "Haniwa" is a Modern Armor unit on steroids. It has a shockingly high Combat Strength, allowing it to stomp virtually any unit it meets into paste. It can also move after attacking. The haniwa doesn't benefit from any defensive terrain bonuses, but frankly, who cares? It's really cool!</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_HELP'>
+			<Text>Replaces Giant Death Robot. No requires Uranium. Doesn't benefit from any defensive terrain bonuses, but is otherwise stronger than any other military unit in the game.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_PEDIA'>
+			<Text>The "Haniwa" is a giant bipedal mechanical clay doll armed with a variety of missiles, Gatling gun arms, laser-beam eyes and a deadly kung-fu punch. Although not currently found on the modern battlefield, no doubt The Sculptor God and evil gangs are secretly developing these clay behemoths even as we speak. When these mechs come into service, all of the world's other weaponry will become obsolete, and human spirits' fate will be decided by a climactic battle between armies of good and evil mechs in the streets of downtown Primate Spirit Garden. (Assuming that the animal gangsters don't get us first.)</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA'>
+			<Text>거대 전투 하니와</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_STRATEGY'>
+			<Text>'하니와'는 스테로이드를 투여한 현대 전차 유닛이라 할 수 있습니다. 전투력이 말도 안 되게 높아서 마주치는 족족 적 유닛을 짓밟아 버릴 수 있습니다. 공격 후 이동도 가능합니다. 거대 전투 하니와는 방어 시 지형 보너스를 받지 못하지만 솔직히 그런 것에 신경 쓰는 플레이어는 없습니다. 너무 멋지니까요!</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_HELP'>
+			<Text>거대 전투 로봇을 대체합니다. 우라늄이 필요하지 않습니다. 지형에 따른 방어 보너스를 받을 수 없지만 게임 내 어떠한 다른 군사 유닛보다 강력한 위력을 발휘합니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_PEDIA'>
+			<Text>"하니와"란 다양한 미사일은 물론 팔에 장착하는 기관포, 눈에 장착하는 레이저 무기, 심지어는 무시무시한 쿵후 펀치로 무장한 거대한 이족보행 토우를 지칭하는 말이다. 아직은 출현하지 않았지만 조형신과 사악한 동물령이 위에서 말한 거대한 진흙 거인을 개발하고 있다는 사실은 의심할 여지가 없다. 인간령이 야쿠자 동물령에게 멸망하지 않는다면 모든 재래식 무기를 대체할 하니와를 개발할 것이다. 이때쯤 인간령의 미래는 아마 영장원 시내에서 펼쳐질 선과 악의 한판 승부로 결정 날 것이다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA'>
+			<Text>巨大殺人埴輪</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_STRATEGY'>
+			<Text>この「埴輪」は現代の機甲部隊を強力にしたものである。驚くほどの戦闘力を持っており、出会ったユニットのほぼ全てをペースト状にしていく。巨大殺人埴輪は地形による防御ボーナスを得られないが、はっきり言ってそんなことはどうでも良い。とにかくクールな埴輪なのだ！</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_HELP'>
+			<Text>巨大殺人ロボットを代替する袿姫のUU。ウランは不要。地形による防御ボーナスを受けないが、それ以外の面では本ゲーム内のどの軍事ユニットよりも強力。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_KEIKI_HANIWA_PEDIA'>
+			<Text>「埴輪」とは、様々なミサイルを装備した巨大な二足歩行型土偶で、その腕にはガトリング砲、目からはレーザービーム、そして痛烈なカンフーパンチを備えている。今のところ戦場で埴輪を目にすることはないが、こうしている間にも造形神が、悪の組織とともに粘土のビヒモスの開発をひそかに続けている。埴輪が任務に就くようになれば、それまでの兵器はすべて陳腐化し、人間霊の運命はやがて、霊長園のど真ん中にある通りで繰り広げられる、善良な埴輪軍と邪悪な埴輪軍とのクライマックスな戦いによって決まるだろう(我々がヤクザ動物霊の最初のターゲットではないと仮定すればの話だが)。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

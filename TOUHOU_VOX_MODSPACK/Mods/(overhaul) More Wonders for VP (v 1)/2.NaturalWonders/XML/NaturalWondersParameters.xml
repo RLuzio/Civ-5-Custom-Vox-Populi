@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Created by ModBuddy on 3/10/2016 11:57:42 PM -->
+
+<GameData>
+	<CustomModOptions>
+		<Update>
+			<Where Name="PSEUDO_NATURAL_WONDER"/>
+			<Set Value="1"/>
+		</Update>
+	</CustomModOptions>
+
+	<ArtDefine_Landmarks>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_SALAR_A</ResourceType>
+			<Model>feature_salar.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1.3</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_SALAR_B</ResourceType>
+			<Model>feature_salar_b.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_CAUSEWAY_A</ResourceType>
+			<Model>feature_causeway.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_CAUSEWAY_B</ResourceType>
+			<Model>feature_causeway_b.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>0.65</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_MT_EVEREST</ResourceType>
+			<Model>feature_mt_everest.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>0.55</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_RETBA</ResourceType>
+			<Model>feature_retba.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_BERMUDA_A</ResourceType>
+			<Model>feature_bermuda.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_BERMUDA_B</ResourceType>
+			<Model>feature_bermuda_b.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_BERMUDA_C</ResourceType>
+			<Model>feature_bermuda_c.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>0.6</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_LUMI_BAY</ResourceType>
+			<Model>feature_lumi_bay.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>		
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>1</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_FEATURE_DALLOL</ResourceType>
+			<Model>feature_dallol.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+	</ArtDefine_Landmarks>
+
+	<ArtDefine_LandmarkTypes>
+		<Row>
+			<Type>ART_DEF_FEATURE_SALAR_A</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Salar de Uyuni (B)</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_SALAR_B</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Salar de Uyuni (S)</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_CAUSEWAY_A</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>The Giant's Causeway (S)</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_CAUSEWAY_B</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>The Giant's Causeway (L)</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_MT_EVEREST</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Mt. Everest</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_RETBA</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Lake Retba</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_BERMUDA_A</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Bermuda Triangle A</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_BERMUDA_B</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Bermuda Triangle B</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_BERMUDA_C</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Bermuda Triangle C</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_LUMI_BAY</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Bioluminescent Bay</FriendlyName>
+		</Row>
+		<Row>
+			<Type>ART_DEF_FEATURE_DALLOL</Type>
+			<LandmarkType>Resource</LandmarkType>
+			<FriendlyName>Dallol</FriendlyName>
+		</Row>
+	</ArtDefine_LandmarkTypes>
+
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_SALAR_A</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Salar.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_SALAR_B</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Salar.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_CAUSEWAY_A</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Causeway.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_CAUSEWAY_B</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Causeway.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_MT_EVEREST</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Mt_Everest.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_RETBA</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Retba.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_BERMUDA_A</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Bermuda.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_BERMUDA_B</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Bermuda.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_BERMUDA_C</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Bermuda.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_LUMI_BAY</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Lumi_Bay.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_FEATURE_DALLOL</StrategicViewType>
+			<TileType>Feature</TileType>
+			<Asset>sv_Dallol.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+	
+	<Features>
+		<Update>
+			<Where Type="FEATURE_CRATER"/>
+			<Set InBorderHappiness="2" Impassable="false" Movement="2" SeeThrough="1" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false" Defense="10"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_EL_DORADO"/>
+			<Set InBorderHappiness="0" Impassable="false" Movement="1" SeeThrough="1" Rough="false" NoImprovement="true" NoCity="true" AddsFreshWater="false" Defense="0" FirstFinderGold="100"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_FOUNTAIN_YOUTH"/>
+			<Set InBorderHappiness="2" Impassable="false" Movement="1" SeeThrough="0" Rough="false" NoImprovement="true" NoCity="true" AddsFreshWater="true" Defense="0" />
+		</Update>
+		<Update>
+			<Where Type="FEATURE_FUJI"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_GEYSER"/>
+			<Set InBorderHappiness="2" Impassable="false" Movement="1" SeeThrough="1" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="true" Defense="0" TurnDamage="10"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_GIBRALTAR"/>
+			<Set InBorderHappiness="2" Impassable="false" Movement="2" SeeThrough="1" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_KILIMANJARO"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_LAKE_VICTORIA"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="1" SeeThrough="0" Rough="false" NoImprovement="true" NoCity="true" AddsFreshWater="true" PassableTechFeature="TECH_OPTICS"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_MESA"/>
+			<Set InBorderHappiness="2" Impassable="false" Movement="3" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false" Defense="20"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_MT_KAILASH"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false" FreePromotionIfOwned="PROMOTION_KAILASH"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_MT_SINAI"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_POTOSI"/>
+			<Set InBorderHappiness="0" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_REEF"/>
+			<Set InBorderHappiness="1" Impassable="true" Movement="5" SeeThrough="0" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false" Defense="0" />
+		</Update>
+		<Update>
+			<Where Type="FEATURE_SOLOMONS_MINES"/>
+			<Set InBorderHappiness="2" Impassable="false" Movement="1" SeeThrough="1" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false" Defense="10" AdjacentUnitFreePromotion="PROMOTION_SOLOMONS_MINES"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_SRI_PADA"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_ULURU"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false" Defense="0" FreePromotionIfOwned="PROMOTION_ULURU"/>
+		</Update>
+		<Update>
+			<Where Type="FEATURE_VOLCANO"/>
+			<Set InBorderHappiness="2" Impassable="true" Movement="5" SeeThrough="2" Rough="true" NoImprovement="true" NoCity="true" AddsFreshWater="false"/>
+		</Update>
+
+		<Row>
+			<Type>FEATURE_SALAR_A</Type>
+			<Description>TXT_KEY_FEATURE_SALAR_A</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_SALAR_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_SALAR_A</ArtDefineTag>
+			<Movement>1</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>false</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>false</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>0</PortraitIndex>
+			<InBorderHappiness>1</InBorderHappiness>
+			<TurnDamage>20</TurnDamage>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_SALAR_B</Type>
+			<Description>TXT_KEY_FEATURE_SALAR_B</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_SALAR_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_SALAR_B</ArtDefineTag>
+			<Movement>1</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>false</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>false</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>0</PortraitIndex>
+			<InBorderHappiness>1</InBorderHappiness>
+			<TurnDamage>20</TurnDamage>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_CAUSEWAY_A</Type>
+			<Description>TXT_KEY_FEATURE_CAUSEWAY_A</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_CAUSEWAY_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_CAUSEWAY_A</ArtDefineTag>
+			<Movement>5</Movement>
+			<SeeThrough>1</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>1</PortraitIndex>
+			<InBorderHappiness>2</InBorderHappiness>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_CAUSEWAY_B</Type>
+			<Description>TXT_KEY_FEATURE_CAUSEWAY_B</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_CAUSEWAY_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_CAUSEWAY_B</ArtDefineTag>
+			<Movement>5</Movement>
+			<SeeThrough>1</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>1</PortraitIndex>
+			<InBorderHappiness>2</InBorderHappiness>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_MT_EVEREST</Type>
+			<Description>TXT_KEY_FEATURE_MT_EVEREST</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_MT_EVEREST_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_MT_EVEREST</ArtDefineTag>
+			<Movement>5</Movement>
+			<SeeThrough>3</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>2</PortraitIndex>
+			<InBorderHappiness>2</InBorderHappiness>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_RETBA</Type>
+			<Description>TXT_KEY_FEATURE_RETBA</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_RETBA_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_RETBA</ArtDefineTag>
+			<Movement>1</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>false</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>3</PortraitIndex>
+			<InBorderHappiness>3</InBorderHappiness>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_BERMUDA_A</Type>
+			<Description>TXT_KEY_FEATURE_BERMUDA</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_BERMUDA_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_BERMUDA_A</ArtDefineTag>
+			<Movement>10</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>5</PortraitIndex>
+			<InBorderHappiness>1</InBorderHappiness>
+			<TurnDamage>25</TurnDamage>
+			<LocationUnitFreePromotion>PROMOTION_BERMUDA_TRIANGLE</LocationUnitFreePromotion>
+			<PassableTechFeature>TECH_COMPASS</PassableTechFeature>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_BERMUDA_B</Type>
+			<Description>TXT_KEY_FEATURE_BERMUDA</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_BERMUDA_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_BERMUDA_B</ArtDefineTag>
+			<Movement>10</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>5</PortraitIndex>
+			<InBorderHappiness>1</InBorderHappiness>
+			<TurnDamage>25</TurnDamage>
+			<LocationUnitFreePromotion>PROMOTION_BERMUDA_TRIANGLE</LocationUnitFreePromotion>
+			<PassableTechFeature>TECH_COMPASS</PassableTechFeature>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_BERMUDA_C</Type>
+			<Description>TXT_KEY_FEATURE_BERMUDA</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_BERMUDA_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_BERMUDA_C</ArtDefineTag>
+			<Movement>10</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>5</PortraitIndex>
+			<InBorderHappiness>1</InBorderHappiness>
+			<TurnDamage>25</TurnDamage>
+			<LocationUnitFreePromotion>PROMOTION_BERMUDA_TRIANGLE</LocationUnitFreePromotion>
+			<PassableTechFeature>TECH_COMPASS</PassableTechFeature>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_LUMI_BAY</Type>
+			<Description>TXT_KEY_FEATURE_LUMI_BAY</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_LUMI_BAY_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_LUMI_BAY</ArtDefineTag>
+			<Movement>1</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>false</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>false</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>6</PortraitIndex>
+			<InBorderHappiness>2</InBorderHappiness>
+			<TurnDamage>5</TurnDamage>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>FEATURE_DALLOL</Type>
+			<Description>TXT_KEY_FEATURE_DALLOL</Description>
+			<Civilopedia>TXT_KEY_CIV5_FEATURES_DALLOL_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_FEATURE_DALLOL</ArtDefineTag>
+			<Movement>5</Movement>
+			<SeeThrough>0</SeeThrough>
+			<Impassable>true</Impassable>
+			<InfluenceCost>-3</InfluenceCost>
+			<PseudoNaturalWonder>true</PseudoNaturalWonder>
+			<NoCity>true</NoCity>
+			<NoImprovement>true</NoImprovement>
+			<Rough>true</Rough>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<PortraitIndex>7</PortraitIndex>
+			<InBorderHappiness>0</InBorderHappiness>
+			<FreePromotionIfOwned>PROMOTION_DALLOL</FreePromotionIfOwned>
+			<IconAtlas>NATURAL_WONDERS_ATLAS</IconAtlas>
+		</Row>
+	</Features>
+
+	<Feature_YieldChanges>
+		<Delete FeatureType="FEATURE_CRATER"/>
+		<Delete FeatureType="FEATURE_EL_DORADO"/>
+		<Delete FeatureType="FEATURE_FOUNTAIN_YOUTH"/>
+		<Delete FeatureType="FEATURE_FUJI"/>
+		<Delete FeatureType="FEATURE_GEYSER"/>
+		<Delete FeatureType="FEATURE_GIBRALTAR"/>
+		<Delete FeatureType="FEATURE_KILIMANJARO"/>
+		<Delete FeatureType="FEATURE_LAKE_VICTORIA"/>
+		<Delete FeatureType="FEATURE_MESA"/>
+		<Delete FeatureType="FEATURE_MT_KAILASH"/>
+		<Delete FeatureType="FEATURE_MT_SINAI"/>
+		<Delete FeatureType="FEATURE_POTOSI"/>
+		<Delete FeatureType="FEATURE_REEF"/>
+		<Delete FeatureType="FEATURE_SOLOMONS_MINES"/>
+		<Delete FeatureType="FEATURE_SRI_PADA"/>
+		<Delete FeatureType="FEATURE_VOLCANO"/>
+		<Delete FeatureType="FEATURE_ULURU"/>
+		
+		<Row>
+			<FeatureType>FEATURE_CRATER</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CRATER</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CRATER</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_EL_DORADO</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_EL_DORADO</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_FOUNTAIN_YOUTH</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_FOUNTAIN_YOUTH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_FUJI</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_FUJI</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_FUJI</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_FUJI</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_GEYSER</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_GEYSER</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_GEYSER</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_GEYSER</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GREAT_ADMIRAL_POINTS</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_KILIMANJARO</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_KILIMANJARO</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_KILIMANJARO</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_MESA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MESA</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MESA</FeatureType>
+			<YieldType>YIELD_GREAT_GENERAL_POINTS</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_MT_KAILASH</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MT_KAILASH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MT_KAILASH</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_MT_SINAI</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MT_SINAI</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_POTOSI</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_POTOSI</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_REEF</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_REEF</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_REEF</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_SRI_PADA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SRI_PADA</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SRI_PADA</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SRI_PADA</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_ULURU</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_ULURU</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_ULURU</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_ULURU</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_VOLCANO</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_VOLCANO</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_SALAR_A</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SALAR_A</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SALAR_A</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SALAR_B</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SALAR_B</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SALAR_B</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_A</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_A</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_A</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_B</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_B</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_B</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_MT_EVEREST</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MT_EVEREST</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>4</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_A</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_A</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_A</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_B</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_B</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_B</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_C</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_C</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_C</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>4</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Feature_YieldChanges>
+
+	<Feature_EraYieldChanges>
+		<Delete FeatureType="FEATURE_CRATER"/>
+		<Delete FeatureType="FEATURE_EL_DORADO"/>
+		<Delete FeatureType="FEATURE_FOUNTAIN_YOUTH"/>
+		<Delete FeatureType="FEATURE_FUJI"/>
+		<Delete FeatureType="FEATURE_GEYSER"/>
+		<Delete FeatureType="FEATURE_KILIMANJARO"/>
+		<Delete FeatureType="FEATURE_LAKE_VICTORIA"/>
+		<Delete FeatureType="FEATURE_MESA"/>
+		<Delete FeatureType="FEATURE_MT_KAILASH"/>
+		<Delete FeatureType="FEATURE_MT_SINAI"/>
+		<Delete FeatureType="FEATURE_POTOSI"/>
+		<Delete FeatureType="FEATURE_REEF"/>
+		<Delete FeatureType="FEATURE_SOLOMONS_MINES"/>
+		<Delete FeatureType="FEATURE_SRI_PADA"/>
+		<Delete FeatureType="FEATURE_ULURU"/>
+
+		<Row>
+			<FeatureType>FEATURE_CRATER</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CRATER</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_EL_DORADO</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_FOUNTAIN_YOUTH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_FUJI</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_GEYSER</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_GEYSER</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_KILIMANJARO</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_KILIMANJARO</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_MESA</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_MT_KAILASH</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MT_KAILASH</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_MT_SINAI</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_MT_SINAI</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_POTOSI</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_POTOSI</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_REEF</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SOLOMONS_MINES</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_SRI_PADA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SRI_PADA</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_ULURU</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_ULURU</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_SALAR_A</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_SALAR_B</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_A</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_CAUSEWAY_B</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<FeatureType>FEATURE_MT_EVEREST</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>2</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_A</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_A</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_B</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_B</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_C</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_BERMUDA_C</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Feature_EraYieldChanges>
+
+	<Plot_AdjacentFeatureYieldChanges>
+		<Row>
+			<PlotType>PLOT_OCEAN</PlotType>
+			<FeatureType>FEATURE_VOLCANO</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_OCEAN</PlotType>
+			<FeatureType>FEATURE_VOLCANO</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_LAKE_VICTORIA</FeatureType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		
+		<Row>
+			<PlotType>PLOT_OCEAN</PlotType>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_GIBRALTAR</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_MT_EVEREST</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_MT_EVEREST</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_MT_EVEREST</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+
+		<Row>
+			<PlotType>PLOT_OCEAN</PlotType>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_RETBA</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		
+		<Row>
+			<PlotType>PLOT_OCEAN</PlotType>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_LUMI_BAY</FeatureType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>-2</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_LAND</PlotType>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_HILLS</PlotType>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+		<Row>
+			<PlotType>PLOT_MOUNTAIN</PlotType>
+			<FeatureType>FEATURE_DALLOL</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+			<IgnoreNaturalWonderPlots>false</IgnoreNaturalWonderPlots>
+		</Row>
+	</Plot_AdjacentFeatureYieldChanges>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_FEATURE_SALAR_A">
+			<Text>Salar de Uyuni (big)</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_SALAR_B">
+			<Text>Salar de Uyuni (small)</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_SALAR_TEXT">
+			<Text>Salar de Uyuni is the largest salt flat in the world. When wet, its surface becomes a massive mirror, which is famously beautiful. Several species of flamingo use Salar de Uyuni as their breeding ground. Salar de Uyuni is particularly rich in lithium salt, and contains over half of the world's lithium reserves. Its large, flat surface is excellent for calibrating distance measurements in satellites. Satellites have been able to measure distances from points on the earth accurate to within an inch when calibrated against the surface of Salar de Uyuni.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FEATURE_CAUSEWAY_A">
+			<Text>The Giant's Causeway (sea)</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CAUSEWAY_B">
+			<Text>The Giant's Causeway (land)</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_CAUSEWAY_TEXT">
+			<Text>Giant's Causeway is large cluster of hexagonal basalt columns formed from an ancient volcanic eruption. The tallest columns reach approximately 40 feet high. The columns formed during the Paleocene Epoch when molten basalt cooled and cracked into columns in a process similar to how cracks form in drying mud. According to legend, the causeway was built by an Irish giant in order to respond to a challenge issued by a Scottish giant. The causeway between the islands was destroyed in the resulting fight, with Giant's Causeway the principle remains. There is a smaller cluster of basalt columns across the North Sea in Scotland formed as part of the same ancient lava flow, leading to speculation that these matching columns inspired the legend.</Text>
+		</Row>
+
+		<!--<Row Tag="TXT_KEY_FEATURE_MT_EVEREST">
+			<Text>Mt. Everest</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>-->
+		<Row Tag="TXT_KEY_CIV5_FEATURES_MT_EVEREST_TEXT">
+			<Text>Mount Everest is the tallest mountain in the world, towering 29,029 feet (8,848 meters) above sea level. The mountain reaches to the stratosphere, causing wind speeds to routinely exceed 100 miles per hour at the summit. The atmospheric pressure at the peak of Mount Everest is roughly one third of the pressure at sea level. In 1953, Tenzing Norgay and Edmund Hillary became the first humans known to have ascended to the summit. However, it is possible that Everest was summited in 1924 when George Mallory and Andrew Irving disappeared into clouds high on the mountain. Tragically, they did not successfully descend the mountain, and whether they reached the peak first is unknown. Mount Everest is named after Sir George Everest, a former Surveyor General of India. Everest himself opposed this name, arguing that there were local names for the mountain which would be better choices.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FEATURE_RETBA">
+			<Text>Lake Retba</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_RETBA_TEXT">
+			<Text>TODO</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FEATURE_BERMUDA">
+			<Text>Bermuda Triangle</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_BERMUDA_TEXT">
+			<Text>TODO</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FEATURE_LUMI_BAY">
+			<Text>Bioluminescent Bay</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_LUMI_BAY_TEXT">
+			<Text>TODO</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_FEATURE_DALLOL">
+			<Text>Dallol</Text>
+			<Gender>neuter:no_article</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FEATURES_DALLOL_TEXT">
+			<Text>TODO</Text>
+		</Row>
+	</Language_en_US>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>NATURAL_WONDERS_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>More_Natural_Wonders_256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATURAL_WONDERS_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>More_Natural_Wonders_128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATURAL_WONDERS_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>More_Natural_Wonders_80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATURAL_WONDERS_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>More_Natural_Wonders_64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>NATURAL_WONDERS_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>More_Natural_Wonders_45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

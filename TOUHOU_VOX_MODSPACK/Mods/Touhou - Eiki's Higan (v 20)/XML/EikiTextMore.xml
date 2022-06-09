@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2016 11:04:57 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings, what do you need from the Yama?</Text>
+		</Row>
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_POLITE_HELLO_1">
+			<Text>Welcome back, it is an honor to have you here.</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HELLO_1">
+			<Text>I have my eyes on you. You need to learn a lot more from my lectures.</Text>
+		</Row>
+		<!-- Warnings -->
+		<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your mobilization of soldiers worries me. I hope you are not planning an invasion.</Text>
+		</Row> -
+		<Row Tag="TXT_KEY_LEADER_EIKI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion of cities is a serious problem to the other civilizations. They all need land, so I expect you to share it with them.</Text>
+		</Row>
+		<!--Repeats-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_REPEAT_TOO_MUCH">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_REPEAT_TRADE_1">
+			<Text>Are you trying my patience?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_REPEAT_TRADE_2">
+			<Text>I thought I said no, or was I not clear enough?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_REPEAT_TRADE_3">
+			<Text>Even the Yama has a limit to her patience.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_REPEAT_1">
+			<Text>Greetings.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_REPEAT_2">
+			<Text>Welcome back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_REPEAT_1">
+			<Text>I am watching you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_REPEAT_2">
+			<Text>Have you learned anything yet from my lectures?</Text>
+		</Row>
+		<!-- Greetings -->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_POLITE_HELLO_2">
+			<Text>We meet again. I am honored to have you here.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_POLITE_HELLO_3">
+			<Text>Salutations. I see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_POLITE_HELLO_4">
+			<Text>Greetings. Many leaders should learn more from you. What do you need?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_NEUTRAL_HELLO_2">
+			<Text>Welcome back. Have you come to hear some more of my lectures?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_NEUTRAL_HELLO_3">
+			<Text>Welcome. Have you been keeping up with your duties?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_NEUTRAL_HELLO_4">
+			<Text>What brings you to my court today?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HELLO_2">
+			<Text>You need to learn from your mistakes more often.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HELLO_3">
+			<Text>Your sins are great. At this rate, if I were to judge you, you shall be sent to Hell.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HELLO_4">
+			<Text>It is you again. I see that you have not been learning from my lectures. Shall I lecture you again?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>You prove to be a lot more troublesome than I thought.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>Hmph. Even I am not strong enough to punish you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I believe it is time to lay down our arms.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>This war is going nowhere. It is better for us to make peace right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>There is no point in continuing this war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>You shall repent and undo your mistakes!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Prepare for your judgement day!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_HOSTILE_3">
+			<Text>I have nothing to say to you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>Your sin of deception and dishonor is written all over you. Have you come here to repent?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_WORKING_WITH_1">
+			<Text>Greetings, my friend.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} needs to be punished.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_WORKING_AGAINST_2">
+			<Text>{1_ThirdPlayerName:textkey} has a lot to learn.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_COOP_WAR_1">
+			<Text>We shall deliver justice to {1_ThirdPlayerName:textkey}.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_COOP_WAR_2">
+			<Text>{1_ThirdPlayerName:textkey}&apos;s punishment will not be light, I assure you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Why are you here? You should be on the fields commanding your troops.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HUMAN_AT_WAR_1">
+			<Text>I hope you will be able to resolve your conflict rightfully. What do you need?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>You are not planning an invasion against me, are you?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Your soldiers should stay away from my borders. We do not feel safe with them around.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Have you come to hear a lecture of mine about your troublesome greed?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You should be sharing land with all the other civilizations. You are not the only leader in this world.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Have you come to hear a lecture of mine about your troublesome greed?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your land growth is too much for your citizens, other civilizations need it too for their citizens.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your civilization is known for its strong military. Let us wipe the evils of this world together.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your civilization is known for its strong economy. Do you have the heart to donate some money to those of less fortune?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_FEW_CITIES">
+			<Text>You need to be settling new cities. You cities are getting way too crowded for your citizens. My advice to you is this: Build more settlers and settle new lands. This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_SMALL_ARMY">
+			<Text>Your army is way too small for your civilization. Barbarians and bandits could overrun you at this rate if you do not do anything. My advice to you is this: You should build more troops to protect your lands. This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_IS_WARMONGER">
+			<Text>Your warmongering is a problem for the world. I hope you will learn to stop your bloodlust soon enough. I need to lecture you on this. You must stop your conquest at once! This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_BY_AI_1">
+			<Text>Have you finally learned your lesson?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_BY_AI_2">
+			<Text>Have you been studying well on how to be a good leader?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_AI_1">
+			<Text>What do you want?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>{1_PlayerName} is not to be trusted. You should watch your back.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>Your relationship with {1_PlayerName} pleases me. You can learn a lot from their actions.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>I will have you know that {1_PlayerName} deserves every bit of respect from the world. I believe the world could learn many great things from this person.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>I assure you, your judgement of {1_PlayerName} is very accurate. I am pleased to know that you know what is wrong and evil.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TOO_SOON_FOR_DOF_1">
+			<Text>I am sorry. I have not judged you properly enough.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TOO_SOON_FOR_DOF_2">
+			<Text>My judgement of you is not clear yet. I need time to evaluate my judgements.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>{1_CivName} is a menace to the world. I need your help to approve of my judgement by denouncing them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOF_AI_WAR_REQUEST_1">
+			<Text>I need help in punishing {1_CivName}. They must not escape from their guilts, and I need your help in making them change their actions. (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOF_NOT_HONORED_1">
+			<Text>A leader should never betray anyone, including other leaders. The world must know that you are a horrible example of a leader![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOF_NOT_HONORED_2">
+			<Text>You have a lot to learn from your actions. I hope my judgement to you will make you learn that betrayal is a great sin![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DENOUNCING_FRIEND_1">
+			<Text>It seems that calling you a friend of the world was a mistake of mine. For that, I am to be blamed. However, it is not too late to announce that I was wrong, and you are not a good example to be followed![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DOFED_FRIEND_1">
+			<Text>{1_CivName} is trustable, I assure you. You can learn many things from them. I believe they are a good example for the world.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DOFED_ENEMY_1">
+			<Text>I will have you know that {1_CivName} is not to be trusted. You need to be careful around them, and do not do what they did wrong.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Your judgement on {1_CivName} is very much wrong, I assure you. Perhaps you could even learn things from them.<Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Your judgement on {1_CivName} is very accurate. I shall give my approval on your denouncement.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>You&apos;re allies with {1_CivName}? Me too! We should plan some kind of party.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I agree with your judgement on {1_CivName}. Our denouncement shall make them learn.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is not a good example to be followed. I would not be allies with them for too long if I were you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Between you and {1_PlayerName}, I believe {1_PlayerName} is the better example of a good leader. You need to learn a lot from {1_PlayerName}.</Text>
+		</Row>
+		<!-- Eiki Diplo Text -->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_EXPANSION_WARNING_1">
+			<Text>I think you should be sharing those lands with the other civilizations. It will help make the world more balanced.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_EXPANSION_BROKEN_PROMISE_1">
+			<Text>I will not take your broken promise so lightly!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I expect you to stop your excessive plot buying so that other leaders could use them as well.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_PLOT_BUYING_WARNING_1">
+			<Text>I believe you should be sharing those plots of land with the other civilizations. They also need some for the growth of their civilization.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>I will not take your broken promise so lightly!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Your city state ally have been learning from the wrong leader. It is my job to make sure that they learn from the right leader. Therefore, I have launched an invasion against them.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Reports say that we have launched an attack on your city state ally. We will resolve this problem quickly, I assure you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DEC_FRIENDSHIP_1">
+			<Text>You are clearly a worthy leader to be respected and honored. The world shall know that you are a great example of a leader.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DEC_FRIENDSHIP_2">
+			<Text>Let us declare our friendship to the world so that they know who to learn from. You clearly are a great example of a leader.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DENOUNCE_1">
+			<Text>I shall hand down my judgement of you. Your sins are not to be followed by the world. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DENOUNCE_2">
+			<Text>I shall hand down my judgement of you. You are clearly a sinful leader. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_NOW_UNFORGIVABLE_1">
+			<Text>I tried to hold back my wrath, but your continued sins have tried my patience for too long. I may no longer sit back and watch you tear down the harmony of this world!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_NOW_ENEMY_1">
+			<Text>You are now on my list of individuals to be lectured heavily.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_COMPLIMENT_1">
+			<Text>You clearly are worth to be honored and respected by the world.</Text>
+		</Row>
+		<!--Insults-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_LEADER_EIKI_1">
+			<Text>You have not been learning well from my lectures, I see. The way you lead your civilization is an insult to the very name of civilization itself!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_LEADER_EIKI_2">
+			<Text>You should consider retiring before the world rises up against you. The way you lead your civilization is unacceptable for a great leader. You need to learn more from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_LEADER_EIKI_3">
+			<Text>Your methods of leading and representing your people is unacceptable by my standards as the Yama. You need to come to visit me more often, I shall lecture you on how to be a good leader. Perhaps I should come visit you instead, knowing that you probably will not visit me any time soon.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_MILITARY_1">
+			<Text>I have heard many cases that travellers around your border have been attacked by bandits and barbarians alike. Unfortunately, most of these travellers end up here in my court, having been murdered while they were robbed. You need to build a stronger military force, your borders are not safe. This is the good deed you can do right now. I do not want to have to judge any more of these innocent travellers!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_NUKE_1">
+			<Text>I have weapons of mass destuction. I hope I do not have to use it against you. So long as you learn from my lectures and be a good leader, then these would definitely not be used.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_BULLY_1">
+			<Text>Your bullying of minors is intolerable! Your position as a leader is gifted from the gods. Do not ever abuse them for your own needs! You must cease your actions at once! This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_UNHAPPINESS_1">
+			<Text>Evidence show that suicide rates in your civilization have increased drastically these past few years. Most of the souls that have arrived here because of suicide are from your cities. As the Yama, unfortunately, I have to send them to Hell without further questions. Such is the sad fact of being a Yama, forced to send people who are innocent in their deeds yet finally committed the sin of suicide, because of a horrible leader they have! I want you to learn more from my lectures! You should treat your people better. This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_CITIES_1">
+			<Text>You have not been settling new lands. Your people need to explore the world more, so I suggest you should build more cities in faraway lands. This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_POPULATION_1">
+			<Text>Your cities are rather deserted. You will need more people to be more productive. You should improve the healthcare facilities of your civilization. This is the good deed you can do right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_INSULT_CULTURE_1">
+			<Text>Without the flourishing of arts in a civilization, they are no different than barbarians, who live only to destroy and plunder, committing the age old sins of humanity. You should not go into that road, or else I would have to judge more people to Hell. You need to teach your people the wonders of art and culture. This is the good deed you can do right now. It would help you develop a sense of pride in one&apos;s country, and to differentiate you from barbarians.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		<Row Tag="TXT_KEY_LEADER_EIKI_DONT_SETTLE_YES_1">
+			<Text>You do not have to worry. I will not be settling new cities. Higan is where we belong.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DONT_SETTLE_NO_1">
+			<Text>The way you said that was inappropriate from a leader. However, you should not have to worry, we will not be settling new cities anytime soon.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_WORK_WITH_US_YES_1">
+			<Text>Very well. May this be a sign to the world that your leadership is to be admired.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DECLINE_1">
+			<Text>I am afraid I cannot do that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DECLINE_2">
+			<Text>I am sorry, I must refuse the offer.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_COOP_WAR_YES_1">
+			<Text>Yes, I shall come along with you. By our combined might, they shall be punished.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_COOP_WAR_SOON_1">
+			<Text>Yes, I shall come along with you. However, give me ten turns to prepare.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_PEACE_OFFER_1">
+			<Text>Let us lay down our arms. Hopefully this offer should be enough to do that.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_PEACE_OFFER_2">
+			<Text>I do not want to have to continue this war. I hope this offer is enough to end it.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DEMAND_1">
+			<Text>Tribute these and your sins shall be weighed lighter.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_REQUEST_ITEM_1">
+			<Text>I do not like to have to request these from other leaders. However, the ministry needs it to keep Higan alive.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_REQUEST_ITEM_2">
+			<Text>Asking for gifts is inappropriate of me as the Yama. However, I am in dire need of these.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_REQUEST_ITEM_3">
+			<Text>Forgive my rudeness, but would you please lend us a hand by giving us these?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GIFT_ITEM_1">
+			<Text>Take these, I am sure it would help you right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GIFT_ITEM_2">
+			<Text>This should help fix some of the problems you are facing right now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I feel that a Research Agreement is necessary for the world to advance. Would you like to sign one with me?</Text>
+		</Row>
+		<!--Trade Dialogue-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>Your sentence will be lighter, I assure you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>Very well, I hope you learned your lesson.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_ACCEPT_HUMAN_CONCESSIONS_2">
+			<Text>Your apology is accepted.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I am sorry, I will need more from you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>That is unacceptable. The trade must be properly balanced.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_REJECT_INSULTING_1">
+			<Text>Are you insulting me with this kind of offer? Both sides do not look equal at all!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TRADE_REJECT_INSULTING_2">
+			<Text>Unacceptable! This is an insult to the very name of trading!</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_HOSTILE_1">
+			<Text>You have made a crucial mistake. I shall make you cleanse your sins, even if I have to hurt you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_HOSTILE_2">
+			<Text>It seems that my last punishment for you was not good enough to make you learn. Very well, I shall increase the severity of your sentence!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Even in the face of defeat, I must uphold my convictions as the Yama to make you change your ways!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_WEAK_HOSTILE_2">
+			<Text>The flowers of Higan are withering. Although that may signify my end as the Yama, I must continue upholding my duties until the last flower turns to dust!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_STRONG_HOSTILE_1">
+			<Text>You have made a terrible mistake. Have you not learned from your mistakes yet?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_STRONG_HOSTILE_2">
+			<Text>This was a foolish decision. I shall make you learn to be a proper leader. I must not allow your foolish ways to continue bringing your people to their demise!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_EXCITED_1">
+			<Text>I had been planning to punish you soon. It looks like I will have to take action now.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_EXCITED_2">
+			<Text>It looks like I have judged you accurately. I had been preparing for this.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_EXCITED_3">
+			<Text>My time to punish you has come. It will not be a light one.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_WEAK_EXCITED_1">
+			<Text>Like a flower that struggles to survive in the desert, I shall never let go of my convictions as the Yama. Even at a severe disadvantage, I will make sure that you will never sin again!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_STRONG_EXCITED_1">
+			<Text>This time, I will make sure that you will never sin again!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_SAD_1">
+			<Text>I have misjudged you. My expectations of you were too high. You are not the kind of leader that I had hoped for.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_SAD_2">
+			<Text>My judgements of you were incorrect. It seems that even you can be influenced by the sins of mankind.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_BETRAYED_1">
+			<Text>I do not take betrayals lightly. I will make sure that you learn from this mistake.</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_DOW_LEADER_EIKI_1">
+			<Text>In the purple cherry blossoms resides humans neck-deep in sin. Under these raining purple cherry blossoms, by my will as the Yama, you shall cleanse your sins!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_LEADER_EIKI_2">
+			<Text>Hell exists not to punish sinners, but to ensure that nobody sins in the first place. I am here so that everybody realizes that. Even if I must hurt you, I must make you correct the error of your ways!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_LEADER_EIKI_3">
+			<Text>The weight of your sins have grown to become a matter of importance. You will be sent to Hell when you are dead. As the Yama, I am here to correct your ways!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>Your dishonorable ways must be changed. I am here as the Yama to make sure that you will never commit that sin ever again!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_LAND_1">
+			<Text>Your greed for land has grown too problematic for the world. I am here to make you change your ways, even if I must hurt you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_WORLD_CONQUEST_1">
+			<Text>The world has grown too sinful. I shall be the one who brings light into this dark world, starting from you!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_WORLD_CONQUEST_2">
+			<Text>This dark world needs light. I will be the one who carries to light of the gods into this world. I will make sure this light is brought to your civilization!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_OPPORTUNITY_1">
+			<Text>This is my time to punish you for your sins. I cannot let this opportunity pass by!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_DESPERATE_1">
+			<Text>Even in the worst times, one must always show courage in the face of death. Likewise, I shall punish you, even when I am at a disadvantage!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_BETRAYAL_1">
+			<Text>I cannot trust you any longer. Even if I will be known as a betrayer, I need to announce to the world that you are worth punishing!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_DOW_REGRET_1">
+			<Text>I had trusted you for a long time. I believed you were a great leader, but it looks like even you can fall into the vices of mankind. I need to stop these acts of sin of yours, before it is too late!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_WAR_DEMAND_REFUSED_1">
+			<Text>I gave you a chance to pay tribute for your sins, but you did not take my offer. The time for your punishment has come.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_NO_PEACE_1">
+			<Text>You have not served your sentence yet.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_NO_PEACE_2">
+			<Text>There can be no peace today. You have not learned anything yet.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_TOO_SOON_NO_PEACE_1">
+			<Text>Unacceptable. You cannot avoid your punishment.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_CULTURE_BOMBED_1">
+			<Text>I do not take theft lightly. This incident will be remembered.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_CULTURE_BOMBED_2">
+			<Text>You are trying my patience! I ask that you never do that again, or else we will have problems in the future.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>My judgement of you was correct. Your punishment will not be light.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>I got my eyes on you.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Very well. By my will as the Yama, you shall cleanse your sins!</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>I hope that is the case.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>It is clear that you do not understand how much of your sins have affected your minors.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Good. I hope that you too, will learn from your mistakes.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I am sure that what I did was for the greater good.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD_1">
+			<Text>That is dissapointing. I hope that you will soon realize the mistake that you have done.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_OUR_WORDS_ARE_BACKED">
+			<Text>Our words are backed with nuclear weapons. I do not wish to use any of these against anyone. But I will not hesitate to use these to punish the wicked, should the time come!</Text>
+		</Row>
+		<!--BNW + G&K Text-->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>Your spy stole a technology from us. Will not take theft lightly. I ask that you stop sending your agents, or your punishment will be severe.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>We have caught your spy stealing our technology. I ask that you do not send any more of your agents into our territory.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>Good. I hope that you do not repeat this action in the future. It is good to see that you have been learning well from my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Very well, it is a shame that I cannot persuade you to stop. Perhaps I should be more insightful in my lectures.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_KILLED_YOUR_SPY_1">
+			<Text>I caught your spy trying to steal my technology and I have properly executed the thief. Let this be a lesson to the other spies.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_KILLED_MY_SPY_1">
+			<Text>I humbly apologize for the misunderstanding my agent has brought upon you. This shall be a lesson for us for the better future. Are you willing to forgive us?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Oh, this is gonna be about that whole spying thing, isn&apos;t it?</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_SUSPECT_YOU_OF_SPYING_1">
+			<Text>We have found evidence of a spy amidst us. I suspect that it is one of yours. Until more evidence comes up however, I shall refrain from pointing fingers at anyone. If you truly are innocent, then you have nothing to worry about.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>May this be a lesson for me to learn to never do this again.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>I thank you kindly for forgiving me.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Very well, but I hope that your people know the difference between Black and White.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>I am afraid I cannot do that. Your people need to learn about the virtues of the world. As the Yama, I must bring everyone to the path of Enlightenment.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>I am willing to accept your surrender. I do not wish to continue fighting this one sided war.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>I will accept your offer to surrender. I hope that you are willing to consider this option. I do not wish to harm more innocent people.</Text>
+		</Row>
+		<!-- Responses to player -->
+		-<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>You will have to do more than this if you want to be truly called the protector of city states.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>In times like these, you choose to revoke your pledge. Such a shame.</Text>
+		</Row> -<Row Tag="TXT_KEY_LEADER_EIKI_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>I am pleased to hear this. I hope that you do not do this anymore in the future, or else we will have further problems.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_STOP_DIGGINGX_1">
+			<Text>I demand that your Archaelogists refrain from digging up our property! The punishment for theft is harsh in Hell, and it is better that you stop now before it is too late!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>I am afraid I cannot do that. I need these artifacts to examine your culture to better understand them, so that I can judge you better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>As you request, we shall refrain from digging up your artifacts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Very well, it is a shame that I cannot persuade you to stop. Perhaps I should be more insightful in my lectures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Good. I hope that this could be a great lesson for all of your people to learn from.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_SWITCHED_TO_FREEDOM_1">
+			<Text>I am glad that you have switched to our ideology, Freedom. You will learn many valuable things from following our ideology, I assure you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_SWITCHED_TO_ORDER_1">
+			<Text>I am glad that you have switched to our ideology, Order. You will learn many valuable things from following our ideology, I assure you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_SWITCHED_TO_AUTOCRACY_1">
+			<Text>I am glad that you have switched to our ideology, Autocracy. You will learn many valuable things from following our ideology, I assure you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_INFLUENTIAL_ON_AI_1">
+			<Text>Our court system has been adjusted to follow your court&apos;s model. I hope that this does not ruin my duties as the Yama, for I fear that I might no longer be able to judge properly with your system in place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EIKI_INFLUENTIAL_ON_HUMAN_1">
+			<Text>It is good to see that you are following our culture. May you learn well from us. I shall appoint a special lecture session every week for your people to listen well to.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

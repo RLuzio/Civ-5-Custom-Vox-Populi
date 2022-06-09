@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!--
+						Civ Specific Decisions
+		-->
+		<!-- Moriya Shrine -->
+		<Row Tag="TXT_KEY_DECISIONS_HVVILLAGESCHOOL">
+			<Text>Establish a Village School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HVVILLAGESCHOOL_DESC">
+			<Text>
+				The humans of Hitozato have begun to display an appalling lack of knowledge about history, and this has lead to dangerous ideas that threaten the balance between humans and youkai in Gensokyo. Establishing a school in the village will help educate the villagers, and maintain peace between the youkai and the humans.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ningen no Sato
+				[NEWLINE][ICON_BULLET]Must have a Library in the capital
+				[NEWLINE][ICON_BULLET]Must have researched Education
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Public School is built in the Capital
+				[NEWLINE][ICON_BULLET]Public Schools produce +2 [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HVVILLAGESCHOOL_ENACTED_DESC">
+			<Text>
+				The humans of Hitozato have begun to display an appalling lack of knowledge about history, and this has lead to dangerous ideas that threaten the balance between humans and youkai in Gensokyo. Establishing a school in the village will help educate the villagers, and maintain peace between the youkai and the humans.[NEWLINE]
+				[NEWLINE][ICON_BULLET]A Public School is built in the Capital
+				[NEWLINE][ICON_BULLET]Public Schools produce +2 [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_HVENCOURAGETRADE_NAME">
+			<Text>Encourage the {1_Res} Trade</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_HVENCOURAGETRADE_DESC">
+			<Text>
+				Some merchants have noticed we have an abundant supply of {1_Icon} {2_Res}. With some effort and investment, we can profit by encouraging the sale of {2_Res} to foreign traders.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ningen no Sato
+				[NEWLINE][ICON_BULLET]Player must have 3 or more sources of {1_Icon} {2_Res}.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{3_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain [ICON_GOLD] Gold per incoming international trade route per turn.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with each source of {1_Icon} {2_Res} you control.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_HVENCOURAGETRADE_ENACTED_DESC">
+			<Text>
+				Some merchants have noticed we have an abundant supply of {1_Icon} {2_Res}. With some effort and investment, we can profit by encouraging the sale of {2_Res} to foreign traders.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain [ICON_GOLD] Gold per incoming international trade route per turn.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with each source of {2_Icon} {1_Res} you control.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_HVENCOURAGETRADE_NOTIFICATION">
+			<Text>Trading {1_Icon} {2_Res} to foreign merchants has generated {3_Gold} [ICON_GOLD] Gold.</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d3064dc1-0f14-4007-980a-1dabd4dd3029" version="2">
+  <Properties>
+    <Name>Touhou - Forest of Magic</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A mod that adds the Forest of Magic from the Touhou games as a playable civ, lead by Marisa Kirisame!</Teaser>
+    <Description>A mod that adds the Forest of Magic from the Touhou games as a playable civ, lead by Marisa Kirisame!</Description>
+    <Authors>BouncyMischa</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="417DCE5A7930BCC9C0B0555064D6C1CD" import="1">Art/Improvements/carnivorous1.dds</File>
+    <File md5="A1681C92EDD8037BAF7754F895D5AA58" import="1">Art/Improvements/carnivorous2.dds</File>
+    <File md5="AE1DD9B83ACFFE13578488F0EB0B7CC7" import="1">Art/Improvements/CarnivorousPlants.fxsxml</File>
+    <File md5="11CD405B450FD5D1F64BAC7C9AEF0890" import="1">Art/Improvements/CarnivorousPlants.gr2</File>
+    <File md5="9B5061F45BAE55DC2CFF92CFC07F5D67" import="1">Art/Improvements/CarnivorousPlants_PL.fxsxml</File>
+    <File md5="197418D7BF013B565B2FECE2C1EB6261" import="1">Art/Improvements/FairyTree1.fxsxml</File>
+    <File md5="58F266B186E1E1C473086052089E7938" import="1">Art/Improvements/FairyTree1.gr2</File>
+    <File md5="7D7BE936D8172BBDEF815C997D515E98" import="1">Art/Improvements/FairyTree1_PL.fxsxml</File>
+    <File md5="7B18DAABB11F05F192D8923E404384B4" import="1">Art/Improvements/FairyTreeBig1.fxsxml</File>
+    <File md5="D57D393B0707AD1D01CE597771897609" import="1">Art/Improvements/FairyTreeBig1.gr2</File>
+    <File md5="A48005AEEAA28B1EF6AEC573CCA8986C" import="1">Art/Improvements/FairyTreeBig1_PL.fxsxml</File>
+    <File md5="807F7F65B3C53477C066D31344DC1C6C" import="1">Art/Improvements/FairyTreeNew.fxsxml</File>
+    <File md5="0192A71C376A50226BFFF2FCDC99434B" import="1">Art/Improvements/FairyTreeNew.gr2</File>
+    <File md5="E9988ACC8D44F0D9E07588C2EDA28F17" import="1">Art/Improvements/FairyTreeNew_PL.fxsxml</File>
+    <File md5="C67BCF7B5D35B27014F14B509E491BFD" import="1">Art/Improvements/HarounMarketBase.dds</File>
+    <File md5="9BD11AF2B86D3E52E71DA1C00953CD6C" import="1">Art/Improvements/HarounWoodmillBase.dds</File>
+    <File md5="B0697AF4C8777DA0F5548EF8430194C3" import="1">Art/Improvements/Mushrooms.dds</File>
+    <File md5="C59634E14AFB7522B41AC9D14DCB3F06" import="1">Art/Improvements/Mushrooms.fxsxml</File>
+    <File md5="47A73937F41F8396FA49BA019C70F869" import="1">Art/Improvements/Mushrooms.gr2</File>
+    <File md5="A96F4C306AF00185EB3EA618BED77FC3" import="1">Art/Improvements/Mushrooms2.dds</File>
+    <File md5="57DCE3FDB9191CF031DF2732D3D81B5D" import="1">Art/Improvements/Mushrooms2.fxsxml</File>
+    <File md5="66116724C6C38C3FF941CEA4045D6BD0" import="1">Art/Improvements/Mushrooms2.gr2</File>
+    <File md5="0F38C4EA1398AC647DDFBCB61483BD77" import="1">Art/Improvements/Mushrooms2_PL.fxsxml</File>
+    <File md5="D87F7714BED2964E04E847E555A045B3" import="1">Art/Improvements/Mushrooms3.fxsxml</File>
+    <File md5="EC53036D88EA30CB62ECC8918F4AD206" import="1">Art/Improvements/Mushrooms3.gr2</File>
+    <File md5="17DBA731B54113380116EC136DD77D92" import="1">Art/Improvements/Mushrooms3_PL.fxsxml</File>
+    <File md5="377C2BAFDEB14181D907D33D1656ACE8" import="1">Art/Improvements/Mushrooms4.dds</File>
+    <File md5="B4EDC2316F052B9A08E512B22306FA26" import="1">Art/Improvements/Mushrooms_PL.fxsxml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Improvements/no_gloss.dds</File>
+    <File md5="523463B652948143447287E4BFA28F37" import="1">Art/Improvements/WildwoodBase.dds</File>
+    <File md5="8E56472CF56E9B1726D1E21A44E8C1A8" import="1">Art/MarisaAlphaAtlas16.dds</File>
+    <File md5="B8F6D16036E686EB86381F1B9A1ADDA4" import="1">Art/MarisaAlphaAtlas24.dds</File>
+    <File md5="4CC8B4A5B480E183064850FECEC1D156" import="1">Art/MarisaAlphaAtlas32.dds</File>
+    <File md5="CAF5D7F9D2B8DB1F1978C659758A515B" import="1">Art/MarisaAlphaAtlas48.dds</File>
+    <File md5="E80F13043B3A7CBC99E10A89543D641D" import="1">Art/MarisaAlphaAtlas64.dds</File>
+    <File md5="1CE51EB197FF157A57D5B2A04255D159" import="0">Art/MarisaArtCredits.rtf</File>
+    <File md5="CF12035504DEFD4CB8D8398D36D091F3" import="1">Art/MarisaDiplo.dds</File>
+    <File md5="09D716F76CF1C818864A7104CF2A84F3" import="1">Art/MarisaDOM.dds</File>
+    <File md5="79D3E52A46068E7ED5B965A9AC0F2ABB" import="1">Art/MarisaIconAtlas128.dds</File>
+    <File md5="B84AB4B9D0B461390D93291687EFCA6F" import="1">Art/MarisaIconAtlas256.dds</File>
+    <File md5="B5286909A5FD4DE3B0B143871AE05FFF" import="1">Art/MarisaIconAtlas32.dds</File>
+    <File md5="9EB7082E519CAC7681EBCD9A3FF5346A" import="1">Art/MarisaIconAtlas45.dds</File>
+    <File md5="1BEBAC204DA5A4879DC71DD1B19F2019" import="1">Art/MarisaIconAtlas64.dds</File>
+    <File md5="763EDF1487ACD9F08F122DFA799DA7BA" import="1">Art/MarisaIconAtlas80.dds</File>
+    <File md5="638C34D5EFEFEFFEC83681F59EBC1AE7" import="1">Art/MarisaMap2.dds</File>
+    <File md5="BCF9999020C5A178540ECB096569889C" import="1">Art/MarisaPeace.mp3</File>
+    <File md5="EA6194D1C9D4E9B33DD97527F67F9C8C" import="1">Art/MarisaUnitIcons.dds</File>
+    <File md5="0E0F42F6EBC3D7CA1B8AEDF7E6BF8F0C" import="1">Art/MarisaWar.mp3</File>
+    <File md5="FF177E6CEA75C96B3250A444C7EF1D81" import="1">Art/Units/fx_triggers_wizard_m4a.ftsxml</File>
+    <File md5="60166A1538DE5CF8AAC0A22FBED1BA1D" import="1">Art/Units/WIZARDM4_MAP00.dds</File>
+    <File md5="3FCAFC932368057688537BBD2764CAF6" import="1">Art/Units/WIZARDM4_MAP01.dds</File>
+    <File md5="5FEAB6A121DF39561B2CE6C49842A866" import="1">Art/Units/WIZARDM4_MAP02.dds</File>
+    <File md5="2B0C95A24F22CD98B5C82AADF0EC5AE0" import="1">Art/Units/Wizard_M4.gr2</File>
+    <File md5="638D45C61E42F7B5FCABEAC554ADA94E" import="1">Art/Units/Wizard_M4a.fxsxml</File>
+    <File md5="6F4AC0818FADA9F0F396FEB4EE1FE42E" import="0">Lua/AtelierCode.lua</File>
+    <File md5="18F23CE7BC2B289229C1AA4F927F68BB" import="1">Lua/Decisions Support/MarisaDecisions.lua</File>
+    <File md5="38A6B81D8A0AB82179856F4673A21EBE" import="1">Lua/Events Support/MarisaEvents.lua</File>
+    <File md5="197D6D8BE78675DFB7E8837A51849277" import="0">Lua/MarisaTerrainNames.lua</File>
+    <File md5="27E7FE088F75B0ED8917D3705D37373D" import="0">Lua/MarisaTraitLua.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/MischaIteratingPlotsFunctions.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="2A2EE9030EEAAA7546EA56D22390D530" import="0">XML/Decisions Support/MarisaDecisionsSupport.xml</File>
+    <File md5="2DD3336A62AFD116F07846CFE0FB2C19" import="0">XML/Decisions Support/MarisaDecisionsText.xml</File>
+    <File md5="65A34AFB016062477F5BB48366CE5361" import="0">XML/Events Support/MarisaEventsSupport.xml</File>
+    <File md5="1025F61FC480BBA32E6527DDE0EFB5D3" import="0">XML/Events Support/MarisaEventsText.xml</File>
+    <File md5="F89DF02E6AE71B8DB17E9A3EA83AB223" import="0">XML/JFD's Piety and Prestige Support/MarisaPietyFlavour.sql</File>
+    <File md5="B7E586306D3956E600C56952DF0C492A" import="0">XML/MarisaBuildingsBNW.xml</File>
+    <File md5="4A884CA0EB52B1232014754332ECD066" import="0">XML/MarisaCityNames.sql</File>
+    <File md5="E9BCC494BDC386BAFD5CC7E5B1A07B92" import="0">XML/MarisaBuildings.xml</File>
+    <File md5="3F2FCFB80CFB7488C3C375C18E4383C1" import="0">XML/MarisaCivilization.xml</File>
+    <File md5="09784022927BA4CFECF3815D59FFE0F5" import="0">XML/MarisaColors.xml</File>
+    <File md5="BA80E24BE06ED9F7044EE6E87DED1689" import="0">XML/MarisaDiplomacy.xml</File>
+    <File md5="E6D0DEA87C0042AA7DE8E4B9F80EB8A7" import="0">XML/MarisaImprovements.xml</File>
+    <File md5="01379E82A15535EC46A3B233070E696F" import="0">XML/MarisaLeader.xml</File>
+    <File md5="1DFB872FAAFA641375A3FB2BDF11D3BB" import="0">XML/MarisaMusic.xml</File>
+    <File md5="624BB1950EC3A4EC26ACCC195165F3CA" import="0">XML/MarisaPolicies.xml</File>
+    <File md5="62A8D8D91E3D7822CAA70E7B9BF1C3A0" import="1">XML/MarisaScene.xml</File>
+    <File md5="F0F52D4C7F3EA981982E0CEA635AC65F" import="0">XML/MarisaText.xml</File>
+    <File md5="C1222BE2C2A310F0802536A64AF45AD0" import="0">XML/MarisaTrait.xml</File>
+    <File md5="DC16C26D32FB477C7DA5D8521AF1E08F" import="0">XML/MarisaUnits.sql</File>
+    <File md5="1E03CD7292A400B8035E112E8F1D4684" import="0">XML/MarisaUnits.xml</File>
+    <File md5="2217612017EE2B9B2A7E3A371F7B4BDE" import="0">XML/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/MarisaBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaBuildingsBNW.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaCityNames.sql</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaImprovements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaUnits.sql</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MarisaPolicies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Decisions Support/MarisaDecisionsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Decisions Support/MarisaDecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Events Support/MarisaEventsSupport.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Events Support/MarisaEventsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/JFD's Piety and Prestige Support/MarisaPietyFlavour.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AtelierCode.lua">
+      <Name>Atelier Code</Name>
+      <Description>Atelier Code</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MarisaTraitLua.lua">
+      <Name>Marisa Trait</Name>
+      <Description>Marisa Trait</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MarisaTerrainNames.lua">
+      <Name>Terrain Dependent City Names</Name>
+      <Description>Terrain Dependent City Names</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

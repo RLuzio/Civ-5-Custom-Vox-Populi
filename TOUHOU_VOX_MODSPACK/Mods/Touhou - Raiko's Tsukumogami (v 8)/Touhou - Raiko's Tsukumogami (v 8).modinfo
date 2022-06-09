@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="894eec45-0ec8-4dd1-8c37-709d2959d898" version="8">
+  <Properties>
+    <Name>Touhou - Raiko's Tsukumogami</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Tsukumogami from the Touhou Project series led by Raiko Horikawa.</Teaser>
+    <Description>Adds the Tsukumogami from the Touhou Project series led by Raiko Horikawa.</Description>
+    <Authors>Igniszath</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>8</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="BA0D234DE017F5CEB6DEF37CE7DFE384" import="1">Art/Animation/edited_aim_ms_attack_city_to_run.dge</File>
+    <File md5="75D8FBC3A2C4D56B1089F20A2E9D9DA1" import="1">Art/Animation/edited_aim_ms_attack_to_run_graph.dge</File>
+    <File md5="82C3CE94F7827159DEA80CCF8AAF5D9E" import="1">Art/Animation/edited_aim_ms_bombard_defend_loop_graph.dge</File>
+    <File md5="C3686411D2E96A715267F9A5C72A5EB1" import="1">Art/Animation/edited_aim_ms_combat_ready_graph.dge</File>
+    <File md5="FE5B902745DEE0860ECEE5BA421D141F" import="1">Art/Animation/edited_aim_ms_death_final_graph.dge</File>
+    <File md5="21659FCED7A08D6FB464A693D0E82597" import="1">Art/Animation/edited_aim_ms_death_graph.dge</File>
+    <File md5="B66FF4B10706BE666A916B917D14AC83" import="1">Art/Animation/edited_aim_ms_enter_bombard_defend_graph.dge</File>
+    <File md5="9B18015ACB470CD66C3294FDA203C27E" import="1">Art/Animation/edited_aim_ms_enter_combat_ready_graph.dge</File>
+    <File md5="FD1B5EABA624344B944CD37BD71DE110" import="1">Art/Animation/edited_aim_ms_enter_fortify.dge</File>
+    <File md5="04680D47D3519A5FFB950F1147D7B1D4" import="1">Art/Animation/edited_aim_ms_fidgets_graph.dge</File>
+    <File md5="327CB90C3BCF5BAC71F77DA677997631" import="1">Art/Animation/edited_aim_ms_fortify_fidget_graph.dge</File>
+    <File md5="998F9D5F9FCAFE31E97022C5C50C67E8" import="1">Art/Animation/edited_aim_ms_fortify_graph.dge</File>
+    <File md5="39370F05801D7D017D605CE224EE11E7" import="1">Art/Animation/edited_aim_ms_fortify_leave_graph.dge</File>
+    <File md5="EF3E7C919600B18CDC0D6F1BCDD45F64" import="1">Art/Animation/edited_aim_ms_idle_graph.dge</File>
+    <File md5="7AAA31587E2E15A0B887A31C861D4B45" import="1">Art/Animation/edited_aim_ms_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="4BB9881AAB8B9F3571AA787BB89B4FF1" import="1">Art/Animation/edited_aim_ms_leave_combat_ready.dge</File>
+    <File md5="E538938BAD81B88082C8DF076514653E" import="1">Art/Animation/edited_aim_ms_modern_ship_attacks.dge</File>
+    <File md5="DBFC96AE4406957395EC439CEFF8584A" import="1">Art/Animation/edited_aim_ms_running_loop.dge</File>
+    <File md5="C017AA3F2D83AAB3B6B939B6418071A3" import="1">Art/Animation/edited_aim_ms_start_running.dge</File>
+    <File md5="34D584D857E6CBA51D87EE2FD6950EC6" import="1">Art/Animation/edited_aim_ms_stop_running.dge</File>
+    <File md5="500F6DEDBDB767CAE8C964DBEE647459" import="1">Art/Animation/edited_aim_ms_transitions_for_idles.dge</File>
+    <File md5="A64E86033B61613B4F39979D5603E65F" import="1">Art/Animation/edited_aim_running_loop.dge</File>
+    <File md5="AB180DC6BFF8E18757D23D554F80784A" import="1">Art/Animation/edited_fx_triggers_battleship.ftsxml</File>
+    <File md5="15D16F16B2DA12C59E1DB7565EBAC0ED" import="1">Art/Animation/edited_fx_triggers_battleship_4turret.ftsxml</File>
+    <File md5="57B853C5D7F32E9A1000E2F1341916A0" import="1">Art/Animation/edited_fx_triggers_Cruiser.ftsxml</File>
+    <File md5="6E0AFDF33543EE37A4770E8903EF3DCB" import="1">Art/Animation/edited_fx_triggers_destroyer.ftsxml</File>
+    <File md5="75C5BA4CEC139C9EAFA47AE912EAB3EC" import="1">Art/Animation/edited_modern_ship_aim_state_01.fsmxml</File>
+    <File md5="055C947CFEEAB867BD4CD5E543445095" import="1">Art/Pikeman_Korea.dds</File>
+    <File md5="71FAA7FFD2615A99315B9FBCAEEC3642" import="1">Art/Pikeman_Korea.fxsxml</File>
+    <File md5="BD05F45E3A2473E6A3AB58619296F42A" import="1">Art/Pikeman_Korea.gr2</File>
+    <File md5="D61E2A5D91262A515502ECE9BB26E401" import="1">Art/Pikeman_Korea_gloss.dds</File>
+    <File md5="2F9E15DD7D0AE5561DB7A4C388DFA631" import="1">Art/RaikoDiplo.dds</File>
+    <File md5="1DE2627EB0512E2FE6B75881AB2E5E33" import="1">Art/RaikoDOM.dds</File>
+    <File md5="B25C9FB514457AE4A6143E52DB71CA37" import="1">Art/RaikoMap.dds</File>
+    <File md5="520B40A65C76467767B0E34C9B69FF96" import="1">Art/RaikoWonder.dds</File>
+    <File md5="4A43AA711D0F145FA83ECCB656E5E072" import="1">Art/TsukumogamiAlphaAtlas16.dds</File>
+    <File md5="5222D1E464B161E565F8DA9EFBBDEC94" import="1">Art/TsukumogamiAlphaAtlas24.dds</File>
+    <File md5="4E9E0A84CBB219A938C372A6F1052539" import="1">Art/TsukumogamiAlphaAtlas32.dds</File>
+    <File md5="6617A9629BE70D728AC211ED234FF5FA" import="1">Art/TsukumogamiAlphaAtlas48.dds</File>
+    <File md5="1DE87292C90797D582AB998D9E377DD5" import="1">Art/TsukumogamiAlphaAtlas64.dds</File>
+    <File md5="6835F8E31C6F505A13348AA9142128F6" import="1">Art/TsukumogamiIconAtlas128.dds</File>
+    <File md5="14679338B8B57814E34B0B053A4EA627" import="1">Art/TsukumogamiIconAtlas256.dds</File>
+    <File md5="722B715819E17D0E9E41B8960E8855C6" import="1">Art/TsukumogamiIconAtlas32.dds</File>
+    <File md5="BB0B3B0461CDCD997C4E2C91BDCAF02E" import="1">Art/TsukumogamiIconAtlas45.dds</File>
+    <File md5="9FA69E0EAECF390565AFF989EB9AB087" import="1">Art/TsukumogamiIconAtlas64.dds</File>
+    <File md5="EF6CD1CA460A482C154CE72D284304ED" import="1">Art/TsukumogamiIconAtlas80.dds</File>
+    <File md5="F054C49375B9BC0DC5C19AF522599B7E" import="1">Art/WantedAmanojaku.dds</File>
+    <File md5="4C5C099F0A4FD21C8E3CE9B0775AEBD4" import="1">Art/Yamato_Class.dds</File>
+    <File md5="9632FFCE9F684AC6B5928DF9B27A9226" import="1">Art/Yamato_Class.fxsxml</File>
+    <File md5="800A6760332BFB63E5F61651040918F2" import="1">Art/Yamato_Class.gr2</File>
+    <File md5="A08BD3AA9B8EE4494A2A218F6656B3D8" import="1">Art/Yamato_Class_gloss.dds</File>
+    <File md5="983DA66F4F536F2C68B34AD8AC9E2A87" import="0">Lua/RaikoLua.lua</File>
+    <File md5="05FE743E16F73C40248556285609B8D0" import="1">Music/IllusionaryJoururi.mp3</File>
+    <File md5="BAB4C3DDDE0994ECA3E9CAFC44639ABD" import="1">Music/PrimordialBeat.mp3</File>
+    <File md5="4B5BA36CFF691221340F1ADB9BE07F4A" import="0">Special Thanks.txt</File>
+    <File md5="93023B41BCCB9E2DCD316E429A44F06E" import="0">Support/TsukumogamiSupport.sql</File>
+    <File md5="09D831BFEF5CD1FBEB9D05C4A67B4484" import="1">Support/TsukumogamiDecisions.lua</File>
+    <File md5="121F6A918742591CAC1AA77793FE3938" import="1">Support/TsukumogamiEvents.lua</File>
+    <File md5="C1D53DC8B87D4F9CB03B65E1631A72FC" import="0">Support/TsukumogamiEventsandDecisions.xml</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Util/Sukritact_SaveUtils.lua</File>
+    <File md5="4CADAF4FA6632C34CF4EDF7AC3DF7878" import="0">XML/RaikoDummy.xml</File>
+    <File md5="D09874D9103E6A3D9F1839E1B863FE1B" import="0">XML/RaikoBuildings.xml</File>
+    <File md5="0A874D8A3D264488B593A95172491297" import="0">XML/RaikoCivilization.xml</File>
+    <File md5="4623AD2F705E6E2C833ED642FFA4B6F0" import="0">XML/RaikoColors.xml</File>
+    <File md5="23F882EB3E7A4BFBAD4F4D2B0AB20DE4" import="0">XML/RaikoDiplomacy.xml</File>
+    <File md5="4892C5EA9998C7BC570689DAE0A70B4C" import="0">XML/RaikoKantaiMusume.xml</File>
+    <File md5="ECB443C2B26E28488C6B5B7C4DC57E8F" import="0">XML/RaikoLeader.xml</File>
+    <File md5="1C6AC15DB5E63DDFEC2DF27DCB5CF01F" import="0">XML/RaikoMenreiki.sql</File>
+    <File md5="55E203F5AF5CCF747884CCEDDF528EAA" import="0">XML/RaikoMusic.xml</File>
+    <File md5="7AEE975DFC90A740291E7BF872B6BF5D" import="0">XML/RaikoPromotions.xml</File>
+    <File md5="529BB50C3374782AF8BF76C02E03BF03" import="1">XML/RaikoScene.xml</File>
+    <File md5="EDFE1BA14DD135EA441314D2BCB9B801" import="0">XML/RaikoText.xml</File>
+    <File md5="5DDBD54194B52589BAE4AC1BAF59EF3D" import="0">XML/RaikoTextMore.xml</File>
+    <File md5="EA1F85A64A007B620EB688F31E53BC1A" import="0">XML/RaikoTrait.xml</File>
+    <File md5="1D00557C6570EE75CD25FF4C473E5CBD" import="0">XML/RaikoUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/RaikoBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoTextMore.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoDummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoMenreiki.sql</UpdateDatabase>
+      <UpdateDatabase>XML/RaikoKantaiMusume.xml</UpdateDatabase>
+      <UpdateDatabase>Support/TsukumogamiSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/TsukumogamiEventsandDecisions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/RaikoLua.lua">
+      <Name>RaikoLua</Name>
+      <Description>Raiko's Lua Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

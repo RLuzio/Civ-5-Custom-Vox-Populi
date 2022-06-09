@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2016 9:38:46 PM -->
+<GameData>
+	-<Diplomacy_Responses>
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_FIRSTGREETING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DEFEATED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DECLAREWAR%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_REPEAT_TRADE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_REPEAT_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_REPEAT_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_REPEAT_TRADE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_REPEAT_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_REPEAT_TOO_MUCH%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_REPEAT%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_REPEAT%</Response>
+		</Row>
+		<!-- Greetings -->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_POLITE_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_NEUTRAL_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HELLO%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_DESTRUCTION_LOOMS</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_DESTRUCTION_LOOMS%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_WANTS_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_WANTS_PEACE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_AT_WAR_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_BROKEN_MILITARY_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_BROKEN_MILITARY_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_WORKING_WITH</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_WORKING_WITH%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_WORKING_AGAINST</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_WORKING_AGAINST%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_COOP_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_COOP_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_AT_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HUMAN_AT_WAR%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_AGGRESSIVE_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_AGGRESSIVE_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_AGGRESSIVE_EXPANSION%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_AGGRESSIVE_PLOT_BUYING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_FRIENDLY_STRONG_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_ECONOMY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_FRIENDLY_STRONG_ECONOMY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_FEW_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_FEW_CITIES%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_SMALL_ARMY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_SMALL_ARMY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_IS_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_HOSTILE_HUMAN_IS_WARMONGER%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_BY_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_BY_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_OUR_DOF_WITH_ENEMY_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_OUR_DOF_WITH_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_FRIEND_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_DENOUNCED_ENEMY_OF_AI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_TOO_SOON_FOR_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_TOO_SOON_FOR_DOF%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOF_AI_DENOUNCE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOF_AI_DENOUNCE_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOF_AI_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOF_AI_WAR_REQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOF_NOT_HONORED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOF_NOT_HONORED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_AI_DOF_BACKSTAB</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DENOUNCING_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DOFED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DOFED_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DOFED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DOFED_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCED_FRIEND%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCED_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DOF_SO_AI_DOF%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCE_SO_AI_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DOF_SO_AI_DENOUNCE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_DENOUNCE_SO_AI_DOF%</Response>
+		</Row>
+		<!-- General Diplo Text -->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_PROTECTED_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_PROTECTED_CITY_STATE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_EXPANSION_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_EXPANSION_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_EXPANSION_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_EXPANSION_BROKEN_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_PLOT_BUYING_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_PLOT_BUYING_SERIOUS_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_PLOT_BUYING_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_PLOT_BUYING_WARNING%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_PLOT_BUYING_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_PLOT_BUYING_BROKEN_PROMISE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_WE_ATTACKED_YOUR_MINOR%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_WE_ATTACKED_YOUR_MINOR%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_NOW_UNFORGIVABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_NOW_UNFORGIVABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_NOW_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_NOW_ENEMY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_COMPLIMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_LEADER_EIKI_COMPLIMENT%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_CULTURE_BOMBED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_CULTURE_BOMBED%</Response>
+		</Row>
+		<!-- Insults -->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_LEADER_EIKI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_LEADER_EIKI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_MILITARY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_NUKE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_NUKE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_BULLY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_BULLY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_UNHAPPINESS</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_UNHAPPINESS%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_CITIES%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_POPULATION</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_POPULATION%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INSULT_CULTURE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INSULT_CULTURE%</Response>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DONT_SETTLE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DONT_SETTLE_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DONT_SETTLE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DONT_SETTLE_NO%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_WORK_WITH_US_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_WORK_WITH_US_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_WORK_WITH_US_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_COOP_WAR_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_COOP_WAR_YES%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_COOP_WAR_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DECLINE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_COOP_WAR_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_COOP_WAR_SOON%</Response>
+		</Row>
+		<!-- Deal Offers and related -->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOT_DOT_DOT</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOT_DOT_DOT%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_LETS_HEAR_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_LETS_HEAR_IT%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_PEACE_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_PEACE_OFFER%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DEMAND%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_REQUEST_ITEM%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_RESEARCH_AGREEMENT_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESEARCH_AGREEMENT_OFFER%</Response>
+		</Row>
+		<!-- Trade Dialogue -->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_AI_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_TRADE_ACCEPT_AI_DEMAND%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_HUMAN_CONCESSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_TRADE_ACCEPT_HUMAN_CONCESSIONS%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_TRADE_REJECT_UNACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_TRADE_REJECT_UNACCEPTABLE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_TRADE_REJECT_INSULTING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_TRADE_REJECT_INSULTING%</Response>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_WEAK_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_STRONG_HOSTILE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_WEAK_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_STRONG_EXCITED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_SAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_SAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_BETRAYED%</Response>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_LEADER_EIKI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_LEADER_EIKI%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_ATTACKED_MILITARY_PROMISE_BROKEN</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_ATTACKED_MILITARY_PROMISE_BROKEN%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_LAND%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_WORLD_CONQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_WORLD_CONQUEST%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_OPPORTUNITY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_OPPORTUNITY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_DESPERATE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_DESPERATE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_BETRAYAL%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_DOW_REGRET</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_DOW_REGRET%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_WAR_DEMAND_REFUSED</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_WAR_DEMAND_REFUSED%</Response>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_NO_PEACE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_TOO_SOON_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_TOO_SOON_NO_PEACE%</Response>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_AGGRESSIVE_MILITARY_WARNING_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_AGGRESSIVE_MILITARY_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_WE_ATTACKED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_WE_ATTACKED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_WE_ATTACKED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_PLEASED%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_ATTACKED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_KILLED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_EXPANSION_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_PLOT_BUYING_WARNING_GOOD%</Response>
+		</Row>-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_WE_BULLIED_MINOR_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HOSTILE_WE_BULLIED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_RESPONSE_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_BULLIED_MINOR_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_GREETING_WILL_ACCEPT_SURRENDER</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_GREETING_WILL_ACCEPT_SURRENDER%</Response>
+		</Row>
+		<!--Espionage-->
+		-<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_CAUGHT_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_CAUGHT_YOUR_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_KILLED_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_KILLED_YOUR_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_CONFRONT_YOU_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_CONFRONT_YOU_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_SUSPECT_YOU_OF_SPYING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_KILLED_MY_SPY%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_CAUGHT_YOUR_SPY_GOOD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_HUMAN_CAUGHT_YOUR_SPY_BAD%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE%</Response>
+		</Row> -<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE%</Response>
+		</Row>
+		<!--Digging-->
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="LEADER_EIKI">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_LEADER_EIKI_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

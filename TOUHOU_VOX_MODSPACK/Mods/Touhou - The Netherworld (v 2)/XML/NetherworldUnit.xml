@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_WRITER</Class>
+			<Type>UNIT_NETHERWORLD_SAMURAI_POET</Type>
+			<Combat>8</Combat>
+			<Cost>-1</Cost>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_OFFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_NETHERWORLD_SAMURAI_POET</Description>
+			<Civilopedia>TXT_KEY_CIV5_NETHERWORLD_SAMURAI_POET_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_NETHERWORLD_SAMURAI_POET_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_NETHERWORLD_SAMURAI_POET_HELP</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<XPValueAttack>0</XPValueAttack>
+			<XPValueDefense>0</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_NETHERWORLD_SAMURAI_POET</UnitArtInfo>
+			<IconAtlas>NETHERWORLD_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<UnitFlagAtlas>NETHERWORLD_ALPHA_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UnitAIType>UNITAI_WRITER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>150</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<PromotionType>PROMOTION_SECOND_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<PromotionType>PROMOTION_SAMURAI_POET</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SAMURAI_POET</Type>
+			<Description>TXT_KEY_PROMOTION_SAMURAI_POET</Description>
+			<Help>TXT_KEY_PROMOTION_SAMURAI_POET_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+	</UnitPromotions>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET1</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET1</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET2</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET2</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET3</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET3</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET4</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET4</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET5</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET5</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET6</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET6</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET7</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET7</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET8</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET8</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET9</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET9</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET10</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET10</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET11</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET11</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET12</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET12</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET13</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET13</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET14</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET14</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_NETHERWORLD_SAMURAI_POET</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAMURAI_POET15</UniqueName>
+			<GreatWorkType>GREAT_WORK_SAMURAI_POET15</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET1</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET1</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET1</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET2</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET2</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET2</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET3</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET3</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET3</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET4</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET4</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET4</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET5</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET5</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET5</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET6</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET6</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET6</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET7</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET7</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET7</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET8</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET8</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET8</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET9</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET9</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET9</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET10</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET10</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET10</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET11</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET11</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET11</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET12</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET12</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET12</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET13</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET13</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET13</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET14</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET14</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET14</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SAMURAI_POET15</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAMURAI_POET15</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET15</Quote>
+			<Audio/>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET1">
+			<Text>Anonymous Poet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET2">
+			<Text>Hokusai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET3">
+			<Text>Kinu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET4">
+			<Text>Wakyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET5">
+			<Text>Tojaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET6">
+			<Text>Toko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET7">
+			<Text>Sugetsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET8">
+			<Text>Issho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET9">
+			<Text>Chora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET10">
+			<Text>Ekaku Hakuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET11">
+			<Text>Wagin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET12">
+			<Text>Rangai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET13">
+			<Text>Nandai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET14">
+			<Text>Kasenjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMURAI_POET15">
+			<Text>Ichimu</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET1">
+			<Text>Anonymous Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET1">
+			<Text>
+				"Hototogisu[NEWLINE][NEWLINE]I will hear the rest of the song[NEWLINE][NEWLINE]in the land of the dead"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET2">
+			<Text>Hokusai's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET2">
+			<Text>
+				"As a ghost[NEWLINE][NEWLINE]I will wander[NEWLINE][NEWLINE]the summer fields"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET3">
+			<Text>Kinu's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET3">
+			<Text>
+				"How leisurely the cherry[NEWLINE][NEWLINE]blossoms bloom this year, unhurried,[NEWLINE][NEWLINE]by their doom!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET4">
+			<Text>Wakyu's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET4">
+			<Text>
+				"Heading to the end[NEWLINE][NEWLINE]treading through heavy snow[NEWLINE][NEWLINE]way of the brush"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET5">
+			<Text>Tojaku's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET5">
+			<Text>
+				"Returning to the void[NEWLINE][NEWLINE]this body![NEWLINE][NEWLINE]no longer bothered by the snow and frost"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET6">
+			<Text>Toko's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET6">
+			<Text>
+				"Death poems[NEWLINE][NEWLINE]are mere delusions[NEWLINE][NEWLINE]there is only death"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET7">
+			<Text>Sugetsu's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET7">
+			<Text>
+				"The years have piled up[NEWLINE][NEWLINE]on my path[NEWLINE][NEWLINE]snow on the withered fields!"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET8">
+			<Text>Issho's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET8">
+			<Text>
+				"From deep in my heart[NEWLINE][NEWLINE]the snow is beautiful![NEWLINE][NEWLINE]clouds in the west"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET9">
+			<Text>Chora's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET9">
+			<Text>
+				"'Paradise'[NEWLINE][NEWLINE]I murmur in my sleep![NEWLINE][NEWLINE]in the mosquito netting"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET10">
+			<Text>Ekaku Hakuin's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET10">
+			<Text>
+				"Oh young folk -[NEWLINE][NEWLINE]If you fear death,[NEWLINE][NEWLINE]die now![NEWLINE][NEWLINE]Having died once[NEWLINE][NEWLINE]you won't die again"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET11">
+			<Text>Wagin's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET11">
+			<Text>
+				"It's become a habit[NEWLINE][NEWLINE]bowing to the West[NEWLINE][NEWLINE]New Year's dawn"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET12">
+			<Text>Rangai's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET12">
+			<Text>
+				"I wish to die[NEWLINE][NEWLINE]a sudden death with eyes[NEWLINE][NEWLINE]fixed on Mount Fuji"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET13">
+			<Text>Nandai's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET13">
+			<Text>
+				"Since time began[NEWLINE][NEWLINE]the dead alone know peace.[NEWLINE][NEWLINE]Life is but melting snow"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET14">
+			<Text>Kasenjo's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET14">
+			<Text>
+				"Depths of cold[NEWLINE][NEWLINE]unfathomable[NEWLINE][NEWLINE]ocean roar"
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAMURAI_POET15">
+			<Text>Ichimu's Death Poem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_SAMURAI_POET15">
+			<Text>
+				"A broken dream[NEWLINE][NEWLINE]where do they go[NEWLINE][NEWLINE]the butterflies?"
+			</Text>
+		</Row>
+	</Language_en_US>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_NETHERWORLD_SAMURAI_POET</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>EarlyGreatArtist</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_NETHERWORLD_SAMURAI_POET</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_NETHERWORLD_SAMURAI_POET</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_NETHERWORLD_SAMURAI_POET</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Longswordsman_Japan_v2.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_NETHERWORLD_SAMURAI_POET</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_NETHERWORLD_SAMURAI_POET</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_NETHERWORLD_SAMURAI_POET</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_NETHERWORLD_SAMURAI_POET</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>NetherworldSVSamuraiPoet.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

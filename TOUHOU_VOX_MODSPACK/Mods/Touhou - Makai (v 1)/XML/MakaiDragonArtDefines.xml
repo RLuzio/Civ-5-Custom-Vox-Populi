@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/14/2014 7:27:32 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MAKAI_DRAGON</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>DefaultCavalry</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_MAKAI_DRAGON</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_MAKAI_DRAGON</UnitMemberInfoType>
+			<NumMembers>5</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_MAKAI_DRAGON</Type>
+			<Scale>24</Scale>
+			<Model>storm_drake.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_MAKAI_DRAGON</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk</EnableActions>
+			<ShortMoveRadius>24.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TurnRateMin>0.5</TurnRateMin>
+			<TurnRateMax>0.75</TurnRateMax>
+			<TurnFacingRateMin>15.0</TurnFacingRateMin>
+			<TurnFacingRateMax>20.0</TurnFacingRateMax>
+			<TargetHeight>12.0</TargetHeight>
+			<HasStationaryMelee>1</HasStationaryMelee>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>2</ReformBeforeCombat>
+			<OnlyTurnInMovementActions>1</OnlyTurnInMovementActions>
+			<RushAttackFormation>DefaultCavalry</RushAttackFormation>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_MAKAI_DRAGON</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>BLUNT</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>BLUNT</WeaponTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_MAKAI_DRAGON</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Lancer.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

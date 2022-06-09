@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/25/2017 10:14:19 PM -->
+<GameData>
+	<EventsAddin_Support>
+		<Row>
+			<FileName>TsukumogamiEvents.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>TsukumogamiDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_TSUKUMOGAMI_INSPIRE">
+			<Text>Inspire the Hopeless</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TSUKUMOGAMI_INSPIRE_DESC">
+			<Text>
+				Tsukumogami are born from discarded objects. Due to this, many tsukumogami have low self-esteem problems. We should build the Grand Concert Hall to hold a free-for-all show in which anyone may participate and display their talents to their full extent.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Tsukumogami
+				[NEWLINE][ICON_BULLET]Must have at least one Amphitheater
+				[NEWLINE][ICON_BULLET]Must have at least one Opera House
+				[NEWLINE][ICON_BULLET]Must have researched Architecture
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Amphitheaters and Opera Houses provide +1 [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]Grand Concert Hall is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TSUKUMOGAMI_INSPIRE_ENACTED_DESC">
+			<Text>
+				Tsukumogami are born from discarded objects. Due to this, many tsukumogami have low self-esteem problems. We should build the Grand Concert Hall to hold a free-for-all show in which anyone may participate and display their talents to their full extent.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Amphitheaters and Opera Houses provide +1 [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]Grand Concert Hall is built in the Capital
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TSUKUMOGAMI_SEARCH_ARTIFACTS">
+			<Text>Search for Other Artifact Spirits</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TSUKUMOGAMI_SEARCH_ARTIFACTS_DESC">
+			<Text>
+				There are many kinds of tsukumogami. Often, they are born within very small communities, struggling to survive due to the harshness of their surroundings. They are quickly forgotten by their former masters, and stories of haunted objects quickly become lost over time. If we search for them, we might be able to find and convince some to join our ranks![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Tsukumogami
+				[NEWLINE][ICON_BULLET]Player must have a majority religion
+				[NEWLINE][ICON_BULLET]Player must have at least 75% religious unity
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain 1 [ICON_CITIZEN] Citizen in the Capital whenever you finish an Archaeological Dig
+				[NEWLINE][ICON_BULLET]Allows the training of Toudan after researching Steel
+				[NEWLINE][ICON_BULLET]Allows the training of Kanmusu after researching Electronics
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TSUKUMOGAMI_SEARCH_ARTIFACTS_ENACTED_DESC">
+			<Text>
+				There are many kinds of tsukumogami. Often, they are born within very small communities, struggling to survive due to the harshness of their surroundings. They are quickly forgotten by their former masters, and stories of haunted objects quickly become lost over time. If we search for them, we might be able to find and convince some to join our ranks![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain 1 [ICON_CITIZEN] Citizen in the Capital whenever you finish an Archaeological Dig
+				[NEWLINE][ICON_BULLET]Allows the training of Toudan after researching Steel
+				[NEWLINE][ICON_BULLET]Allows the training of Kanmusu after researching Electronics
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU">
+			<Text>Wanted Amanojaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_DESC">
+			<Text>
+				An amanojaku has recently reached Most-Wanted status in all nations, and she was last seen in your lands. She was an old ally of yours, helping your revolution during its early days. You heard reports that she was using powerful artifacts for her own benefits, and you know deep down that these artifacts are crying because of her reckless behavior.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_1">
+			<Text>
+				Search for her, we must save those poor artifacts from her reckless hands!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_GoldenAge} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Reduce enemy spy stealing rate by 15% in all cities[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_1_NOTIFICATION">
+			<Text>
+				A nation wide search has been conducted, but every time we confront her she always slips away. Our search parties will continue to try to subdue the amanojaku.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_2">
+			<Text>
+				Give her asylum in our lands, we can bring her to our side once more.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance to be denounced by other civilizations[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_FOOD] Food, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science, [ICON_GOLD] Gold, and [ICON_CULTURE] Culture in all cities while you do not have the most score[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_STRENGTH] Combat Strength to all units while you do not have the most score[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_2_NOTIFICATION">
+			<Text>
+				We have given the amanojaku asylum in our lands. Be warned that other leaders will not take this lightly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_3">
+			<Text>
+				We have better things to do!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Turns} turns of [ICON_RESISTANCE] Resistance in all cities[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 3 free Great Musicians[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WANTED_AMANOJAKU_OUTCOME_3_NOTIFICATION">
+			<Text>
+				We have ignored this issue and focused on developing our civilization. The amanojaku continues to wreak havoc and has caused chaos in all of our cities!
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

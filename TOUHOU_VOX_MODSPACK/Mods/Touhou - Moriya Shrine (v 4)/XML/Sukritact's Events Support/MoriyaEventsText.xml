@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Onbashira Festival -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_ONBASHIRA_FESTIVAL">
+			<Text>Onbashira Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_ONBASHIRA_FESTIVAL_DESC">
+			<Text>The residents of {1_City} are celebrating the Onbashira festival![NEWLINE]
+			</Text>
+		</Row>
+		<!-- Onbashira Festival: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_ONBASHIRA_FESTIVAL_OUTCOME_1">
+			<Text>Their reverence for our faith shall benefit us all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_ONBASHIRA_FESTIVAL_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Culture} [ICON_CULTURE] Culture and {2_Faith} [ICON_PEACE] Faith.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_ONBASHIRA_FESTIVAL_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The celebration of the Onbashira festival has reaffirmed the faith of the people in us.</Text>
+		</Row>
+
+		<!-- Hisoutensoku -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU">
+			<Text>A Mysterious Form Has Been Sighted!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_DESC">
+			<Text>A mysterious giant has been seen wandering around. It can suddenly appear and can just as suddenly vanish seemingly without a trace. Everyone who has seen it has become curious about it, and wonders about the truth behind this strange sight.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Hisoutensoku: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_1">
+			<Text>It's a giant robot!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a unique Giant Death Robot.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have revealed that the giant is actually a robotic superweapon named Hisoutensoku.</Text>
+		</Row>
+		<!-- Hisoutensoku: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_2">
+			<Text>It's an advertising balloon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Trade Routes to the capital generate additional [ICON_GOLD] Gold and [ICON_PEACE] Faith.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The kappa have loaned us the steam-powered advertising balloon named Hisoutensoku.</Text>
+		</Row>
+		<!-- Hisoutensoku: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_3">
+			<Text>It's not important.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_HISOUTENSOKU_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>The mysterious figure has vanished, but may someday reappear.</Text>
+		</Row>
+
+		<!-- Kappa Dam -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM">
+			<Text>A Landslide Occurs!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_DESC">
+			<Text>
+				The kappa residing near {1_City} have inadvertantly caused a landslide while attempting to construct a dam, blocking the river and causing it to flood. We can assist them in clearing away the debris, but constructing a proper hydroelectric dam here may be a good idea as well.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Kappa Dam: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_1">
+			<Text>We shall assist them with clearing away the debris from the landslide.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Faith} [ICON_PEACE] Faith.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have cleared away the debris blocking the river, restoring its normal flow.</Text>
+		</Row>
+		<!-- Kappa Dam: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_2">
+			<Text>We shall supervise the construction of a proper hydroelectric dam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Faith} [ICON_PEACE] Faith and {2_Gold} [ICON_GOLD] Gold.[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a Kappa Dam in {3_City}.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Under our supervision, the kappa have constructed a proper hydroelectric dam, providing a boost to production in {1_City}.</Text>
+		</Row>
+		<!-- Kappa Dam: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_3">
+			<Text>It's none of our concern.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]All riverside improvements near {1_City} are pillaged.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MORIYA_KAPPA_DAM_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>The debris from the landslide has eventually been washed away, but left devastation in its wake.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

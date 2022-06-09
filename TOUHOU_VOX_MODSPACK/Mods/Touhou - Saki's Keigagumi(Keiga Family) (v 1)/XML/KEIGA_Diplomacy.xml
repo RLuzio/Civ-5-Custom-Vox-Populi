@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-10 오전 5:25:28 -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_KUROKOMA_SAKI">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_KUROKOMA_SAKI_FIRSTGREETING</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_KUROKOMA_SAKI">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_KUROKOMA_SAKI_POLITE_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_KUROKOMA_SAKI">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_KUROKOMA_SAKI_NEUTRAL_HELLO</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_KUROKOMA_SAKI">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_KUROKOMA_SAKI_HOSTILE_HELLO%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_KUROKOMA_SAKI">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_KUROKOMA_SAKI_DEFEATED</Response>
+			<Bias>4</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_FIRSTGREETING">
+			<Text>Please excuse me. I am Saki Kurokoma of the Keiga Family.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_POLITE_HELLO">
+			<Text>How about it? Why don't you ditch that Otter and join the Keiga Family instead?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_NEUTRAL_HELLO">
+			<Text>The Kiketsu Family is nothing but a bunch of spineless jerks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_HOSTILE_HELLO">
+			<Text>You're like that creepy Kicchou.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_DEFEATED">
+			<Text>......Haa, haa. Both strength and agility, bravery and knowledge! You've got everything in perfect balance! I-I'm moved!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KEIGAGUMI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now sank all their money into the Horse Racing. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_FIRSTGREETING">
+			<Text>실례했구나, 나는 경아파의 쿠로코마 사키다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_POLITE_HELLO">
+			<Text>괜찮다면 경아파에 들어와줄 수 있어? 귀걸파는 근성부터 삐딱한 놈들밖에 없거든. 경아파는 대쪽같은 녀석들밖에 없으니까,
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_NEUTRAL_HELLO">
+			<Text>아주 좋아! 인간이여! 어서 그 얼굴을 들라.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_HOSTILE_HELLO">
+			<Text>킷초처럼 재수없는 녀석 같으니라고.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_DEFEATED">
+			<Text>......하아 하아... 강력함과 재빠름, 탄막에 대한 용기와 지혜. 어느 하나 빠지는게 없군! 가, 감동했어!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KEIGAGUMI_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 경마에 빠져 가진 돈을 다 날렸습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_FIRSTGREETING">
+			<Text>失礼した、私は勁牙組組長、	驪駒早鬼である。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_POLITE_HELLO">
+			<Text>どうだ、勁牙組に入って貰えないだろうか？</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_NEUTRAL_HELLO">
+			<Text>見事だ！　人間よ！早速顔を見せよ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_HOSTILE_HELLO">
+			<Text>吉弔みたいないけ好かない奴め。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KUROKOMA_SAKI_DEFEATED">
+			<Text>……ハアハア……力強さと身軽さ、弾幕に対する勇気と知恵……	全てバランスが良い！か、感動した！</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KEIGAGUMI_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は競馬で有り金全部溶かした。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

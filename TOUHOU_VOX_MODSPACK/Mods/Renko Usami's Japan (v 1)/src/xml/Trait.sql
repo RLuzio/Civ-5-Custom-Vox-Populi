@@ -1,0 +1,1 @@
+ALTER TABLE Traits ADD NeoSuperExpress INTEGER DEFAULT 0;

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/15/2014 10:20:08 AM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_FOREST_OF_MAGIC_BACKGROUND</Type>
+			<Red>0</Red>
+			<Green>0.1098</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_FOREST_OF_MAGIC_ICON</Type>
+			<Red>1</Red>
+			<Green>0.9255</Green>
+			<Blue>0.7765</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_FOREST_OF_MAGIC</Type>
+			<PrimaryColor>COLOR_PLAYER_FOREST_OF_MAGIC_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_FOREST_OF_MAGIC_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

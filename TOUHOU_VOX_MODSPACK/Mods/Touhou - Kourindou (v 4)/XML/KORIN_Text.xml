@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-19 오전 10:34:10 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_DESC'>
+			<Text>Kourindou</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_STRATEGY'>
+			<Text>Kourindou is an antique store seated between the Human Village and the Forest of Magic, run by Rinnosuke Morichika.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_HELP'>
+			<Text>Unique building of the Kourindou civilization. Replaces the Palace. It provides 2 Merchant slots</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_PEDIA'>
+			<Text>The store is Rinnosuke's home. Although it's a somewhat well-known establishment for the residents of Gensokyo, Rinnosuke rarely (if ever) actually sells anything, despite keeping an exhaustive inventory; he mostly trades and/or puts up with "creative borrowing" from Reimu Hakurei and Marisa Kirisame. The store doesn't get very many customers aside from the usual noisy ones. Mold often grows in the store, as well, which may contribute to this.[NEWLINE][NEWLINE]On occasion, the store is used for completely non-business ventures, such as cooking and combat. The store has also taken quite a bit of damage over time, thanks to conflicts that involve the store's occupants.[NEWLINE][NEWLINE]The inventory of Kourindou is (presumably) its main draw, as it mostly includes items from the outside world. Teacups, feather pillows, computing magazines, kerosene/paraffin heaters, and even an iPod have made their way there over time.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_DESC'>
+			<Text>Poison Pill</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_STRATEGY'>
+			<Text>In the field of mergers and acquisitions, shareholder rights plans were devised in the early 1980s as a way to prevent takeover bidders from negotiating a price for sale of shares directly with shareholders, and instead forcing the bidder to negotiate with the board.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_HELP'>
+			<Text>Unique building of the Kourindou civilization. Bad effects for happiness etc. buy it before enemy's occupation!</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_PEDIA'>
+			<Text>A shareholder rights plan, colloquially known as a "poison pill", is a type of defensive tactic used by a corporation's board of directors against a takeover. Typically, such a plan gives shareholders the right to buy more shares at a discount if one shareholder buys a certain percentage or more of the company's shares. The plan could be triggered, for instance, if any one shareholder buys 20% of the company's shares, at which point every shareholder (except the one who possesses 20%) will have the right to buy a new issue of shares at a discount. If every other shareholder is able to buy more shares at a discount, such purchases would dilute the bidder's interest, and the cost of the bid would rise substantially. Knowing that such a plan could be activated, the bidder could be disinclined to take over the corporation without the board's approval, and would first negotiate with the board in order to revoke the plan.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_DESC'>
+			<Text>Ibis Bomber</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_HELP'>
+			<Text>Replaces WW1 Bomber. Can build after research the Writing.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_STRATEGY'>
+			<Text>Tokiko is a minor, unnamed character who only appears in Curiosities of Lotus Asia. She is probably just one of the many weak youkai in Gensokyo, but seems to value and enjoy books.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_PEDIA'>
+			<Text>Tokiko, a technically unnamed character, appears in the first chapter of Curiosities of Lotus Asia, where she is beaten up by Reimu Hakurei while trying to read a book. It is presumed that she is a youkai because of the fact that she has wings, but other than that, nothing is known about her.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_DESC'>
+			<Text>향림당</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_STRATEGY'>
+			<Text>동방프로젝트에서 모리치카 린노스케가 운영하는 상점. 마법의 숲 입구에 있으며 하쿠레이 신사, 인간 마을의 딱 중간쯤 위치해 있어 입지상으로는 나쁘지 않으나, 주변에 요괴가 심심찮게 돌아다녀서 이곳까지 가는 길의 안전은 보장할 수 없다. 그 때문에 평범한 인간 손님은 적다고 한다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_HELP'>
+			<Text>향림당의 고유 건물입니다. 궁전을 대체하며 상인 슬롯 2개를 제공합니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_PEDIA'>
+			<Text>
+				동방구문구수의 붕붕마루 신문 기사에 살짝 향림당이 언급되기도 한다. 당시 기사의 날짜는 제78계(1963년) 신무월의 1일이다. 즉, 50여년 전. 린노스케가 키리사메가에서 나와 향림당을 연 것은 최소한 그 이전이라는 소리. 이로서 린노스케가 키리사메가에서 수행을 쌓을 무렵에 이미 마리사가 태어나 있었다는 식으로 묘사되는 2차 창작물은 마리사의 나이를 50세 이상으로 만들어버리는 물건이 되었다(…). 다만, 동방향림당 본편에서는 린노스케가 직접 11년 전에 향림당을 마법의 숲 근처에 세웠다고 말하고 있어 모순되는 부분이 존재한다. 팬들은 '50여년 전이나 그전에 향림당을 어딘가에 세움 -> 향림당을 잠깐 그만두고 키리사메 가에서 수행 -> 11여년 전에 원래 있던 향림당을 마법의 숲으로 옮김'으로 해석하는 듯
+			</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_DESC'>
+			<Text>포이즌 필</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_STRATEGY'>
+			<Text>포이즌 필은 용어가 주는 인상과는 달리 한 건의 계약서이다. 경영권 방어의 필요를 가지고 있는 회사와 신주 발행 등에 필요한 업무를 대리하는 대행회사 간에 체결되는 문서이다. 미국의 판례법은 포이즌 필을 원칙적으로 유효하다고 본다.그러나 포이즌 필은 도입되지 않은 대한민국에서는 물론이나, 미국에서조차도 그 난공불락의 이미지로 인해 많은 경영자들이 원칙적으로 위법한 것으로 잘못 알고 있다. 이 전략은 단기적으로는 인수합병을 방어할 수 있지만, 장기적으로는 기업의 가치를 떨어뜨리는 결과를 초래할 수 있기 때문에 "독약"이라는 의미를 갖고 있다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_HELP'>
+			<Text>향림당의 고유 건물입니다. 행복 등 각종 수치를 하락시킵니다. 적 점령 직전에 사 두면 좋습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_PEDIA'>
+			<Text>포이즌 필(Poison pill), 독약 조항 또는 주주권리계획(shareholder rights plan)은 일종의 경영권 방어수단으로서 적대적 공격을 받는 기업이 경영권이전과 같은 일정한 조건이 성취되었을 때 발행사의 보통주 1주에 대해 헐값에 한 개 또는 다수의 주식을 매입하거나 또는 다수의 주식으로 전환될 수 있는 권리 또는 회사에 비싼 값에 주식을 팔 수 있는 권리를 하나씩 부여하기로 하는 계획을 말한다. 이러한 권리가 매수기업의 입장에서는 매수시도를 좌절시키는 치명적인 독약이 될 수 있어 "독"이라는 말을 사용한 것이다. "적"에게 잡혀 먹히기 전에 독약을 한 알 꿀꺽 삼킴으로써 공격하려는 상대의 의지를 꺾어버리는 전략이다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_DESC'>
+			<Text>따오기 폭격기</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_HELP'>
+			<Text>1차대전 폭격기를 대체합니다. 문자 연구 이후 생산할 수 있습니다.</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_STRATEGY'>
+			<Text>
+				동방향림당의 엑스트라 캐릭터. 대요정, 소악마와 더불어 정식 이름이 없다.
+			</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_PEDIA'>
+			<Text>그냥 조용히 책을 읽다가(비 노이만형 계산기의 미래 13, 14, 15권) 가는 길에 보이는 모든 요괴를 퇴치하는 하쿠레이 레이무의 공격을 받고 책을 뺏겨서 향림당에 책을 찾으러 온 인물. 하지만 키리사메 마리사에게 깔끔하게 퇴치당했다. 다만 이 때 레이무에게 "건방지게 강하다"라는 말을 들었고, 선빵기습을 당했음에도 레이무에게 유효타를 날리는데 성공한 것을 보면 의외로 졸개급은 아닐지도 모른다. 오히려 나름 꽤 강한 요괴일지도. 동방영나암 6화 표지에서 릴리 화이트와 함께 모습을 잠깐 비춘다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_DESC'>
+			<Text>香霖堂</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_STRATEGY'>
+			<Text>東方香霖堂に登場する、主人公「森近霖之助」が経営する道具屋。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_HELP'>
+			<Text>香霖堂のUBです。宮殿を代替し、商人枠２つを提供します。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_KOURINDOU_PEDIA'>
+			<Text>幻想郷で唯一外の世界の道具、冥界の道具、妖怪の道具、魔法の道具全てを扱う道具屋。販売だけでなく買い取りも行っている。人妖ともに拒まれず、誰でも利用できる。しかし、霖之助が気に入ったものは非売品としてしまうため意外と商品は少ない。頻繁に仕入れを行っているのか商品の入れ替わりが早く、珍品が流れ着いていることも。 商品の値段は基本的に時価。要相談。 博麗霊夢や霧雨魔理沙がよく入り浸っている。 他にも宇佐見菫子と茨木華扇の待ち合わせ場所になっていたり、今泉影狼が主催するゲーム「汝、人間なりや？」の会場として店の一部を提供している。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_DESC'>
+			<Text>ポイズンピル</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_STRATEGY'>
+			<Text>毒薬条項とも呼ばれる。新株予約権を予め発行しておき、一定の条件が満たされると廉価でそれを行使可能にさせ、株式の希薄化によって買収する側の持ち株比率を下げる仕組み。アメリカでは、新株予約権付株式を用いて行われる。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_HELP'>
+			<Text>香霖堂のUBです。幸福など様々な数値にペナルティを受けます。敵の占領の前に買って置きましょう。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_BUILDING_POISON_PILL_PEDIA'>
+			<Text>
+				日本では旧商法下では新株予約権付株式は認められていなかったので、信託型ライツプランが最も幅広く用いられていた。2006年5月1日施行の新会社法の下では取得請求権及び取得条項の取得対価として新株予約権をつける事が法律上可能となり、事実上の新株予約権付株式の発行が可能となったので今後の日本における買収防衛策に利用される可能性がある。ポイズンピルとライツプランは同義ではないが、日本ではほぼ互換的に用いられる。
+			</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_DESC'>
+			<Text>朱鷺爆撃機</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_HELP'>
+			<Text>第1次大戦爆撃機を代替します。筆記の研究済みで生産できます。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_STRATEGY'>
+			<Text>書籍「東方香霖堂」内で登場する「東方Project」の登場キャラクター。なお公式な本名はなく、「朱鷺子」はファンの間での通称である。</Text>
+		</Row>
+		<Row Tag='TXT_KEY_UNIT_IBIS_BOMBER_PEDIA'>
+			<Text>道端で楽しそうに本を読んでいたところ、通りすがりの博麗霊夢に何となく不意打ちで攻撃されてけちょんけちょんに退治され、持っていた3冊の本を全て奪われた可哀想な妖怪。霊夢を追って香霖堂を訪れて本を返すように迫るが、その本は既に霊夢の服の修繕費＋森近霖之助の服の貸付＋ドアの修繕費として全て霖之助に売られていた。本の在処を教えるように霊夢に迫るが、最終的に魔理沙に倒された。その後彼女に本が返されたかは不明。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/14/2014 6:29:21 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_CANNON</Class>
+			<Type>UNIT_FOM_WITCH</Type>
+			<PrereqTech>TECH_CHEMISTRY</PrereqTech>
+			<Combat>14</Combat>
+			<RangedCombat>20</RangedCombat>
+			<Cost>200</Cost>
+			<FaithCost>400</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_CITY_BOMBARD</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_FOM_WITCH</Description>
+			<Civilopedia>TXT_KEY_UNIT_FOM_WITCH_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_FOM_WITCH_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_FOM_WITCH_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<ObsoleteTech>TECH_DYNAMITE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ARTILLERY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_FOM_WITCH</UnitArtInfo>
+			<UnitFlagAtlas>FLAG_ATLAS_TH_FOREST_OF_MAGIC</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>TH_FOREST_OF_MAGIC_CIV_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>03</PortraitIndex>
+			<MoveRate>HEAVY_BIPED</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<UnitAIType>UNITAI_CITY_BOMBARD</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<UnitClassType>UNITCLASS_ARTILLERY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<PromotionType>PROMOTION_SIGHT_PENALTY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_FOM_WITCH</UnitType>
+			<PromotionType>PROMOTION_CITY_SIEGE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MUSHROOM_SPORES</Type>
+			<Description>TXT_KEY_PROMOTION_MUSHROOM_SPORES</Description>
+			<Help>TXT_KEY_PROMOTION_MUSHROOM_SPORES_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<AttackMod>-10</AttackMod>
+			<DefenseMod>-10</DefenseMod>
+			<PortraitIndex>10</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_MUSHROOM_SPORES</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_DECISIONS_MINIHAKKERO</Type>
+			<Description>TXT_KEY_PROMOTION_DECISIONS_MINIHAKKERO</Description>
+			<Help>TXT_KEY_PROMOTION_DECISIONS_MINIHAKKERO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OpenRangedAttackMod>20</OpenRangedAttackMod>
+			<RoughRangedAttackMod>20</RoughRangedAttackMod>
+			<PortraitIndex>10</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_DECISIONS_MINIHAKKERO</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_DECISIONS_MINIHAKKERO</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_MUSHROOM_SPORES">
+			<Text>Mushroom Spores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MUSHROOM_SPORES_HELP">
+			<Text>Units affected by the spores suffer a -10% penalty to attack and defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_MUSHROOM_SPORES">
+			<Text>Units affected by the spores suffer a -10% penalty to attack and defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_MINIHAKKERO">
+			<Text>Mini-Hakkero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_MINIHAKKERO_HELP">
+			<Text>+20% Ranged combat strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_DECISIONS_MINIHAKKERO">
+			<Text>+20% Ranged combat strength.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

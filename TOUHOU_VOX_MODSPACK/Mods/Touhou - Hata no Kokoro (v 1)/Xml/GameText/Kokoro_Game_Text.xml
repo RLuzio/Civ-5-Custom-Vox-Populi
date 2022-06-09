@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/18/2019 9:42:46 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Civ: MASQUERADE-->
+		<Row Tag="TXT_KEY_CIV_MASQUERADE_DESC">
+			<Text>State of Masquerade</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV_MASQUERADE_SHORT_DESC">
+			<Text>Masquerade</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV_MASQUERADE_ADJECTIVE">
+			<Text>Masquerade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MASQUERADE_DAWN_TEXT">
+			<Text>Greetings, expressive poker-face, Hata no Kokoro, the master of emotions. [NEWLINE][NEWLINE]You revived without the mask of hope during the war of religions, a grand battle when demagogic religionists fought for popularity and new believers. Company with the riot of emotions, residents of Gensokyo lost their hope gradually and became impassive in the midnight. You joined the battle, learned to contorl emotions, regained hope and finally drew a full stop for the war.[NEWLINE][NEWLINE]Oh, dear Kokoro, Gensokyo had came back to peace, but there's never a quiet moment with outside world, the shadow of war still hangs heavily over continents, hope had disappeared, pain, fear and despair spread as the plague. Now it's the time to stand out! Will you help the world regain hope? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<!--Civ: MASQUERADE  Pedia-->
+		<Row Tag="TXT_KEY_CIV5_MASQUERADE_HEADING_1">
+			<Text>State of Masquerade</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIV5_MASQUERADE_TEXT_1">
+			<Text>Civilization led by Hata no Kokoro</Text>
+		</Row>
+
+		<!--Leader: Hata no Kokoro-->
+		<Row Tag="TXT_KEY_LEADER_KOKORO">
+			<Text>Hata no Kokoro</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Leader: Hata no Kokoro  Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOKORO_NAME">
+			<Text>Hata no Kokoro</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOKORO_SUBTITLE">
+			<Text>Expressive Pokerface</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOKORO_TITLES_1">
+			<Text>Menreiki</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOKORO_LIVED">
+			<Text>TH13.5</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOKORO_HEADING_1">
+			<Text>About</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KOKORO_TEXT_1">
+			<Text>The ancestor of the music, The mask used by Qin Hesheng has been transformed into a tsukumogami after a long period of time. Each mask represents a fixed feeling, and the feelings change when the mask is worn. Feelings also affect people in the vicinity. The number of masks is sixty-six. Although each has a fixed feeling, but because it is a lot, it seems that only the mask of joy and anger is used. Originally, her feelings are balanced and very stable. But when one of the masks is lost, the power of the original feelings will interfere with each other. In fact, she basically does not reveal her feelings when she is stable. She is not interested in anything, and will only quietly be a tsukumogami when it is unnecessary to use a mask.</Text>
+		</Row>
+
+		<!--Trait: ART_OF_HOPE-->
+		<Row Tag="TXT_KEY_TRAIT_ART_OF_HOPE">
+			<Text>Artists +3[ICON_RESEARCH] +3[ICON_FOOD] +3[ICON_PEACE], Artifact and great work of Art +2[ICON_RESEARCH] +2[ICON_FOOD] +2[ICON_PEACE]. Receive a free great Artist upon researching Guilds.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_TRAIT_ART_OF_HOPE_SHORT">
+			<Text>Art of Hope</Text>
+		</Row>
+
+		<!--Unique Building: TREASUREHOUSE-->
+		<Row Tag="TXT_KEY_BUILDING_MASQUERADE_TREASUREHOUSE">
+			<Text>Treasurehouse</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_MASQUERADE_TREASUREHOUSE_HELP">
+			<Text>+25% generation of [ICON_GREAT_PEOPLE] Great People in this city. Has 2 slots for great work of art and artifact with same theme bonus as museum, needs little more production.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_MASQUERADE_TREASUREHOUSE_PEDIA">
+			<Text>Building used to save and preserve treasure or items. If the owner leave them unused for them, they may become tsukumogamis.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_BUILDING_MASQUERADE_TREASUREHOUSE_STRATEGY">
+			<Text>Replacing the Garden. Provides 2 slots for great works of art, Helps win by culture. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_KOKORO_TRAIT_BUILDING">
+			<Text>Kokoro Trait Build</Text>
+		</Row>
+		
+		<!--Unique Unit: MENREIKI-->
+		<Row Tag="TXT_KEY_UNIT_MASQUERADE_MENREIKI">
+			<Text>Menreiki</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_UNIT_MASQUERADE_MENREIKI_HELP">
+			<Text>Improved archaeologist, move and work faster, can be bought by fatih and enter rival land.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_UNIT_MASQUERADE_MENREIKI_PEDIA">
+			<Text>Menreiki is a type of yokai in Japanese folklore, composed of Gigaku masks. It is listed within the 1781 compedium of Japanese supernatural entities, entitled Gazu Hyakki Tsurezure Bukuro. It is mentioned in folklore that during the time of Prince Shotoku, the prince created various Gigaku masks which were used by Hata no Kawakatsu, and that the Menreiki is based on those masks.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_UNIT_MASQUERADE_MENREIKI_STRATEGY">
+			<Text>Helps win by culture, core unit of Masquerade.</Text>
+		</Row>
+
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_0">
+			<Text>Despair</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_1">
+			<Text>Sadness</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_2">
+			<Text>Anger</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_3">
+			<Text>Fear</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_4">
+			<Text>Greed</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_5">
+			<Text>Idleness</Text>
+			<Gender>freminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_6">
+			<Text>Deceitfulness</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_7">
+			<Text>Numbness</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_8">
+			<Text>Selfishness</Text>
+			<Gender>feminine</Gender>
+		</Row> 
+		<Row Tag="TXT_KEY_SPY_NAME_MASQUERADE_9">
+			<Text>Jealousy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--City names-->
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_1">
+			<Text>Hope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_2">
+			<Text>Courage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_3">
+			<Text>Resolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_4">
+			<Text>Justice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_5">
+			<Text>Devotion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_6">
+			<Text>Sympathy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_7">
+			<Text>Enthusiasm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_8">
+			<Text>Decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_9">
+			<Text>Inspiration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_10">
+			<Text>Encouragement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_11">
+			<Text>Excitement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_12">
+			<Text>Reason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_13">
+			<Text>Cautious</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_14">
+			<Text>Modesty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_15">
+			<Text>Dedication</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_16">
+			<Text>Calmness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_17">
+			<Text>Joy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_18">
+			<Text>Generosity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_19">
+			<Text>Fervent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_20">
+			<Text>Kindness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MASQUERADE_21">
+			<Text>Endeavour</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

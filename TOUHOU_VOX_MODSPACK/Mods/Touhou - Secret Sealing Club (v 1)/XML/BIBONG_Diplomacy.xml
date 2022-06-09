@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-08-10 오전 5:25:28 -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_USAMI_SUMIREKO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_USAMI_SUMIREKO_FIRST_GREETING</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_USAMI_SUMIREKO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_USAMI_SUMIREKO_DEFEATED</Response>
+			<Bias>4</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_FIRST_GREETING">
+			<Text>I'm Sumireko Usami, first-year student at Higashifukami High. A real-life psychic who silences crying children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_DEFEATED">
+			<Text>Ah, what a beautiful death. What a worthwhile death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BIBONG_CLUB_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your yuri-doujinshis of Secret Sealing Club and become lez. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_FIRST_GREETING">
+			<Text>히가시후카미 고등학교 1학년, 우사미 스미레코. 우는 아이도 뚝 그치는 진짜 초능력자야.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_DEFEATED">
+			<Text>아아, 이 얼마나 아름다운 죽음인가. 얼마나 값진 죽음인가.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BIBONG_CLUB_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 당신네 비봉클럽 백합동인지를 사들이고 레즈가 되어가고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_FIRST_GREETING">
+			<Text>東深見高校一年、宇佐見菫子。泣く子も黙る本物の超能力者よ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_USAMI_SUMIREKO_DEFEATED">
+			<Text>ああなんて美しい死。なんて価値のある死。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_BIBONG_CLUB_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は貴国の秘封倶楽部の百合同人誌を買い、レズになっている。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

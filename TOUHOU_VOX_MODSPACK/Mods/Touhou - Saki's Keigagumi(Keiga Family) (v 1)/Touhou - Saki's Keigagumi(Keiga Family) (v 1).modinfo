@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f8c0adf9-a7c3-47f4-85b2-63128cd6c4a8" version="1">
+  <Properties>
+    <Name>Touhou - Saki's Keigagumi(Keiga Family)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Let's Run</Teaser>
+    <Description>She likes strong people, even if they're an enemy.
+She gets along terribly with both Kicchou and Keiki, but she does respect their strength.
+
+UA: Having unmatched leg strength
+Mounted and Armor Units' Movement+2
+
+UU1: Teamster
+Replaces scout. It's regarded as mounted unit. Very fast!
+
+UU2: Pegasus
+Replaces Lancer. Ignores Terrain Cost.
+
+UB: Hippodrome
+In addition to the regular abilities of the Stable, the Hippodrome increases Gold on Pasture tiles and +25 XP and Horse Racing promotion for Mounted Units. Only the Keigagumi may build it.</Description>
+    <Authors>Camelliaboy</Authors>
+    <SpecialThanks>Ohta Jun'ya (aka ZUN, Team Shanghai Alice) and KRA, JRA</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="civ4" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="unique culture" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DFCEC8E06A5EC9DEEE302A183025B80E" import="1">ART/KEIGA_Alpha128.dds</File>
+    <File md5="512CD667E634A26DA8DE4346DE585FD6" import="1">ART/KEIGA_Alpha16.dds</File>
+    <File md5="3EF941097BBA8D823493D22CEB16863A" import="1">ART/KEIGA_Alpha24.dds</File>
+    <File md5="F2B22D884B073D591BE1A9D356FE92D4" import="1">ART/KEIGA_Alpha32.dds</File>
+    <File md5="1BBF50A5CDF33AAE869B17CB4BA8A2A5" import="1">ART/KEIGA_Alpha48.dds</File>
+    <File md5="86FF3B7955FC2E9D4BE655CFFA13D0C2" import="1">ART/KEIGA_Alpha64.dds</File>
+    <File md5="D6CD9CEDFD19B6FEE1317E1657A46A12" import="1">ART/KEIGA_Atlas128.dds</File>
+    <File md5="C56FBA95555580592BE2588CDBE4C1F4" import="1">ART/KEIGA_Atlas256.dds</File>
+    <File md5="DAF954C76D0ED4E5DAAC14C2A3370403" import="1">ART/KEIGA_Atlas32.dds</File>
+    <File md5="DF07D9D997BEC9C9EBAC0959407C8EF6" import="1">ART/KEIGA_Atlas45.dds</File>
+    <File md5="8B0EF9CEB02DA91B9EFA64D4C0327C7B" import="1">ART/KEIGA_Atlas64.dds</File>
+    <File md5="6015AD5F80A3F83BE7AFF2D30C6BED9C" import="1">ART/KEIGA_Atlas80.dds</File>
+    <File md5="5886682C76700A88E2913C6F48152C19" import="1">ART/KEIGA_DOM.dds</File>
+    <File md5="956022963A6A5A29BBD389747ACF810E" import="1">ART/KEIGA_Map.dds</File>
+    <File md5="02C98B4C5A4BA0FF5F291C32FB10974F" import="1">ART/KEIGA_Scene.dds</File>
+    <File md5="75A95D15CE5AF5CE6A60C952CDFED07C" import="1">ART/KEIGA_Scene.xml</File>
+    <File md5="EF15DF900B1999DEF07ACABA05EE1889" import="1">MUSIC/KEIGA_DOM.mp3</File>
+    <File md5="2A05CD97051C916CBB84163149DE4940" import="1">MUSIC/KEIGA_Peace.mp3</File>
+    <File md5="329392F43EC39AE9A5FBFF49BE7DA3E1" import="1">MUSIC/KEIGA_Peace1.mp3</File>
+    <File md5="ACCC348E349B4A6C7C8889CFAA4E5EAA" import="1">MUSIC/KEIGA_Peace2.mp3</File>
+    <File md5="F9D3FCCCA8298801D708ED54311998A9" import="1">MUSIC/KEIGA_Peace3.mp3</File>
+    <File md5="76C44526169AD4911D5C7753D81296E9" import="1">MUSIC/KEIGA_War.mp3</File>
+    <File md5="2C5EFA2F46136D0298DA2C63BB93348B" import="1">MUSIC/KEIGA_War1.mp3</File>
+    <File md5="4B6728EB90445FFA046A8D601DC71DEF" import="1">MUSIC/KEIGA_War2.mp3</File>
+    <File md5="9BFBABB276DD9F38B6937249B6DF3B48" import="1">MUSIC/KEIGA_War3.mp3</File>
+    <File md5="3098054DE2FBB98E965DEB0F5E185764" import="0">XML/KEIGA_Building.xml</File>
+    <File md5="94382BD6E5B223784E6B8548990ECC6E" import="0">XML/KEIGA_Civ4.sql</File>
+    <File md5="14E22FB675946F04472F833EE5329AF8" import="0">XML/KEIGA_Civ4.xml</File>
+    <File md5="7AD6280F3AD36A0624841EC128A0DCF3" import="0">XML/KEIGA_Civilization.xml</File>
+    <File md5="E72070AADAFBDD89DEA9DFCEFFBC1717" import="0">XML/KEIGA_Diplomacy.xml</File>
+    <File md5="798F4BC65A0B82D4D8FA6CB048C9569A" import="0">XML/KEIGA_Icon.xml</File>
+    <File md5="7F6ABAC1B66F5EA22C7749C06E20C032" import="0">XML/KEIGA_Leader.xml</File>
+    <File md5="3152F3BE16E6DC4660C5D445DD22E286" import="0">XML/KEIGA_Music.xml</File>
+    <File md5="0A2341A57D59D366DFC74BFB3BCE44A8" import="0">XML/KEIGA_Music_SD.xml</File>
+    <File md5="39137A96023E3066D6987DE05AA8D9A6" import="0">XML/KEIGA_Trait.xml</File>
+    <File md5="5FA2FC5904AAA40028BD85B7BF3BB2E0" import="0">XML/KEIGA_Unit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/KEIGA_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Icon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Music_SD.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Civ4.sql</UpdateDatabase>
+      <UpdateDatabase>XML/KEIGA_Civ4.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

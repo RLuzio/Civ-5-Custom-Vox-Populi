@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/28/2019 2:42:53 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_IMAGINARY_COMPANION</Type>
+			<Description>TXT_KEY_TRAIT_IMAGINARY_COMPANION</Description>
+			<ShortDescription>TXT_KEY_TRAIT_IMAGINARY_COMPANION_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+  
+</GameData>

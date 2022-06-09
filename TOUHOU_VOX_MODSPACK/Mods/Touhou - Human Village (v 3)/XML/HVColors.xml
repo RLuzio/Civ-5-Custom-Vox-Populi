@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/13/2013 10:00:41 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_HV_BACKGROUND</Type>
+			<Red>0.843</Red>
+			<Green>0.725</Green>
+			<Blue>0.624</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_HV_ICON</Type>
+			<Red>0.3516</Red>
+			<Green>0.5117</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TOUHOU_HV</Type>
+			<PrimaryColor>COLOR_PLAYER_TOUHOU_HV_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_TOUHOU_HV_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:36:21 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_MASQUERADE_LAND</Type>
+			<Red>0.8</Red>
+			<Green>0.45</Green>
+			<Blue>0.8</Blue>
+			<Alpha>1</Alpha>
+		</Row> 
+		<Row>
+			<Type>COLOR_MASQUERADE_BORDER</Type>
+			<Red>1</Red>
+			<Green>1</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

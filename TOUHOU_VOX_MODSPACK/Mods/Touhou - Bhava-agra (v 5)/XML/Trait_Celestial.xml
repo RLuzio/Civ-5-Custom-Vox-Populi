@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2016 12:43:09 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MATHALX_CELESTIAL_HERITAGE</Type>
+			<Description>TXT_KEY_TRAIT_MATHALX_CELESTIAL_HERITAGE_REMAKE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MATHALX_CELESTIAL_HERITAGE_SHORT</ShortDescription>
+			<CombatBonusImprovement>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</CombatBonusImprovement>
+			<NearbyImprovementCombatBonus>15</NearbyImprovementCombatBonus>
+			<NearbyImprovementBonusRange>1</NearbyImprovementBonusRange>
+		</Row>
+	</Traits>
+</GameData>

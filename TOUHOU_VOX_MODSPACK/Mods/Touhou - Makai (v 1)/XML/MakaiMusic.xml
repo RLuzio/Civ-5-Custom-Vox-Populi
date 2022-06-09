@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/19/2014 12:31:35 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  	<Audio_Sounds>
+
+		<!--Shinki Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SHINKI_PEACE</SoundID>
+			<Filename>ShinkiPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_SHINKI_WAR</SoundID>
+			<Filename>ShinkiWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Shinki Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Shinki Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SHINKI_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SHINKI_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_SHINKI_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SHINKI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Shinki Music-->
+	</Audio_2DSounds>
+
+</GameData>

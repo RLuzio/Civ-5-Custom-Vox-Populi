@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Zashiki-Warashi -->
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI">
+			<Text>The Zashiki-Warashi Disappear!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_DESC">
+			<Text>The zashiki-warashi, helpful household spirits that resemble young girls, have begun to disappear from the homes they protect in {1_City}, lured away by new opportunities in other lands. A youkai has tracked down replacements -- hobgoblins from Europe -- but these creatures look much uglier than the cute zashiki-warashi, and so people have begun to ask that they be exterminated instead. And others are suspicious as to why the youkai would get involved...[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Zashiki-Warashi: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_1">
+			<Text>Pay the zashiki-warashi more money, so they return!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 3 [ICON_HAPPINESS_1] Happiness in {2_City}.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>People are happy the zashiki-warashi have returned to their homes, while the hobgoblins have found employment elsewhere.</Text>
+		</Row>
+		<!-- Zashiki-Warashi: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_2">
+			<Text>The hobgoblins aren't so bad! They're hard workers!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 1 [ICON_PRODUCTION] Production for every 2 [ICON_CITIZEN] Citizens in {2_City}.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>People have adjusted to the presence of the hard-working hobgoblins.</Text>
+		</Row>
+		<!-- Zashiki-Warashi: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_3">
+			<Text>Both of them are suspicious. Drive both out!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Reduce enemy spy stealing rate by 25% in {1_City}.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TH_HV_ZASHIKI_WARASHI_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Due to suspicions that they were spying on the village for other youkai, both the zashiki-warashi and the hobgoblins have been driven out.</Text>
+		</Row>
+
+		<!-- God of Fortune -->
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE">
+			<Text>A God of Fortune Visits!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_DESC">
+			<Text>The citizens of {1_City} claim that a god of fortune has been seen visiting several of the shops in the area.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME">
+			<Text>A god of fortune always brings prosperity to those he visits.</Text>
+		</Row>
+		<!-- God of Fortune: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_FOOD] Food in {2_City}.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Several restaurants and food vendors in {1_City} have prospered after the god visited.</Text>
+		</Row>
+		<!-- God of Fortune: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Several merchants and artisans in {1_City} have prospered after the god visited.</Text>
+		</Row>
+		<!-- God of Fortune: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PRODUCTION] Production in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_GOD_OF_FORTUNE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Several craftsmen and builders in {1_City} have prospered after the god visited.</Text>
+		</Row>
+
+		<!-- Hopeless Masquerade -->
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE">
+			<Text>The Village Is In Despair!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_DESC">
+			<Text>
+				Recently, the citizens of the Ningen no Sato have been overwhelmed with pessimism and hopelessness. Local religious figures, sensing an opportunity to convert more people to their respective faiths, have begun prosletyzing, holding festivals, and even engaging each other in physical duels to determine which religion shall reign supreme.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Hopeless Masquerade: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_OUTCOME_1">
+			<Text>Our citizens will be able to find support and reassurance in their faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Faith} [ICON_PEACE] Faith and increase religious unity.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>As a result of the duels and festivals, the faith of the people in {1_Religion} has increased.</Text>
+		</Row>
+		<!-- Hopeless Masquerade: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_OUTCOME_2">
+			<Text>Well, at least people will have fun gambling on the duels...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Gold} [ICON_GOLD] Gold and 1 [ICON_HAPPINESS_1] Happiness in each city.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_HV_HOPELESS_MASQUERADE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The festival atmosphere from the duels has lifted people's spirits, and several people won quite a bit of money from the betting.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

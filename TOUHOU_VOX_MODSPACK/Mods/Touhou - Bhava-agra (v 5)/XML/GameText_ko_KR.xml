@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/12/2016 12:31:47 AM -->
+<GameData>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL_DESC">
+			<Text>유정천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL_SHORT_DESC">
+			<Text>천계</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_HEADING_1">
+			<Text>역사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_TEXT_1">
+			<Text>
+				동방 공식설정에 따르면 천계는 해탈해 열반에 도달하거나 염라대왕이 자질이 충분하다고 판단하는 자들의 영혼이 사는 곳이다. 하지만, 공식 설정에 따르면 천계는 공식 발표로 인구가 너무 많아 사람들을 더 수용할 수 없다고 했으나, 팔운 자에 따르면 이는 허구라고 한다. 천계에는 천인, 천사 및 기타 천계족들이 살고 있으며, 이들은 낚시, 술, 풍악 및 복숭아로 첨절된 풍요롭고 낙스러운 삶을 살고 있다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_HEADING_2">
+			<Text>전략</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_TEXT_2">
+			<Text>
+				유정천은 전체적으로 성장 위주의 올라운더 성격의 문명으로서, 언덕과 지형에 의존하는 성향이 없지는 않지만 언덕에서도 어느정도의 성장성이 보장되어서 잉카만큼은 아니지만 언덕에서 이득을 볼 수 있습니다. 또한, 잉카는 산에 의존하는 면이 크지만, 유정천의 고유 시설은 산과 시너지가 없기 때문에 산맥 근처에 도시를 세우는 것은 별로 추천되지 않습니다. 하지만, 산 옆에 도시를 개척하는 것은 고유 건물을 짓기 위해 권장됩니다.[NEWLINE][NEWLINE]유정천은 황금기 페널티 때문에 황금기를 적게 열고, 열때는 확실히 오래 지속하게 해야하는 문명입니다. 이렇기 때문에 천자는 예술가를 많이 뽑아야 하며, 이를 위해 미학을 개방하는 것이 추천됩니다. 또한, 맵 크기가 초대형이라면 자유 트리의 능력주의 제도의 힘을 빌려 도시의 전역 불행을 완전히 상쇄할 수 있으며, 보통 크기의 맵이더라도 전역 불행을 1로 줄여줄 수 있습니다.[NEWLINE][NEWLINE]이념은 전제가 가장 기피되며, 평등이 가장 선호되나 체제도 확장주의적 플레이를 추구할 경우 좋습니다. 하지만, 체제의 5년 계획은 요석에 생산력 보너스를 주지 않기 때문에 약간의 불이익이 있습니다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL">
+			<Text>천계</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_TITLE">
+			<Text>유정천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_CELESTIAL_ADJECTIVE">
+			<Text>천인</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_MATHALX_CELESTIAL_HERITAGE_REMAKE">
+			<Text>요석에서 1타일 내에 싸울 경우 [ICON_STRENGTH] 전투력 15% 증가합니다. [ICON_GOLDEN_AGE]황금기에 도시 저항이나 무정부 상태에 면역이며, 황금기 때 특수 날씨 건물을 건설해 요석에 추가 기능을 부여할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MATHALX_CELESTIAL_HERITAGE_SHORT">
+			<Text>비상의 검</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_CELESTIAL_DOM">
+			<Text>
+				유정천이 그대를 위해 행운을 빕니다, 비나명거 천자여.[NEWLINE][NEWLINE]그대는 그대 가문의 비정상적인 천인으로서의 승격으로 인해 항상 불량 천인으로 인식받고 있었습니다. 그대는 자신감이 넘치는 아가씨로서, 속세에 대한 미련을 버리지 못하여서 그런지 많은 이들은 그대를 지도자감으로 보지 않았습니다. 또한, 놀 상대를 찾으려고 환상향에 지진을 일으킨 비상천 이변으로 인해 환상향의 주민들에게도 나쁜 평판을 얻었습니다.[NEWLINE][NEWLINE]하지만 그대에게 기회가 주어졌습니다, 천자. 세계를 상대로 당신이 실력과 자질을 가지고 있다는 것을 보여주되, 외교, 전쟁 및 내정을 하면서 재미를 보십시오. 그대가 지닌 능력은 시대의 시련을 이겨낼 문명을 지어낼 수 있을 것입니다. 그대의 발언이 그대의 능력을 제대로 반영합니까, 천자? 시대의 시련을 이겨낼 문명을 지어내겠습니까?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_PEDIA">
+			<Text>
+				추가 예정
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_LIVED">
+			<Text>TH10.5-</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_NAME">
+			<Text>비나명거 천자</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO">
+			<Text>비나명거 천자</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_TENKO_CIV_IV">
+			<Text>비나명거 천자 [ICON_FOOD][ICON_STRENGTH]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_HEADING_1">
+			<Text>개요</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_TEXT_1">
+			<Text>
+				비나명거 천자(원어 왜어-히나나이 텐시)는 동방프로젝트의 캐릭터로서, 동방비상천의 최종보스로 등장합니다. 천자는 보통 어리광을 부리는 철이 덜 든 캐릭터로 보통 묘사되며, 그 것이 부각되지 않으면 이상하게도 마조히즘을 갖고 있는 것으로 묘사됩니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_SUBTITLE">
+			<Text>불량 천인</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_TENKO_TITLES_1">
+			<Text>불량 천인</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_BHAVA_AGRA">
+			<Text>유정천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_ARUPYADHATU">
+			<Text>무색계</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_NAIVASAMJN_YANASAMJN_YAYATANA">
+			<Text>비유상비무상처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_AKIMCANYAYATANA">
+			<Text>무소유처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_VIJN_YANANANTYAYATANA">
+			<Text>식무변천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_AKASANANTYAYATANA">
+			<Text>공무변천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_RUPADHATU">
+			<Text>색계</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_BRHATPHALA">
+			<Text>사천구천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_SUBHAKRTSNA">
+			<Text>삼선사천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_ABHASVARA">
+			<Text>이선삼천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_BRAHMA">
+			<Text>초선구천</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_IKU">
+			<Text>영강 의구</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MIROKU">
+			<Text>미륵</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KANNIN">
+			<Text>관음</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JIZOU">
+			<Text>지장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FUGEN">
+			<Text>보현</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONJYU">
+			<Text>문수</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GAKKOU">
+			<Text>월광</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KOKUUZOU">
+			<Text>호공장</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HIKKOU">
+			<Text>일광</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_YAKUOH">
+			<Text>악왕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SEISHI">
+			<Text>세지</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_HEAVENLY_PEACHTREE">
+			<Text>천계의 복숭아나무</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MATHALX_HEAVENLY_PEACHTREE_TEXT">
+			<Text>천인들은 동방 설정상 술과 복숭아를 주식으로 삼고 있다. 천인들이 먹는 복숭아 선도는 중국 전설에 의하면 먹는자에게 불로하는 능력을 주는 성질을 갖고 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_HEAVENLY_PEACHTREE_HELP">
+			<Text>대상 숙소 대체 건물입니다. 대상 숙소와 달리 무역 보너스를 상실하며, 건설 비용과 유지 비용이 모두 증가하지만, 대신 [ICON_HAPPINESS_1] 전역 행복, [ICON_FOOD] 식량 및 [ICON_CULTURE] 문화를 제공하며, 호수 타일의 [ICON_PEACE] 신앙, [ICON_FOOD]식량 및 [ICON_CULTURE] 문화를 1씩 증가시킵니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_HEAVENLY_PEACHTREE_STRATEGY">
+			<Text>대상 숙소를 대체하는 유정천의 고유 건물입니다. 무역 보너스를 상실하고 건설 비용과 유지 비용이 모두 증가하지만, 대신 [ICON_HAPPINESS_1] 전역 행복, [ICON_FOOD] 식량 및 [ICON_CULTURE] 문화를 제공하며, 호수 타일의 [ICON_PEACE] 신앙, [ICON_FOOD]식량 및 [ICON_CULTURE] 문화를 1씩 증가시킵니다. 식량 보너스가 좋고 호수에 특별한 유틸리티를 제공하기 때문에 유정천이 호수를 노리거나 산악 지대에 도시를 건설할 때 인구를 유지할 수 있도록 도움을 줍니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE">
+			<Text>요석</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MATHALX_CELESTIAL_KEYSTONE_TEXT">
+			<Text>요석은 성스러운 바위 물체로서, 이는 지진을 멈추거나 일으킬 수 있는 설정을 갖고 있다. 동방 설정에 따르면 이러한 요석은 비나명거 가문만 제어할 수 있어서 이들만 박고 뽑고 다루는 일을 할 수 있다. 비나명거 가문은 천인으로 승격하기 전에도 이를 다루었으며, 비나명거 가문의 주신인 대촌의 신은 이를 통해 지진을 막아내어 비나명거 가문의 승격을 얻어냈다. 요석을 박음으로서 지진을 막아낼 수 있으며, 이를 통해 주민들은 지진을 두려워 하지 않고 효율좋은 작업을 수행할 수 있다. 동방의 요석은 보통 주연승으로 장식하게 되며, 이로서 문화적인 요소도 갖추고 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MATHALX_CELESTIAL_KEYSTONE_HELP">
+			<Text>요석은 유정천 고유의 시설입니다. 광산과 채석장 비슷한 역할을 수행하며, 요석은 광산과 채석장으로 개발할 수 있는 자원을 개발할 수 있으며, 신학 연구 시 [ICON_CULTURE] 문화가 1만큼 증가합니다. 요석은 자원이 없는 언덕에도 건설이 가능하며, 마지막으로 요석 안에 있는 유닛의 방어적 전투력을 50% 증가시킵니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MATHALX_CELESTIAL_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민들이 이제 복숭아를 대량 섭취하며 어린이들은 지진 생성기 장난감을 갖고 놀고 있습니다. 그대의 문화가 세계를 잠식할까봐 우려입니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_MATHALX_CELESTIAL_KEYSTONE_REC">
+			<Text>여기에는 요석을 지을 것을 추천합니다![NEWLINE][NEWLINE]유지비를 감당할 수 있으면 요석을 지어 식량, 생산력 및 문화를 한꺼번에 수급할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MATHALX_CELESTIAL_KEYSTONE">
+			<Text>요석 건설하기</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_MATHALX_TENKO_GOLDEN_AGE_BONUS_IMMINENT">
+			<Text>이 도시들이 2턴 안에 황금기로 인한 보너스를 받게 됩니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MATHALX_TENKO_GOLDEN_AGE_BONUS_SHORT">
+			<Text>황금기 보너스 임박</Text>
+		</Row>
+
+		<!--
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_STONE_CIRCLES"/>
+			<Set Text="채석장의 [ICON_PEACE] 신앙이 2만큼, 요석의 [ICON_PEACE] 신앙이 1만큼 증가합니다."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_EARTH_MOTHER"/>
+			<Set Text="소금, 구리, 철, 및 요석의 [ICON_PEACE] 신앙이 1만큼 증가합니다."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_ORAL_TRADITION"/>
+			<Set Text="요석과 재배지의 [ICON_CULTURE] 문화력이 1씩 증가합니다."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP"/>
+			<Set Text="요석과 성소의 [ICON_CULTURE] 문화력이 1씩 증가합니다."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_FORMAL_LITURGY"/>
+			<Set Text="[ICON_RES_GOLD]금과 [ICON_RES_SILVER]은의 [ICON_PEACE]과 [ICON_CULTURE]이 1씩 증가, 요석의 [ICON_GOLD]이 1만큼 증가합니다."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_MESSENGER_GODS"/>
+			<Set Text="[ICON_CONNECTED]도시 연결이 [ICON_RESEARCH]을 2만큼, 요석의 [ICON_RESEARCH]이 1만큼 증가함."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN"/>
+			<Set Text="인구 3 이상의 도시와 요석의 [ICON_PRODUCTION]이 1만큼 증가합니다."/>
+		</Update>
+
+		<Update>
+			<Where Tag="TXT_KEY_BELIEF_FERTILITY_RITES"/>
+			<Set Text="도시의 [ICON_FOOD] 성장율이 10%, 요석의 [ICON_FOOD]가 1만큼 증가합니다."/>
+		</Update>
+		-->
+		
+		<!-- 리메이크 - 비상의 검 황금기 특수 기후 효과-->
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MATHALX_WEATHER_TEXT">
+			<Text>비상의 검의 능력은 사람을 벤 이후 사람의 감정을 날씨로 표현하는 것이다. 비록 이 능력은 직접적으로 등장한 적은 없지만, 동방비상천에서는 날씨라는 시스템이 적용되어 각자 날씨에 상응하는 효과가 적용된다. 예를 들어 쾌청의 경우 비행 능력이 증강하며, 무우의 경우 주문의 피해량이 증가하며 농무의 경우 흡혈을 하는 등의 효과가 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_WEATHER_STRATEGY">
+			<Text>기후 효과는 황금기에만 지을 수 있으며 황금기가 끝나면 효과가 만료되는 특수 건물입니다. 기후 효과는 기본적인 건물 효과와 요석 효과를 가지고 있으며, 도시에 있는 요석이 많을 수록 기후로 얻을 수 있는 혜택이 큽니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_PLEASANT_WEATHER">
+			<Text>쾌청</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_PLEASANT_WEATHER_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_FOOD] 식량이 1만큼 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 이동력이 1만큼 증가합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_DRIZZLE">
+			<Text>무우</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_DRIZZLE_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_RESEARCH] 과학이 1만큼 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 공격력이 33% 증가합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CLOUDY">
+			<Text>음천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_CLOUDY_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_PRODUCTION] 생산력이 1만큼 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 체력 회복률이 20만큼 증가합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_MISTY">
+			<Text>천무</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_MISTY_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_GOLD] 금이 1만큼 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 험지 비용 및 ZOC를 무시합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SNOW">
+			<Text>설</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SNOW_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_CULTURE] 문화가 1만큼 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 방어력이 33% 증가합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_AZURE_SKY">
+			<Text>창천</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_AZURE_SKY_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_PEACE] 신앙이 1만큼 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 적 유닛을 처치할 경우 체력을 33만큼 회복합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SUNSHOWER">
+			<Text>천기우</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_SUNSHOWER_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 도시 국경 내에 있는 요석 당 도시의 [ICON_GREAT_PEOPLE] 위인 생성 속도가 5% 증가합니다. 도시내 요석에 주둔한 유닛들은 황금기가 지속하는 동안 아군 영토 내에서 턴을 시작할 경우 6타일 내로 강하가 가능합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_BOREALIS">
+			<Text>극광</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_BOREALIS_HELP">
+			<Text>황금기 동안에만 지속되는 건물입니다. 한번에 단 하나만 지을 수 있는 특수 날씨 건물로서 국경내 요석 당 [ICON_FOOD] 식량, [ICON_PRODUCTION] 생산력, [ICON_RESEARCH] 과학력, [ICON_CULTURE] 문화 및 [ICON_PEACE] 신앙을 1씩 증가시킵니다. 또한, 지속하는 동안 해당 도시 국경 내 요석에 주둔해 있는 유닛의 체력이 완전회복합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_PLEASANT_WEATHER">
+			<Text>
+				쾌청
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_PLEASANT_WEATHER_HELP">
+			<Text>
+				[ICON_MOVES] 이동력이 1만큼 증가합니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_DRIZZLE">
+			<Text>
+				무우
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_DRIZZLE_HELP">
+			<Text>
+				공격력이 33% 증가합니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_CLOUDY">
+			<Text>
+				음천
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_CLOUDY_HELP">
+			<Text>
+				체력 회복률이 20만큼 증가합니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_MISTY">
+			<Text>
+				천무
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_MISTY_HELP">
+			<Text>
+				험지 비용과 ZOC를 무시합니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SNOW">
+			<Text>
+				설
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SNOW_HELP">
+			<Text>
+				방어력이 33% 증가합니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SUNSHOWER">
+			<Text>
+				천기우
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_SUNSHOWER_HELP">
+			<Text>
+				우호 영토에서 턴을 시작할 경우 6타일 이내로 강하할 수 있습니다.
+			</Text>
+		</Row>
+	</Language_ko_KR>
+</GameData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/23/2014 4:27:18 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_KEINE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_KEINE_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_KEINE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_KEINE_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_KEINE">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_KEINE_DECLAREWAR%</Response>
+		</Row>
+		<!--
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SUIKA_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SUIKA_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SUIKA_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_SUIKA_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_SUIKA_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SUIKA_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SUIKA_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SUIKA">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SUIKA_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		-->
+	</Diplomacy_Responses>
+</GameData>

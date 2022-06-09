@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-26 오후 10:49:23 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_CIV_IV">
+			<Text>Kyouko Kasodani [ICON_CULTURE][ICON_PEACE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_CIV_IV">
+			<Text>카소다니 쿄코 [ICON_CULTURE][ICON_PEACE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_CJGG_KYOUKO_CIV_IV">
+			<Text>幽谷響子 [ICON_CULTURE][ICON_PEACE]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ja_JP>
+</GameData>

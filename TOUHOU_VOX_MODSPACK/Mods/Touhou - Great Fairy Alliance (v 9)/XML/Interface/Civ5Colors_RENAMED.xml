@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2013 10:11:47 AM -->
+<GameData>
+	-<Colors>
+		-<Row>
+			<Type>COLOR_FAIRY_LAND</Type>
+			<Red>0.4</Red>
+			<Green>0.6</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row> -<Row>
+			<Type>COLOR_FAIRY_BORDER</Type>
+			<Red>0.8</Red>
+			<Green>0.8</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_TITLE">
+			<Text>You found [COLOR_CYAN]{1_Wonder}[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_HAPPINESS">
+			<Text>Gain [ICON_HAPPINESS_1] from the discovery and additional {1_Happiness} [ICON_HAPPINESS_1] for each wonder's tile in your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_YIELDS">
+			<Text>[NEWLINE][NEWLINE]Base yields:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_YIELDS_PER_ERA">
+			<Text>[NEWLINE]Per Era yields: </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_YIELDS_ADJACENT">
+			<Text>[NEWLINE]Adjacent Plot yields: </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_YIELDS_RIVER">
+			<Text>[NEWLINE]River yields: </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_ABILITIES_HEADER">
+			<Text>[NEWLINE][NEWLINE]Abilities:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PASSABLE">
+			<Text>[NEWLINE][ICON_BULLET]passable after researching [COLOR_CYAN]{1_Tech}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_MOVE_END">
+			<Text>[NEWLINE][ICON_BULLET]entering the tile finishes movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_GOLD_FIRST_FIND">
+			<Text>[NEWLINE][ICON_BULLET]first finder: {1_Gold} [ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_GOLD_NEXT_FIND">
+			<Text>[NEWLINE][ICON_BULLET]subsequent finder: {1_Gold} [ICON_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_DEFENSE">
+			<Text>[NEWLINE][ICON_BULLET]tile defense: +{1_Defense}% [ICON_STRENGTH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_DAMAGE">
+			<Text>[NEWLINE][ICON_BULLET]damage to units: [COLOR_NEGATIVE_TEXT]-{1_Damage} HP[ENDCOLOR]/Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_OTHER_ABILITIES_HEADER">
+			<Text>[NEWLINE][NEWLINE]Owner abilities (if inside city range):</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_FRESH_WATER">
+			<Text>[NEWLINE][ICON_BULLET]is a source of [COLOR_POSITIVE_TEXT]Fresh Water[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_FREE_PROMOTION">
+			<Text>[NEWLINE][ICON_BULLET]promotion granted to [COLOR_POSITIVE_TEXT]new[ENDCOLOR] {1_Unit_types} units: {2_Promotion} ({3_Help})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_NEAR_PROMOTION">
+			<Text>[NEWLINE][ICON_BULLET]promotion granted to [COLOR_POSITIVE_TEXT]nearby[ENDCOLOR] {1_Unit_types} units: {2_Promotion} ({3_Help})</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_LOCATION_PROMOTION">
+			<Text>[NEWLINE][ICON_BULLET]promotion granted to {1_Unit_types} units [COLOR_POSITIVE_TEXT]on the tile[ENDCOLOR]: {2_Promotion} ({3_Help})</Text>
+		</Row>
+
+
+		<!-- Unit types elligible for promotions (for text purpose) -->
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_EVERLASTING_YOUTH"> <!-- Fountain of Youth -->
+			<Text>[COLOR_YIELD_GOLD]Melee Military[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_SACRED_STEPS"> <!-- Sri Pada -->
+			<Text>[COLOR_YIELD_GOLD]Civilian[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_KAILASH">
+			<Text>[COLOR_YIELD_GOLD]Missionary[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_ULURU">
+			<Text>[COLOR_YIELD_GOLD]Diplomatic[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_ALTITUDE_TRAINING"> <!-- Kilimanjaro -->
+			<Text>[COLOR_YIELD_GOLD]Land Military[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_SOLOMONS_MINES">
+			<Text>[COLOR_YIELD_GOLD]Worker[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_BERMUDA_TRIANGLE">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_PROMOTION_DETAILS_PROMOTION_DALLOL">
+			<Text>[COLOR_YIELD_GOLD]Siege[ENDCOLOR]</Text>
+		</Row>		
+		
+		
+		
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_REEF">
+			<Text>[NEWLINE][ICON_BULLET]+1 [ICON_FOOD]/all Fishing Boats[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH]/all Sea luxury resources</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_CRATER">
+			<Text>[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION][ICON_PRODUCTION] during construction of Spaceship Parts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_FUJI">
+			<Text>[NEWLINE][ICON_BULLET]+3 [ICON_GREAT_ARTIST] in Capital[NEWLINE][ICON_BULLET]+2 [ICON_GREAT_WRITER] in Capital[NEWLINE][ICON_BULLET]+1 [ICON_GREAT_MUSICIAN] in Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_MESA">
+			<Text>[NEWLINE][ICON_BULLET]+1[ICON_WAR][ICON_WAR] Military Supply Cap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_VOLCANO">
+			<Text>[NEWLINE][ICON_BULLET]+5% [ICON_RESEARCH][ICON_RESEARCH][NEWLINE][ICON_BULLET]-10% [ICON_HAPPINESS_3][ICON_HAPPINESS_3] Needs Modifier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_GIBRALTAR">
+			<Text>[NEWLINE][ICON_BULLET]+1 [ICON_DIPLOMAT] League Vote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_GEYSER">
+			<Text>[NEWLINE][ICON_BULLET]+2 [ICON_GREAT_SCIENTIST] in Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_FOUNTAIN_YOUTH">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_POTOSI">
+			<Text>[NEWLINE][ICON_BULLET]+1 flat [ICON_RES_SILVER][NEWLINE][ICON_BULLET]+1 [ICON_INTERNATIONAL_TRADE] Trade Route</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_EL_DORADO">
+			<Text>[NEWLINE][ICON_BULLET]+1 flat [ICON_RES_GOLD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_SRI_PADA">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_MT_SINAI">
+			<Text>[NEWLINE][ICON_BULLET]+1 [ICON_PEACE], +1 [ICON_GOLDEN_AGE]/[ICON_GREAT_WORK][ICON_GREAT_WORK][NEWLINE][ICON_BULLET]+1 [ICON_PEACE], +1 [ICON_GOLDEN_AGE]/all Holy Sites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_MT_KAILASH">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_ULURU">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_LAKE_VICTORIA">
+			<Text>[NEWLINE][ICON_BULLET]allows establishing [ICON_FOOD] Trade Routes across the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_KILIMANJARO">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_SOLOMONS_MINES">
+			<Text>[NEWLINE][ICON_BULLET]+1 [ICON_GOLDEN_AGE]/all Mines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_SALAR_A">
+			<Text>[NEWLINE][ICON_BULLET]+10% global [ICON_FOOD] (stacking)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_SALAR_B">
+			<Text>[NEWLINE][ICON_BULLET]+5% global [ICON_FOOD] (stacking)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_CAUSEWAY_A">
+			<Text>[NEWLINE][ICON_BULLET]+25% global [ICON_TOURISM]/all Landmarks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_CAUSEWAY_B">
+			<Text>[NEWLINE][ICON_BULLET]+25% global [ICON_TOURISM]/all Landmarks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_MT_EVEREST">
+			<Text>[NEWLINE][ICON_BULLET]+10% [ICON_TOURISM][ICON_TOURISM]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_RETBA">
+			<Text>[NEWLINE][ICON_BULLET]+5% [ICON_FOOD][ICON_FOOD]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_BERMUDA_A">
+			<Text> - [COLOR_NEGATIVE_TEXT]stops unit on its tile[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_BERMUDA_B">
+			<Text> - [COLOR_NEGATIVE_TEXT]stops unit on its tile[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_BERMUDA_C">
+			<Text> - [COLOR_NEGATIVE_TEXT]stops unit on its tile[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_LUMI_BAY">
+			<Text>[NEWLINE][ICON_BULLET]+1[ICON_RESEARCH]/[ICON_RES_FISH][ICON_RES_FISH]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_EXTENDED_FEATURE_DALLOL">
+			<Text>[NEWLINE][ICON_BULLET]+1 flat [ICON_RES_SYLVITE][NEWLINE][ICON_BULLET]-5% [ICON_HAPPINESS_3][ICON_HAPPINESS_3] Boredom</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_REEF">
+			<Text>"Organisms don't think of CO2 as a poison. Plants and organisms that make shells, coral, think of it as a building block."[NEWLINE] - Janine Benyus[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_CRATER">
+			<Text>"In fact we can now prove that this crater is due to the collision with the earth of an extra-terrestrial body, possibly a small asteroid, which was presumably metallic in nature."[NEWLINE] - Daniel Barringer[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_FUJI">
+			<Text>"O snail, climb Mount Fuji, but slowly, slowly!"[NEWLINE] - Kobayashi Issa[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_MESA">
+			<Text>"Conservation means the wise use of the earth and its resources for the lasting good of men."[NEWLINE] - Gifford Pinchot[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_VOLCANO">
+			<Text>"I saw with amazement that the island of Krakatoa lay completely burnt and barren in front of our eyes and that at four locations was throwing up large chunks of fire."[NEWLINE] - Johann Wilhelm Vogel[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_GIBRALTAR">
+			<Text>"Look round, my boys, and view how beautiful the Rock appears by the light of the glorious fire."[NEWLINE] - George Augustus Eliott[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_GEYSER">
+			<Text>"It spouted at regular intervals nine times during our stay, the columns of boiling water being thrown from ninety to one hundred and twenty-five feet at each discharge, which lasted from fifteen to twenty minutes. We gave it the name of Old Faithful."[NEWLINE] - Nathaniel P. Langford[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_FOUNTAIN_YOUTH">
+			<Text>"There is a fountain of youth: it is your mind, your talents, the creativity you bring to your life and the lives of people you love. When you learn to tap this source, you will truly have defeated age."[NEWLINE] - Sophia Loren[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_POTOSI">
+			<Text>"I am rich Potosi, treasure of the world, king of all mountains and envy of kings."[NEWLINE] - First Coat of Arms of Potosi[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_EL_DORADO">
+			<Text>"This is the ceremony that became the famous El Dorado, which has taken so many lives and fortunes."[NEWLINE] - Juan Rodriguez Freyle[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_SRI_PADA">
+			<Text>"An exceedingly wondrous sight, which is endowed with supreme splendour."[NEWLINE] - The Mahabharata[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_MT_SINAI">
+			<Text>"When the Lord finished speaking to Moses on Mount Sinai, he gave him the two tablets of the covenant law, the tablets of stone inscribed by the finger of God."[NEWLINE] - Exodus 31:18[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_MT_KAILASH">
+			<Text>"After thus having instructed the godly ones Lord Brahma went away with in his wake the forefathers and the leaders of the people whom he took from his own place to the abode of Lord Shiva, Kailash, the best of all mountains that is so dear to the master."[NEWLINE] - The Bhagavata Purana[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_ULURU">
+			<Text>"What a grand sight this must present in the wet season; waterfalls in every direction!"[NEWLINE] - William Gosse[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_LAKE_VICTORIA">
+			<Text>"I saw that old father Nile without any doubt rises in the Victoria Nyanza, and as I had foretold, that lake is the great source of the holy river which cradled the first expounder of our religious belief."[NEWLINE] - John Hanning Speke[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_KILIMANJARO">
+			<Text>"As it turns out, Mount Kilimanjaro is not wi-fi enabled, so I had to spend two weeks in Tanzania talking to the people on my trip."[NEWLINE] - Nancy Bonds[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_SOLOMONS_MINES">
+			<Text>"With my own eyes have I seen the countless diamonds stored in Solomon’s treasure chamber behind the white Death; but through the treachery of Gagool the witch-finder I might bring naught away, scarcely my life."[NEWLINE] - King Solomon's Mines, page 25[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_SALAR_A">
+			<Text>"I shivered in those solitudes when I heard the voice of the salt in the desert."[NEWLINE] - Pablo Neruda[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_SALAR_B">
+			<Text>"I shivered in those solitudes when I heard the voice of the salt in the desert."[NEWLINE] - Pablo Neruda[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_CAUSEWAY_A">
+			<Text>"The remains of some mighty fabric, hurled into desolation by a tremendous earthquake, or some other equally terrible convulsion of nature."[NEWLINE] - Philip Dixon Hardy[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_CAUSEWAY_B">
+			<Text>"The remains of some mighty fabric, hurled into desolation by a tremendous earthquake, or some other equally terrible convulsion of nature."[NEWLINE] - Philip Dixon Hardy[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_MT_EVEREST">
+			<Text>"It is not the mountain we conquer but ourselves."[NEWLINE] - Sir Edmund Hillary[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_RETBA">
+			<Text>"Water, water, everywhere, nor any drop to drink."[NEWLINE] - Samuel Taylor Coleridge[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_BERMUDA_A">
+			<Text>"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath... for here, millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all that we call lives and souls, lie dreaming, dreaming, still."[NEWLINE] - Herman Melville[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_BERMUDA_B">
+			<Text>"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath... for here, millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all that we call lives and souls, lie dreaming, dreaming, still."[NEWLINE] - Herman Melville[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_BERMUDA_C">
+			<Text>"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath... for here, millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all that we call lives and souls, lie dreaming, dreaming, still."[NEWLINE] - Herman Melville[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_LUMI_BAY">
+			<Text>"The emission of light from fire, lightning bolts, stars or living beings attracts the attention of any human being. In the case of bioluminescence the light has a strange glow, something magic and mysterious."[NEWLINE] - Cassius Stevani[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MORE_NATURAL_WONDERS_QUOTE_FEATURE_DALLOL">
+			<Text>"There is hell, there is darkness, there is the sulfurous pit— burning, scalding, stench, consumption!"[NEWLINE] - William Shakespeare[NEWLINE]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

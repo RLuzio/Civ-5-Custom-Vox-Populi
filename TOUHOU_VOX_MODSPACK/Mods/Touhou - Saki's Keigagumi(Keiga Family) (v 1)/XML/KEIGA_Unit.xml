@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-10-05 오후 8:00:02 -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_SCOUT</Class>
+			<Type>UNIT_SAKI_HIKKYAKU</Type>
+			<Combat>8</Combat>
+			<Cost>25</Cost>
+			<FaithCost>50</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>4</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SAKI_HIKKYAKU_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_SAKI_HIKKYAKU_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SAKI_HIKKYAKU_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_SAKI_HIKKYAKU_HELP</Help>
+			<NoBadGoodies>true</NoBadGoodies>
+			<Pillage>true</Pillage>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_SCIENTIFIC_THEORY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_LANCER</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_BYZANTIUM_CATAPHRACT</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>4</UnitFlagIconOffset>
+			<IconAtlas>KEIGA_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_LANCER</Class>
+			<Type>UNIT_SAKI_PEGASUS</Type>
+			<PrereqTech>TECH_METALLURGY</PrereqTech>
+			<Combat>34</Combat>
+			<Cost>130</Cost>
+			<FaithCost>259</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>6</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SAKI_PEGASUS_DESC</Description>
+			<Civilopedia>TXT_KEY_UNIT_SAKI_PEGASUS_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SAKI_PEGASUS_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_SAKI_PEGASUS_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_COMBINED_ARMS</ObsoleteTech>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_WWI_TANK</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_U_POLISH_WINGED_HUSSAR</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>20</UnitFlagIconOffset>
+			<IconAtlas>KEIGA_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<UnitClassType>UNITCLASS_WWI_TANK</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<PromotionType>PROMOTION_SCOUTING_1</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<PromotionType>PROMOTION_SURVIVALISM_1</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_HIKKYAKU</UnitType>
+			<PromotionType>PROMOTION_SURVIVALISM_2</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+		</Row>
+
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<PromotionType>PROMOTION_HEAVY_CHARGE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<PromotionType>PROMOTION_SHOCK_1</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAKI_PEGASUS</UnitType>
+			<PromotionType>PROMOTION_FORMATION_1</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_DESC">
+			<Text>Teamster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_PEDIA">
+			<Text>Package delivery or parcel delivery is the delivery of shipping containers, parcels, or high value mail as single shipments. The service is provided by most postal systems, express mail, private courier companies, and less than truckload shipping carriers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_STRATEGY">
+			<Text>A parcel is a package bearing the name and address of the recipient in order to be routed through the services of a postal service or by express package delivery service to the recipient. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_HELP">
+			<Text>Replaces scout. It's regarded as mounted unit. Very fast!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_DESC">
+			<Text>Pegasus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_PEDIA">
+			<Text>Pegasus is a mythical winged divine horse, and one of the most recognized creatures in Greek mythology. Usually depicted as pure white, Pegasus is the offspring of the Olympian god Poseidon. He was foaled by the Gorgon Medusa upon her death, when the hero Perseus decapitated her. Pegasus is the brother of Chrysaor and the uncle of Geryon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_STRATEGY">
+			<Text>Greco-Roman poets wrote about the ascent of Pegasus to heaven after his birth, and his subsequent obeisance to Zeus, king of the gods, who instructed him to bring lightning and thunder from Olympus. Friend of the Muses, Pegasus created Hippocrene, the fountain on Mt. Helicon. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_HELP">
+			<Text>Replaces Lancer. Ignores Terrain Cost.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_DESC">
+			<Text>파발</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_PEDIA">
+			<Text>과거에는 오늘날과 같은 네트워크가 존재하지 않았기에 국가 통치 차원에서 공문서를 전달하기 위한 체계가 필요했다. 이를 위해 주요 교통 거점마다 역참을 설치하였고 파발마를 관리하도록 하여 파발꾼이 문서를 전달할 때 말을 갈아타며 최고 속도를 유지할 수 있도록 하였다. 이를 통해 중요한 정보가 신속히 전파되는 게 가능했다. 암행어사의 마패에 새긴 말의 역시 수 역참에서 징발할 수 있는 말과 관계가 깊다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_STRATEGY">
+			<Text>파발은 조선 시대 통신제도의 한 유형이다. 군사 기밀문서를 신속히 전달하기 위해 설치한 통신제도로, 제도화된 것은 1597년 정유재란 때 김응남, 한준겸 등이 기능이 유명무실화된 봉수제에 대신해 중국의 파발제를 도입하고자 건의하면서 비롯되었다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_HELP">
+			<Text>정찰병을 대신합니다. 기마병으로 간주되며, 매우 빠릅니다!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_DESC">
+			<Text>페가수스</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_PEDIA">
+			<Text>
+				페가수스는 그리스 신화에 나오는 동물로, 날개를 가진 말의 모습으로 그려진다. 페르세우스가 메두사를 죽이자마자 포세이돈은 그 자리에 나타나 메두사의 영혼이 빠져나가는 것을 막고 그 영혼이 메두사가 흘리는 피에 몰리게 하여 자신이 가장 좋아하는 동물인 말에 날개를 단 형상의 천마로 다시 태어나게 했는데 이 천마가 페가수스이다. 그 자신과 메두사의 사랑을 훼방하려는 아테나의 저주를 포세이돈은 메두사에게 이렇게 회피하게 했던 것이다. 메두사는 그로인해 페가수스 즉 천마로 다시 태어나게 된다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_STRATEGY">
+			<Text>그리스 신화에 등장하는 신마. 등에 날개가 돋은 말로 자유롭게 하늘을 날 수가 있었다. 영웅 페르세우스가 괴물 메두사의 목을 잘랐을 때, 거기서 날아오르며 태어났다고 한다. 주신 제우스의 천둥과 번개를 운반하는 신성한 말로, 인간은 태우지 않는다고 여겨졌다. 하지만 꿈속에서 여신 아테나에게 황금 고삐를 선물받은 영웅 벨레로폰만은 특별히 페가수스를 타고 하늘을 날아가서 괴물 키마이라를 퇴치했다고 한다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_HELP">
+			<Text>경아파의 고유 유닛입니다. 창기병을 대체하며 지형 비용을 무시합니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_DESC">
+			<Text>飛脚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_PEDIA">
+			<Text>飛脚は飛脚走りと呼ばれる独特の走法で走った。これは一説には「ナンバ走り」という走法で、体のひねりをしないため、体力の消耗が抑えられるとされるが、飛脚走りがどのようなものか失伝し文献もないことから真偽のほどは不明である。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_STRATEGY">
+			<Text>飛脚（ひきゃく）は、信書や金銭、為替、貨物などを輸送する職業またはその職に従事する人のことである。佐川急便の商標でもある。単純な使い走りとは違い、事業が組織化されているのが特徴である。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_HIKKYAKU_HELP">
+			<Text>斥候を代替する。騎兵にみなされ、とても早い。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_DESC">
+			<Text>ペガサス</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_PEDIA">
+			<Text>ポセイドーンの子を身ごもったメドゥーサが英雄ペルセウスによって倒された際、ペーガソスはクリューサーオールと共にメドゥーサの首の傷口から生まれた[1][2]。その後ペルセウスはヘルメースから与えられた翼のあるサンダルで、エチオピアの上空を飛んでいるときに岩に縛り付けられたアンドロメダーを発見した（一説にはペーガソスに跨っていったともされる）。一方のペーガソスは天に上り、ゼウスのもとで雷鳴と雷光を運ぶという名誉ある役割を与えられた。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_STRATEGY">
+			<Text>ペーガソスは、ギリシア神話に登場する伝説の生物である。鳥の翼を持ち、空を飛ぶことができる馬とされる。海神ポセイドーンとメドゥーサの子で、クリューサーオールと兄弟。 </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAKI_PEGASUS_HELP">
+			<Text>敵騎乗ユニットの撃破に特化した重装騎乗ユニット。槍騎兵の代わりに登場するが、移動速度や戦闘力はこちらの方が上回っている。地形コストを無視し、受けた以上のダメージを与えた場合には、防御側に後退を強制できる。勁牙組にしか生産できない。</Text>
+		</Row>
+	</Language_ja_JP>
+</GameData>

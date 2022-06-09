@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 4:58:35 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Alice Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_ALICE_FIRST_GREETING_1">
+			<Text>Hello.  I am sure we can have a warm future ahead of us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_FIRST_GREETING_2">
+			<Text>Greetings.  Would you like some tea?  A doll will be coming by with a fresh pot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_FIRST_GREETING_3">
+			<Text>Hello.  My dolls and I are pleased to meet you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ALICE_DEFEATED_1">
+			<Text>Alas, it is too late for me to complete the perfect doll.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DEFEATED_2">
+			<Text>Brute force will only get you so far without strategy and tactics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DEFEATED_3">
+			<Text>I have failed.  Medicine!  It is time for you to raise your own banner!</Text>
+		</Row>
+		<!-- REPEAT_TRADE_TOO_MUCH-->
+		<!-- GREETING_REPEAT_TOO_MUCH-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_REPEAT_TOO_MUCH_1">
+			<Text>Even the dolls are falling asleep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_REPEAT_TRADE_1">
+			<Text>I cannot possibly allow that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_REPEAT_TRADE_2">
+			<Text>We will not be able to accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_REPEAT_1">
+			<Text>Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_REPEAT_2">
+			<Text>Hi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_REPEAT_1">
+			<Text>What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_POLITE_HELLO_1">
+			<Text>Did you forget something last time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_NEUTRAL_HELLO_1">
+			<Text>Doing well?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_HELLO_1">
+			<Text>Great, it is you again.</Text>
+		</Row>
+		<!-- AI is about to lose-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>I still have more dolls.  It will work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>I am tired of sewing together so many dolls.  A break?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_AT_WAR_HOSTILE_1">
+			<Text>If you are going to try something, keep in mind that you are surrounded by hundreds of Hourai dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_RESEARCH_AGREEMENT_1">
+			<Text>I've been told your scientists are having a hard time with making dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>You will betray us?  We will never forgive you.</Text>
+		</Row>
+		<!-- Human is working with AI-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_WORKING_WITH_1">
+			<Text>How have you been with your projects?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_WORKING_AGAINST_1">
+			<Text>It has been very stressful with {1_ThirdPlayerName:textkey} lately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_COOP_WAR_1">
+			<Text>Preparations for our war with {1_ThirdPlayerName:textkey} are going along nicely.  The dolls will be ready soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>It's easy to see that your war will come to a drastic end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HUMAN_AT_WAR_1">
+			<Text>Are your army supplies holding up?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>You think you can outpace me?  My dolls can be made faster than you can ever imagine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Some dolls at our alert posts have been getting restless about your troop movements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Be prepared to fight a losing battle, protecting your land from my forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You seem to be quite eager with the land-grabbing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Even if you buy your land, you will not keep it for much longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Be careful of where you buy your land, or otherwise we might have to come and take it back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your forces are quite close to equaling ours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your trade routes have been doing well, I suppose?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You will never get anywhere with so few cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army is quite small.  My dolls would have no trouble taking you over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Your constant warmongering must be stopped.  Seeing the number of your own men killed as a result of your wars makes me wonder what you would do to my dolls.</Text>
+		</Row>
+		<!-- AI has denounced Human-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_DENOUNCED_BY_AI_1">
+			<Text>This is not worth my time.</Text>
+		</Row>
+		<!-- Human has denounced AI-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_DENOUNCED_AI_1">
+			<Text>You have more things to say about me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>Not only do we have to deal with {1_PlayerName}, we now also have you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>An ally and friend of {1_PlayerName} will always be welcomed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>You must not know the true aspects of {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>{1_PlayerName} must be wiped from this earth.  Something we both agree on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TOO_SOON_FOR_DOF_1">
+			<Text>It is too soon, I cannot.  Perhaps when I get a better judgement of your plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>We should both team up and denounce {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOF_AI_WAR_REQUEST_1">
+			<Text>Would you go to war against {1_CivName} with me?  With the two of us they will not stand a chance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOF_NOT_HONORED_1">
+			<Text>How rude, disrespecting my kindness.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI_DOF_BACKSTAB-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_DENOUNCING_FRIEND_1">
+			<Text>You betrayed my trust, and the rest of the world must know to remove you as fast as possible.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>My dolls will always be much purer than you can ever be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DOFED_FRIEND_1">
+			<Text>I am glad to see that you feel friendly with my allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DOFED_ENEMY_1">
+			<Text>You will regret siding with {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>So you were the disrespectful one they were talking about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>You have gotten the same feeling with them as my dolls have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>If you will work with {1_CivName} then you can also work with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>If we work together against {1_CivName} they will soon fall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>You sided with {1_PlayerName}?  My dolls will crush both of you.</Text>
+		</Row>
+		<!-- Human denounces {1_CivName}, so AI DOFs them-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>I am happy to work with {1_CivName} if you dislike them so much.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_ALICE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text></Text>
+		</Row>
+		KILLED_PROTECTED_CITY_STATE
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>([COLOR_WARNING_TEXT]If you see this, comment back with what you did and this text code: [NEWLINE]TXT_KEY_LEADER_ALICE_ATTACKED_PROTECTED_CITY_STATE_1[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You are growing too fast to not be regarded as a threat.  Stop at once if you value your life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_EXPANSION_WARNING_1">
+			<Text>Growing too quickly can lead to many enemies, especially if you settle near me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_EXPANSION_BROKEN_PROMISE_1">
+			<Text>It seems like we cannot deal with you through negotiations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>The dolls have been complaining of your rapid land-grabbing.  We will not hesitate to walk over and take it back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLOT_BUYING_WARNING_1">
+			<Text>You can take all the land you want, but if my dolls find it necessary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>Even after giving your word you break it.  My dolls will not take your lies lightly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>Oh, you were protecting them?  I thought you just left them to fend for themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>My apologies about attacking your protected city-state.  It was a mistake on my part.</Text>
+		</Row>
+		<!-- WORK_WITH_US-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_DEC_FRIENDSHIP_1">
+			<Text>Would you like to work with us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_WITH_US_WARMONGER_1">
+			<Text>Coop Terminated : WARMONGER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_WITH_US_MINORS_1">
+			<Text>Coop Terminated : CITY-STATES</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_WITH_US_LAND_1">
+			<Text>Coop Terminated : LAND-GRAB</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_WITH_US_WONDERS_1">
+			<Text>Coop Terminated : WONDERS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_WITH_US_VICTORY_1">
+			<Text>Coop Terminated : VICTORY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_WITH_US_DEFAULT_1">
+			<Text>Coop Terminated : FIN</Text>
+		</Row>
+		<!-- WORK_AGAINST_SOMEONE-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_DENOUNCE_1">
+			<Text>The times you have been in the way of me and my dolls have been innumerable.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DENOUNCE_2">
+			<Text>Your actions are a disgrace to the entire world.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]She has publicly denounced you! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>Hidden Pact end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_COOP_WAR_REQUEST_1">
+			<!-- Same -->
+			<Text>{1_PlayerName:textkey} has to go.  Would you like the honors of destroying them with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_COOP_WAR_TIME_1">
+			<!-- Same -->
+			<Text>It is time for war with {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_NOW_UNFORGIVABLE_1">
+			<Text>From now on, every doll you see... will be out to get you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_NOW_ENEMY_1">
+			<Text>We will see you as the one who stands in our way.  And we will not hesitate to remove you from our path.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_COMPLIMENT_1">
+			<Text>I would have never thought that you were capable of doing that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_BOOT_KISSING_1">
+			<Text>My dolls are strong in numbers but weak by themselves, and you still were able to defeat them.  If I had perfected my dolls I would be winning by now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WARMONGER_1">
+			<Text>You enjoy mauling entire civilizations to your benefit, something that I greatly loathe about your being.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_MINOR_CIV_COMPETITION_1">
+			<Text>{1_MinorCivName:textkey} needs my assistance more than they need yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLEASED_1">
+			<Text>That suits us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLEASED_2">
+			<Text>The dolls are happy to hear that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLEASED_3">
+			<Text>Yes, that will be great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_THANKFUL_1">
+			<!-- Same -->
+			<Text>Thanks, I appreciate it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_THANKFUL_2">
+			<Text>We thank you for your assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DISAPPOINTED_1">
+			<Text>That is a shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DISAPPOINTED_2">
+			<Text>That is too bad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SO_BE_IT_1">
+			<!-- Same -->
+			<Text>Fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SO_BE_IT_2">
+			<!-- Same -->
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_RETURNED_CIVILIAN_1">
+			<Text>Many thanks for returning those dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_CULTURE_BOMBED_1">
+			<Text>Some of my dolls were living there.  I will not hesitate to bring them back by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_LEADER_ALICE_1">
+			<Text>What? How dare you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_MILITARY_1">
+			<Text>A weak army leads to a weak nation... which leads to a dead civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_NUKE_1">
+			<Text>It is impossible to kill all my dolls with your nuclear weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_BULLY_1">
+			<Text>How weak of you to push around those weaker than you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_UNHAPPINESS_1">
+			<Text>Even your people have turned against you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_CITIES_1">
+			<Text>Your civilization is but a tiny dot on the earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_POPULATION_1">
+			<Text>How can you achieve anything with so few people?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_INSULT_CULTURE_1">
+			<Text>Your people have no personality, no culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_REPEAT_NO_1">
+			<Text>I refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DONT_SETTLE_YES_1">
+			<Text>Fine, the dolls do not like living there anyways.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DONT_SETTLE_NO_1">
+			<Text>My dolls can settle wherever they want.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WORK_WITH_US_YES_1">
+			<Text>We will have no problems working with you.</Text>
+		</Row>
+		<!-- WORK_WITH_US_NO-->
+		<!-- WORK_AGAINST_SOMEONE_NO-->
+		<!-- COOP_WAR_NO-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_DECLINE_1">
+			<!-- Same -->
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DECLINE_2">
+			<!-- Same -->
+			<Text>Absolutely not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>Let us have tea.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]This should not appear.  Something went wrong.  If you want, you can send TXT_KEY_LEADER_ALICE_WORK_AGAINST_SOMEONE_YES to me and I will write up something for this.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_COOP_WAR_YES_1">
+			<Text>I have no problems with you wanting them gone.  We accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_COOP_WAR_SOON_1">
+			<Text>Please wait for 10 turns so that I can build some more dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DEMAND_YES_1">
+			<!-- Same -->
+			<Text>Fine.  You can have it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>You are so weak.  Why are you trying to threaten me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>I hate you.  Why will I give it to you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>I cannot.  I need to leave some for the dolls too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>I have already stated my answer before.  No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOT_DOT_DOT_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_LETS_HEAR_IT_1">
+			<Text>This sounds interesting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PEACE_OFFER_1">
+			<Text>We have had enough of this war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DEMAND_1">
+			<Text>You have some things that would greatly help my dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_REQUEST_1">
+			<Text>I would like to have something of yours.  The dolls will greatly appreciate it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_LUXURY_TRADE_1">
+			<Text>A trade for some convenience items?</Text>
+		</Row>
+		<!--
+		EMBASSY_EXCHANGE
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		EMBASSY_OFFER
+		</Row>
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>We would like to have access to you lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_OPEN_BORDERS_OFFER_1">
+			<Text>I would like to move some forces across your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>We have been interested in sending over a few of our greatest doll minds to you.[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I think you would be rather interested in what my dolls have come up with recently.  We would be interested in your research too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_ACCEPT_GENEROUS_1">
+			<Text>This is perfectly fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Well, it is not that bad.  I accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_ACCEPT_AI_DEMAND_1">
+			<!-- Same -->
+			<Text>I expected as much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>It depends on whether or not my dolls accept your apology too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>Never!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_REJECT_INSULTING_1">
+			<Text>Are you trying to insult me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_DEAL_UNCHANGED_1">
+			<!-- Same -->
+			<Text>This is fine as it is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_AI_MAKES_OFFER_1">
+			<Text>We would like to trade with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_NO_DEAL_POSSIBLE_1">
+			<!-- Same -->
+			<Text>No amount of talk will convince me to take that deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_HOSTILE_1">
+			<Text>You dare attack me?  My dolls will overrun you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Do not underestimate me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Your little army is nothing compared to my forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_EXCITED_1">
+			<Text>Now is the time for us to show our true power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_WEAK_EXCITED_1">
+			<Text>Now we can show how strong we truly are by crushing you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_STRONG_EXCITED_1">
+			<Text>My dolls cannot wait to start with our assault.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_SAD_1">
+			<Text>We cannot coexist together, I am afraid.  Prepared to be destroyed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_BETRAYED_1">
+			<Text>So, my dolls have not lied.  You cannot be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_LEADER_ALICE_1">
+			<Text>It is time for your weak civilization to be wiped clean from this earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>Expected from somebody who does not support the Front.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_LAND_1">
+			<Text>My dolls will like to take some of your land now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_WORLD_CONQUEST_1">
+			<Text>The world will know the true wrath of the Doll Front!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_OPPORTUNITY_1">
+			<Text>An opening has appeared in your forces.  This is the perfect time to deal a crippling blow to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_DESPERATE_1">
+			<Text>You need to go before all else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_BETRAYAL_1">
+			<Text>You think I care about anyone other than my dolls?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_WEAK_BETRAYAL_1">
+			<Text>Tactically, a backstab is more effective than an upfront swing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_DOW_REGRET_1">
+			<Text>You were not interfering with us, but you still must go.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WAR_DEMAND_REFUSED_1">
+			<Text>My dolls have overruled your statement.  We will come over and take what we want by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<!-- Same -->
+			<Text>What do you have to offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>This will work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_NO_PEACE_1">
+			<Text>My dolls will give no mercy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TOO_SOON_NO_PEACE_1">
+			<Text>Scared?  Just more incentive to continue with the occupation.</Text>
+		</Row>
+		<!-- Human chooses the angry response-->
+		<!-- HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>You will not get away with that.</Text>
+		</Row>
+		<!-- Human chooses the ok response-->
+		<!-- HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Note that we will still keep an eye on you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>We will do what we want.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<!-- Same -->
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>Do not make an enemy of me.</Text>
+		</Row>
+		<!-- WE_ATTACKED_MINOR_GOOD-->
+		<!-- WE_BULLIED_MINOR_GOOD-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_RESPONSE_PLEASED_1">
+			<!-- Same -->
+			<Text>Good.</Text>
+		</Row>
+		<!-- HUMAN_ATTACKED_MINOR_BAD-->
+		<!-- HUMAN_KILLED_MINOR_BAD-->
+		<!-- HUMAN_SERIOUS_EXPANSION_WARNING_BAD-->
+		<!-- HUMAN_EXPANSION_WARNING_BAD-->
+		<!-- HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD-->
+		<!-- HUMAN_PLOT_BUYING_WARNING_BAD-->
+		<!-- HUMAN_BULLIED_MINOR_BAD-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_RESPONSE_BAD_1">
+			<Text>You will not get away with this.</Text>
+		</Row>
+		<!-- HUMAN_ATTACKED_MINOR_GOOD-->
+		<!-- HUMAN_KILLED_MINOR_GOOD-->
+		<!-- HUMAN_SERIOUS_EXPANSION_WARNING_GOOD-->
+		<!-- HUMAN_EXPANSION_WARNING_GOOD-->
+		<!-- HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD-->
+		<!-- HUMAN_PLOT_BUYING_WARNING_GOOD-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_GOOD_1">
+			<!-- Same -->
+			<Text>Excellent.</Text>
+		</Row>
+		<!--
+		SAME_POLICIES_FREEDOM
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		SAME_POLICIES_ORDER
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		SAME_POLICIES_AUTOCRACY
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		BULLIED_PROTECTED_CITY_STATE
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		HOSTILE_WE_BULLIED_YOUR_MINOR
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		WE_BULLIED_YOUR_MINOR
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		RENEW_DEAL
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		WANT_MORE_RENEW_DEAL
+		<Row Tag="	_1">
+			<Text></Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_ALICE_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>Try as you might, you cannot stop us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>We thought as much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WE_BULLIED_MINOR_BAD_1">
+			<Text>In the future we expect not to interfere with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_BULLIED_MINOR_GOOD_1">
+			<!-- Same -->
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>So you will kneel to our superiority?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_CAUGHT_YOUR_SPY_1">
+			<Text>You should try better sending one of your agents into a civilization consisting of only dolls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_KILLED_YOUR_SPY_1">
+			<Text>Your spy attempted to break into my house.  Shanghai and Hourai dealt with them accordingly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SUSPECT_YOU_OF_SPYING_1">
+			<Text>My dolls have been reporting someone suspicious roaming the streets lately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_KILLED_MY_SPY_1">
+			<Text>Hmm, that disguise wasn&apos;t as effective as I hoped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>My apologies, I did not expect some dolls to run over to your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<!-- Same -->
+			<Text>I am fine with that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<!-- Same -->
+			<Text>Your words mean nothing to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_STOP_SPYING_YES_1">
+			<Text>I will extract them at once.  They needed repairs and improvements to their forms anyways.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_STOP_SPYING_NO_1">
+			<Text>No, my dolls will do as they wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>We are grateful for this information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>{1_PlayerName} is plotting behind your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>{1_PlayerName} is plotting to attack {2_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>{1_PlayerName} is plotting to attack you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>{1_PlayerName} is plotting to attack {2_CityName} with their navy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>{1_PlayerName} is plotting to attack you with their navy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>That is a shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>We will not spy again in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_STOP_CONVERSIONS_1">
+			<Text>The dolls need none of your blasphemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>You still seek to win the faith of my dolls.  They obey only me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I don&apos;t have anything useless to give for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>I&apos;m sure my religion bonuses would benefit you in some way, but if you wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ALICE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>My religion is better and your people will follow it.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

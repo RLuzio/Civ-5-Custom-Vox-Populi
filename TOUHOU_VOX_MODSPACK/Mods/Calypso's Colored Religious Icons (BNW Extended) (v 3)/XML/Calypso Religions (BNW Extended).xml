@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Religions>
+		<!--Add each religion, directing its art assets to the mod's icon atlases.-->
+		<!--Also, using my gamer tag in the atlas names eliminates the possibility that somebody makes a mod with identically named atlases.-->
+		<Row>
+			<Type>RELIGION_CALYPSO_ZULUANIMISM</Type>
+			<Description>TXT_KEY_RELIGION_AMADHLOZI</Description>
+			<Civilopedia>TXT_KEY_RELIGION_AMADHLOZI_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_BNWEXTENDED</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_ZULUANIMISM]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_CALYPSO_SHOSHONEANIMISM</Type>
+			<Description>TXT_KEY_RELIGION_NEMESUMAGU</Description>
+			<Civilopedia>TXT_KEY_RELIGION_NEMESUMAGU_PEDIA</Civilopedia>
+			<IconAtlas>CALYPSO_RELIGIONS_ATLAS_MOD_BNWEXTENDED</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<IconString>[ICON_CALYPSO_RELIGION_SHOSHONEANIMISM]</IconString>
+		</Row>
+	</Religions>
+	<Civilization_Religions>
+		<!--AI Civilization Preferences for Brave New World.-->
+		<Delete CivilizationType="CIVILIZATION_SHOSHONE"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_SHOSHONE</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_SHOSHONEANIMISM</ReligionType>
+		</Row>
+		<Delete CivilizationType="CIVILIZATION_ZULU"/>
+		<Row>
+			<CivilizationType>CIVILIZATION_ZULU</CivilizationType>
+			<ReligionType>RELIGION_CALYPSO_ZULUANIMISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+</GameData>

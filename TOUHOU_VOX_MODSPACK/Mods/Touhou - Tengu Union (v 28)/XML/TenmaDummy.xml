@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/7/2016 9:53:14 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SCOOP_HAPPINESS_BOOST_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NEWSPAPER_OFFICE_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NEWS_TOURNAMENT_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MORIYA_CONSPIRACY_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY</Description>
+		</Row>
+	</BuildingClasses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY">
+			<Text>Happiness Boost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY_TEXT">
+			<Text>A great scoop makes all the tengu happy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY_STRATEGY">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY">
+			<Text>Newspaper Office Upgrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY_TEXT">
+			<Text>+1 [ICON_PRODUCION] Production from Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY_STRATEGY">
+			<Text>+1 [ICON_PRODUCION] Production from Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY_HELP">
+			<Text>+1 [ICON_PRODUCION] Production from Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_NEWS_TOURNAMENT_DUMMY">
+			<Text>Created the Annual News Tournament</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY_TEXT">
+			<Text>+2 [ICON_PRODUCION] Production and +2 [ICON_FOOD] Food from Writers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY_STRATEGY">
+			<Text>+2 [ICON_PRODUCION] Production and +2 [ICON_FOOD] Food from Writers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY_HELP">
+			<Text>+2 [ICON_PRODUCION] Production and +2 [ICON_FOOD] Food from Writers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY">
+			<Text>Moriya Shrine Conspiracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY_TEXT">
+			<Text>It&apos;s a Moriya Shrine Conspiracy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY_STRATEGY">
+			<Text>It&apos;s a Moriya Shrine Conspiracy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY_HELP">
+			<Text>It&apos;s a Moriya Shrine Conspiracy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MORIYA_ACCEPT_DUMMY">
+			<Text>Accepted the Moriya Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY">
+			<Text>Liveable Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY_TEXT">
+			<Text>Mountains and hills are now more liveable for the people of the Tengu Union.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY_HELP">
+			<Text>Allows the building of Terrace Farms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY_QUOTE">
+			<Text>Mountains and hills are now more liveable for the people of the Tengu Union.</Text>
+		</Row>
+	</Language_en_US>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SCOOP_HAPPINESS_BOOST_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<UnmoddedHappiness>1</UnmoddedHappiness>
+			<Description>TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_SCOOP_HAPPINESS_BOOST_DUMMY_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_NEWSPAPER_OFFICE_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_NEWSPAPER_OFFICE_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_NEWSPAPER_OFFICE_DUMMY_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_NEWS_TOURNAMENT_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_NEWS_TOURNAMENT_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>TXT_KEY_POLICY_NEWS_TOURNAMENT_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_NEWS_TOURNAMENT_DUMMY_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_MORIYA_CONSPIRACY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_MORIYA_CONSPIRACY_DUMMY</BuildingClass>
+			<!--These four make it invisible -1, -1, -1 and NULL respectively-->
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<ExtraSpies>1</ExtraSpies>
+			<SpyRankChange>1</SpyRankChange>
+			<InstantSpyRankChange>1</InstantSpyRankChange>
+			<Description>TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY</Description>
+			<Civilopedia>TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_MORIYA_CONSPIRACY_DUMMY_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_NEWSPAPER_OFFICE_DUMMY</BuildingType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+	<Building_SpecialistYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_NEWS_TOURNAMENT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NEWS_TOURNAMENT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_SpecialistYieldChanges>
+	<Policies>
+		<Row>
+			<Type>POLICY_MORIYA_ACCEPT_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_MORIYA_ACCEPT_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>POLICY_NEWS_TOURNAMENT_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_NEWS_TOURNAMENT_DUMMY</Description>
+			<GreatWriterRateModifier>50</GreatWriterRateModifier>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_MORIYA_ACCEPT_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_MORIYA_ACCEPT_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_MORIYA_ACCEPT_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_MORIYA_ACCEPT_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+	<Technologies>
+		<Row>
+			<Type>TECH_LIVEABLE_MOUNTAINS_DUMMY</Type>
+			<Cost>13500</Cost>
+			<Description>TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY</Description>
+			<Civilopedia>TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY_HELP</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<GridX>4</GridX>
+			<GridY>-12</GridY>
+			<Quote>TXT_KEY_TECH_LIVEABLE_MOUNTAINS_DUMMY_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TOUHOU_TENGU_CIV_COLOR_ATLAS</IconAtlas>
+			<Disable>true</Disable>
+		</Row>
+	</Technologies>
+</GameData>

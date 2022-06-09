@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2015 10:10:21 AM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_HV_VILLAGE_SCHOOL</Type>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassCultureChanges>
+		<Row>
+			<PolicyType>POLICY_HV_VILLAGE_SCHOOL</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+	</Policy_BuildingClassCultureChanges>
+</GameData>

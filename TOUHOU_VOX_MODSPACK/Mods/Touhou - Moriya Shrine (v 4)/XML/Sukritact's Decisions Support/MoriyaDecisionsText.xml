@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!--
+						Civ Specific Decisions
+-->
+		<!-- Moriya Shrine -->
+		<Row Tag="TXT_KEY_DECISIONS_MORIYAMOVESHRINE">
+			<Text>Move the Moriya Shrine to Gensokyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MORIYAMOVESHRINE_DESC">
+			<Text>
+				The advancement of human science and society has reduced the amount of faith offered to the gods. Moving the shrine to Gensokyo will provide us with new worshippers and their faith.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Moriya Shrine
+				[NEWLINE][ICON_BULLET]Must have founded a religion
+				[NEWLINE][ICON_BULLET]Must have a Taisha in the holy city
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Moriya Shrine is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MORIYAMOVESHRINE_ENACTED_DESC">
+			<Text>
+				The advancement of human science and society has reduced the amount of faith offered to the gods. Moving the shrine to Gensokyo will provide us with new worshippers and their faith.[NEWLINE]
+				[NEWLINE][ICON_BULLET]Moriya Shrine is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MORIYAKAPPATRADE">
+			<Text>Trade with the Kappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MORIYAKAPPATRADE_DESC">
+			<Text>
+				The nearby kappa are quite ingenious. Providing them with some of the technological innovations we hold would undoubtably be beneficial, providing us with additional income and them with the means to become even more productive.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Moriya Shrine
+				[NEWLINE][ICON_BULLET]Must have founded a religion
+				[NEWLINE][ICON_BULLET]Must have the Moriya Shrine in the holy city
+				[NEWLINE][ICON_BULLET]Must have researched Education
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Research Agreements generate gold for the Moriya Shrine. During the duration of a Research Agreement, both the Moriya Shrine and the other civilization can construct Wonders more quickly.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MORIYAKAPPATRADE_ENACTED_DESC">
+			<Text>
+				The nearby kappa are quite ingenious. Providing them with some of the technological knowledge we hold would undoubtably be beneficial, providing us with additional income and them with the means to become even more productive.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Research Agreements generate gold for the Moriya Shrine. During the duration of a Research Agreement, both the Moriya Shrine and the other civilization can construct Wonders more quickly.
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

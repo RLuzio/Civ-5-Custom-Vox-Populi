@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cef5ebfb-9bf8-4e93-8f52-260d6e9c0097" version="1">
+  <Properties>
+    <Name>Touhou - Byakuren's Myouren Temple</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds Myouren Temple led by Byakuren Hijiri from Touhou Project to the game as a playable civilization</Teaser>
+    <Description>Adds Byakuren Hijiri to the game as a playable leader</Description>
+    <Authors>Bismuth</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="5EE97E5EC08F1BB499D48FAC0D137F09" import="1">Art/HijiriAlpha128.dds</File>
+    <File md5="E5C335FD9FED05AD0B607DF66B2AB356" import="1">Art/HijiriAlpha256.dds</File>
+    <File md5="1C4955E54D5E9B1A7D3CD6E712FA48C8" import="1">Art/HijiriAlpha32.dds</File>
+    <File md5="7E0B1DAE5D0333B801196E51445AB341" import="1">Art/HijiriAlpha48.dds</File>
+    <File md5="36FF940911815467935936B890E80E9C" import="1">Art/HijiriAlpha64.dds</File>
+    <File md5="A0D3F7B2AB9CD95DBA46C3688DCEC0F8" import="1">Art/HijiriAlpha80.dds</File>
+    <File md5="CC616B9F07CE623DA4AF4353A092ED7D" import="1">Art/HijiriAtlas128.dds</File>
+    <File md5="5633E4D2634B95044B5D786CECAEF837" import="1">Art/HijiriAtlas256.dds</File>
+    <File md5="0640EEDACDDFF2A7A661BD534409971D" import="1">Art/HijiriAtlas32.dds</File>
+    <File md5="8D64B886817DCA049D20AEB092EDA6DA" import="1">Art/HijiriAtlas45.dds</File>
+    <File md5="03AC7A571856889A2FD7304CAC53140E" import="1">Art/HijiriAtlas64.dds</File>
+    <File md5="AD2A6A278C26CAB4BE9406861CC1FD0A" import="1">Art/HijiriAtlas80.dds</File>
+    <File md5="8C7E16261147CEB20EE5F4EAEA07B51C" import="1">Art/HijiriDoM.dds</File>
+    <File md5="265C4177EE3AB52CC795DD011E6D2C99" import="1">Art/HijiriLeader.dds</File>
+    <File md5="62657DA0D33A9E1CDA00E430FC50BA82" import="1">Art/HijiriMap.dds</File>
+    <File md5="4A5B8424CED111DC88FFD10B3B79A85F" import="1">Art/Myourenji_Scene.xml</File>
+    <File md5="FC20C93D54DA699BA07F67F9CA3BA1CE" import="1">Art/PalanquinFlag.dds</File>
+    <File md5="22AAB248F311F70A8AAA6809EE1551A6" import="1">Lua/TraitB.lua</File>
+    <File md5="CFA5FB28419F4CDFC6A98F34216CDF72" import="1">Sound/HijiriPeace.mp3</File>
+    <File md5="56B8303F83A105F8D05170D0DE828876" import="1">Sound/HijiriWar.mp3</File>
+    <File md5="9F7E27733DED2AFF36EAB157DF481337" import="1">Sound/Sound.xml</File>
+    <File md5="9E7584E9241997D4C3EF80ED1DA531E1" import="0">XML/Civilization.xml</File>
+    <File md5="21211FD23973F2E7F453AF82ABFDBA0B" import="0">XML/DipResponses.xml</File>
+    <File md5="95E4B278DDD322E516F86450CFF8FA86" import="0">XML/MyourenTemple.xml</File>
+    <File md5="F26B988F2CECFEC222590A6AC696FE23" import="0">XML/MyourenTempleOld.xml</File>
+    <File md5="FC604BDF68C6C6A8659C1E95CA178259" import="0">XML/Leader.xml</File>
+    <File md5="E8F837A9195C81DE396F7565CDCBCB02" import="0">XML/Palanquin.xml</File>
+    <File md5="C2B9DB247CCEAA2C436D94E666DA8A73" import="0">XML/Trait.xml</File>
+    <File md5="13B360DF17013CEBF8A1CF590BD6D101" import="0">XML/TraitBuild.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Myourenji_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Sound/Sound.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DipResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palanquin.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/MyourenTemple.xml</UpdateDatabase>
+      <UpdateDatabase>XML/TraitBuild.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/TraitB.lua">
+      <Name>ByakTrait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/28/2013 5:28:31 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Audio_Sounds>
+
+		<!--Kanako Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KANAKO_PEACE</SoundID>
+			<Filename>KanakoPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KANAKO_WAR</SoundID>
+			<Filename>KanakoWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Kanako Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Kanako Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KANAKO_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KANAKO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KANAKO_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KANAKO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Kanako Music-->
+	</Audio_2DSounds>
+
+
+
+</GameData>

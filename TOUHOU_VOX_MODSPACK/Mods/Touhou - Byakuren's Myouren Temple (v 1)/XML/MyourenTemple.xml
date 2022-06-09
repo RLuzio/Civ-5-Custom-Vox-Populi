@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/21/2016 3:20:14 AM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MYOUREN_TEMPLE</Type>
+			<Description>TXT_KEY_BUILDING_MYOUREN_TEMPLE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MYOUREN_TEMPLE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MYOUREN_TEMPLE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_MYOUREN_TEMPLE_HELP</Help>
+
+			<GoldMaintenance>2</GoldMaintenance>
+			<Cost>100</Cost>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<BuildingClass>BUILDINGCLASS_TEMPLE</BuildingClass>
+			
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+
+			<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
+			
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+			
+			<GreatWorkCount>1</GreatWorkCount>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+			
+			
+
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>CIV_MYOURENJI_ATLAS</IconAtlas>
+		</Row>
+		
+	</Buildings>
+
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_MYOUREN_TEMPLE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MYOUREN_TEMPLE</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MYOUREN_TEMPLE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_MYOUREN_TEMPLE">
+			<Text>Myouren Temple Branch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MYOUREN_TEMPLE_TEXT">
+			<Text>
+				A branch of the Myouren temple. No branches appear in the game, but as the leader of an empire, it seems fiting to set these up in your cities to get your teachings out.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MYOUREN_TEMPLE_STRATEGY">
+			<Text>The Myouren Temple Branch is a replacement for the temple that gives great writer points and a slot for a great work of writing in addition to the normal faith benefits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MYOUREN_TEMPLE_HELP">
+			<Text>The Myouren Temple Branch is a replacement for the temple that gives great writer points and a slot for a great work of writing in addition to the normal faith benefits.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

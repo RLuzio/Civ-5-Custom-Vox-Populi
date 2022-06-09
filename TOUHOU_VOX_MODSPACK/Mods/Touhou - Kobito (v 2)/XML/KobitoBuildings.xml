@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/24/2015 6:16:01 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_KOBITO_DUMMY_01</Type>
+			<DefaultBuilding>BUILDING_KOBITO_DUMMY_01</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_01</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KOBITO_DUMMY_02</Type>
+			<DefaultBuilding>BUILDING_KOBITO_DUMMY_02</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_02</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KOBITO_DUMMY_03</Type>
+			<DefaultBuilding>BUILDING_KOBITO_DUMMY_03</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_03</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KOBITO_DUMMY_CHECK</Type>
+			<DefaultBuilding>BUILDING_KOBITO_DUMMY_CHECK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_CHECK</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_KOBITO</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<Buildings>
+		<Row>
+			<Type>BUILDING_INVERTED_CASTLE</Type>
+			<BuildingClass>BUILDINGCLASS_CASTLE</BuildingClass>
+			<Cost>160</Cost>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_INVERTED_CASTLE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_INVERTED_CASTLE</Description>
+			<Strategy>TXT_KEY_BUILDING_INVERTED_CASTLE_STRATEGY</Strategy>
+			<ArtDefineTag>CASTLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<Defense>700</Defense>
+			<ExtraCityHitPoints>25</ExtraCityHitPoints>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_KOBITO</IconAtlas>
+			<ArtInfoCulturalVariation>true</ArtInfoCulturalVariation>
+			<DisplayPosition>1</DisplayPosition>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+			<EnhancedYieldTech>TECH_ARCHITECTURE</EnhancedYieldTech>
+			<TechEnhancedTourism>2</TechEnhancedTourism>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_KOBITO_DUMMY_01</Type>
+			<BuildingClass>BUILDINGCLASS_KOBITO_DUMMY_01</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_01</Description>
+			<FreePolicies>1</FreePolicies>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_KOBITO_DUMMY_02</Type>
+			<BuildingClass>BUILDINGCLASS_KOBITO_DUMMY_02</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_02</Description>
+			<FreeTechs>1</FreeTechs>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_KOBITO_DUMMY_03</Type>
+			<BuildingClass>BUILDINGCLASS_KOBITO_DUMMY_03</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_03</Description>
+			<FreeGreatPeople>1</FreeGreatPeople>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_KOBITO_DUMMY_CHECK</Type>
+			<BuildingClass>BUILDINGCLASS_KOBITO_DUMMY_CHECK</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOBITO_DUMMY_CHECK</Description>
+		</Row>
+	</Buildings>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_TechEnhancedYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_TechEnhancedYieldChanges>
+
+	<Building_UnitCombatProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+			<Modifier>25</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_INVERTED_CASTLE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_BOMBER</UnitCombatType>
+			<Modifier>25</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_KOBITO_DUMMY_01">
+			<Text>Kobito Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KOBITO_DUMMY_02">
+			<Text>Kobito Dummy 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KOBITO_DUMMY_03">
+			<Text>Kobito Dummy 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KOBITO_DUMMY_CHECK">
+			<Text>Kobito Dummy check</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

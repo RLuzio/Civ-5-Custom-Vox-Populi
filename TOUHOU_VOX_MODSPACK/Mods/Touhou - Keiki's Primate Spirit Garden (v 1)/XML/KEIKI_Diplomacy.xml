@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/19/2016 3:08:47 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_FIRST_GREETING">
+			<Text>I am the sculptor god(Idola Deus)who protects the human spirits from the beasts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_DEFEATED">
+			<Text>Oh well. It looks like I don't have a choice...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KEIKI_WORKSHOP_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now converted into Haniwa by you. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_FIRST_GREETING">
+			<Text>나는 짐승들에게서 인간령을 지키는 조형신(이돌라데우스)이야.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_DEFEATED">
+			<Text>어쩔 수 없구만. 어쩔 수 없어......</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KEIKI_WORKSHOP_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민이 당신의 개조를 받아 하니와가 되었습니다. 당신의 문화가 전 세계를 잠식하게 될까 걱정입니다.</Text>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_FIRST_GREETING">
+			<Text>私は畜生どもから人間霊を守る造形神(イドラデウス)よ。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_DEFEATED">
+			<Text>しかたがない。しかたがないねぇ……</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_KEIKI_WORKSHOP_INFLUENTIAL_ON_AI_1">
+			<Text>我が国の民は貴女に改造され、埴輪になっている。他の国々も知らず知らずのうちにこのような文化に毒されてしまうのだろうか？</Text>
+		</Row>
+	</Language_ja_JP>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_HANIYASUSHIN_KEIKI">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_FIRST_GREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_HANIYASUSHIN_KEIKI">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_HANIYASUSHIN_KEIKI_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

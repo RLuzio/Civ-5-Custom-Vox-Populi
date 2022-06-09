@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2017-09-26 오후 11:43:46 -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_CIV_IV">
+			<Text>Momoyo Himemushi [ICON_FOOD][ICON_PRODUCTION]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_CIV_IV">
+			<Text>히메무시 모모요 [ICON_FOOD][ICON_PRODUCTION]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ko_KR>
+	<Language_ja_JP>
+		<Row Tag="TXT_KEY_LEADER_HIMEMUSHI_MOMOYO_CIV_IV">
+			<Text>姫虫百々世 [ICON_FOOD][ICON_PRODUCTION]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_ja_JP>
+</GameData>

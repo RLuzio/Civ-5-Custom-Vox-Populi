@@ -1,0 +1,38 @@
+Author of ENW for VP: Infixo
+
+Attack Submarine:
+- Model - Gedemon's RED Extended
+- Icon - Asterix Rage
+
+Missile Cruiser:
+- Model - Gedemon's RED Extended
+- Icon - Asterix Rage
+
+Dreadnought:
+- Model - Danrell
+- Icon - Asterix Rage
+
+Destroyer (Z-Class):
+- Model - Danrell
+- Icon - Asterix Rage
+
+Destroyer (Wickes-class):
+- Model - snafusmith
+- Icon - Asterix Rage
+
+Rocket Missile:
+- Icon - Asterix Rage
+
+Supercarrier:
+- Model - Wolfdog
+- Flag - Rapunzel's Nimitz-Class Supercarrier
+- Icon - Asterix Rage
+
+Advanced Destroyer (Horizon Class):
+- Model - ?
+- Icon - Asterix Rage
+
+Cruiser:
+- Icon - Janboruta
+
+Maintained and Updated (After 1.6) by: civplayer33, ProCatGamer, Asterix Rage, yyyt and azum4roll

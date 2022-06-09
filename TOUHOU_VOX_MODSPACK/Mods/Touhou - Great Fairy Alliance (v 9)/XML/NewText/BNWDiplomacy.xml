@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/22/2013 3:54:55 AM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_CIRNO_RESPONSE_STOP_DIGGING_AGREE%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_CIRNO_RESPONSE_STOP_DIGGINGX%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_CIRNO_RESPONSE_STOP_DIGGING_DISAGREE%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_CIRNO_RESPONSE_HUMAN_STOP_DIGGING_BAD%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_CIRNO_RESPONSE_HUMAN_STOP_DIGGING_GOOD%</Response>
+		</Row>
+		<!--Ideologies-->
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_AI_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_CIRNO_SWITCHED_TO_FREEDOM%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_CIRNO_SWITCHED_TO_ORDER%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_CIRNO_SWITCHED_TO_AUTOCRACY%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_CIRNO_INFLUENTIAL_ON_AI%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_CIRNO_INFLUENTIAL_ON_HUMAN%</Response>
+		</Row>
+		<!--Leagues-->
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_CIRNO_WE_LIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_CIRNO_WE_DISLIKE_HUMAN_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_CIRNO_HUMAN_SUPPORTED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_CIRNO_HUMAN_FOILED_OUR_PROPOSAL%</Response>
+		</Row>
+		<Row LeaderType="CIRNO">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_CIRNO_HUMAN_SUPPORTED_OUR_HOSTING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIRNO_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>I like your proposal to the {1_LeagueName}!  It ought to work out really well for us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_WE_LIKE_HUMAN_PROPOSAL_2">
+			<Text>I heard about your proposal to the {1_LeagueName}. It sounds like it&apos;ll be super fun!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>What, what, you can&apos;t take a fairy in a stand up fight, so you&apos;re gonna mess with us in the {1_LeagueName} instead? Knock it off! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_WE_DISLIKE_HUMAN_PROPOSAL_2">
+			<Text>Are you trying to use the {1_LeagueName} to mess around with me? That&apos;s dirty pool!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Thanks for helping my proposal to the {1_LeagueName} win!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>Yay, our proposal to the {1_LeagueName} passed, after you helped it out! The two of us together are an unstoppable juggernaut of political savvy. And cuteness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Why did your delegation have to shoot down my proposal to the {1_LeagueName}?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>So your guys just shoot down whatever I suggest to the {1_LeagueName}? I hope you weren&apos;t counting on any fairy votes going your way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Thanks for voting us to host the next World Congress. First order of business for the {1_LeagueName}: free ice cream for all delegates!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_RESPONSE_STOP_DIGGINGX_1">
+			<Text>Don&apos;t think I can&apos;t see all your professor guys with shovels running around my land digging holes and taking stuff. Stop doing that!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>No! I&apos;m making a necklace out of all the little pottery shards we find, and I&apos;m not stopping until it&apos;s done!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>All right, fine, no more digging. I think we got all the good stuff already anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Is this really what you want to get beaten up for? A bunch of holes in dirt?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>See? That wasn&apos;t so hard. Just because we left some stuff around for a few hundred years and it got buried in dirt doesn&apos;t mean we weren&apos;t gonna use it eventually.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>Why do you keep telling all my fairies they need to protest and riot until they&apos;ve all got Freedom? You&apos;re gonna make me knock all their heads together to keep them in line, aren&apos;t you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>Why are you telling my fairies that things can&apos;t ever be fair until we institute Order? Do you have any idea how hard it is to maintain Order with a bunch of fairies?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>Now everyone&apos;s chanting something about strength and power and, like, something about how our faces make us strong? Faces-ism? If you make my society fall into Autocracy, the first thing I am doing as Supreme Leader is beating you up!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Your people will never be happy until they&apos;re free! Free like the fairies, flying about without a care in the world!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>Your people will never be happy until your society starts being fair to them! Be like the fairies, where nobody owns anything because we can&apos;t remember who bought what!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Your people will never be happy unless they have a strong leader to look up to! See, all the fairies are happy knowing I&apos;m The Strongest and I got their backs!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_SWITCHED_TO_FREEDOM_1">
+			<Text>Hooray, you switched to Freedom! One more ally in the fight against oppression and a bunch more houses to throw parties at!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_SWITCHED_TO_ORDER_1">
+			<Text>Your workers will thank you for switching to Order! An exploited fairy is no fairy at all, and if I have no fairy at all, who am I supposed to be leading, huh? Figure that out!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_SWITCHED_TO_AUTOCRACY_1">
+			<Text>You will not regret your move to Autocracy. Everyone loves their Great Leader, and we&apos;ll all work together to carve our name in the tree stump of history. Plus you get to put posters with your face on &apos;em up all over the place!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_INFLUENTIAL_ON_AI_1">
+			<Text>Hey, we&apos;re all buying your blue jeans and stuff, but we have a question. What&apos;s that part on the top with the zippers and rivets for? You have to cut it off before you can cut the rest into little fairy dresses, it seems like it&apos;d be easier if you didn&apos;t keep putting it on there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIRNO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Hey, it&apos;s great to see your people coming over here to watch us change the seasons and coming home with their own souvenier leaves and macaroni pictures! We worked really hard on all that stuff.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

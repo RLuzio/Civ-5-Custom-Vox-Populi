@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="44d72f70-a3ac-4a3d-8bf0-f555262fe11c" version="2">
+  <Properties>
+    <Name>Touhou - The Netherworld</Name>
+    <Teaser>Adds the Netherworld from Touhou Youyoumu ~ Perfect Cherry Blossom as a playable civilization, led by Yuyuko Saigyouji.</Teaser>
+    <Description>Adds the Netherworld from Touhou Youyoumu ~ Perfect Cherry Blossom as a playable civilization, led by Yuyuko Saigyouji.</Description>
+    <Authors>Smooglii</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="256D7A4358115C41DA6E60E851EF5FF3" import="1">Art/FlowerViewingsPopular.dds</File>
+    <File md5="887255646876EDB2704C5DB9895AC239" import="1">Art/Longswordsman_Japan.dds</File>
+    <File md5="B6B11300AFE8F5C82C875C2B1EFF55BA" import="1">Art/Longswordsman_Japan_gloss.dds</File>
+    <File md5="ECD82BCBCBCEA03E93E07A3DD9D295FF" import="1">Art/Longswordsman_Japan_v2.blend</File>
+    <File md5="314EB920A58D213BDCAAD37DC560EA21" import="1">Art/Longswordsman_Japan_v2.fxsxml</File>
+    <File md5="397599656BA729FA61A6B26E2FFECB31" import="1">Art/Longswordsman_Japan_v2.gr2</File>
+    <File md5="D14D7338F9E8584039C03AF8791700B4" import="1">Art/NetherworldAlphaAtlas16.dds</File>
+    <File md5="50391476B734FB17E3C39500730CA46F" import="1">Art/NetherworldAlphaAtlas24.dds</File>
+    <File md5="2E45AEF52BBB59089CACD5D6E47B91DC" import="1">Art/NetherworldAlphaAtlas32.dds</File>
+    <File md5="4C83FDFAC6E826D6B6FC233DACCFC3F3" import="1">Art/NetherworldAlphaAtlas48.dds</File>
+    <File md5="6AFB91D0AAB582ADD7EB1AFC8F9FFC07" import="1">Art/NetherworldAlphaAtlas64.dds</File>
+    <File md5="713CA5489EEF0646EDFA92FB286E15B6" import="1">Art/NetherworldAtlas128.dds</File>
+    <File md5="B26052D9706384AF3C672CD6AB4765CA" import="1">Art/NetherworldAtlas256.dds</File>
+    <File md5="25BE391DD3CACB03B3F01418531D1B8B" import="1">Art/NetherworldAtlas32.dds</File>
+    <File md5="0D0CC64B1F45F12D117D46471209806E" import="1">Art/NetherworldAtlas45.dds</File>
+    <File md5="AFA7F29B8791D0C05814DF288BC46AB4" import="1">Art/NetherworldAtlas64.dds</File>
+    <File md5="21E3B40BCAAB609DF486DF6A787D0912" import="1">Art/NetherworldAtlas80.dds</File>
+    <File md5="ADB510275C45B4AC6CD639A0ABB1803C" import="1">Art/NetherworldSVSamuraiPoet.dds</File>
+    <File md5="E0AA18F6B887D71E08A77B773BF80277" import="1">Art/NetherworldYuyukodiplo.dds</File>
+    <File md5="8B360FD094B6F56DDA5C5FCAE7DF7922" import="1">Art/NetherworldYuyukoDOM.dds</File>
+    <File md5="5025FDA8B7247AFB9E1F175356D9D9E6" import="1">Art/NetherworldYuyukomap.dds</File>
+    <File md5="C20C07EA7D8F177B18C64E96A797A047" import="1">Lua/NetherworldSamuraiPoet.lua</File>
+    <File md5="109EFE7BCBAD0DA19B1E0D9FBF1DDAF5" import="1">Music/Either/BorderofLifeChorus.mp3</File>
+    <File md5="65010B0E8ADD2C73652A356FC8900EA1" import="1">Music/Either/UltimateTruthandNightSakuraofDeadSpirits.mp3</File>
+    <File md5="D4A5349823FD6242296A6544F2768D9A" import="1">Music/Either/UltimateTruth.mp3</File>
+    <File md5="F19AE2E860B2115C26248B2204848C84" import="1">Music/Peace/BorderofLifeOrchestral.mp3</File>
+    <File md5="997966AFE08F23B4B179B6FC18806390" import="1">Music/Peace/BorderofLifePiano.mp3</File>
+    <File md5="191EFC4EC71256C0D256D35DB8C1BD45" import="1">Music/Peace/BorderofLifeViolin.mp3</File>
+    <File md5="FE9DD40BB8F305C1A5819CDEFC6CA215" import="1">Music/Peace/HiroariShootsaStrangeBirdTillWhen.mp3</File>
+    <File md5="7712F02A5843969681535936529C3ED2" import="1">Music/Peace/NightSakuraofDeadSpirits.mp3</File>
+    <File md5="E93E7D39B3042F1CFC313B94EF4FFB32" import="1">Music/War/BorderofLifeSSH.mp3</File>
+    <File md5="DE10FBE39FF750F20CBB91625D1994D8" import="1">Music/War/HiroariShootsaStrangeBirdTillWhenRock.mp3</File>
+    <File md5="5E95F120B73E9204E895A74E5DD73818" import="1">Music/War/Overflow.mp3</File>
+    <File md5="092EB903B4BBA4C4045B53C35AB5B955" import="1">Music/War/UltimateTruthChorus.mp3</File>
+    <File md5="B02CABE5A91B2F213BA3EBE017D3DDFA" import="1">Support/NetherworldEvents.lua</File>
+    <File md5="D37432458B696EF9DE920AD3F2451A5E" import="1">Support/NetherworldDecisions.lua</File>
+    <File md5="D10830CBC4A3B60F32C63A352920B61E" import="0">Support/NetherworldEventsandDecisions.xml</File>
+    <File md5="1786E8DCE1CF759EC4EBAAC5FC60A3E7" import="0">Support/NetherworldSupport.sql</File>
+    <File md5="65CA03AD4D38BF417E8D1B817913AEF4" import="0">Support/NetherworldUniqueCulturalInfluence.xml</File>
+    <File md5="B620F3026315BAF090010BFA1408F5F1" import="0">XML/NetherworldBuilding.xml</File>
+    <File md5="2B4F000668118783264710E6E9CA0C70" import="0">XML/NetherworldCivilization.xml</File>
+    <File md5="8B84775BFF93BF65FD99D3EC268A4373" import="0">XML/NetherworldAtlas.xml</File>
+    <File md5="E2CBE128DE68DA2D365496ECD653EFB6" import="0">XML/NetherworldMusic.xml</File>
+    <File md5="48BB0776EE4D94E365128641AB753AB0" import="0">XML/NetherworldGameText.xml</File>
+    <File md5="4F8F0A267543D3F9CE48956B08CE5F46" import="1">XML/NetherworldYuyukoScene.xml</File>
+    <File md5="D6BEABEB61B2E7C3D883FE85F3B08DEA" import="0">XML/NetherworldLeader.xml</File>
+    <File md5="85AEA539495CFA9E60E314362D5C57EC" import="0">XML/NetherworldUnit.xml</File>
+    <File md5="A427E040E9F6414A3641B076AF1F9D26" import="0">XML/NetherworldTrait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/NetherworldCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldBuilding.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldUnit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldYuyukoScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NetherworldGameText.xml</UpdateDatabase>
+      <UpdateDatabase>Support/NetherworldUniqueCulturalInfluence.xml</UpdateDatabase>
+      <UpdateDatabase>Support/NetherworldSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/NetherworldEventsandDecisions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/NetherworldSamuraiPoet.lua">
+      <Name>SamuraiPoet</Name>
+      <Description>Samurai Poet lua script.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

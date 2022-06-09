@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/28/2019 1:38:12 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_KOISHI_T</Type>
+			<DefaultBuilding>BUILDING_KOISHI_TRAIT_BUILDING</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOISHI_TRAIT_BUILDING</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KOISHI_T_B</Type>
+			<DefaultBuilding>BUILDING_KOISHI_TRAIT_BUILDING_B</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KOISHI_TRAIT_BUILDING_B</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_KOISHI_TRAIT_BUILDING</Type>
+			<BuildingClass>BUILDINGCLASS_KOISHI_T</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<ExtraLeagueVotes>1</ExtraLeagueVotes>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOISHI_TRAIT_BUILDING</Description>
+		</Row>
+		<Row>
+			<Type>BUILDING_KOISHI_TRAIT_BUILDING_B</Type>
+			<BuildingClass>BUILDINGCLASS_KOISHI_T_B</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+			<Description>TXT_KEY_BUILDING_KOISHI_TRAIT_BUILDING_B</Description>
+			<SpyRankChange>1</SpyRankChange>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SUBTERRANEAN_PALACE</Type>
+			<BuildingClass>BUILDINGCLASS_CONSTABLE</BuildingClass>
+			<Cost>160</Cost>
+			<PrereqTech>TECH_BANKING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_SUBTERRANEAN_PALACE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SUBTERRANEAN_PALACE_PEDIA</Civilopedia>
+			<Help>TXT_KEY_BUILDING_SUBTERRANEAN_PALACE_HELP</Help>
+			<Strategy>TXT_KEY_BUILDING_SUBTERRANEAN_PALACE_STRATEGY</Strategy>
+			<ArtDefineTag>COLESSEUM</ArtDefineTag>
+			<EspionageModifier>-50</EspionageModifier>
+			<Happiness>1</Happiness>
+			<TrainedFreePromotion>PROMOTION_COVER_1</TrainedFreePromotion>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>ANIMISM_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_KOISHI_TRAIT_BUILDING</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_YieldModifiers>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SUBTERRANEAN_PALACE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SUBTERRANEAN_PALACE</BuildingType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUBTERRANEAN_PALACE</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUBTERRANEAN_PALACE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

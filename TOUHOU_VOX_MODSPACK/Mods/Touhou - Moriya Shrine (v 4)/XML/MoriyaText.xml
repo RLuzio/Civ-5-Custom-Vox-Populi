@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/22/2013 4:00:40 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_MORIYA_ADJECTIVE">
+			<Text>Moriya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORIYA_DESC">
+			<Text>Moriya Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MORIYA_SHORT_DESC">
+			<Text>Moriya Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO">
+			<Text>Kanako Yasaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MOUNTAIN_OF_FAITH">
+			<Text>Gain [ICON_PEACE] Faith upon discovering a new technology. Cities generate 1 [ICON_RESEARCH] Science for every 2 [ICON_PEACE] Faith, and each Mountain in a city's borders adds 1 [ICON_PEACE] Faith and 1 [ICON_RESEARCH].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MOUNTAIN_OF_FAITH_SHORT">
+			<Text>Mountain of Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MORIYA_TITLE">
+			<Text>Moriya Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MORIYA_TEXT">
+			<Text>
+				Greetings to you, Kanako Yasaka, great goddess of wind and storm![NEWLINE][NEWLINE]Centuries ago, you invaded the lands of Japan at the head of the Yamato people, challenging the resident goddess, Suwako Moriya, and defeating her and her iron-equipped soldiers with the power of your own faith. Since then, you have sought to gather as much faith as you could, but the advent of the modern era has meant a decline in religious faith.[NEWLINE][NEWLINE]Seeking a new source of faith, you chose to move your shrine into Gensokyo, establishing it atop Youkai Mountain.  However, your presence there destabilized the delicate balance of power, as the tengu and kappa were strengthened by their faith in you.  Now, you are working to spread your faith across Gensokyo, so that all may benefit from your power and majesty.  Furthermore, you regularly try to encourage scientific development and construction projects, in order to help make the transition from a goddess of wind and rain, into a goddess of technological innovation.[NEWLINE][NEWLINE]Great and wonderous Kanako, will you manage to spread your faith to all, and recreate yourself as a goddess of the future?[NEWLINE][NEWLINE]Can you create a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAISHA">
+			<Text>Taisha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAISHA_STRATEGY">
+			<Text>The Taisha is the Moriya Shrine's unique building, replacing the Temple. It provides 1 [ICON_PEACE] Faith to the city for every 2 citizens following your religion there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TAISHA_TEXT">
+			<Text>The taisha, or 'grand shrine', is a larger and more elaborate version of the typical shrine complex. Often dedicated to significant deities in Japanese mythology, these complexes can become quite large, including even subsidiary shrines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAISHA_HELP">
+			<Text>The Taisha provides 1 [ICON_PEACE] Faith to the city for every 2 citizens following your religion there. It replaces the Temple.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONBASHIRA">
+			<Text>Onbashira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONBASHIRA_STRATEGY">
+			<Text>The Onbashira is a unique building for the Moriya Shrine. 1 [ICON_PEACE] Faith and 1 [ICON_CULTURE] Culture to the city it's built in. It can only be built after the Onbashira Festival event occurs in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONBASHIRA_TEXT">
+			<Text>The term 'onbashira' literally means 'honored pillars'. In the Lake Suwa region of Japan, an onbashira festival is held every 6 years, in order to symbollically renew the Suwa Taisha. Huge trees are cut down in a Shinto ceremony, and transported down the mountains to the buildings of the taisha, where they are symbolically laid to support the foundations of the shrine buildings. At the Moriya Shrine in Gensokyo, however, onbashira can be found placed as free-standing pillars, symbols of the goddess Kanako.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ONBASHIRA_HELP">
+			<Text>The Onbashira provides 1 [ICON_PEACE] Faith and 1 [ICON_CULTURE] Culture to the city it's built in. It can only be built after the Onbashira Festival event occurs in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_SHRINE">
+			<Text>Moriya Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_SHRINE_STRATEGY">
+			<Text>The Moriya Shrine is a unique building for the Moriya Shrine, replacing the Grand Temple. In addition to the normal effects of the Grand Temple, it enhances the yields of Onbashiras built in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_SHRINE_TEXT">
+			<Text>The Moriya Shrine is a Shinto shrine that originated from the world outside of Gensokyo, and was transported from there into Gensokyo by Kanako Yasaka during the start of the events of Mountain of Faith. The shrine is now located somewhere near the top of Youkai Mountain along with the Divine Lake that was also transported with it. This shrine is home to Sanae Kochiya, whose role is similar to a shrine maiden, and its resident gods Kanako Yasaka and Suwako Moriya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_SHRINE_HELP">
+			<Text>The Moriya Shrine replaces the Grand Temple.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HISOUTENSOKU">
+			<Text>Hisoutensoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HISOUTENSOKU_STRATEGY">
+			<Text>Hisoutensoku is a unique building for the Moriya Shrine. It can appear in the capital as a result of the A Mysterious Form Has Been Sighted! event, and provides a bonus a +2 [ICON_GOLD] Gold and +2 [ICON_PEACE] Faith for each trade route to the city..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HISOUTENSOKU_TEXT">
+			<Text>Hisoutensoku was an unknown huge object seen roaming around the Misty Lake in the events of the game of the same name. It was spotted by numbers of characters before it mysteriously vanished, being mistaken variously for a Brocken spectre, a giant robot, a Daidarabotchi, and Taisui Xingjun. In fact, Hisoutensoku was a steam-powered balloon created by the kappa to advertise their upcoming "Future Water Youkai Bazaar".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HISOUTENSOKU_HELP">
+			<Text>Hisoutensoku provides a bonus a +2 [ICON_GOLD] Gold and +2 [ICON_PEACE] Faith for each trade route to the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_KAPPA_DAM">
+			<Text>Kappa Dam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_KAPPA_DAM_STRATEGY">
+			<Text>The Kappa Dam is a unique building for the Moriya Shrine. It can appear in a city as a result of the A Landslide Occurs! event, and provides a bonus the same benefits as a Hydro Plant. However, a Hydro Plant cannot be built in a city that already has a Kappa Dam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_KAPPA_DAM_TEXT">
+			<Text>In Wild and Horned Hermit, the kappa cause a landslide while attempting to build a dam. In order to prevent flooding, Kanako assists in clearing away the debris, and then directs the kappa as to how to build a hydroelectric dam properly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_KAPPA_DAM_HELP">
+			<Text>The Kappa Dam provides the same bonuses as a Hydro Plant.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_ONBASHIRA_ENABLER">
+			<Text>Onbashira Enabler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_UA">
+			<Text>Moriya Shrine UA 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MORIYA_UA_2">
+			<Text>Moriya Shrine UA 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TAISHA_DUMMY">
+			<Text>Taisha Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HISOUTENSOKU_BONUS">
+			<Text>Hisoutensoku Bonus</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_YAMATO_SWORDSMAN">
+			<Text>Yamato Swordsman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO_SWORDSMAN_TEXT">
+			<Text>As the Yamato people spread to Japan, accompanied by their goddess, Kanako Yasaka, they encountered the tribes that worshipped a local goddess, Suwako Moriya.  Suwako had equipped her followers with iron weapons, but Kanako was able to cause their weapons to rust and decay, giving her troops the advantage. The Yamato soldiers were able to gain supremacy over the indigenous tribes, leading to the establishment of the Yamato dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO_SWORDSMAN_STRATEGY">
+			<Text>The Yamato Swordsman is a unique unit for the Moriya Shrine, replacing the Swordsman. It gains a bonus to combat strength proportional to the amount of faith your civilization generates per turn. Unlike the Swordsman, the Yamato Swordsman does not require iron to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_YAMATO_SWORDSMAN_HELP">
+			<Text>Swordsman unit. Only the Moriya Shrine may produce them. Requires no Iron, and gains a combat bonus proportional to Faith.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NOTIFICATION_MORIYA_FAITH_FROM_TECH_UPDATE_TEXT">
+			<Text>You have received {1_Num} [ICON_PEACE] Faith from the discovery of {2_TechName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_MORIYA_FAITH_FROM_TECH_UPDATE_TITLE">
+			<Text>Faith Bonus From Technology</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_0">
+			<Text>Sanae Kochiya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_1">
+			<Text>Okinu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_2">
+			<Text>Arashi Kishuu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_3">
+			<Text>Kikyou</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_4">
+			<Text>Kou</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_5">
+			<Text>Akimoto</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_6">
+			<Text>Misono</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MORIYA_7">
+			<Text>Mizuki Rashojin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_1">
+			<Text>Moriya Shrine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_2">
+			<Text>Maemiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_3">
+			<Text>Honmiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_4">
+			<Text>Harumiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_5">
+			<Text>Akimiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_6">
+			<Text>Ise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_7">
+			<Text>Izumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_8">
+			<Text>Fushimi Inari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_9">
+			<Text>Kumano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_10">
+			<Text>Kasuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_11">
+			<Text>Hirose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_12">
+			<Text>Sumiyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_13">
+			<Text>Usa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MORIYA_14">
+			<Text>Suwa</Text>
+		</Row>
+		<!--Leader: Cirno - Pedia-->
+		<Row Tag="TXT_KEY_CIV5_KANAKO_NAME">
+			<Text>Kanako Yasaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KANAKO_SUBTITLE">
+			<Text>The Avatar of Mountains and Lakes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KANAKO_LIVED">
+			<Text>TH010.0 ~ TH14.0</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV6_KANAKO_HEADING_1">
+			<Text>About</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_KANAKO_TEXT_1">
+			<Text>Kanako Yasaka is the current goddess of the Moriya Shrine, having defeated its previous goddess, Suwako Moriya, when the Yamato people came to dominate the islands of Japan. With the advent of modern science and philosophy, however, she found the faith the people had in the gods and the concept of eternity was begining to wane, and with it, her power.[NEWLINE][NEWLINE]In order to solve this problem, she decided to abandon the outside world and move her shrine to Gensokyo.  This plan ended up working out quite well, as she quickly came to be worshipped as the deity of Youkai Mountain and gather significant amounts of faith.</Text>
+		</Row>
+
+		<!-- Diplomacy-->
+
+		<Row Tag="TXT_KEY_LEADER_KANAKO_FIRSTGREETING_1">
+			<Text>Greetings. Have you brought an offering for the gods of this shrine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_FIRSTGREETING_2">
+			<Text>Greetings, visitor. What business have you with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_FIRSTGREETING_3">
+			<Text>Oh, hello. Have you come to worship at the shrine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_DECLAREWAR_1">
+			<Text>A god must eliminate all who oppose their struggle for faith, one by one. The time for war has come!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_DECLAREWAR_2">
+			<Text>The faithless can never understand the meaning of faith. It is time for you to experience the raging soul of an angry god!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_DECLAREWAR_3">
+			<Text>Were this world to completely lose its faith, surely it would be thrown into chaos? I will eliminate any who oppose our struggle!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_DEFEATED_1">
+			<Text>It is quite impressive for a human to defeat a goddess who was built up a country by herself. We should drink sake together, sometime.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_DEFEATED_2">
+			<Text>It seems the faith of our people was not enough to carry us into the future. I must pass the torch on to you, to find what the future holds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KANAKO_DEFEATED_3">
+			<Text>I have been defeated... how unfortunate. Perhaps, when the leaves change color this year, we can gather for a festival to celebrate instead?</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

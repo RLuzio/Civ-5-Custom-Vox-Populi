@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a0a351ee-43b5-4222-879e-fcb1bb1cea06" version="5">
+  <Properties>
+    <Name>Touhou - Bhava-agra</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the Celestials led by Tenko</Teaser>
+    <Description>Adds the Bhava-Agra civilization led by Tenko. The civilization is focused on hill growth and perpetuating golden ages, while it also has a small boost to culture and faith.</Description>
+    <Authors>Mathetesalexandrou</Authors>
+    <SpecialThanks>Lord Tirian, JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Bingle's Civ IV Traits" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="Barathor's Extra Luxuries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C5C2E9F67C8A8C9B4ADF724D61A9015B" import="1">Art/Mathalx_Celestial_Weather_Icon_Atlas_128.dds</File>
+    <File md5="05A9E795FE74D7D503AC05DDAAA6FD9E" import="1">Art/Mathalx_Celestial_Weather_Icon_Atlas_256.dds</File>
+    <File md5="8F46C7BE0B5493B98E2141CF9720996B" import="1">Art/Mathalx_Celestial_Weather_Icon_Atlas_32.dds</File>
+    <File md5="2BF950440E00077580F89E2AAD10D700" import="1">Art/Mathalx_Celestial_Weather_Icon_Atlas_45.dds</File>
+    <File md5="6A16E3E38A2A53A66CA0674C03764A57" import="1">Art/Mathalx_Celestial_Weather_Icon_Atlas_64.dds</File>
+    <File md5="4EF223A88322F815A1D291082734F309" import="1">Art/Mathalx_Celestial_Weather_Icon_Atlas_80.dds</File>
+    <File md5="CF9AC3FD6298AFBDF69DE25D0946D61A" import="1">Art/ObeliskAtlas_256.dds</File>
+    <File md5="D5980F0349451FB474BECB174B7CD370" import="1">Art/ObeliskAtlas_45.dds</File>
+    <File md5="3159C12C1E7F7D0D7FABF0B68D146305" import="1">Art/ObeliskAtlas_64.dds</File>
+    <File md5="589984AC6005DE17084D24FF4336E468" import="1">Art/Mathalx_Celestial_Alpha_128.dds</File>
+    <File md5="1AA319F021D280820AB960DF06E4829F" import="1">Art/Mathalx_Celestial_Alpha_16.dds</File>
+    <File md5="E3A6079A04C94503C3B044EE6C0DDF66" import="1">Art/Mathalx_Celestial_Alpha_24.dds</File>
+    <File md5="EF2E04427FE92032BE14869B0A7D653B" import="1">Art/Mathalx_Celestial_Alpha_32.dds</File>
+    <File md5="14504846AC8FF16B14C482EF817CA9CF" import="1">Art/Mathalx_Celestial_Alpha_48.dds</File>
+    <File md5="A8C8A5A0E7C109842F19B44B34DB26B5" import="1">Art/Mathalx_Celestial_Alpha_64.dds</File>
+    <File md5="8F917B4BE6C966D6C3AF70E1B80DD460" import="1">Art/Mathalx_Celestial_Alpha_80.dds</File>
+    <File md5="36616E98A750AEE13F66E1BA38E3CB81" import="1">Art/Mathalx_Celestial_Icon_Atlas_128.dds</File>
+    <File md5="24984F11C87B756E544914DB9E856871" import="1">Art/Mathalx_Celestial_Icon_Atlas_256.dds</File>
+    <File md5="D31109C786232ED2849322E3F3DFDFC7" import="1">Art/Mathalx_Celestial_Icon_Atlas_32.dds</File>
+    <File md5="3BA2C99E270990525B281B20A606FCD9" import="1">Art/Mathalx_Celestial_Icon_Atlas_45.dds</File>
+    <File md5="80B432662ADC1B24BFCE3D41FA90610E" import="1">Art/Mathalx_Celestial_Icon_Atlas_64.dds</File>
+    <File md5="2B13A3FDB070B3BF0B63345792C632F7" import="1">Art/Mathalx_Celestial_Icon_Atlas_80.dds</File>
+    <File md5="7251C9DF8ABADFA8BA5EAE77B5C13F34" import="1">Art/sv_Obelisk.dds</File>
+    <File md5="530875E60569943221897B792DACACD4" import="1">Art/Tenko_DOM.dds</File>
+    <File md5="22FE2B7D0B49966EF1FCCD2EF779A68B" import="1">Art/Tenko_Scene.dds</File>
+    <File md5="3083AB2CDB187DBF59861B9F44406524" import="0">Credits.txt</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">LUA/PlotIterators.lua</File>
+    <File md5="5491A0145BD24582E1FB24857F53F72F" import="0">LUA/Tenko_Ability.lua</File>
+    <File md5="BE67CE4FDB91A953C9C45895F19243DA" import="1">Music/Tenko_War.mp3</File>
+    <File md5="C26FED1DE6AB7F695A171FE281310567" import="1">Music/Tenko_Peace.mp3</File>
+    <File md5="1375EAC30A7655BC3782BEEA28D7E795" import="0">SQL/CivIVTrait.sql</File>
+    <File md5="06C99F19DF822E96F9725E56EE21296D" import="0">SQL/KeystoneResource.sql</File>
+    <File md5="873F1DEA9C086F0954BF1C2DD06AE2D1" import="0">XML/Buildings_Celestial.xml</File>
+    <File md5="5CE23BC8DCD4E43AA8B1373BDC4F4AA2" import="0">XML/Buildings_GA_Celestial.xml</File>
+    <File md5="6059F3B63265B4E1424CC0F76FDB031D" import="0">XML/Civilization_Celestial.xml</File>
+    <File md5="A4EFE92B7EE7549CC1A009A180078B09" import="0">XML/Diplomacy.xml</File>
+    <File md5="460DAAF0A09F0EE52472DD5973839F9B" import="0">XML/DiploText_en_US.xml</File>
+    <File md5="4EF0BF40226B0BFBC76AD02E378E2BDC" import="0">XML/DiploText_ko_KR.xml</File>
+    <File md5="65D3CEE67817E558985672AD5D6B53AD" import="0">XML/GameText_en_US.xml</File>
+    <File md5="917F3FC3E924DCC08E9B2A4C0A55CA24" import="0">XML/GameText_ko_KR.xml</File>
+    <File md5="51A387CB5E6C996ABA50A64E7C11552B" import="0">XML/IconAtlas_Celestial.xml</File>
+    <File md5="CD84861EBA0F1DC74F8198BBAC6ACD6F" import="0">XML/Improvements_Celestial.xml</File>
+    <File md5="0FA8BCE3FE911DB02785AF7B72D75ABB" import="0">XML/Leader_Tenko.xml</File>
+    <File md5="BAEA823231C07AF4F2C6F068F7C16D22" import="0">XML/Music_Tenko.xml</File>
+    <File md5="CE32FB9BE2004EE0F7516D2DD44E44E5" import="0">XML/PlayerColors_Celestial.xml</File>
+    <File md5="C9B5E99707B40C5B0F2320E7BFDCC022" import="0">XML/Promotion_Celestial.xml</File>
+    <File md5="F17D9CBF5902F65CD45651B21F7ED78E" import="1">XML/Tenko_Scene.xml</File>
+    <File md5="89E535D0B9D85964D86CF375F86AECD4" import="0">XML/Trait_Celestial.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiploText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiploText_ko_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText_en_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText_ko_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader_Tenko.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music_Tenko.xml</UpdateDatabase>
+      <UpdateDatabase>XML/PlayerColors_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Promotion_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait_Celestial.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/KeystoneResource.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CivIVTrait.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings_GA_Celestial.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Tenko_Ability.lua">
+      <Name>Tenko_UA</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

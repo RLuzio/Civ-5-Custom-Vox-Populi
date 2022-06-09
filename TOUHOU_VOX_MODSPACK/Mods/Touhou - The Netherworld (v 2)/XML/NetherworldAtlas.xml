@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	-<IconTextureAtlases>
+		-<Row>
+			<Atlas>NETHERWORLD_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>NetherworldAtlas256.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>NetherworldAtlas128.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>NetherworldAtlas80.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>NetherworldAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>NetherworldAtlas45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>NetherworldAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ALPHA_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>NetherworldAlphaAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ALPHA_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>NetherworldAlphaAtlas48.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row> -<Row>
+			<Atlas>NETHERWORLD_ALPHA_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>NetherworldAlphaAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>-<Row>
+			<Atlas>NETHERWORLD_ALPHA_ATLAS</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>NetherworldAlphaAtlas24.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>-<Row>
+			<Atlas>NETHERWORLD_ALPHA_ATLAS</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>NetherworldAlphaAtlas16.dds</Filename>
+			<IconsPerRow>5</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+</GameData>

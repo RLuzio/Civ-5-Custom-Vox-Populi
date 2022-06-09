@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c251e02b-f602-4e81-9a4a-2aaae249209d" version="2">
+  <Properties>
+    <Name>Only Mod Civs</Name>
+    <Teaser>Removes non-mod civs from play, allowing only the civs you have modded in.</Teaser>
+    <Description>Removes non-mod civs from play, allowing only the civs you have modded in.
+
+Have you ever started a mod game with several fan-created civilizations you wanted to play as/against, and had to go through and individually select all of the leaders so that the randomizer didn't accidentally pit you off against Washington and Ramesses II? It's a minor inconvenience, but it is trying. This mod removes any need to do that by removing those civilizations from being playable by a player or AI.
+
+Should be compatible with Vanilla, please tell me if it is not.
+
+Even though my screenshot shows some Civilizations, please be aware that this works with any civilizations as long as they are selected in your mod uploader.</Description>
+    <Authors>Monk Preston</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="275DC7EDF48A08D2FD00A0FDEF223223" import="1">CIV_REMOVAL.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>CIV_REMOVAL.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

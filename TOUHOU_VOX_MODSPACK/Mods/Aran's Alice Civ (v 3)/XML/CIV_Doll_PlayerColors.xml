@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 4:57:54 PM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_DOLL</Type>
+			<PrimaryColor>COLOR_DOLL_BORDER</PrimaryColor>
+			<SecondaryColor>COLOR_DOLL_LAND</SecondaryColor>
+			<TextColor>COLOR_DOLL_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

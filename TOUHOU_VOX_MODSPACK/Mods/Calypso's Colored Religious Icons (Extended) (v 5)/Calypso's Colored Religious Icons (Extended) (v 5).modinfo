@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="205ebd78-1e7e-4a12-a34a-1a63ff7033d3" version="5">
+  <Properties>
+    <Name>Calypso's Colored Religious Icons (Extended)</Name>
+    <Teaser>Vibrantly recolors religious icons, while adding 10 more religions.[NEWLINE]Requires Calypso's Colored Religious Icons (Basic).</Teaser>
+    <Description>Calypso's Colored Religion Icons (Civ V G&amp;K or Civ V BNW)[NEWLINE][NEWLINE](Extended): Adds 10 new religions with colored icon art. Requires Calypso's Colored Religion Icons (Basic) to use.[NEWLINE]
+[NEWLINE]This mod continues my project dynamically recoloring the religious icons in Civilization V Gods &amp; Kings. The mod does adds 10 new religions, colored like I had colored the existing ones so that they are quickly recognizable and the world map is a bit more vibrant.[NEWLINE]
+[NEWLINE]There's been other mods that add these kind of religions, but I wanted to put my own unique flare on them, picking names and icons that hadn't been done before.[NEWLINE]
+[NEWLINE]My ultimate goal was to provide users with a greater diversity of religions so that civilizations who lack accurate religions could finally make logical selections. I really just got tired of seeing the Incans founding Judaism, the Celts taking Christianity every single game they were in, and nations like the Aztecs, Mayan, Polynesians founding Christianity when they really only did as their empire collapsed.[NEWLINE][NEWLINE]I ran into a few problems. These religions often lacked as clear symbology as today's faiths, and they often did not have distinctive names. Icon symbols were eventually easy to deal with; I decided to use physical structures to represent many of the new religions, as had been previously done for Shinto. Coming up with names however was mind numbingly difficult, but after trying a bunch out, these are the ones that felt OK in game, and preserve Civ's 1-word religion naming convention.[NEWLINE][NEWLINE]This mod affects saved games, but I find that you need to load both (Basic) and (Extended) from the MODS menu and then load your game to make sure that the religions load correctly.[NEWLINE][NEWLINE]To sum it up, while using this mod, the new religions are:[NEWLINE][NEWLINE]- Akkadianism (Babylon, Assyria)[NEWLINE][NEWLINE]- Druidism (Celts)[NEWLINE]- Germanicism (Denmark)[NEWLINE]- Hellenism (Greece, Rome)[NEWLINE]- Intiism (Inca)[NEWLINE]- Kanoh'hon'io (Iroquois)[NEWLINE]- Kiniakua (Polynesia)[NEWLINE]- Memphitism (Egypt)[NEWLINE]- Punicism (Carthage)[NEWLINE]- Teotlism (Aztec, Maya)[NEWLINE][NEWLINE]
+While we did not collaborate, I'd like to thank Tomatekh for their Historical Religion mod, which I used as a tutorial in religion adding and my starting point for naming and icon ideas.[NEWLINE][NEWLINE]My color palette and designs were inspired by reference photos, the religion icons from Civ IV, and the religion pips from Empire Total War.[NEWLINE][NEWLINE]This mod requires Calypso's Colored Religion Icons (Basic) and should be compatible with most other mods, except those that also recolor religious icons (such as Toft's Colored Religions Mod). While this mod will work with others that add religions, it will of course not recolor them, so expect the game to then have an odd mix of colored and uncolored icons (if, for example, using Tomatekh's Historical Religion mods). The grand exception among religion mods is, of course, ryoga's Christian Schisms mod, with which it is fully compatible with my mods, though ryoga's Christian Schisms is not needed for Civ V BNW.[NEWLINE][NEWLINE]At this time, Calypso's Colored Religion Icons (Extended) is only English language compatible.</Description>
+    <Authors>Calypso</Authors>
+    <SpecialThanks>Tomatekh</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>3</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="c865cfd4-c125-42dc-9c46-51fe15fb7841" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="e9a7fe23-f3fd-4806-a65d-1bc6262bcacf" minversion="0" maxversion="999" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="AED116BE1E53F2843E668D1E9392772A" import="1">Art/CalypsoReligiousSymbolsFontIcons_extended.ggxml</File>
+    <File md5="C0122893FE643104E52C8284E8654503" import="1">Art/CalypsoReligiousSymbolsFontIcons_extended.dds</File>
+    <File md5="034B66428017A703F346A55B0748FCCB" import="1">Art/CalypsoReligiousSymbolsColored128_extended.dds</File>
+    <File md5="111B3474D465BEB654140ECEDF8AC4E7" import="1">Art/CalypsoReligiousSymbolsColored16_extended.dds</File>
+    <File md5="A2C5B65A50C6278FB2A82E8E2CBF9BAD" import="1">Art/CalypsoReligiousSymbolsColored214_extended.dds</File>
+    <File md5="69489BA922F265078E8C4593B95AB8CB" import="1">Art/CalypsoReligiousSymbolsColored24_extended.dds</File>
+    <File md5="0BD9EE140ACA3CAD7E5DABEEE778E9F5" import="1">Art/CalypsoReligiousSymbolsColored256_extended.dds</File>
+    <File md5="0AC8014ACAA9C874AC44B714674C4EA4" import="1">Art/CalypsoReligiousSymbolsColored32_extended.dds</File>
+    <File md5="3A33AE1D5657C33BB77B82BF7850712B" import="1">Art/CalypsoReligiousSymbolsColored48_extended.dds</File>
+    <File md5="82999E40E9D9255674D305E28489CBC4" import="1">Art/CalypsoReligiousSymbolsColored64_extended.dds</File>
+    <File md5="69BFE806FB497F1F065D58A3536E178C" import="1">Art/CalypsoReligiousSymbolsColored80_extended.dds</File>
+    <File md5="BA0447F0F41EAECF156CBD6123E08748" import="0">XML/Calypso Religions Art (Extended).xml</File>
+    <File md5="C5ADBA7ABAC5F59ED0FDBFB6CFC08355" import="0">XML/Calypso Religions (Extended).xml</File>
+    <File md5="5091FAE8C6342E553B715AB0F5B54E31" import="0">XML/Calypso Religions Text (Extended).xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Calypso Religions Art (Extended).xml</UpdateDatabase>
+      <UpdateDatabase>XML/Calypso Religions (Extended).xml</UpdateDatabase>
+      <UpdateDatabase>XML/Calypso Religions Text (Extended).xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

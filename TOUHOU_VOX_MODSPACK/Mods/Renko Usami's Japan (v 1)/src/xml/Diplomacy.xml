@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2021-05-23 12:55:55 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_USAMI_RENKO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_USAMI_RENKO_FIRST_GREETING</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_USAMI_RENKO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_USAMI_RENKO_DEFEATED</Response>
+			<Bias>4</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_USAMI_RENKO_FIRST_GREETING">
+			<Text>Welcome traveler, I'm Renko Usami. Do you have any fascinating tales to tell of your experiences, or are you only here for business?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_USAMI_RENKO_DEFEATED">
+			<Text>Tragic, this is the end. Not a place left in this world for the fantastic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_SSC_USAMI_RENKO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your fumos and reading your occult magazines. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

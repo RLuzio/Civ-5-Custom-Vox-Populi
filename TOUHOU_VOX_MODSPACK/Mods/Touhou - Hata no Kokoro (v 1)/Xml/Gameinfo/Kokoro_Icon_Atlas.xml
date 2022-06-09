@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/17/2019 9:12:46 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>MASQUERADE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>MasqueradeAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>MasqueradeAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>MasqueradeAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>MasqueradeAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>MasqueradeAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>MasqueradeAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		
+		<Row>
+			<Atlas>MASQUERADE_ALPHA_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>MasqueradeAlphaAtlas64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ALPHA_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>MasqueradeAlphaAtlas48.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		
+		<Row>
+			<Atlas>MASQUERADE_ALPHA_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>MasqueradeAlphaAtlas32.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ALPHA_ATLAS</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>MasqueradeAlphaAtlas24.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MASQUERADE_ALPHA_ATLAS</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>MasqueradeAlphaAtlas16.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+  
+</GameData>

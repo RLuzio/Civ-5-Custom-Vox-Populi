@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/28/2019 3:57:42 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_PESTILENCE_BACKGROUND</Type>
+			<Red>0.5804</Red><!--148-->
+			<Green>0.2824</Green><!--72-->
+			<Blue>0.8039</Blue><!--205-->
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_TOUHOU_PESTILENCE_ICON</Type>
+			<Red>0.9529</Red><!--243-->
+			<Green>0.7412</Green><!--189-->
+			<Blue>0.0941</Blue><!--24-->
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_TOUHOU_PESTILENCE</Type>
+			<PrimaryColor>COLOR_PLAYER_TOUHOU_PESTILENCE_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_TOUHOU_PESTILENCE_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

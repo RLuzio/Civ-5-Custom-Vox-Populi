@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/24/2019 11:52:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_FIRSTGREETING_1">
+			<Text>Greetings, visitor, I am Hata no Kokoro, searcher of the hope.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_FIRSTGREETING_2">
+			<Text>Oh, do you get lost outsider? Don't worry I'll help find your way... And your missing hope.</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DEFEATED_1">
+			<Text>I...lose my hope...again...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DEFEATED_2">
+			<Text>Koishi, where are you...</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_REPEAT_1">
+			<Text>Enmm?</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_REPEAT_1">
+			<Text>You are too noisy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_REPEAT_2">
+			<Text>You remind me of disgusting Syameimaru Aya.</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>......(poker-faced)</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_REPEAT_TRADE_1">
+			<Text>Noh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_REPEAT_TRADE_2">
+			<Text>I said, no.</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>......(poker-faced)</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_POLITE_HELLO_1">
+			<Text>Hi, would you like some persimmons?</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hi, this is the expression of greeting.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_HELLO_1">
+			<Text>This is the expression of guard.</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>This is the expression of hostile.</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_WORKING_WITH_1">
+			<Text>Good day, my friend. Do you like my new mask?</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your hope is fading, I can feel it.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HUMAN_AT_WAR_1">
+			<Text>Control your emotions and then can you win the battle.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>My pursuit is different with you and your troops.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I'm sorry but I don't have enough persimmons for your troops ,would you mind keeping them away?</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I can feel your greed, now stop your expansion!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You are too close, it may break my masks.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>That plot should be mine!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>That plot should be free.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is amazing, will them safeguard peace?</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your economy is fantastic... This is the expression of envy!</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Oh, I can't feel you emotions, no matter how they are not worth mentioning.</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Even Cirno is stronger than you!</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Your hope has totally exhausted during the war.</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DEC_FRIENDSHIP_1">
+			<Text>I used to lose hope, it can be a secret but you are the one I can talk with. Maybe we can declare the whole world our friendship, right? (Smiling)</Text>
+		</Row>
+
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_TOO_SOON_FOR_DOF_1">
+			<Text>Sorry, I need more time to prepare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_TOO_SOON_FOR_DOF_2">
+			<Text>This is the expression of unprepared.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>My friend, {1_CivName} and their emotions already lost control, maybe our denounce can remind them.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to declare war on another civilization (disabled in normal DLL according to whoward69) -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DOF_AI_WAR_REQUEST_1">
+			<Text>Time to bring {1_CivName} into peace, would you come with me? (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DENOUNCE_1">
+			<Text>Time to uncover you mask of hypocrisy.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DENOUNCE_2">
+			<Text>This is the expression of blame.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You will pay for your rudeness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Don't lose your hope.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DOFED_FRIEND_1">
+			<Text>Are you free this afternoon? We can join Reimu's banquet with {1_CivName}!</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DOFED_ENEMY_1">
+			<Text>You will soon regret getting close to {1_CivName}</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_PlayerName} is a good cooperator, unlike yours.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Congratulations! Now you have seen the true face of {1_CivName}.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Oh, you are preparing a banquet with {1_CivName}? You should tell me that earlier.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>Thank you for uncovering the camouflage of {1_CivName}, now it's my turn.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} had became a trouble to the world, same as you.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Once you denounced {1_CivName}, I knew whom I can trust in.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I can feel your wild ambition. Now, take off your mask!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies. Now it's time to take off your mask.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion will swallow yourself at the end!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_EXPANSION_WARNING_1">
+			<Text>Slow down your expansion, or it will destroy you.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Free you hand! That plot should be mine!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_PLOT_BUYING_WARNING_1">
+			<Text>Maybe you can spend your money on something else, but not polts.</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} is bound to cause a catastrophe. The world needs us now!</Text>
+		</Row>
+
+		<!-- ==================================== Miscellanious comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_MINOR_CIV_COMPETITION_1">
+			<Text>You are too close with {1_MinorCivName:textkey}, that may disturb their emotions.</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_REPEAT_NO_1">
+			<Text>I won't change my mind, no.</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DONT_SETTLE_YES_1">
+			<Text>Ok, space for my maks is ample.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DONT_SETTLE_NO_1">
+			<Text>No, I need more lands to express my emotions.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_GENERIC_1">
+			<Text>You will never retrieve your hope.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_MILITARY_1">
+			<Text>Maybe Crino can teach you how to fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_NUKE_1">
+			<Text>Are you satisfied with your hand-made disaster?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_BULLY_1">
+			<Text>Why bulling lesser will entertains you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_UNHAPPINESS_1">
+			<Text>Happiness is really a luxury to your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_CITIES_1">
+			<Text>You have even nowhere to lead off emotions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_POPULATION_1">
+			<Text>Living as a puppet can be boring, but you seem enjoy it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_CULTURE_1">
+			<Text>If you are a student of Keine, she will soon go mad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INSULT_CULTURE_2">
+			<Text>Don't worry, you won't be the one interviewed by Himekaidou Hatate.</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_LUXURY_TRADE_1">
+			<Text>I wish to taste your snack, of course I'll pay it.</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Opening borders helps us exchange our minds.</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_ATTACKED_HOSTILE_1">
+			<Text>I will use your desperation make a new mask.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_ATTACKED_HOSTILE_2">
+			<Text>So you are better than the combination of Reimu, Byakuren and Miko?</Text>
+		</Row>
+	
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DOW_GENERIC_1">
+			<Text>In the name of strongest, let's fight it out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DOW_GENERIC_2">
+			<Text>Time to recycle hope!</Text>
+		</Row>
+
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DOW_LAND_1">
+			<Text>If you wish to approach and tribute your hope, I agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_DOW_LAND_2">
+			<Text>I have no choice, remember you made it.</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_WAR_DEMAND_REFUSED_1">
+			<Text>This being so, I need to change my mask.</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_NO_PEACE_1">
+			<Text>The "strongest" hasn't been decided.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KOKORO_NO_PEACE_2">
+			<Text>Never. I haven't collected enough hope.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_TOO_SOON_NO_PEACE_1">
+			<Text>This is a true war, not play.</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INFLUENTIAL_ON_AI_1">
+			<Text>I have to tell that, my masks have been poured with your emotions.</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_KOKORO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>Now you and your people can feel my emotions, right?</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

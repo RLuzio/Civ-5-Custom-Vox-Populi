@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/13/2016 12:42:45 AM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_MATHALX_CELESTIAL_KEYSTONE_HELP</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_MATHALX_CELESTIAL_KEYSTONE_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_MONOLITH_ASIA</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_MATHALX_CELESTIAL</CivilizationType>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<GoldMaintenance>1</GoldMaintenance>
+			<DefenseModifier>50</DefenseModifier>
+			<HillsMakesValid>true</HillsMakesValid>
+			<PillageGold>40</PillageGold>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MATHALX_KEYSTONE_FROM_JFD_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<TerrainType>TERRAIN_HILL</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+
+	<Improvement_TechYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<TechType>TECH_THEOLOGY</TechType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechYieldChanges>
+
+	<Builds>
+		<Row>
+			<Type>BUILD_MATHALX_CELESTIAL_KEYSTONE</Type>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Time>1000</Time>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<Description>TXT_KEY_BUILD_MATHALX_CELESTIAL_KEYSTONE</Description>
+			<Recommendation>TXT_KEY_BUILD_MATHALX_CELESTIAL_KEYSTONE_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_K</HotKey>
+			<OrderPriority>120</OrderPriority>
+			<IconIndex>1</IconIndex>
+			<IconAtlas>MATHALX_KEYSTONE_FROM_JFD_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+
+	<ArtDefine_StrategicView>
+		<InsertOrAbort>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_MONOLITH_ASIA</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>sv_Obelisk.dds</Asset>
+		</InsertOrAbort>
+	</ArtDefine_StrategicView>
+	
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_MATHALX_CELESTIAL_KEYSTONE</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MATHALX_CELESTIAL_KEYSTONE</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_MATHALX_CELESTIAL_KEYSTONE</BuildType>
+		</Row>
+	</Unit_Builds>
+
+	<Belief_ImprovementYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_ORAL_TRADITION</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_ANCESTOR_WORSHIP</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_STONE_CIRCLES</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BeliefType>BELIEF_EARTH_MOTHER</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_GOD_CRAFTSMEN</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FERTILITY_RITES</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_MESSENGER_GODS</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BeliefType>BELIEF_FORMAL_LITURGY</BeliefType>
+			<ImprovementType>IMPROVEMENT_MATHALX_CELESTIAL_KEYSTONE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Belief_ImprovementYieldChanges>
+</GameData>

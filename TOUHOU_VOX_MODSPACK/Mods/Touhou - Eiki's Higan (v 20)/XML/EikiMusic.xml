@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/25/2016 10:09:32 PM -->
+<GameData>
+	<Audio_Sounds>
+
+		<!--EIKI Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_EIKI_PEACE</SoundID>
+			<Filename>EikiPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_EIKI_WAR</SoundID>
+			<Filename>EikiWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Eiki Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Eiki Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_EIKI_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_EIKI_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_EIKI_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_EIKI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--EIKI Music-->
+	</Audio_2DSounds>
+
+</GameData>
